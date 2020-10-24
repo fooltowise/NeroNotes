@@ -1,0 +1,9 @@
+
+First principle thinking is the act of deconstructing something into small parts, and reconstructing something new thanks to these basic blocks.
+
+Reasoning from first principles allows us to step outside of history and conventional wisdom and see what is possible. When you really understand the principles at work, you can decide if the existing methods make sense. Often they don't. 
+Many people mistakenly believe that creativity is something that only some of us are born with, and either we have it or we don't. 
+
+Fortunately, there seems to be ample evidence that it isn't true. We're all born rather creative, but during our formative years, it can be eaten out of us by busy parents and teachers. As adults, we rely on conventions and what we're told because that's easier than breaking things down into first principles and thinking for yourself. 
+
+Thinking through first principles is a way of taking off the blinders. Most things suddenly seem more possible.

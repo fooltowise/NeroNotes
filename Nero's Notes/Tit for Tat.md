@@ -1,0 +1,1 @@
+Robert Axelrod attributes the success of the Tit for Tat strategy in his repeated [[Prisoners Dilemna]] game to what he calls the [[Shadow of the future]], which has a bearing on decision-making in the current game. Participants are less likely to defect in the current game if they think that a competitor will retaliate in the subsequent game. 

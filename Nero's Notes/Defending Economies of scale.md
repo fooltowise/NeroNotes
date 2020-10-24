@@ -1,0 +1,7 @@
+The best strategy for an incumbent to defends its [[Economies of Scale]] advantage is to match the moves of its competitor., price cut for price cut, new product for new product, niche by niche. 
+
+Competitive advantages based on economies of scale must absolutely be defended, otherwise the new entrant will gain market share and thus have a lower disadvantage of scale (See [[Economies of scale and market share]]).
+
+Therefore the incumbent must lead a war of attrition vs the new entrant. While the incumbent's profits will be impaired, the entrant's  will be even lower, often so much lower as to disappear altogether.
+
+Anything the incumbent does to increase fixed costs, like advertising heavily, will present smaller competitors with the nasty alternatives of matching the expenses and hurting their margins or not matching and losing the competition of new customers. Production and product features that require capital expenditures, like building centralized facilities to provide automated processing, will also make life more difficult for smaller competitors. Accelerating product development cycles, and thereby upping the costs of research and development, is another possibility. Anything that efficiently shifts costs from variable to fixed will reinforce advantages from economies of scale. 

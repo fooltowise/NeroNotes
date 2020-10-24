@@ -1,0 +1,2 @@
+
+You can never be fired for being logical. It is much easier to be fired for being illogical than it is for being unimaginative. So everybody follow logics, and become highly predictable.

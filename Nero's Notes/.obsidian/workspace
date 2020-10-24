@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "82604c8dc7a1f7e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "622174adf913affb",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Great Businesses I'd like to own.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1da5e5823d2794b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a6151c631c1b4bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfa0582138570165",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7dbb4ba6a9c6d17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ravikant"
+              }
+            }
+          },
+          {
+            "id": "146ef9528a092b1b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5107650756836,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e936182a993d01d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "10b7a1565eedc07b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdaaa9352e2bea9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3d3a1b16b278489",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Great Businesses I'd like to own.md"
+              }
+            }
+          },
+          {
+            "id": "4bfe365173fb5dfb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Great Businesses I'd like to own.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 182.4687042236328,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Great Businesses I'd like to own.md",
+    "Deliberate Practice.md",
+    "The Equity Investing Handbook.md",
+    "Games Theory.md",
+    "Untitled.md",
+    "Choosing Important Problems.md",
+    "Mental Models.md",
+    "Lollapalooza Effect.md",
+    "The Fundamental Theorem of Investing.md",
+    "The Three Buckets.md"
+  ]
+}

@@ -1,0 +1,47 @@
+- What is investing
+- Assets/Liabilities
+- Different Classes of assets
+- The advantage of stocks
+	- Reinvestment of earnings on your behalf at book value and not book value multiple
+- Accounting
+	- Basic Accounting
+		- Balance Sheet / Income Statement / Cash Flow Statements
+		- Relevant ratios
+- What is a business? What is a stock?
+	- Operating / Investing /Financing
+- Why risk is not volatility
+- What is a good business?
+- Different styles of equity investing
+	- Indexing - Passive
+	- Active:
+		- Net Nets and co
+		- Dividend investing
+		- Cyclical investing
+		- "Value", ''Growth", "Momentum" and other factors -> correlation is not causation!
+		-  Long-term Compounders
+-  Where will your returns come from?	
+	-  Look for a Lollapalooza with multiplicative effects
+	-  Efficient Market Hypothesis debunking
+	-  Over the long term, ROIC >> Multiple expansion/contraction
+	-  DCF, most of the value is found after 10 years
+	-  Inappropriateness of DCF
+	-  Opportunity cost
+	-  Why would the market not price it already?
+	-  Career risk of professional managers
+	-  Mr Market
+	-  Margin of safety
+	-  Mostly qualitative factors:
+		-  Competitive advantage
+		-  Management/corporate culture
+		-  growth opportunities
+-  Qualitative analysis
+	-  Sources of moats
+	-  Capital Allocation
+	-  Growth
+	-  Corporate Culture
+-  Portfolio Management
+	-  Diversification
+	-  Opportunity Cost
+	-  When to sell
+
+

@@ -1,0 +1,10 @@
+
+[[Innovation dominance]] led by R&D  is most common in companies commanding a large relative share in R&D spending in a given field. We aim to define these fields precisely in order to provide the most accurate assessment of relative share. If definitions are too broad, say the global pharmaceutical industry, hardly any company holds a large share. Narrowing this classification down, for example to oncology or diabetes care, enables a more meaningful assessment of which companies have a leading share of R&D spending. 
+
+While a dominant share of R&D spending doesn't guarantee predictable long-term outcomes, it can indicate a competitive edge. Essilor's clear market leadership in the lens market is underpinned by the fact it accounts for around 75% of total industry R&D expenditure.  Dominant companies also tend to enjoy a broader range of innovation opportunities. A business researching scores of alternate cosmetics formulas, for example, is more likely to find commercially prosperous combinations than one with a narrower research focus. The portfolio approach also increases the likelihood of maintaining innovation rates. When innovation stalls in one segment, others bear fruits.
+
+Narrower product portfolios can lead to greater reliance on big breakthroughs. However, even where these big breakthroughs can be achieved, consumer response to them is notoriously unpredictable and so success is not guaranteed. Further, widespread anticipation of big breakthroughs often yields investor exuberance that suppresses investment returns.
+
+Incremental innovation generally tends to produce more predictable revenue growth. Companies that have been able to improve customers benefits by a small increment annually for decades are more likely to keep doing so. By comparisons, companies that have delivered a big breakthrough may or may not repeat this success. Moreover, incremental innovation tends to sit better with customers. Annual price increases of 5% for corresponding improvements become routine. Abrupt price increase by a company with no track record of improvements provoke critical customer scrutiny about the price-value mix.
+
+

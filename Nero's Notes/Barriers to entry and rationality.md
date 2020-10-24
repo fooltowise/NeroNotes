@@ -1,0 +1,8 @@
+
+Some industries or product are more likely to come under competitive attack than others. If an industry has many new players popping up all the time, beware: barriers to entry are too low. However, industries with low barriers to entry may still have high barriers to success and scale - just look at the restaurant industry.
+
+Still a regular flow of new small entrants can destroy economics (see [[Capital Cycle]]). By the law of large numbers, the sheer frequency of new entrants can lead to one of them being eventually successful and disruptive. In industries with high innovation rates, such as technology and healthcare,  this is a prevalent feature. The consequence is that larger firms must often spend substantial sums acquiring upstarts just to maintain their competitive position.
+
+The fact that an industry has few or no new entrants is usually a good sign. It indicates that barriers to entry are high and tens to lead to more rational competition. Observing many older players in the industry is also encouraging - it's a sign that long-term survival is possible.
+
+In some rare cases, the big firms in an old industry are still owned by the families that founded them. If that is the case, this is a good sign that the industry is not only enduring, but offers organic growth through retained earnings rather than dilutive new issuance of equity. The global confectionary industry is a good illustration: Of the six major firms, two are privately held (Mars and Ferrero), two are controlled by founding families or their foundations (Lindt and Hershey), and two are part of large conglomerates (Nestlé and Mondelez).

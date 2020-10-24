@@ -1,0 +1,7 @@
+Viewed from a purely financial perspective, growth in revenues can be broken down into price, product mix and volume. 
+Setting inflation aside, companies able to increase prices without corresponding increase in cost (or decrease in units volume) have substantial [[Pricing Power]].
+
+A more common source of growth comes through price/mix optimization. For example, a boxed chocolate maker might mix into its standard package line a premium package and increase its price by more than its additional cost. As total revenues rise, the excess increases net income. 
+Mix driven growth is highly valuable, entailing limited capital expenditures and only modest increases in [[Costs of Working Capital]]. But it is inferior to pure price-driven growth because it usually requires some increase in production costs.
+
+In purely financial terms, volume-based growth is the least valuable, since it entails increasing quantity at existing average unit prices. Incremental revenue from volume tends to have a minor impact on gross margins. But total costs, included those associated with the increase in working capital and capex that higher volumes entail, will inevitably rise to some extent as volume grows. As a result, volume growth is particularly valuable for asset-light businesses boasting high margins and those with high operating leverage, such as pharmaceutical or software companies.

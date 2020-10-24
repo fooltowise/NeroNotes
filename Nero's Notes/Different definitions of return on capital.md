@@ -1,0 +1,8 @@
+
+The simplest and most commonly used tool for measuring returns is return on equity: net income as a percentage of shareholders' equity. While useful as a general proxy, the figure is crude for two reasons. Most obviously, the return part of the equation uses accounting measures, whose application leaves managers with considerable discretion over the treatment of important measures such as depreciation and provisioning. 
+
+The calculation can also be distorted by factors that affect the value of shareholders' equity, such as write-downs and debt levels. The latter is particularly problematic, since the leverage effect of debt boosts return on equity but does not reflect the associated risks: many of the failed financial institutions in the 2008 crisis boasted seductive returns on equity in preceding years.
+
+**Ultimately, return measures should illuminate the cash return from each dollar invested by a business, irrespective of capital structure and accounting techniques.**
+
+Measures such as return on invested capital (measured as net after-tax operating profit divided by invested capital) go some way towards achieving this. Better yet is a metric zeroing in on cash returns on cash capital invested (CROCCI). This is measured as after-tax cash earnings divided by capital invested after adjusting for accounting conventions such as amortization of goodwill. CROCCI measures the post-returns the post-tax cash return on *all capital* a company has deployed. 

@@ -1,0 +1,18 @@
+
+Elevators are one of those ubiquitous, everyday objects people take for granted - except when they malfunction. Although modern elevators may be faster and smarter than the originals invented in the 1850s, the basic technology remains unchanged. Whether you walk into a century old elevator in Paris or a brand new one in Shanghai, the basic concept - motors and hoists - is the same.
+
+Founded in Helsinki, Finland, in 1910, KONE started life as a machine shop repairing electric motors. Transformation into a global elevator business began in 1924, when KONE was acquired by the Herlin family, which still controls the business. In the 1960s, under the leadership of Pekka Herlin, a flamboyant character with a diligent work ethic, the business leapt forward through a number of judicious acquisitions. 
+
+Today, thanks to continued organic growth as well as savvy deal-making, KONE is among the world's largest elevator companies. Together with ThyssenKrupp, Schindler (also still controlled by the founding family)  and Otis elevators, they control nearly 70% of the global elevator market.
+
+While elevator sales generated considerable revenue, when KONE makes a sale, it is equally focused in ensuing [[The Service Model| Service revenues]]. After all, elevators last for generations, making many of those who purchase them one-time buyers, but they must be serviced in perpetuity. Unlike many products, servicing elevators is not discretionary. Since accidents can be fatal, most governments mandate elevator maintenance and building owners and their insurers would likely insist on making the investment anyway. 
+
+The margin on the upfront scale can be low, but sales typically secure years of annuity-like service revenue at a high margin and high return on capital (the "attach rate" for KONE in developed markets is more than 90%). Service margins are so strong that participants keep them confidential, but a good estimate would put them at well over 30% in many markets.
+
+Strong margins are due in part to pricing power conferred by customer preference  for having the original manufacturer provide maintenance. [[Density and Network Benefits| Density economics]] economics]] fortify margins, since the more elevators  placed in a given area, the more efficient the service organization. Small rivals can scarcely compete.
+
+Given KONE's large base of installed elevators, recurring maintenance and upgrade revenues comprise just under half of its revenues, and a far greater portion of profits. With every new elevator installed, the service business expands, thereby growing the [[Recurring Revenues]] base. As a result, overall business profitability is remarkably consistent, despite the cyclicality of the construction industry.
+
+A good illustration occurred during the deep recession stoked by the financial crisis of 2008. Despite a sharp decline in new elevator orders for a few years, KONE boasted a 13% compound annual growth in earning from 2007 to 2010; in its worst year of the period, 20089, earnings were merely flat, not down.
+
+Service fees are usually paid for upfront, making KONE one of those rare businesses with negative working capital. The payoff is a high and steady return on capital. The strong returns, coupled with growth through both market share gains and an expanding market, is powerful. Over the past decade, KONE has more than doubled its top line and nearly quadrupled its bottom line. The performance has made it the most valuable company on the Helsinki stock exchange.

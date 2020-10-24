@@ -1,0 +1,17 @@
+In the early 1920s, two Canadians, Dr Frederick Banting and Professor John McLeod, succeeded in extracting and purifying a chemical from the pancreases of cattle: the feat earned them the 1923 Nobel Prize in medicine. The pair had discovered insulin. Early results on diabetic patients were spectacular and insulin remains the primary treatment for diabetes. Today, half the global insulin market is served by a single company, Denmark's Novo Nordisk
+
+Novo Nordisk is the product of a 1989 merger that reunited those two entities after a split that occurred generations earlier. Nordisk Insulin Laboratorium was founded in Copenhagen, Denmark, in the mid-1920s. After an internal disagreement, the company's primary engineer, Harald Pedersen, and his brother left the business and started a competitor, Novo Terapeutisk Laboratorium. 
+
+With Nordisk dominating in Scandinavia, Novo focused overseas. Both companies grew significantly and at the time of the reunification, which brought an end to over 60 years of competition, they were the second and third ranked players in the diabetes space, behind Eli Lilly. Diabetes treatment now accounts for around three quarters of Novo Nordisk's profits.
+
+The incidence of diabetes globally has increased rapidly in the last decade, driven by the global pandemic of obesity - now numbering more than 600 million people and forecast to continue rising. Demand for diabetes treatment will, we believe, increase more rapidly due to rising diagnosis rates; as will the continued need for better treatment and broader reach of care (fewer than 10% of afflicted people receive effective care).
+
+Novo Nordisk has benefited from these trends, growing organic revenue growth at at 12% compound annual growth rate over the past decade along with a 19% growth rate in earnings. These are tailwinds, however, because the real deep value behind the company is its sustained and successful commitment to R&D, which is part of its corporate culture.
+
+Historically, the company  has led numerous industry breakthroughs, such as converting porcine into human insulin in 1982 and introducing a pen to facilitate self-dosing in 1985, and now boasts a portfolio of of modern insulin products, spanning the fast acting (prandial) basal and pre-mix categories. Recent research focuses both on improving dosing of existing treatments as well as striving for new ones. Pipeline products are abundant, including more rollouts or more effective products with faster action or more extended duration.
+
+Novo spent nearly $2billion on R&D in 2014, six times its level of 20 years earlier, reflecting its sustained investment in research in proportion to its size.  The long-term dedication to research reflects that a majority of the company's voting shares are held by the Novo Nordisk Foundation, a research force that also backs Chr. Hansen.
+
+The value of Novo's relentless innovation is maximized through highly efficient manufacturing, which benefits from [[Economies of Scale]], and a significant global sales footprint, which enables reaching its large and fragmented target audience.  Such competitive advantages have driven stand-out returns on capital exceeding 70%. Combined with operating margins set to exceed 40% in 2015 and its strong, stable growth track record, these metrics are peerless among large European corporations.
+
+See also [[Innovation Dominance]] and [[Innovation culture]]

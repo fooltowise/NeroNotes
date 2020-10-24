@@ -1,0 +1,4 @@
+
+The psychophysicist Mark Changizi has a simple [[Evolution - Natural Selection and Extinction|evolutionary]] explanation for why water doesn't taste of anything: he thinks that the human taste mechanism has been calibrated not to notice the taste of water, so it is optimally attuned to the taste of anything that might be polluting it, like a carcass of a dead sheep decaying upstream.
+
+Rory Sutherland thinks that our perception is calibrated more widely in this way. We notice and attach significance and meaning to those things that deviate from narrow, economic common sense, precisely because they deviate from it. The result of this is that the pursuit of narrow economic rationalism will produce a world that is rich in goods, but [[We value meaning|deficient in meaning]].

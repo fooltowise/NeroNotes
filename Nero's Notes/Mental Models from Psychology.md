@@ -1,0 +1,4 @@
+- [[Placebo effect]]
+- [[Hyperbolic Discounting]]
+- [[Sunk Costs]]
+- [[Incentives]]
