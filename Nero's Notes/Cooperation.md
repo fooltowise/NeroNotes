@@ -2,7 +2,7 @@ Cooperation teaches us to seek out and frame interactions based not only on what
 
 Cooperation unleashed the potential of the human species. Working and collaborating with others gives us options and opportunities that are unavailable when we insist on going it alone. 
 
-Furthermore, when you don't have time to evolve in response to changes in the environment, cooperation can significantly impreove your chances of survival by pursuing relationshipsthat bring mutual benefit.
+Furthermore, when you don't have time to evolve in response to changes in the environment, cooperation can significantly improve your chances of survival by pursuing relationships that bring mutual benefit.
 
 Cooperation led to the powerful brains that we have, capable of art and abstract thinking. Our complex societies are built on our ability to work with each other, believe in the same ideas, and share the same goals.
 

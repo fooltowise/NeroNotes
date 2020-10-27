@@ -13,3 +13,7 @@ Learn from history and when you later see something ask "Have I seen this before
 
 ### Learning transfer
 Learning transfer is taking what we  learn in one context and applying it to another. It can be taking a kernel of what we learn in school or in a book and applying it to the "real world". It can also be taking what we learn in one industry and applying it to another.
+
+
+
+See [[Pattern Matching and Cached Thoughts]]

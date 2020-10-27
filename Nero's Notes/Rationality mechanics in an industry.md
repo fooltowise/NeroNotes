@@ -11,3 +11,6 @@ While customers are quick to embrace price cuts, they fight back price increases
 Discounting can be seductive in the short term: it boosts sales, enables companies to hit their profit targets, and even brings gains in market share. But it is dangerously addictive. When companies see that it works once, they are often tempted to do it again. Competitors typically follow suit to protect market share and the industry starts teaching customers to expect persistent discounting. Once that occurs, the industry has trapped itself.
 
 Such behavior eroded profitability in the laundry detergent category. Having taught consumers to buy in bulk on sale is also one of the reasons why Coca Cola struggles with profitability in North America. The investor should appreciate a company policy to avoid discounts, as this is a sign of a genuinely long term view as opposed to seeking artificial short term boosts that risk long term performance. LVMH's Moët & Chandon, for instance, did not discount its champagne during the global financial crisis that began in 2008, despite a sharp contraction in demand. Instead, the company sold at full price when the good times returned. 
+
+
+See [[Rationality]]

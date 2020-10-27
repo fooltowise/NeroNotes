@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "622174adf913affb",
+        "id": "f349679c2a582ddb",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Great Businesses I'd like to own.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ravikant"
+                "query": "rational"
               }
             }
           },
@@ -81,9 +78,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Great Businesses I'd like to own.md"
-              }
+              "state": {}
             }
           },
           {
@@ -91,9 +86,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Great Businesses I'd like to own.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -105,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Great Businesses I'd like to own.md",
-    "Deliberate Practice.md",
-    "The Equity Investing Handbook.md",
-    "Games Theory.md",
     "Untitled.md",
-    "Choosing Important Problems.md",
-    "Mental Models.md",
-    "Lollapalooza Effect.md",
-    "The Fundamental Theorem of Investing.md",
-    "The Three Buckets.md"
+    "Scope Insensitivity Bias.md",
+    "Mental Models from Psychology.md",
+    "Priming and Contamination.md",
+    "Weakest Link.md",
+    "Planning Fallacy.md",
+    "Conservation of expected evidence.md",
+    "Pattern Recognition.md",
+    "Pattern Matching and Cached Thoughts.md",
+    "Fundamental Attribution Error.md"
   ]
 }

@@ -23,7 +23,7 @@ Lou Brock, Hall of Fame base stealer once said, “Show me a man who’s afraid 
 
 
 This example was inspired by Howard Marks’ Dare to Be Great II which is a fantastic read.
-These Advantageous Divergence tactics often take courage to act on because they are different than what the herd is doing. While difficult, this is a better set of problems to have. Most people choose conventionality over rationality, placing acceptance, conformity, tradition, or security above truth. Don’t fall into that trap. We must be willing to appear foolish to gain Advantageous Divergence, rather than following the crowd to achieve disadvantageous adherence.
+These Advantageous Divergence tactics often take courage to act on because they are different than what the herd is doing. While difficult, this is a better set of problems to have. Most people choose conventionality over [[rationality]], placing acceptance, conformity, tradition, or security above truth. Don’t fall into that trap. We must be willing to appear foolish to gain Advantageous Divergence, rather than following the crowd to achieve disadvantageous adherence.
 
 > Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally.  
 

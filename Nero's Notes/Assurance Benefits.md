@@ -6,4 +6,4 @@ Consider the assurance effect in the context of manufacturing processes. If the 
 
 Assurance benefits also appear in many settings outside of manufacturing. When parents buy baby food, a well-known brand like Nestlé's Gerber provides assurance that the food is healthy and safe. Companies pay a premium to use well-known product testing or auditing firms - such as the Big Four - both as an internal assurance benefit and because it offers assurance to stakeholders. Farmers pay a premium to tractors from manufacturers such as John Deere because they offer time-tested quality products, fearing the risk of equipment failure on harvest result.
 
-Assurance benefits are often based on [[Reputation as signalling| Reputation]]. A Reputation of high quality or reliability is earned over time. To compete with reputation is almost impossible, no matter how much money is staked on it.
+Assurance benefits are often based on [[Reputation as signaling| Reputation]]. A Reputation of high quality or reliability is earned over time. To compete with reputation is almost impossible, no matter how much money is staked on it.

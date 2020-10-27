@@ -51,3 +51,8 @@ As a deep value investor, you can do one very smart thing. You can hunt for oppo
 Many banks, for example, are now selling for far less than their conservatively-estimated  liquidation value because the weak link in banking is there for the whole world to see. I do not think that conservative banks will die - although i cannot rule it out. This means that I must look at bank stocks after their stock prices have fallen by 70% or more from their peaks, because of possible over-reaction of Mr Market over the weak links in the banking business model.
 
 So, in a sense, weak links could be your enemies because they could destroy your business, or they could be your friends, because they produce mouth watering opportunities for thoughtful investors.
+
+
+
+
+See also [[Conjunction Fallacy]]

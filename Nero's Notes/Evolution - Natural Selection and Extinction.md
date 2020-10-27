@@ -6,6 +6,6 @@ Natural selection is the following process:
 - Given a specific environment, some variations of a given trait provides a [[Competitive Advantage]] to the individuals possessing these variations
 - This advantage will help their bearer to reproduce more easily, or at least to survive to be old enough to be able to reproduce. Disadvantaged individuals in this environment will be outnumbered after a few generations and go extinct.
 - Over many generations, the accumulation of trait divergence and incremental advantages lead to the creation of new species
-- If the environment changes, some traits variations that used to be an advantage can become a serious disadvantage
-	
-If we want to understand why some traits stick around, why some customs carry through many generations, and why some ideas take root and spread through a population, we have to look at their usefulness in their environment.
+- If the environment changes, some traits variations that used to be an advantage can become a serious disadvantage	
+  
+The fact that a variation is favorable to a specimen or not depends entirely on the environment of the organism. An abrupt change in the environment will cause advantaged species to become disadvantaged and vice-versa.

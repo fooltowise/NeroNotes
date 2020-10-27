@@ -1,6 +1,6 @@
 
 
-If you view education as a [[Signalling]] mechanism from the graduate to show its commitment, you start to understand why companies are so eager to hire graduates. Someone who has invested money and time in the quest for a good job is unlikely to void their entire investment by wandering around your office, stealing laptops.
+If you view education as a [[Signaling]] mechanism from the graduate to show its commitment, you start to understand why companies are so eager to hire graduates. Someone who has invested money and time in the quest for a good job is unlikely to void their entire investment by wandering around your office, stealing laptops.
 
 As [[People hate uncertainty]], hiring a graduate provides guarantees that the graduate is less likely to be a total failure at his job, because of his commitment. 
 

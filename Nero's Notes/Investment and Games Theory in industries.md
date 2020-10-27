@@ -6,7 +6,7 @@ It is relatively easy to identify those industries where these conditions exist 
 
 
 
-### Conditions for cooperation
+### Conditions for [[Cooperation]]
 
 From an investor standpoint, [[Cooperation]] in basic industries is crucial to shareholder value creation. The trick is to identify conditions where cooperative behavior can exist and may evolve, while avoiding those industries where this is unlikely to happen.
 
