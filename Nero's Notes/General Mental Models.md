@@ -8,3 +8,4 @@
 [[Occam's Razor]]
 [[Hanlon's Razor]]
 [[Pattern Recognition]]
+[[System Thinking]]

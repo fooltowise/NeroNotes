@@ -5,4 +5,8 @@ To find good compounders, the investor focus on a company's ability to invest ca
 
 
 
+**Important: What matters at the end is how much [[Owner Earnings vs Reported Earnings| Owner Earnings]] are available to the owner, and how much capital was needed to generate them.**
+
+
+
 

@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rational"
+                "query": "edge"
               }
             }
           },
@@ -98,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Scope Insensitivity Bias.md",
-    "Mental Models from Psychology.md",
-    "Priming and Contamination.md",
-    "Weakest Link.md",
-    "Planning Fallacy.md",
-    "Conservation of expected evidence.md",
-    "Pattern Recognition.md",
-    "Pattern Matching and Cached Thoughts.md",
-    "Fundamental Attribution Error.md"
+    "System Thinking.md",
+    "System Zoo.md",
+    "Pasted image 20201029113745.png",
+    "Pasted image 20201029113653.png",
+    "BehaviorStockConstrained.png",
+    "Pasted image 20201029113503.png",
+    "Pasted image 20201029113415.png",
+    "Pasted image 20201029113322.png",
+    "Pasted image 20201029113234.png",
+    "Leverage points - Where to intervene in a system.md"
   ]
 }

@@ -5,6 +5,7 @@
 - [[Survivorship Bias]]
 - [[Solomon's Paradox]]
 - [[Availability Bias]]
+- [[Contrast Bias]]
 - [[Conjunction Fallacy]] 
 - [[Fundamental Attribution Error]]
 - [[Pattern Matching and Cached Thoughts]]
