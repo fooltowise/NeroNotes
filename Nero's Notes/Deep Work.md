@@ -26,6 +26,8 @@ To make the most out of your deep works sessions, build rituals of the same leve
 - How you'll work once you start to work
 - How you'll support your work
 
+See [[Rituals]]
+
 ### Execute like a business
 **Focus on the wildly important**. The more you try to do, the less you actually accomplish. Execution should be aimed at a small number of wildly important goals. This simplification will help focus an organization's energy to a sufficient intensity to ignite real results. For an individual focused on deep work, the implication is that you should identify a small number of ambitious outcomes to pursue with your deep work hours. 
 

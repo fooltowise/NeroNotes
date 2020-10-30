@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f349679c2a582ddb",
+        "id": "4ef18227a09da593",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Float.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edge"
+                "query": "SAles"
               }
             }
           },
@@ -78,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Float.md"
+              }
             }
           },
           {
@@ -86,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Float.md"
+              }
             }
           }
         ],
@@ -98,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "System Thinking.md",
-    "System Zoo.md",
-    "Pasted image 20201029113745.png",
-    "Pasted image 20201029113653.png",
-    "BehaviorStockConstrained.png",
-    "Pasted image 20201029113503.png",
-    "Pasted image 20201029113415.png",
-    "Pasted image 20201029113322.png",
-    "Pasted image 20201029113234.png",
-    "Leverage points - Where to intervene in a system.md"
+    "Float.md",
+    "Untitled.md",
+    "Darwins Dangerous Idea.md",
+    "Interview of Nick Train.md",
+    "How to be successful.md",
+    "Sales Advices.md",
+    "Deep Work.md",
+    "Rituals.md",
+    "Letter to a friend who may start a new investment platform.md",
+    "The Investing Playing Field.md"
   ]
 }

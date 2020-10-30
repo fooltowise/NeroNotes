@@ -4,3 +4,5 @@ It buys a mental barrier to entry, as rivals would need to spend substantial sum
 While ongoing brand advertising is needed to sustain awareness - an outlay best seen as equivalent to maintenance capital expenditure - a large portion is aimed at influencing new generations of consumers. This is more comparable to [[Capital expenditures for growth]].
 
 Even if, from an accounting point of view, advertising is considered as an expense, it can create lasting value and should often be better conceived of as an investment.
+
+See [[Ads dont work that way]]

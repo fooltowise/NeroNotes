@@ -29,7 +29,7 @@ Cap AUM to ensure strategy success and concentrate on best ideas.
 
 ## Moat is not an Edge
 
-Differenciation may not lead to outperformance.
+Differentiation may not lead to outperformance.
 See [[Sources of investment edge]]
 
 

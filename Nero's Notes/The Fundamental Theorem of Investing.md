@@ -27,3 +27,4 @@ It is often interesting to [[Visual thinking applied to investing|visualize]] ho
 
 
 
+
