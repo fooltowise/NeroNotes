@@ -4,14 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "4ef18227a09da593",
+        "id": "93df0b286522c27d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Float.md",
-            "mode": "preview"
+            "file": "Hyperbolic Discounting.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a5caf501bb9dd94b",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Hyperbolic Discounting.md",
+            "options": {
+              "search": "",
+              "localJumps": 2,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.6357612569297866
+            }
           }
         }
       }
@@ -40,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SAles"
+                "query": "hyper"
               }
             }
           },
@@ -82,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Float.md"
+                "file": "Hyperbolic Discounting.md"
               }
             }
           },
@@ -92,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Float.md"
+                "file": "Hyperbolic Discounting.md"
               }
             }
           }
@@ -105,15 +134,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Float.md",
+    "Hyperbolic Discounting.md",
+    "Mental Models from Psychology.md",
+    "Principles for a good  life.md",
     "Untitled.md",
-    "Darwins Dangerous Idea.md",
-    "Interview of Nick Train.md",
     "How to be successful.md",
-    "Sales Advices.md",
-    "Deep Work.md",
-    "Rituals.md",
-    "Letter to a friend who may start a new investment platform.md",
-    "The Investing Playing Field.md"
+    "Deliberate Practice.md",
+    "Develop Worldly Wisdom.md",
+    "Become a learning machine.md",
+    "Lollapalooza Effect.md",
+    "Mental Models.md"
   ]
 }

@@ -19,7 +19,7 @@ These blocks can be arranged in [[Successful Business Patterns]].
 
 However, these blocks can be damaged by several [[Qualitative Investing Pittfalls]]. It is important to apply inversion and avoid [[Bad Business Patterns to avoid|bad business patterns]], as well as to find the [[Weakest Link]] in the business.
 
-It is often interesting to [[Visual thinking applied to investing|visualize]] how the business will evolve.
+It is often interesting to [[Visual thinking applied to investing|visualize]] how the business will evolve. And be sure to analyze the business from every [[Vantage Point]]
 
 
 
