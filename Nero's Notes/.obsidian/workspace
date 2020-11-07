@@ -4,43 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "93df0b286522c27d",
+        "id": "ef7a0c4f49303025",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hyperbolic Discounting.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a5caf501bb9dd94b",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Hyperbolic Discounting.md",
-            "options": {
-              "search": "",
-              "localJumps": 2,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.6357612569297866
-            }
+            "file": "Analysing Commodity stocks.md",
+            "mode": "preview"
           }
         }
       }
@@ -81,8 +52,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hyperbolic Discounting.md"
+                "file": "Analysing Commodity stocks.md"
               }
             }
           },
@@ -121,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hyperbolic Discounting.md"
+                "file": "Analysing Commodity stocks.md"
               }
             }
           }
@@ -134,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Hyperbolic Discounting.md",
-    "Mental Models from Psychology.md",
-    "Principles for a good  life.md",
+    "Analysing Commodity stocks.md",
     "Untitled.md",
-    "How to be successful.md",
-    "Deliberate Practice.md",
-    "Develop Worldly Wisdom.md",
-    "Become a learning machine.md",
-    "Lollapalooza Effect.md",
-    "Mental Models.md"
+    "Opportunity costs.md",
+    "Cost of capital as opportunity cost.md",
+    "Ergodicity.md",
+    "The Fundamental Theorem of Investing.md",
+    "Long term investing.md",
+    "The Mathematics of Returns.md",
+    "It is Owner Earnings that count.md",
+    "Owner Earnings vs Reported Earnings.md"
   ]
 }

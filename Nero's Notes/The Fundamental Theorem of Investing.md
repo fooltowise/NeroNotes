@@ -5,7 +5,7 @@ As long-term investors, we begin with the premise that a company's common stock 
 
 
 
-**Exceptional compounding of business value comes from the following building blocks:**
+**Exceptional compounding of business value, materialized by exceptional compounding of [[It is Owner Earnings that count| owner earnings]], comes from the following building blocks:**
 - [[Capital Allocation]]
 - [[Return on Capital]]
 - [[Competitive Advantage|Moat]]
@@ -17,9 +17,9 @@ As long-term investors, we begin with the premise that a company's common stock 
 
 These blocks can be arranged in [[Successful Business Patterns]].
 
-However, these blocks can be damaged by several [[Qualitative Investing Pittfalls]]. It is important to apply inversion and avoid [[Bad Business Patterns to avoid|bad business patterns]], as well as to find the [[Weakest Link]] in the business.
+However, these blocks can be damaged by several [[Qualitative Investing Pittfalls]]. It is important to apply inversion and avoid [[Bad Business Patterns to avoid|bad business patterns]], as well as to find the [[Weakest Link]] in the business. You don't want to [[Never lose Money| lose money]] as it compounds your portfolio in reverse.
 
-It is often interesting to [[Visual thinking applied to investing|visualize]] how the business will evolve. And be sure to analyze the business from every [[Vantage Point]]
+It is often interesting to [[Visual thinking applied to investing|visualize]] how the business will evolve. And be sure to analyze the business from every [[Vantage Point]].
 
 
 

@@ -4,8 +4,8 @@ Is it the same to do one experiment one 1'000 different subjects (ensemble persp
 
 According to Nassim Taleb, you have ergodicity when there is no absorbing state.
 
-For instance, russian roulette is not ergodic:
-- if six players play once russian roulette, on average 1/6 of the players will be dead
-- if one player has to play six time in a row russian roulette, on average 100% of the players will be dead
+For instance, Russian roulette is not ergodic:
+- if six players play once Russian roulette, on average 1/6 of the players will be dead
+- if one player has to play six time in a row Russian roulette, on average 100% of the players will be dead
 
 Death is the ultimate absorbing state.
