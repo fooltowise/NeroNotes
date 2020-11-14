@@ -65,7 +65,7 @@ Theology may look like cargo-cult philosophy, but there's a more fruitful way to
 
 Here's a sorely underappreciated idea:
 
-_Humans are better at sensing whether something is working out in their favor than understanding why or how it's working out.__
+***Humans are better at sensing whether something is working out in their favor than understanding why or how it's working out.***
 
 For example, you don't need to understand why it's useful to welcome guests when they arrive (e.g. with a hug or a handshake) to appreciate that it's a good idea. All you need to know is that it creates good warm fuzzy feelings when you do it, versus awkward vibes when you don't.
 

@@ -1,4 +1,4 @@
-Getting paid by customers before needing to pay suppliers or fulfill a service is a great trait, especially when a company can use its payables to accelerate high-returning reinvestment.
+Getting paid by customers before needing to pay suppliers or fulfill a service is a great trait, especially when a company can use its payable to accelerate high-returning reinvestment.
 
 If a cash flow rich company has a big non-financial liability and maybe negative equity and/or negative working capital, there is a strong likelihood it is due to float.
 
@@ -48,14 +48,12 @@ Companies like BA require payment today for airlines that will be delivered many
 
 They call this “progress billings”
 
-![fc03a8f91db9b4e727a03a08b3b4c900.png](fc03a8f91db9b4e727a03a08b3b4c900.png)
 
 **Human Resources...**
 
 ADP takes in cash from companies that will eventually be used to fund payroll for ADP-covered employees. ADP is free to invest these funds until they’re eventually paid out... And while these returns are small, they are EXTREMELY levered, so ROE is HIGH.
 
 ADP calls these funds “client funds obligations”.
-![a0747b39ea3a8757a4979e6882733186.png](a0747b39ea3a8757a4979e6882733186.png)
 
 **Subscription Models...**
 

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysing Commodity stocks.md",
-            "mode": "preview"
+            "file": "Insurances and ergodicity.md",
+            "mode": "source"
           }
         }
       }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysing Commodity stocks.md"
+                "file": "Insurances and ergodicity.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysing Commodity stocks.md"
+                "file": "Insurances and ergodicity.md"
               }
             }
           }
@@ -104,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Analysing Commodity stocks.md",
+    "Insurances and ergodicity.md",
+    "Irrationality vs ergodicity.md",
     "Untitled.md",
-    "Opportunity costs.md",
-    "Cost of capital as opportunity cost.md",
     "Ergodicity.md",
-    "The Fundamental Theorem of Investing.md",
+    "Non ergodicity and expected returns.md",
     "Long term investing.md",
     "The Mathematics of Returns.md",
-    "It is Owner Earnings that count.md",
-    "Owner Earnings vs Reported Earnings.md"
+    "Analysing Commodity stocks.md",
+    "Niches.md",
+    "Exponential Growth and Contrast Bias.md"
   ]
 }

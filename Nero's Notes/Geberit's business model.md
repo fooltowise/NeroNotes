@@ -12,7 +12,7 @@ The company's high market share - around 50% in its seven core European markets 
 
 --- 
 
-Geberit is the European leader in lavatory products such as toilet flushing systems and pipes. Founded in 1874 as a plumbing business in Rapperswil, Switzerland, it gained momentum a generation later when the fouder's son expanded into the production of cisterns for flush toilets. Since then, related technology has evolved to put an ever-increasing portion of the plumbing behind walls, to save space and for a better look. Geberit hastened this trend with its introduction in 1964 of the first concealed flushing cistern - it has sold more than 60 million since. 
+Geberit is the European leader in lavatory products such as toilet flushing systems and pipes. Founded in 1874 as a plumbing business in Rapperswil, Switzerland, it gained momentum a generation later when the founder's son expanded into the production of cisterns for flush toilets. Since then, related technology has evolved to put an ever-increasing portion of the plumbing behind walls, to save space and for a better look. Geberit hastened this trend with its introduction in 1964 of the first concealed flushing cistern - it has sold more than 60 million since. 
 
 The behind-the-wall trend shifted industry focus from design to technology; it also made installation and repair more challenging.  For bathroom builders and owners, once the aesthetics of such products were no longer relevant, choice became a function of reliability and price. In such circumstances, customers tend to rely on qualified experts - in this case, licensed plumbers. Geberit has made the plumbing trade its friendly middleman. 
 
