@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Insurances and ergodicity.md",
-            "mode": "source"
+            "file": "Models of my life.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hyper"
+                "query": "hyper",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -81,7 +86,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insurances and ergodicity.md"
+                "file": "Models of my life.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -91,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Insurances and ergodicity.md"
+                "file": "Models of my life.md"
               }
             }
           }
@@ -104,15 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Insurances and ergodicity.md",
-    "Irrationality vs ergodicity.md",
     "Untitled.md",
-    "Ergodicity.md",
-    "Non ergodicity and expected returns.md",
-    "Long term investing.md",
-    "The Mathematics of Returns.md",
-    "Analysing Commodity stocks.md",
-    "Niches.md",
-    "Exponential Growth and Contrast Bias.md"
+    "Principles for a good  life.md",
+    "Designing your life.md",
+    "Quality of life.md",
+    "Peter Bevelin about Wisdom.md",
+    "Become a learning machine.md",
+    "Your mind as a library.md",
+    "The Fundamental Theorem of Investing.md",
+    "Semi-Conductors Industry.md",
+    "Insurances and ergodicity.md"
   ]
 }

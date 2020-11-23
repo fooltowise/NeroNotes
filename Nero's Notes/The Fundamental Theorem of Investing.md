@@ -21,6 +21,8 @@ However, these blocks can be damaged by several [[Qualitative Investing Pittfall
 
 It is often interesting to [[Visual thinking applied to investing|visualize]] how the business will evolve. And be sure to analyze the business from every [[Vantage Point]].
 
+One final point: **Make sure that the competitive advantage of the company is going in the right direction, and the moat is expanding.** (Paul Black, WCM Investment Management.)
+
 
 
 
