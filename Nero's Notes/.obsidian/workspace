@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ef7a0c4f49303025",
+        "id": "013bd39f034f4bc6",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Models of my life.md",
-            "mode": "preview"
+            "file": "Charlie Munger on Multi-disciplinary education.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hyper",
+                "query": "maintenance capex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models of my life.md",
+                "file": "Charlie Munger on Multi-disciplinary education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Models of my life.md"
+                "file": "Charlie Munger on Multi-disciplinary education.md"
               }
             }
           }
@@ -115,14 +116,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
-    "Principles for a good  life.md",
+    "a0747b39ea3a8757a4979e6882733186.png.md",
+    "Ergodicity.md",
+    "Skin in the game.md",
     "Designing your life.md",
-    "Quality of life.md",
-    "Peter Bevelin about Wisdom.md",
-    "Become a learning machine.md",
-    "Your mind as a library.md",
-    "The Fundamental Theorem of Investing.md",
-    "Semi-Conductors Industry.md",
-    "Insurances and ergodicity.md"
+    "Mind Mapping.md",
+    "It is Owner Earnings that count.md",
+    "How to analyze Capex.md",
+    "Computation of Maintenance Capex.md",
+    "Personal Energy.md"
   ]
 }

@@ -48,6 +48,7 @@ One final though. I wrote about inflation. But in many parts of the world, we ar
 
 See [[It is Owner Earnings that count]]
 [[Capital expenditures for growth]]
+[[Computation of Maintenance Capex]]
 
 
 

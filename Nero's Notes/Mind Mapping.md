@@ -1,0 +1,27 @@
+
+Mind mapping is a great tool for ideating by yourself and a great method for getting unstuck. Mind mapping works by using simple free association of words, one after another, to open up the idea space and come up with new solutions. The graphical nature of the method allows ideas and their associations to be captured automatically. this technique teaches you to generate lots of ideas, and because it is a visual method, it bypasses your inner logical/verbal censor. 
+
+The Mind Mapping process has three steps:
+1. Find a topic
+2. Making the mind map
+3. Making secondary connections and creating concepts (mashing it all up)
+
+**Example: **
+
+The image in the book is of Grant's mind map, which he made while being stuck on the problem of how to find the "perfect" job. When Grant looked over his [[Good Time Journal]] the only positive experiences he could find had something to do with hiking in the redwoods near his house. So he decided to mind-map around that. He put *Being Outdoors* in the center of his mind map and drew a circle around it. This is step one.
+
+Step two is making the mind map. For this, you take the original idea and write down five or six things related to that idea. Be rigorous in writing down the first words that come to mind. Now repeat this process with the words in the second ring. Draw three or four lines from each word, and free-associate new words related to these prompts. The words that come up for you do not need to be associated to the words or question in the center, only the word in the second ring. Repeat this process until you have a t least three or four rings of word associations.
+
+In Grant's example, he wrote down travel, hiking, surfing, camping, and nature. These things are all related directly to his idea of being outdoors. He then took each of those words and created new branches of word associations. Hiking reminded Grant of mountains, which led to explorers. Travel led him to Hawaii, Europe, and backpacking, and Hawaii led him to tropical beaches. France, an association with Europe, took him to crêpes, which took him to Nutella, which, though interesting, turned out to be a dead end. But surfing led to beaches which led to tides, which led to cycles, bicycles, and racing. It also led to Jamaica, then through Usain Bolt (Grant's brain turns out to be more creative than he thought) and on to the idea of exotic locations.
+
+This whole process of creating layers and word associations took three to five minutes; you want to give yourself a time limit so you do this fast and bypass your inner censor. The next step is to take this random association of words and highlight a few things that might be interesting (or that jump at you) and mash them together into a few concepts. You want to pick from the very outer layer or perimeter of the mind map, because that is the stuff that is two or three steps away from your conscious thinking. Even though being outdoors eventually took Grant to bicycle racing and Usain Bolt, in Grant's hidden unconscious these are all linked back to his original prompt. Grant pulled out the random words that seemed interesting - in this case, explorers, tropical beaches, pirates, kids, exotic locations, and bicycle racing. Then he took these individual components and mashed them up into a couple of possible ideas.
+
+Could he work part-time at an explorer camp for kids who liked the outdoors? Better yet, make it a Pirate camp and have it at a beach? How about accepting the promotion he was offered, but only if they let him move to a rental office near a beach (he looked it up and found that his company had an office in Santa Cruz, California - yes!)? Or, even better, someplace really exotic, like Hawaii, where he could coach at a Pirate Surf Camp for kids (turns out his company had an office there too). And maybe, if he accepted the promotion, he'd make enough money to afford a four-day workweek so that he'd have some time to "explore" some of these new ideas.
+
+This is innovation.
+
+Grant is no longer stuck. In fact, he has more good ideas than he knows what to do with. And, more important, he's starting to think that it's not about finding the perfect job, it's about making the job he has "perfect". It turns out it pays to work for a multinational car-rental company with offices all over the world. Doing his mind map made Grant realize that he has more to work with than he thought, and he can use his current job as the springboard to what's next.
+
+It's important to remember when you do this not to censor your words. That's why we suggest you do it fast. Just write down the first words that come to mind. If you censor yourself, you limit your potential for generating new and novel ideas. David Kelley, the founder of the d.school, says you often have to go through the wild ideas to get to the actionable good ideas. So don't be afraid to come up with crazy stuff. It may be the jumping-off point for something really practical and really new. Also, you should create your mind map on a big piece of paper. You are looking for lots of ideas - so make your map as graphic and as big as possible. Go out and get a giant piece of butcher paper or a large white board, and have big ideas.
+
+The bigger the better.

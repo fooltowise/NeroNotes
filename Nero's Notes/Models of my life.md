@@ -49,9 +49,20 @@
 
 ### On mental models
 
->One can train a man so that he has at his disposal a list or repertoire of the possible actions that could be taken under the circumstances... a person who is new at the game does not have immediately at his disposal a set of possible actions to consider, but has to construct them on the spot, a time-consuming and difficult mental task. The decision maker of experience has at his disposal a checklist of things to watch out for before finally accepting a decision...
+> One can train a man so that he has at his disposal a list or repertoire of the possible actions that could be taken under the circumstances... a person who is new at the game does not have immediately at his disposal a set of possible actions to consider, but has to construct them on the spot, a time-consuming and difficult mental task. The decision maker of experience has at his disposal a checklist of things to watch out for before finally accepting a decision...
 
 > A large part of the difference between the experienced decision maker and the novice in these situations is not any particular intangible like "judgment" or "intuition". If one could open the lid, so to speak, and see what was in the head of the experienced decision maker, one would find that he had at his disposal repertoires of possible actions; that he had checklists of things to think about before he acted; and that he had mechanisms in his mind to evoke these, and bring these to his conscious attention when the situations for decision arose. Most of what we do to get people ready to act in situations of encounter consists in drilling these lists into them sufficiently deeply so that they will be evoked quickly at the time of the decision.
+
+
+### On his Philosophy of life
+> I am an adaptive system, whose survival and success, whatever my goals, depend on maintaining a reasonably veridical picture of my environment of things and people. Since my world picture approximates reality only crudely, I cannot aspire to optimize anything; at most, I can aim at [[Satisficing]]. Searching for the best can only dissipate scarce cognitive resources; the best is the enemy of the good.
+
+> How do you put duty in a utility function? For a satisficing theory it's quite easy: Simply place it among the constraints. Of course, we may also view duty as a cost we pay for society's willingness to cooperate with us. This implies that every person has a price. Possibly so, but i prefer the satisficing view.
+
+> What duties would I impose? Starting at the weak end of the spectrum, there is general acceptance of the duty not to harm others - the negative version of the Golden Rule. A higher, and not unreasonable, standard is the obligation to leave the world no worse off than it would have been without us. Since most people, even people in rather humble circumstances, can meet that requirement, perhaps it is proper to insist on it.
+
+> A still heavier obligation, not always acknowledged, is to leave to future generations as wide and interesting  a range of options as our generation inherited from our forebears. To do so, we must accept collective responsibility for securing sustainable energy sources, preserving the environment, stabilizing world population, and somehow removing or dulling the threat of the Bomb. We have no obligation to solve all the World's problems (there is no prospect that we could); we do have an obligation to avert irreversible catastrophe and to oppose implacably every step toward  it. (see [[Ergodicity]])
+
 
 See [[Mental Models]]
 
