@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Charlie Munger on Multi-disciplinary education.md",
+            "file": "Designing your life.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charlie Munger on Multi-disciplinary education.md",
+                "file": "Designing your life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charlie Munger on Multi-disciplinary education.md"
+                "file": "Designing your life.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Designing your life.md",
+    "Ergodicity.md",
+    "Odyssey Planning 101.md",
     "Untitled.md",
     "a0747b39ea3a8757a4979e6882733186.png.md",
-    "Ergodicity.md",
     "Skin in the game.md",
-    "Designing your life.md",
     "Mind Mapping.md",
     "It is Owner Earnings that count.md",
     "How to analyze Capex.md",
-    "Computation of Maintenance Capex.md",
-    "Personal Energy.md"
+    "Computation of Maintenance Capex.md"
   ]
 }

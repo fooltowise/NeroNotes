@@ -129,6 +129,98 @@ When we have lots of ideas, we can build prototypes of our life and test them ou
 3. Look at the outer ring of each mind map, pick three things that jump out at you, and create a job description from them. 
 4. Create a role for each job description, and draw a napkin sketch.
 
+## Design your lives
+
+- We all contain enough energy and talents and interests to live many different types of lives, all of which could be authentic and interesting and productive. Asking which life is best is asking a silly question; it is like asking whether it is better to have hands or feet.
+
+
+**Dysfunctional Belief**: *I need to figure out my best possible life, make a plan, and then execute it.*
+**Reframe**: *There are multiple great lives (and plans) within me, and I get to choose which one to build my way forward to next.*
+
+
+We are going to ask you do imagine and write up three different versions of the next five years of your life. We call these [[Odyssey Plans]]. Whether or not three interesting variations of your next five years immediately leap onto the screens in the multiplex movie theater in your head or not, we know you've got at least three viable and substantially different possibilities in you. We all do. Every single one of the thousands of people we've worked with has proved us correct in this. We all have lots of lives within us. We certainly have three at any particular moment. Of course, we can only live out one at a time, but we want to ideate multiple variations in order to choose creatively and generatively.
+
+Criteria for choosing what's next may be based on available resources (proximity, time, money), coherence (how the alternative fits into your [[Lifeview Reflection]] and your [[Workview Reflection]]), your confidence level (do you believe you can do this?), and how much you like it. But first things first. You need to develop the alternatives.
+
+
+We want to insist (since we won't be grading your homework) that you create three very different alternative versions of you. Three plans give you real choices (a list of three  feels much longer than a list of two), and will stretch your creative muscles hard enough that you'll know you didn't just opt for the obvious answer. We want you to come up with three truly different alternatives - not three variations on a theme.
+
+**Life One - That Thing you do**. Your first plan is centered on what you've already got in mind - either your current life expanded forward or that hot idea you've been nursing for some time. This is the idea you already have - it's a good one and it deserves attention in this exercise.
+**Life Two - That thing you'd do if thing one were suddenly gone**. It happens. Some kinds of work come to an end. Almost no one makes buggy whips or Internet Browser anymore. The former are out of date and the later are given away free with your operating system, so buggy whips and browsers don't make for hot careers. Just imagine that your life one idea is suddenly over or no longer an option. What would you do? You can't not make a living. You can't do nothing. What would you do? If you're like most people we talk with, when you really force your imagination to believe tat you have to make a living doing something other than doing that thing you do, you'll come with something.
+
+**Life Three -  The thing you'd do  or the life you'd live if money or image were no object.** If you knew  you could make a decent living at it and you knew no one would laugh at you or think less of you for doing it - what would you do? We're not saying you suddenly can make a living doing this and we can't promise no one will laugh (though they rarely do), but we are saying imagining this alternative can be a very useful part of your life design exploration. 
+
+See also [[Odyssey Planning 101]]
+
+## Prototyping
+**Dysfunctional Belief**: *If I comprehensively research the best data for all aspects of my plan, I'll be fine.*
+**Reframe:** *I should build prototypes to explore questions about my alternatives.*
+
+When you are trying to solve a problem, any problem, you typically start with what you know about the problem: you start with the data. You need enough data so that you can understand what causes what, and what is likely to happen when something else happens.
+
+Unfortunately, when you are designing your life, you don't have a lot of data available, especially reliable data about your future. You have to accept that this is the kind of messy problem in which traditional cause-and-effect thinking won't work. Luckily, designers have come up with a way of sneaking up on the future through prototyping.
+
+When we use the term "prototyping" in design thinking, we do not mean making something to check whether your solution is right. We don't mean creating a representation of a completed design, nor do we mean making just one thing. Prototyping the life design way is all about asking good questions, outing our hidden biases and assumptions, iterating rapidly, and creating momentum for a path we'd like to try out.
+
+Prototypes should be designed to ask a question and get some data about something that you're interested in. Good prototypes isolate one aspect of a problem and design an experience that allows you to try out some version of a potentially interesting future. Prototypes help you visualize alternatives in a very experiential way. That allows you to imagine your future as if you are already living it. Creating new experiences through prototyping will give you an opportunity to understand what a new career path might feel like, even if only for an hour or a day. And prototyping helps you involve others early and helps build a community of folks who are interested in your journey and your life design. Prototypes are a great way to start a conversation, and, more often then not. one thing typically leads to another. Prototypes frequently turn into unexpected opportunities - they help serendipity happen. Finally, prototypes allow you to try and fail rapidly without over-investing in a path before you have any data.
+
+Our philosophy is that it is always possible to prototype something you are interested in. The best way to get started is to keep your first few prototypes very low-resolution an very simple. You want to isolate one variable and design a prototype to answer that one question. Use what you have available or can ask for, and be prepared to iterate quickly. And remember that a prototype is not a thought experiment; it must involve a physical experience in the world. the data to make good decisions are found in the real world, and prototyping is the best way to engage that world and get the data you need to move forward.
+
+So we prototype to ask good questions, create experiences, reveal our assumptions, fail fast, fail forward, sneak up our future, and build empathy for ourselves and others.
+
+### Brainstorming prototypes experiences
+**Framing a good question**
+It is important to frame a good question for a brainstorming session. The facilitator uses the process of coming up with the question as a way to create a focus for the group's energy. When coming up with the question, the facilitator needs to be aware of some guidelines.
+
+If the question isn't open-ended, you won't get very interesting results and not much volume. We tend to start all of our life design brainstorms with the phrase "How many ways can we think of to ..." to make sure that we haven't limited our potential output. 
+
+You also want to be careful not to include your solution accidentally in your question. This happens all the time with some of Bill's clients. they want to brainstorm "ten new ways to make a ladder for a stockroom." This isn't a very food framing question, because a ladder is a solution (and they only want ten ideas). A better framing question would be to focus on what a ladder does: "How many ways can we think of to give a stock person three dimensional access in a warehouse?" or "How many ways can we think of to give a person access to inventory in high places?" These questions do not assume that ladders are the only way to solve the problem, and they open up the solution space for more creative answers (user-controlled stockroom drones, anyone?)
+
+Also, be careful that you don't frame a question so broadly that it is meaningless. We sometimes sit on life design brainstorms where the question is "How many ways can we think of to ... make Bob happy?" This vague question fails for a couple of reasons: First of all, "happiness" means too many different things to different persons. And positive psychology tells us that happiness is context-dependent, so without a context - such as "my work" or "my social life" - no one knows where to start. Without some constraints, these types of brainstorming sessions tend to generate ideas that are neither prototypable nor satisfying.
+
+Most of the time when people tell us "our brainstorm didn't work", we find out that they framed a poor question - either one that already assumed a solution or one that was so vague they couldn't get any traction for generating ideas. Watch out for this when you start to brainstorm with our four step method.
+
+**The Rules of Brainstorming**
+1. Go for quantity, not for quality
+2. Defer judgment and do not censor ideas
+3. Build off the ideas of others
+4. Encourage wild ideas.
+
+### Naming and framing the outcomes
+This is perhaps the most important part of a brainstorm, and the one activity that we notice most groups leave out. They might take a cell-phone picture of their wall full of sticky note, high-five all around, and then leave. The problem with this is that the information on the wall is pretty fragile, and if it isn't processed right away, the freshness of the ideas and their interconnections get lost. Later, participants often feel that nothing happened, and they can't remember what the brainstorm accomplished.
+
+Ideas should be counted - you want to be able to say, "We had 141 ideas." group similar ideas together by subject or category, name those categories, and frame the results with reference to the original focal question. Every unique category is given a descriptive and often funny name that captures the essence of that group of ideas. Then vote. Voting is important, and should be done silently, so that people aren't influencing one another. We like to use colored dots to cast votes, and we also like to use categories such as:
+- Most exciting
+- The one thing we wish we could do if money were no object.
+- The dark horses - probably won't work, but if it did...
+- Most likely to lead to a great life...
+- If we could ignore the laws of physics...
+
+Once the voting is complete, the selections are discussed, and potentially regrouped and framed again; then decisions are made on what to prototype first.
+
+At the end of our four-step process, the goal is to day something like "We had 141 ideas, we grouped those into six categories, and based on our focal question, we selected eight killer ideas to prototype; then we prioritized the list, and our first prototype is..." Often it is possible to back off from one of the wild ideas just a little and turn it into a great idea.
+
+
+If you follow all these steps and get results like that, your life design brainstorming will be more than worth it.  The brainstorm will generate energy and momentum toward your goal of coming up with some prototype experiences to explore. it will also be an exercise you can turn to whenever you need some new ideas, some community support, or just a little more fun in your life with people you trust.
+
+A great way to do that would be to combine your Odyssey Plan presentation gathering with a prototype experience brainstorm session. Your collaborators will have a much better time if they are able not only to give you feedback but also to contribute directly to your life design with ideas and actionable prototype possibilities.
+
+1. Review your three Odyssey Plans and the questions you wrote down for each.
+2. Make a list of prototype conversations that might help you answer these questions.
+3. Make a list of prototype experiences that might help you answer these questions.
+4. If you are stuck, and if you have gathered a good group, have a brainstorming session to come up with possibilities (Don't have a team? Try Mind mapping).
+5. Build your prototypes by actively seeking out Life Design Interviews and experiences.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
