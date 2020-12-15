@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Designing your life.md",
-            "mode": "source"
+            "file": "Scale Economics Shared.md",
+            "mode": "preview"
           }
         }
       }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           },
           {
@@ -87,12 +88,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Designing your life.md",
+                "file": "Scale Economics Shared.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Designing your life.md"
+                "file": "Scale Economics Shared.md"
               }
             }
           }
@@ -115,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Designing your life.md",
-    "Ergodicity.md",
-    "Odyssey Planning 101.md",
+    "Scale Economics Shared.md",
+    "Successful Business Patterns.md",
     "Untitled.md",
-    "a0747b39ea3a8757a4979e6882733186.png.md",
-    "Skin in the game.md",
-    "Mind Mapping.md",
-    "It is Owner Earnings that count.md",
-    "How to analyze Capex.md",
-    "Computation of Maintenance Capex.md"
+    "Two modes of investment idea generation.md",
+    "Strings.md",
+    "Data Structures and Algorithms.md",
+    "General Mental Models.md",
+    "Mental Models.md",
+    "The Fundamental Theorem of Investing.md",
+    "Competitive Advantage.md"
   ]
 }

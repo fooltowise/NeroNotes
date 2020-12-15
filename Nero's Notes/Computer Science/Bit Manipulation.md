@@ -1,0 +1,23 @@
+- Shifting a number to the left by N bits means multiplying it by 2^N
+- Shifting a number to the right by N bits means dividing it by 2^N
+- create a mask with a single 1 at bit N :     (1<<N)
+- create a mask with a single 0 at bit N: ~(1<<N)
+- Positive numbers have the bit at the foremost left equal to 0, while negative numbers have the bit at the foremost left equal to 1. 
+- Negative numbers are encoded by taking the positive number, taking its complement 2 (i.e replace 1 by 0 and vice versa), and subtracting 1.
+-      x & ~(x-1)  returns the smallest bit set to 1 in a number
+-      x & (x-1) removes the smallest bit set to 1 in a number
+	-      A useful consequence of this is that (x& (x-1)) == 0 tests if x is an effective test if x is a power of 2
+	-      Another frequent usage is to count the number of bits set to 1 in a number. Just count the number of times you can do (x&(x-1)) before reaching 0.
+- create a mask with N smallest bits set to 1: ~(1<<(N+1))
+- create a mask with N smallest bits set to 0 (and the rest set to 1) : (-1<<N)
+- to switch the nth bit in a number x, use XOR :   x ^(1<<n)
+- Take care to differentiate the logical right shift from the arithmetical one:
+	- the logical right shift will shifts all bits to the right (including the first one). So 1101 becomes 0110 becomes 0011 (-3 becomes 6 becomes 3).
+	- the arithmetical right shift is more complicated:
+		- it will shift ALL bits to the right
+		- but it will keep the value of the first bit in place: therefore 0110 becomes 0011 and then 0001 (i.e 6 becomes 3 and then 1) but 1010 becomes 1101 and then 1110 (i.e  -6 becomes -3 and then -2) 
+- The index of the most significant bit of a number can be found with a binary search
+- An effective to compute x  modulo a power of 2 (let's say n) is x & ((1<<n)-1)
+- To flip a bit, XOR it with 1. To keep it as it is, XOR it with 0.
+- The  a XOR b will tell you which bits of a are different from b 
+- The XOR function is associative and commutative, so the word-wide  XOR instruction of the CPU can be taken advantage of to process in parallel the XOR of many bits (see EPI, pbm 5.1), which takes O(log(n)), where n is the number of bits considered.

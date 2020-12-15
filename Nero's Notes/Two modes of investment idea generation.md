@@ -19,5 +19,5 @@
 **Cons:**
 - hard to communicate
 - difficult to execute
-- requires cummulative experience
+- requires cumulative experience
 - **you need to do the hard work yourself**

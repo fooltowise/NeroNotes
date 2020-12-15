@@ -1,4 +1,4 @@
-## by Marc Rubinstein
+## by [[Marc Rubinstein]]
 
 ### The AWS of Finance
 We all love a good origin story. Steve Jobs assembling kit in his parents’ garage; Mark Zuckerberg coding in his dorm room; Reed Hastings returning his overdue video rental to Blockbuster. These stories help animate the companies they underpin. 

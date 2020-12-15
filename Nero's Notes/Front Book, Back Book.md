@@ -1,6 +1,6 @@
 ## A framework for understanding financial companies
 
-### by Marc Rubinstein
+### by [[Marc Rubinstein]]
 See also [[Lending Business]]
 
 Big banks and insurance companies are a thing of the past.
