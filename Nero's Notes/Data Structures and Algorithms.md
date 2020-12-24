@@ -3,3 +3,4 @@
 - [[Primitives]]
 - [[Arrays]]
 - [[Strings]]
+- [[Linked Lists]]

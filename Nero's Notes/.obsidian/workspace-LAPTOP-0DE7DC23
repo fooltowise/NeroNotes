@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java Linked List libraries.md",
-            "mode": "source"
+            "file": "Competitive Advantage.md",
+            "mode": "preview"
           }
         }
       }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Linked List libraries.md",
+                "file": "Competitive Advantage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Linked List libraries.md"
+                "file": "Competitive Advantage.md"
               }
             }
           }
@@ -116,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Java Linked List libraries.md",
-    "Linked Lists.md",
-    "Data Structures and Algorithms.md",
-    "Nick Sleep on Scale Economics Shared.md",
-    "Untitled.md",
+    "Competitive Advantage.md",
     "Scale Economics Shared.md",
     "Successful Business Patterns.md",
+    "Untitled.md",
     "Two modes of investment idea generation.md",
     "Strings.md",
-    "General Mental Models.md"
+    "Data Structures and Algorithms.md",
+    "General Mental Models.md",
+    "Mental Models.md",
+    "The Fundamental Theorem of Investing.md"
   ]
 }
