@@ -4,3 +4,5 @@
 - [[Arrays]]
 - [[Strings]]
 - [[Linked Lists]]
+- [[Stacks]]
+- [[Queues]]

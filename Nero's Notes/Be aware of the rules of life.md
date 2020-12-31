@@ -1,0 +1,4 @@
+- You can choose what games you play, but you cannot change their rules.
+- Any problem grows until you notice it (i.e until it hurts).
+- The very important is never urgent.
+- Meta-Practice : you should practice your practice
