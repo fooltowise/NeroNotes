@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Competitive Advantage.md",
+            "file": "Suites Arithmetico-geometriques.md",
             "mode": "preview"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Competitive Advantage.md",
+                "file": "Suites Arithmetico-geometriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Competitive Advantage.md"
+                "file": "Suites Arithmetico-geometriques.md"
               }
             }
           }
@@ -116,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Competitive Advantage.md",
+    "Suites Arithmetico-geometriques.md",
+    "Nick Sleep on Scale Economics Shared.md",
+    "Untitled.md",
     "Scale Economics Shared.md",
     "Successful Business Patterns.md",
-    "Untitled.md",
     "Two modes of investment idea generation.md",
     "Strings.md",
     "Data Structures and Algorithms.md",
     "General Mental Models.md",
-    "Mental Models.md",
-    "The Fundamental Theorem of Investing.md"
+    "Mental Models.md"
   ]
 }
