@@ -2,10 +2,10 @@
 See [[The Fundamental Theorem of Investing]]
 
 - Constellation Software Inc
-- Games Workshop Group PLC
+- MSCI
 - Moody's
 - Standard and Poors Global Inc
-- Align Technilogy Inc
+- Align Technology Inc
 - Booking Holdings
 - Estee Lauder Company
 - Alphabet

@@ -6,3 +6,5 @@
 - [[Linked Lists]]
 - [[Stacks]]
 - [[Queues]]
+- [[Binary Trees]]
+- [[Heaps]]

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "013bd39f034f4bc6",
+        "id": "e16a298e17a3f22f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Competitive Advantage.md",
+            "file": "Thoughts on Censorship.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -88,11 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Competitive Advantage.md",
+                "file": "Thoughts on Censorship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Competitive Advantage.md"
+                "file": "Thoughts on Censorship.md"
               }
             }
           }
@@ -116,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Competitive Advantage.md",
-    "Scale Economics Shared.md",
-    "Successful Business Patterns.md",
     "Untitled.md",
-    "Two modes of investment idea generation.md",
-    "Strings.md",
-    "Data Structures and Algorithms.md",
-    "General Mental Models.md",
-    "Mental Models.md",
-    "The Fundamental Theorem of Investing.md"
+    "Irrationality vs ergodicity.md",
+    "Unilever.md",
+    "Geographic Expansion.md",
+    "Brand Portfolio Companies.md",
+    "Brands.md",
+    "Trust and Consistency of Brands.md",
+    "Heritage - brands that improve with age.md",
+    "Competitive Advantage.md",
+    "Awaken the giant within.md"
   ]
 }

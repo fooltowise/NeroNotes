@@ -35,7 +35,7 @@ Pricing power can come from:
 3. When the payer is not the decider (again example of the Agency business model)
 
 
-#### Be the [Low Cost Provider]]
+#### Be the [[Low Cost Provider]]
 1. [[Economies of Scale]]
 2. [[Reverse pricing power]]
 

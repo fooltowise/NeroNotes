@@ -26,3 +26,46 @@ This is an action book.
 By criticizing, we do not make lasting changes and often incur resentment. Sharp criticisms and rebukes almost invariably end in futility. 
 
 When dealing with people, let's remember that we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity.
+
+### Chapter 2. The big secret of dealing with people
+
+**There is only one way to get anybody to do anything. And that is by making the other person want to do it.**
+
+Except for sex, the deepest urge in human nature is **the desire to be important**. 
+
+> The deepest craving in human nature is the **craving** to be appreciated. - William James.
+
+It is not a wish, nor a desire, nor a longing. It is a **craving** to be appreciated.
+
+One of the firs people to be paid a salary of over a million dollar a year was Charles Schwab, whom Andrew Carnegie had picked to become the first president of the newly formed United States Steel Company in 1921. Schwab explained his success with the following words:
+
+> I consider my ability to arouse enthusiasm among my people the greatest asset I possess, **and the way to develop the best that is in a person is by appreciation and encouragement**. There is nothing else that so kills the ambitions of a person as criticism from superiors. I never criticize anyone. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise.
+
+
+When a study was made a few years ago on runaway wives, what do you think was discovered to be the main reason wives ran away? It was **lack of appreciation.**
+
+The difference between appreciation and flattery is that the first one is sincere.
+
+Try leaving a friendly trail of little sparks of gratitude on your daily trips. You will be surprised how they will set small flames of friendship that will be rose beacons on your next visit.
+
+**Principle 2: Give honest and sincere appreciation.**
+
+### Chapter 3. He who can do this has the whole world with him. He who cannot walks a lonely way.
+
+It is necessary to "*bait the hook to suit the fish*".
+Why talk about what we want? This is childish. Of course, you are interested in what you want. You are eternally interested in it. But no one else is. The rest of us are just like you: we are interested in what we want. **So the only way on earth to influence other people is to talk about what they want and show them how to get it.**
+
+> If you want to convince, appeal to interest, not to reason. - Benjamin Franklin
+
+**First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way.**
+
+
+Henry Ford used to say: "If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own."
+
+
+"People who can put themselves in the place of other people who can understand the workings of their minds, need never worry about what the future has in store for them."
+If out of reading this book you get just one thing - an increased tendency to think always in terms of other people's point of view, and see things from their angle  - if you get that one thing out of this book, it may easily prove to be one of the building blocks of your career. 
+
+
+
+
