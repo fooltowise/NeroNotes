@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4319351cf68f0351",
+        "id": "e16a298e17a3f22f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021 Resolutions.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rationaliz",
+                "query": "owner",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,11 +87,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021 Resolutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -104,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2021 Resolutions.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -118,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "2021 Resolutions.md",
-    "Know your heap libraries.md",
-    "Heaps.md",
-    "Data Structures and Algorithms.md",
-    "Pike Mobility.md",
-    "How to win friends and Influence People.md",
-    "Be aware of the rules of life.md",
-    "Ankle Dorsiflexion.md",
-    "Self Improvement.md",
-    "Choose your Role Models.md"
+    "Opportunity costs.md",
+    "Cost of capital as opportunity cost.md",
+    "Owner Operators.md",
+    "The Fundamental Theorem of Investing.md",
+    "Family Ownership.md",
+    "Superpower of Incentives.md",
+    "Know your Searching Libraries.md",
+    "Binary Search.md",
+    "Searching.md",
+    "Data Structures and Algorithms.md"
   ]
 }

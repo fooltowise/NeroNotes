@@ -13,6 +13,7 @@ As long-term investors, we begin with the premise that a company's common stock 
 - [[Sources of Growth]]
 - [[Industry Structure]]
 - [[Customer Benefits]]
+- [[Owner Operators]]
 
 
 These blocks can be arranged in [[Successful Business Patterns]].
