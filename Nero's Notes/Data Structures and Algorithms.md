@@ -8,6 +8,7 @@
 - [[Queues]]
 - [[Binary Trees]]
 - [[Heaps]]
+- [[Hash Tables]]
 
 
 ### Algorithms

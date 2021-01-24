@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Deep work applied to my Investment Process.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "owner",
+                "query": "deep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5107650756836,
-    "collapsed": true
+    "width": 301.5107650756836
   },
   "right": {
     "id": "e936182a993d01d8",
@@ -87,11 +89,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deep work applied to my Investment Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -100,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deep work applied to my Investment Process.md"
+              }
             }
           }
         ],
@@ -112,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Opportunity costs.md",
-    "Cost of capital as opportunity cost.md",
-    "Owner Operators.md",
-    "The Fundamental Theorem of Investing.md",
-    "Family Ownership.md",
-    "Superpower of Incentives.md",
-    "Know your Searching Libraries.md",
-    "Binary Search.md",
-    "Searching.md",
-    "Data Structures and Algorithms.md"
+    "Deep work applied to my Investment Process.md",
+    "Untitled.md",
+    "Deep Work.md",
+    "An Investing Principles Checklist.md",
+    "Poor Charlie's Almanack.md",
+    "Munger's Investment Evaluation Process.md",
+    "Circle of Competence.md",
+    "Munger's Approach to Business Analysis and Assessment.md",
+    "Lollapalooza Effect.md",
+    "Business as an Ecosystem.md"
   ]
 }
