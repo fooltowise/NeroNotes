@@ -224,7 +224,7 @@ People have always had this craving to have someone tell them the future. Long a
 It is entirely possible that you could use our mental models to find good IPOs to buy. There are countless IPOs every year, and I'm sure that there are a few cinches that you could jump on. But the average person is going to get creamed. So if you think you're talented, good luck. IPOs are too small for us, or too high tech - we don't understand them. So if Warren's looking at them, I don't know about it.
 
 
-## Comments on the market
+## Comments on the Market
 
 ### Stocks, Rembrandts, and Bubbles
 Stocks are valued partly like bonds, based on a roughly rational projections of producing future cash. But they are also valued partly like Rembrandt paintings, purchased mostly because their price have gone up so far. This situation, combined with big "wealth effects", at first up and later down, can conceivably produce much mischief. 
@@ -346,6 +346,7 @@ Pension fund accounting is drifting into scandal by using unrealistic assumption
 IBM just raised its return expectations for its pension fund to ten percent. Most companies are at nine percent. We think six percent is more realistic. Company leaders may believe it - they're honest people - but subconsciously they believe it because they want to believe it. It makes earnings good so they can promote the stock.
 
 > The reason accountants don't say anything is best summed up by the saying "Whose bread I eat, his song I sing." I think you're getting very foolish numbers in America accounting. I don't think it's willful dishonesty, but it might as well be.
+
 
 ### Bad accounting leads to immorality
 People who have loose accounting standards are just inviting perfectly horrible behavior in other people. And it's a sin, it's an absolute sin. If you carry bushel baskets full of money through the ghetto, and made it easy to steal, that would be a considerable human sin because you'd be causing a lot of bad behavior, and the bad behavior would spread. Similarly, an institution that uses sloppy accounting commits a real human sin, and it's also a dumb way to do business.

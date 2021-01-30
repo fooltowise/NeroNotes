@@ -1,0 +1,48 @@
+
+
+div.view-header-title{
+	font-size: 2em !important;
+	color: #ECEAE4 !important;
+}
+
+.markdown-preview-view h2{
+	font-size: 1.5em !important;
+	color: #FFD8BE;
+	
+}
+
+.markdown-preview-view h3{
+	font-size: 1.3em !important;
+    color: #97C1A9;
+}
+
+
+.cm-header-3{
+	font-size: 1.3em !important;
+	color: #97C1A9;
+}
+
+.cm-header-2{
+	font-size: 1.5em !important;
+	color: #FFD8BE;
+}
+
+
+
+/* Coloring fonts - from Lithou on forum */
+/* of italics in Edit mode all notes in a vault */
+
+
+/* of italics in Preview  all notes in a vault */
+
+
+/* Note 1: the color can be different in Edit and Preview
+/* Note 2: for bold use `cm-strong` and `strong` respectively
+
+/* Color of italics in 1 note only */
+
+
+/* And in the note itself add to the top:
+`---`
+cssclass: test
+`---`

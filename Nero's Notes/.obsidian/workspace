@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mungerisms.md",
-            "mode": "source"
+            "file": "Say no to what does not matter.md",
+            "mode": "preview"
           }
         }
       }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mungerisms.md",
+                "file": "Say no to what does not matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mungerisms.md"
+                "file": "Say no to what does not matter.md"
               }
             }
           }
@@ -118,15 +118,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Say no to what does not matter.md",
     "Mungerisms.md",
-    "Sorting.md",
-    "Know your  sorting libraries.md",
-    "Data Structures and Algorithms.md",
-    "Poor Charlie's Almanack.md",
-    "Deep work applied to my Investment Process.md",
-    "Untitled.md",
-    "Deep Work.md",
-    "An Investing Principles Checklist.md",
-    "Munger's Investment Evaluation Process.md"
+    "Two modes of investment idea generation.md",
+    "Self Perpetuation of Corporate Culture.md",
+    "Intangible benefits.md",
+    "Pain reducing psychological denial.md",
+    "Fundamental Attribution Error.md",
+    "Rationality mechanics in an industry.md",
+    "How much do I get to live.md",
+    "Low Cost Squared.md"
   ]
 }
