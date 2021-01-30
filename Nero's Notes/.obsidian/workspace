@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deep work applied to my Investment Process.md",
-            "mode": "preview"
+            "file": "Mungerisms.md",
+            "mode": "source"
           }
         }
       }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5107650756836
+    "width": 301.5107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "e936182a993d01d8",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep work applied to my Investment Process.md",
+                "file": "Mungerisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep work applied to my Investment Process.md"
+                "file": "Mungerisms.md"
               }
             }
           }
@@ -117,15 +118,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Mungerisms.md",
+    "Sorting.md",
+    "Know your  sorting libraries.md",
+    "Data Structures and Algorithms.md",
+    "Poor Charlie's Almanack.md",
     "Deep work applied to my Investment Process.md",
     "Untitled.md",
     "Deep Work.md",
     "An Investing Principles Checklist.md",
-    "Poor Charlie's Almanack.md",
-    "Munger's Investment Evaluation Process.md",
-    "Circle of Competence.md",
-    "Munger's Approach to Business Analysis and Assessment.md",
-    "Lollapalooza Effect.md",
-    "Business as an Ecosystem.md"
+    "Munger's Investment Evaluation Process.md"
   ]
 }
