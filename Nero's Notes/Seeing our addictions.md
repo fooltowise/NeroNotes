@@ -1,3 +1,5 @@
+# Seeing our Addictions
+
 > We must give up many things to which we are addicted, considering them to be good.  Otherwise, courage will vanish, which should continually test itself. Greatness of soul will be lost, which can't stand out unless it disdains as petty what the mob regards as most desirable. Seneca, _Moral Letters_
 
  The little compulsions and drives we have not only chip away at our freedom and sovereignty, they cloud our clarity.

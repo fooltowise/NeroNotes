@@ -17,10 +17,12 @@ But I will tell you how my consideration of speech length created the subject ma
 
 However, fortunately for this audience, I also thought of Samuel Johnson's famous comment when he addressed Milton's poem *Paradise Lost* and correctly said, "No one ever wished it longer." And that made me consider which of all the twenty Harvard School graduation speeches I had heard that I Had wished longer. There was only one such speech, given by Johnny Carson, specifying Carson's prescriptions for guaranteed misery in life. I, therefore, decided to repeat Carson's speech but in expanded form with some added prescriptions of my own. After all, I am much older than Carson  was when he spoke and have failed and been miserable more often and in more ways than was possible for a charming humorist speaking at a younger age. I am plainly well qualified to expand on Carson's theme.
 
-What Carson said was that he couldn't tell the graduating class how to be happy, but he could tell them from personal experience how to guarantee misery. Carson's prescription for sure misery included:
-- Ingesting chemicals in an effort to alter mood or perception
-- Envy; and
-- Resentment
+What Carson said was that he couldn't tell the graduating class how to be happy, but he could tell them from personal experience how to guarantee misery. 
+
+**Carson's prescription for sure misery included:**
+- **Ingesting chemicals in an effort to alter mood or perception**
+- **Envy; and**
+- **Resentment**
 
 I can still recall Carson's absolute conviction as he told how he had tried these things on occasion after occasion and had become miserable every time.
 

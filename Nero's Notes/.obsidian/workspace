@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Shane Parrish on habits.md",
-            "mode": "source"
+            "mode": "preview"
           },
           "pinned": true
         }
@@ -43,13 +43,26 @@
         }
       },
       {
-        "id": "0661e1592a620d53",
+        "id": "78f1b4b0dd233482",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Self Improvement.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "731b4cdf38df1575",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guaranteed Prescription For Misery.md",
+            "file": "Awaken the giant within.md",
             "mode": "source"
           }
         }
@@ -79,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: scale economics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guaranteed Prescription For Misery.md",
+                "file": "Awaken the giant within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guaranteed Prescription For Misery.md"
+                "file": "Awaken the giant within.md"
               }
             }
           }
@@ -156,15 +169,15 @@
     "width": 182.4687042236328
   },
   "lastOpenFiles": [
-    "Guaranteed Prescription For Misery.md",
-    "Sustainable Sources of Competitive Advanatge.md",
-    "Shane Parrish on habits.md",
-    "2021 Resolutions.md",
-    "Poor Charlie's Almanack.md",
-    "Untitled.md",
-    "Reciprocity.md",
-    "The High Price of Mistrust.md",
-    "How To Attract Luck.md",
-    "Trust and Consistency of Brands.md"
+    "Awaken the giant within.md",
+    "Forward Integrator.md",
+    "Atomic Habits.md",
+    "Make it satisfying.md",
+    "Make it easy.md",
+    "Make it Attractive.md",
+    "Make it obvious.md",
+    "Mental Models from Biology.md",
+    "Vulnerability.md",
+    "Mental Models from Psychology.md"
   ]
 }

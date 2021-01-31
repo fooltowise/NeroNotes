@@ -1,3 +1,5 @@
+# Implications of ADC loan frauds
+
 The implication of [[ADC loan frauds]] are not obvious. One has to understand the fraud mechanism, Bank Board regulation, and a bit about accounting to understand how elegant a Ponzi the control frauds created.
 
 The first implication is that one can see why the S&Ls were taking an equity risk, not making a loan. The real estate developers were not personally liable to repay the loan. Their companies were not really on the hook either: they used shell companies with no assets to sign the note.

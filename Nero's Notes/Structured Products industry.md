@@ -7,7 +7,7 @@ But the main point of the industry is that the issuer is rarely dealing directly
 
 Here is how it works:
 - The end investor mandates the private banker to manage his account worth 1'000 CHF
-- The issuer would like to sell a structured product worth 950 CHF and approaches the private banker. However, since his product is a commodity, he could face a strong competition from other issuers, and it si not obvious that the private banker will buy from him.
+- The issuer would like to sell a structured product worth 950 CHF and approaches the private banker. However, since his product is a commodity, he could face a strong competition from other issuers, and it is not obvious that the private banker will buy from him.
 - The issuer then bribes the private banker in the following way:
 	- The private banker will buy the product worth 950 CHF at an inflated price, say 1'000 CHF
 	- The issuer will take a commission of 10 CHF called the sales credits (that's the issuer's margin)

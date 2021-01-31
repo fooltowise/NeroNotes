@@ -1,3 +1,5 @@
+# How to build a moat around an investment process
+
 ### [[Inversion|Invert]] the concept: how to ensure mediocrity:
 - Easy to execute
 - Reliant on "industry standards" tools

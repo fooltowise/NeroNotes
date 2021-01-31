@@ -1,3 +1,5 @@
+# Cheating
+
 Everybody cheats.
 In collatborative environments with lots of [[norms]], cheating allows us to reap the rewards without paying the costs.
 

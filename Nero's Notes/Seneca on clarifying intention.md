@@ -1,3 +1,4 @@
+# Seneca on clarifying Intention
 > Let all your efforts be directed to something, **let it keep that end in view**. It's not activity that disturbs people, but false conceptions of things that drive them mad. Seneca, _On the tranquility of mind_
 
 Having an end in mind is no guarantee that you will reach it (no Stoic would tolerate this assumption), but _not_ having an end in mind is a guarantee you won't. 

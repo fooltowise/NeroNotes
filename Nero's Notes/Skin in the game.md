@@ -1,3 +1,5 @@
+# Skin in the Game
+
 Skin in the game acts as an incentive **and** as a filter that removes dangerous individuals from the community and prevents dangerous behaviors from spreading.
 
 Sociality helps aligning incentives within a community and conserving precious variance. It makes one feel like he cannot act against his community and jump ships.

@@ -1,3 +1,7 @@
+# The art of the Roll-up
+
+See also [[Forward Integrator]]
+
 source: https://smallcapdiscoveries.com/the-art-of-the-roll-up/
 
 The Art of the Roll-up: 7 Keys to Success

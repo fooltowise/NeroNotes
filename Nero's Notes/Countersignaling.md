@@ -1,3 +1,5 @@
+# Counter-Signaling
+
 *“An effective use of countersignaling requires finesse. Most importantly, the countersignaller must already hold some independent air of mystique.”* — [Tyler Cowen](https://fs.blog/tyler-cowen/), [Discover Your Inner Economist](https://www.amazon.ca/dp/0452289637/ref=as_li_qf_asin_il_tl?ie=UTF8&linkCode=gs2&linkId=99c6fc67bf0f617b5a75caea5b1ada38&creativeASIN=0452289637&tag=parrishshane-20&creative=9325)
 
 A multibillionaire casually admits to eating at McDonald’s for breakfast every day. A powerful CEO shows up at the office in jeans and a hoodie. A middle-class mother sends her child to school in a pajama shirt with unbrushed hair. A *New York Times* bestselling author says, “Oh, I write books,” when asked what they do at a dinner party. A supermodel posts a candid picture without makeup or filters online.

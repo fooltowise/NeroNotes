@@ -1,3 +1,4 @@
+# 1000 True Fans
 ### by Kevin Kelly
 This is an edited, updated version of an essay I wrote in 2008 when this now popular idea was embryonic and ragged. I recently rewrote it to convey the core ideas, minus out-of-date details. This revisited essay appears in Tim Ferriss' new book, Tools of Titans. I believe the 1,000 True Fans concept will be useful to anyone making things, or making things happen. If you still want to read the much longer original 2008 essay, you can get it after the end of this version. — KK
 

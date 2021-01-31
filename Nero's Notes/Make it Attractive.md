@@ -1,3 +1,5 @@
+# Make it Attractive
+
 - The 2nd law of Behavior Change is _Make it Attractive_
 - The more attractive an opportunity is, the more likely it is to become habit-forming
 - Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.

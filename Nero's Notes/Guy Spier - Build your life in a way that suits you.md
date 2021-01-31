@@ -1,3 +1,5 @@
+# Guy Spier - Build your Life in a way that suits you
+
 **Fall 2013
 Guy Spier is the founder and managing partner of Aquamarine Capital, an investment partnership styled after the original 1950’s Buffett partnerships. In 2008 Mr. Spier, along with Mohnish Pabrai, had lunch with Warren Buffett after submitting the winning bid for Buffett’s annual Glide charity auction. Mr. Spier completed his undergraduate studies at Oxford and earned an M.B.A. from Harvard Business School.**
 

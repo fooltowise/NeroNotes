@@ -1,4 +1,4 @@
-
+# Non-ergodicity and expected returns
 
 Maximizing the expected returns of your choices is a good strategy only if the consequences of mistakes and misfortunes are reversible. Otherwise, it is a stupid strategy.  What is optimal in the presence of reversibility is stupid otherwise, and the other way around. 
 

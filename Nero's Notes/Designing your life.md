@@ -1,3 +1,4 @@
+# Designing your Life
 ## by Bill Burnett and Dave Evans
 ### Introduction
 - *Engineering problems* are problems for which we have data and we are sure what is the best solution. *Designing problems* occurs when we have no idea in advance of what the solution will be like. You have a desired outcome but no clear solution in sight. Life is mostly composed of designing problems.

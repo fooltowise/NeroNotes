@@ -1,3 +1,5 @@
+# Our Choices
+
 Ultimately, this is clarity. Whoever we are, wherever we are, **what matters is our choices**.
 What are they? How will we evaluate them?
 **How will we make the most of them?**

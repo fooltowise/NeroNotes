@@ -1,3 +1,6 @@
+# Self Deception and Common Knowledge
+
+
 **The value of [[self deception]] does not lie in sabotaging yourself per se. It lies in convincing others that you've sabotaged yourself.** In the game of chicken, you don't win because you are unable to steer, but because your opponent believe that you're unable to steer.
 
 Self deception is only useful when you're playing against an opponent who can take your mental state into account.  It is absolutely useless with a hurricane for instance.

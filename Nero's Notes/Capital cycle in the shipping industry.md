@@ -1,5 +1,7 @@
+# Capital Cycle in the Shipping Industry
+
 The global shipping industry provides a classic example of a [[Capital Cycle]].
-Between 2001 and 2007, daily rates for "Panamax" class shipts rose tenfold as China's rapidly increasing share of global trade boosted shipping demand. 
+Between 2001 and 2007, daily rates for "Panamax" class ships rose tenfold as China's rapidly increasing share of global trade boosted shipping demand. 
 
 New orders in the shipbuilding industry are strongly correlated with daily spot rates. The supply responses was inevitable if not immediate - *it takes up to three years for a new ship order to be delivered.*
 

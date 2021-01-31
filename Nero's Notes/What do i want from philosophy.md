@@ -1,3 +1,5 @@
+# What do I want from Philosophy
+
 
 > What is the fruit of these teachings? Only the most beautiful and proper harvest of the truly educated  - tranquility, fearlessness and freedom.
 

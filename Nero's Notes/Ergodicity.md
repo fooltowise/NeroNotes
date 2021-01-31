@@ -1,3 +1,5 @@
+# Ergodicity
+
 In mathematics and probability theory, ergodicity is a property of a variable. We say that a phenomenon is ergodic if its behavior from a ensemble perspective converge with its behavior from a time-series perspective.
 **A system is ergodic if its population outcome coincides with the lifetime outcome of each of its components. Otherwise, it is non-ergodic.**
 

@@ -1,3 +1,5 @@
+# Experian
+
 ## A forbidding [[Cost to Replicate]]
 The United Kingdom's credit reporting industry dates to 1803, when a group of London tailors starting sharing information about deadbeat customers. In 1826, the wonderfully named "Society of Guardians for the Protection of Tradesmen against Swindlers, Sharpers and other Fraudulent Persons" was established in Manchester. Later that century, several credit agencies were founded in the United States, including Jim Chilton's Merchants Credit Association, which provided annual printed credit directories to subscribers and pioneered two enduring initiatives: collecting positive as well as negative information and convincing member merchants to confidentially share credit information for associational use.
 

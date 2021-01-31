@@ -1,3 +1,5 @@
+# Stoic Morning Ritual
+
 _Ask yourself the following first thing in the morning:
 - What am I lacking in attaining freedom from passion?
 - What for tranquility?

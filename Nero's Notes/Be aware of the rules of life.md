@@ -1,3 +1,5 @@
+# Be Aware of the Rules of Life
+
 - You can choose what games you play, but you cannot change their rules.
 - Any problem grows until you notice it (i.e until it hurts).
 - The very important is never urgent.

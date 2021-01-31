@@ -1,3 +1,5 @@
+# ADC Loan Frauds
+
 During the S&L crisis, many [[Profile of Control Frauds| control frauds]] used ADC loans (Acquisition, Development and Construction) to defraud investors.
 
 The typical control fraud made ADC loans with the following characteristics:

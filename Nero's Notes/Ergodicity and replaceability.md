@@ -1,3 +1,5 @@
+# Ergodicity and Replaceability
+
 In general, the survival of a population does not coincide with the survival of its members, not all of them.
 
 For a mother, her child is irreplaceable. For the species, natural selection means an improvement.

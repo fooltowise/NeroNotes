@@ -1,3 +1,5 @@
+# Sauteed Cabbage
+
 ### Ingredients
 1 small head green cabbage about 2 1/2 pounds
 1 tablespoon extra virgin olive oil

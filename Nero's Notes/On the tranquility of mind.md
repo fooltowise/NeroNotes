@@ -1,3 +1,4 @@
+# On the Tranquility of Mind
 ## by Seneca
 
 - You can make the same point that rich and poor suffer equal distress: for both groups cling to their money and suffer if it is torn away from them. But, as I said, **it is easier to bear and simpler not to acquire than to lose, so you will notice that those people are more cheerful whom Fortune has never favored than those whom she has deserted.**

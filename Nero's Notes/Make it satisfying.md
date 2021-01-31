@@ -1,3 +1,5 @@
+# Make it Satisfying
+
 - The 4th Law of Behavior Change is _Make it Satisfying_
 - We are more likely to repeat a behavior when the experience is satisfying
 - The human brain evolved to prioritize immediate rewards over delayed rewards

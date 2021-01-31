@@ -5,7 +5,7 @@
 [[First Principle Thinking]]
 [[Thought Experiments]]
 [[Second Order Thinking]]
-[[Probabilistic Thinking]]
+[[Probabilistic Thinking]] and [[Ergodicity]]
 [[Inversion]]
 [[Occam's Razor]]
 [[Hanlon's Razor]]

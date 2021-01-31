@@ -1,3 +1,4 @@
+# Spatial (non)-ergodicity
 Bergamo province was one of the hardest-hit by the 2020 coronavirus pandemic. So many people died there because the hospitals got overwhelmed. Many perished in their houses because they couldn't access tests and therapies.
 
 And yet, on average, the healthcare system worked great. *On average*, hospitals didn't see many coronavirus hospitalizations. On the worst day of the pandemic, only about 10% of Italian public hospital beds were occupied by coronavirus patients.

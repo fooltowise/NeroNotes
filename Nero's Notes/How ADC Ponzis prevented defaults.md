@@ -1,3 +1,5 @@
+# How ADC Ponzis prevented defaults
+
 The crudest way to prevent default on an [[ADC loan frauds]] was to refinance the ADC loan. The Ponzi would start the whole game again by self-funding the fees and interest. The problem was that this was easy to spot for auditors and examiners and should have raised warning flags. Remarkably, Arthur Young and Company gave clean opinion to two of the most notorious Texas control frauds, Vernon Savings and Western Savings, even though they routinely refinanced all their ADC loans.
 
 *Cash for Trash* deals are harder to spot because they create seemingly arm's length sales. The best evidence of market value is a recent arm's length sale. A good rule, except when there is fraud. A cash-for-trash deal started with an uncreditworthy borrower asking the S&L for a $3 million ADC loan. The loan officer responds that the S&L will not loan him $3 million, but it will loan him $33 million. The catch is that the borrower has to use $30 million of the loan proceeds (the cash) to buy a particular property (the trash). The property is a soon-to-fail real estate project that the S&L funded with an ADC loan.

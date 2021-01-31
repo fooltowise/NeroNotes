@@ -1,4 +1,7 @@
 # Sustainable Sources of Personal Competitive Advantage
+
+
+### by Morgan Housel
 The only truly [sustainable sources of competitive advantage I know of are](http://www.collaborativefund.com/blog/sustainable-sources-of-competitive-advantage/):
 
 -   Learn faster than your competition.
@@ -14,7 +17,7 @@ The only truly [sustainable sources of competitive advantage I know of are](http
 
 Everything else – intelligence, design, insight – gets smashed to pieces by competitors who are almost certainly as smart as you.
 
-**Note from Julien: To which I would add:**
+**Notes from Julien: To which I would add:**
 - Be more reliable than your competition
 - Be more trustworthy than your competition
 

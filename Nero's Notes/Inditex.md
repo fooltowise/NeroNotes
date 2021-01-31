@@ -1,3 +1,5 @@
+# Inditex
+
 See [[Global Capabilities and Leadership]]
 
 Amancio Ortega Gaona opened the first Zara store in A Coruna, Spain in 1975, purveying the latest fashions at affordable prices. The strategy remains unchanged to this day. The difference now is that the parent company, Inditex, is one of a handful of truly global fashion retailers. The company's sheer scale is enviable: in 2014, it generated $20 billion of sales from 6'683 stores across the world, distributing more than one billion garments. The founder still owns nearly 60% of the company and is, according to the Bloomberg Billionaires list, the second richest man in the world. 

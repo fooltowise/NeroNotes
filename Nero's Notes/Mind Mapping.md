@@ -1,4 +1,4 @@
-
+# Mind Mapping
 Mind mapping is a great tool for ideating by yourself and a great method for getting unstuck. Mind mapping works by using simple free association of words, one after another, to open up the idea space and come up with new solutions. The graphical nature of the method allows ideas and their associations to be captured automatically. this technique teaches you to generate lots of ideas, and because it is a visual method, it bypasses your inner logical/verbal censor. 
 
 The Mind Mapping process has three steps:

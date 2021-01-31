@@ -1,3 +1,5 @@
+# Secrets about People - An Introduction to Rene Girard
+
 [Source](https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/)
 
 See [[Signaling]] , [[Social status]], [[Social Status - Down the rabbit hole]]

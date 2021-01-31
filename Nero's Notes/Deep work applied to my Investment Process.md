@@ -1,5 +1,7 @@
 
 
+# Deep Work applied to my Investment Process
+
 My big, hairy goal is to grow my wealth by 20+ percent annually.
 To do that I will need to be able to distinguish [[Lollapalooza Effect| lollapalooza companies]].
 

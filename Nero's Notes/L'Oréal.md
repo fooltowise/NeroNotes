@@ -1,3 +1,5 @@
+# L'Oreal
+
 Vanity is venerable: ancient civilizations as diverse as the Egyptians, Chinese, Indians, Japanese, Greeks and Romans used scented oils, mineral pastes, and natural dyes to mask body odor, paint skin, and dye hair.  Catering to these deep-seated impulses, today's cosmetics industry generates yearly revenues of around $250 billion. Purveyors sell "hope in a jar", as Revlon founder Charles Revson once put it, including some pricey products, such as the $2'000 price tag for Estée Lauder's Crème de la Mer moisturizer. 
 
 The market leader is L'Oréal, founded in Paris in 1909 by a young chemist named Eugène Schueller, whose strong [[brands]] translate consumer appetite for beauty into significant [[Pricing Power]]. It is adept at exploiting the lack of a direct link between price and outcome or between price and input cost. A small tube of Lancôme Visionnaire anti-wrinkle face cream, for instance, retails for $90, five times that of mass-market rivals offerings such as Nivea.

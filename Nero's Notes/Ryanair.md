@@ -1,4 +1,4 @@
-
+# Ryanair
 Ryanair started flying between London's Gatwick airport and Waterford, Ireland's fifth largest city, in 1985 with a single turboprop plane. Initially focused on the London/Ireland flight market, historically dominated by Aer Lingus and British Airways, the company spent the next 30 years  muscling into markets across Europe route-by-route. Ryanair now operates 1600 daily flights from 72 hubs, carrying more than 90 millions passengers annually. 
 
 The bedrock of Ryanair's spectacular growth is being the lowest-cost provider - by a wide margin - in a legendarily inefficient and uneconomic industry (see [[Airline Business]]). Ryanair exemplifies the benefits of substantial cost advantage: aside from fuel, Ryanair's unit cost is around half of its closest competitor, EasyJet and far less than half of other rivals such as Norwegian and Air Berlin. Competitors must price fares at double Ryanair's rates, which explains why it continues to take market share across Europe.

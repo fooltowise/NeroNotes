@@ -1,3 +1,5 @@
+# The Power of Memento Mori
+
 Like most solo pursuits, the artist’s life is one that ceaselessly tests one's mental fortitude. Steven Pressfield likens it to dragon slaying. The dragon being what he’s coined the “Resistance”—that voice that questions your abilities, your worth, your sanity. “Resistance never sleeps,” Pressfield says. “It never slackens and it never goes away. The dragon must be slain anew every morning.” Anyone who sets out to make a career in the arts is confronted with this reality quickly, if not immediately.
 
 The two-time finalist for the Pulitzer prize, Russell Banks, was in his mid-twenties—just married, an apprentice plumber, living frugally—when he took the leap into the dragon’s den of creative expression. It was then that he happened upon a plaster angel statue in the window of a used furniture store. It wasn’t the angel that caught his attention. “I was pointedly irreligious and whatever the opposite of puritanical is,” as he puts it. It was the words carefully carved on the angel: Remember Death.

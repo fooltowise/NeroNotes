@@ -1,3 +1,5 @@
+# Capital Cycle and Management Behavior
+
 High current profitability often leads to overconfidence among managers, who confuse benign industry conditions with their own skills - a mistake encouraged by the media, which is constantly looking for corporate heroes and villains. 
 
 Both investors and managers are engaged in making demand projection. Such forecasts have a wide margin of error and are prone to systematic biases. In good times, the demand forecasts tend to be too optimistic and in bad times overly pessimistic.

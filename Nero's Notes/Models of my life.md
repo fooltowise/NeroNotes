@@ -1,3 +1,5 @@
+# Models of my Life
+
 ## by Herbert Simon
 
 ### On economics and empirical results
@@ -17,7 +19,7 @@
 
 > You start every class by giving students the opportunity (or better, the obligation) to ask questions about their reading, about previous sessions, or about anything. You take each question seriously, and answer it without making a jackass of the student who asked it (no matter how foolish the question). After a year of teaching constitutional law, I found I was able to write a twenty-page document to distribute to students that provided answers to 90% of the questions they asked. I was never sure whether that was a good thing, though, for it cut down the questioning.
 
->Of course, students don't learn by being lectured at, anyway; they learn by thinking hard, solving problems, dissecting proofs. Requiring them to write briefs was the most important component of our teaching at IIT. After students have thought hard about a topic, a lecture can help them sort out and organize their thoughts. Enlightements, like accidents, happen only to prepared minds. If students have thought about something, you can discuss it profitably in class. Without the preparation, it is just a bull session.
+>Of course, students don't learn by being lectured at, anyway; they learn by thinking hard, solving problems, dissecting proofs. Requiring them to write briefs was the most important component of our teaching at IIT. After students have thought hard about a topic, a lecture can help them sort out and organize their thoughts. Enlightenments, like accidents, happen only to prepared minds. If students have thought about something, you can discuss it profitably in class. Without the preparation, it is just a bull session.
 
 > You keep lectures on the high ground. The details of proofs are better gleaned from books. Above all, you feel no obligation to repeat the contents of the textbook, for that would simply confirm students into the habit of not reading it.
 
@@ -37,6 +39,8 @@
 > The win or loss of a chess game may be decided in the same incremental way. Especially when good players are nearly equal in skill, the game is seldom lost by a single bad move.  Rather,  the winning player secures a cumulative advantage by exploiting successful small weaknesses that are observed  in the opponent's choices of moves. We can express the better player's advantage by a probability, slightly greater than 0.5, that in each pair of moves that player's will be the stronger.
 
 > For most of us - those of us who have not won million-dollar lotteries, or suffered sudden crippling accidents - life is much like the chess game. We make hundreds of choices among the alternative paths that lie before us and, as the result of those choices, find ourselves pursuing particular, perhaps highly specialized, careers, married to particular spouses, and living in particular towns. Even if we point a single event as the "cause" of one of these outcomes, closer scrutiny of the path we have trod would reveal prefatory or preparatory events and choices that made the occurrence of the critical event possible.
+
+See [[Evolution - Natural Selection and Extinction]], [[Human brain is big because of competition]]
 
 
 ### On Authority

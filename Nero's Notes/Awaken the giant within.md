@@ -1,3 +1,5 @@
+# Awaken the Giant Within
+
 ## by Tony Robbins
 
 - The difference in the results that people produce comes down to what they've done differently from others in the same situation. **Different actions produce different results.** Why? Because any action is a cause set in motion, and its effect builds on past effects to move us in a definite direction. Every direction leads to an ultimate destination: our destiny. In essence, if we want to direct our lives, we must take control of our consistent actions. **It's not what we do once in a while that shapes our lives, but what we do consistently. **

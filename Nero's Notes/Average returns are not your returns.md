@@ -1,3 +1,5 @@
+# Average Returns are not your returns
+
 **Averages are misleading. Systems might work on average and still fail locally. **
 
 If you miss a plane because the train to the airport is late, the train company telling you that trains are one minute late on average will not bring any relief. You do not even care whether the average delay is one minute or ten. You only care about the fact that the one time the train is late half an hour, you will miss your plane.

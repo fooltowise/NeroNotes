@@ -1,4 +1,4 @@
-
+# Make it Obvious
 - With enough practice, the brain will pick up on the cues that predict certain outcomes without consciously thinking about it
 - Once the habit becomes automatic, we stop paying attention to what we are doing
 - The process of behavior change always starts with awareness. You need to be aware of your habits before you can change them.

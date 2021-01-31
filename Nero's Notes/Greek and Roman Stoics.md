@@ -1,3 +1,4 @@
+# Greek and Roman Stoics
 ### Greek Stoics
 
 - Stoicism started in Greece with Zeno of Citium, Cleanthes and Chrysippus

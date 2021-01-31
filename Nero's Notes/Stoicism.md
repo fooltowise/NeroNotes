@@ -1,5 +1,5 @@
 
-
+# Stoicism
 Best topics:
 [[On the Shortness of Life]]
 [[Epictetus on control and choice]]

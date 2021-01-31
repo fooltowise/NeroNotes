@@ -1,3 +1,4 @@
+# Living Life Backwards
 
 
 **SHANE:** Just think of your life. We’re living life forward, but in reality, you should live life backwards. And that means sort of like pitching yourself at 90 and sitting on a park bench and it’s like, “What does my life look like? How have I treated the people in it? What matters to me in this moment?” And then living your life towards that direction versus living your life unconsciously in the best direction for tomorrow. **You want to optimize for your life. You don’t want to optimize for tomorrow.** And those things, often the decisions are the same, but often they’re very different. What’s going to matter to you towards the end of your life isn’t probably what matters to you tomorrow. But what matters to you tomorrow, it can affect the end of your life. So you have to sort of live with the end in mind. I think that was like Stephen Covey had said that. We sort of call it living backwards.
