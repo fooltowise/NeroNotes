@@ -1,3 +1,5 @@
+# Advertising and Promotion
+
 Very often, impressive sales result from decades of historical marketing spending to build a [[Brands]].  By creating brand awareness, a company invests, in effect, in the consumer's consciousness. 
 It buys a mental barrier to entry, as rivals would need to spend substantial sums to replace the brand in the mind of consumers. Having a major consumers mind share is a huge advantage in business.
 

@@ -1,3 +1,4 @@
+# Toll Roads
 Many large industries are served by niche suppliers whose services or products may represent a relatively immaterial proportion of that industry's cost base, but which are crucial to its successful operation. This position of being a small, but vital, cog helps to create significant barriers to entry; often meaning that suppliers' own competitive landscapes are oligopolistic and stable rather than broad-based and unpredictable. Good examples include companies in fields such as professional certification (auditing, rating agencies, product testing) and specialty ingredients (for products as diverse as yogurt or motor oil). **Companies in such niches benefit by extracting part of the economics from every unit of volume in a larger, often relatively stable, industry.** We call them *toll roads*.
 
 Toll roads can take many forms:

@@ -1,4 +1,4 @@
-
+# Dental Implants Industry
 Nobel Biocare and Straumann are Swiss leaders in the field of dental implant technology. Like [[Geberit's business model|Geberit]], their business model is based on the [[Agency Business Model]].
 
-Constant innovation and customer (in this case, the dentist) education has driven strong growth and high margins.  Nobel Biocare has grown revenues at 17% per annum since 1995, and its latest operating profit margin was 24% (this was written in 2004).  Dentists who adop its implant technique, which replaces the traditional crown and bridge solution, earn higher revenues. Customer end up with better teeth, and shareholders are smiling...
+Constant innovation and customer (in this case, the dentist) education has driven strong growth and high margins.  Nobel Biocare has grown revenues at 17% per annum since 1995, and its latest operating profit margin was 24% (this was written in 2004).  Dentists who adopt its implant technique, which replaces the traditional crown and bridge solution, earn higher revenues. Customer end up with better teeth, and shareholders are smiling...

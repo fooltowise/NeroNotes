@@ -1,3 +1,9 @@
+
+## Highlights:
+
+**"Quickly eliminate the big universe of what not to do, follow up in a fluent multidisciplinary attack on what remains, then act decisively when, and only when, the right circumstances appear."**
+
+
 > You must know the big ideas in the big disciplines and use them routinely - all of them, not just a few. Most people are trained in one model - economics, for example - and try to solve all problems in one way. You know the old saying: "To the man with a hammer, the world looks like a nail." This is a dumb way of handling problems.
 
 Charlie's approach to investing is quite different from the more rudimentary systems used by most investors. Instead of making a superficial stand-alone assessment of a company's financial information, Charlie conducts a comprehensive analysis of both the internal workings of the investment candidate as well as the larger, integrated [[Business as an Ecosystem |ecosystem]] in which it operates. He calls the tools he uses to conduct this review "Multiple [[Mental Models]]". These models serve a framework for gathering , processing, and acting on information. They borrow from and neatly stitch together the analytical tools, methods, and formulas from such traditional disciplines as history, psychology, physiology, mathematics, engineering, biology, physics, chemistry, statistics, economics, and so on. The unassailable logic of Charlie's ecosystem approach to investment analysis: *Just as multiple factors shape almost every system, multiple models from a variety of disciplines, applied with fluency, are needed to understand that system.*

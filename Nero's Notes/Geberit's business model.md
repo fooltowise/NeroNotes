@@ -1,3 +1,5 @@
+# Geberit's Business Model
+
 Geberit is a Swiss sanitary systems manufacturer, and its business model is based on the [[Agency Business Model]] (see also [[The Friendly Middleman]]).
 
 The company sells its product to plumbers via wholesalers who then install them in the in the end-customer's home or commercial building.

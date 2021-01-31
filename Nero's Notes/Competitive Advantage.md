@@ -1,13 +1,13 @@
+# Competitive Advantage
 
 
-
-### Sources of Competitive advantage
+## Sources of Competitive advantage
 
 There are two big categories of competitive advantage:
 - Advantages that give you pricing power
 - Advantages that allow you to be the low cost provider
 
-#### Pricing power: 
+### Pricing power: 
 **We want the company to be a price maker, not a price taker.**
 
 Most industries are deflationary over time. Try to seek an industry that is inflationary, not deflationary. 
@@ -27,21 +27,18 @@ Pricing power can come from:
 	9. [[Filtering]]: the company is removing uncertainty from the customer's life
 	10. [[Luxury Business]]
 	11. [[Network Effects]]
-
 		Those intangible assets are by nature difficult to replicate, and tend to be more durable than hard tangible assets.
-		
-		
 		
 3. When the payer is not the decider (again example of the Agency business model)
 
 
-#### Be the [[Low Cost Provider]]
+### Be the [[Low Cost Provider]]
 1. [[Economies of Scale]]
 2. [[Reverse pricing power]]
 
 
 
-#### Other Factors
+### Other Factors
 1.  Is the company beneficiary of a [[Float]]?
 2.  Look for the existence of a [[Flywheel]]
 3.  [[Cults - the enabler of Reflexivity]]
@@ -49,11 +46,6 @@ Pricing power can come from:
 5.   [[Low-touch marketing]]
 6.  A great [[Corporate Culture]]
 7.  [[Distribution advantages]]
-
-
-
-
-
 
 
 When a company does not enjoy any competitive advantage, the investor is heavily relying on management's [[Capital Allocation]] skills to provide acceptable returns.

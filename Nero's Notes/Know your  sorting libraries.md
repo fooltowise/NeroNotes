@@ -1,3 +1,5 @@
+# Know your sorting libraries
+
 To sort an array, use Arrays.sort(A), and to sort a list use Collections.sort(list).
 - The time complexity of Arrays.sort(A) is O(n log n), where n is the length of the array A. The space complexity is as high as n/2 objects references for randomly ordered input arrays. For nearly sorted inputs, both time and space complexity are much better: approximately n comparisons, and constant space.
 - Arrays.sort(A) operates on arrays of objects that implements the Comparable interface. Collections.sort(list) does the same on lists.

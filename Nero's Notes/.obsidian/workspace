@@ -6,11 +6,68 @@
       {
         "id": "e16a298e17a3f22f",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Poor Charlie's Almanack.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "7689d8cb9fb8785b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mungerisms.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "0e3eab4212914790",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General Mental Models.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "cdb938485254bb73",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Become a learning machine.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "f8b4d56f780432d0",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Say no to what does not matter.md",
+            "file": "Dividends and Buybacks.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0c84b7e05304d187",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lollapalooza Effect.md",
             "mode": "preview"
           }
         }
@@ -90,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Say no to what does not matter.md",
+                "file": "Dividends and Buybacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Say no to what does not matter.md"
+                "file": "Dividends and Buybacks.md"
               }
             }
           }
@@ -118,15 +175,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Say no to what does not matter.md",
-    "Mungerisms.md",
-    "Two modes of investment idea generation.md",
-    "Self Perpetuation of Corporate Culture.md",
-    "Intangible benefits.md",
-    "Pain reducing psychological denial.md",
-    "Fundamental Attribution Error.md",
-    "Rationality mechanics in an industry.md",
-    "How much do I get to live.md",
-    "Low Cost Squared.md"
+    "Dividends and Buybacks.md",
+    "Capital Allocation.md",
+    "Mergers and Acquisitions.md",
+    "Leveraging network benefits.md",
+    "Hearing Aid industry.md",
+    "Agency Business Model.md",
+    "Structured Products industry.md",
+    "Testing Industry.md",
+    "Dental Implants industry.md",
+    "Geberit's business model.md"
   ]
 }

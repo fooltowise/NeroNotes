@@ -1,4 +1,4 @@
-
+# Lollapalooza Effect
 ### Plain English
 
 The Lollapalooza Effect occurs when many different factors come together, leading to multiplicative rather than additive results.  

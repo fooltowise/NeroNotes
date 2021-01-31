@@ -1,3 +1,5 @@
+# Assurance Benefits
+
 If shopping for a parachute, the chances are high that you would care about one thing above all else: that it worked. If offered a parachute selling for a fraction of the price but with greater risk of malfunctioning, you would be extremely unlikely to take up the offer. The impact of failure would be perceived to be too large to be worth it. (see [[Switching costs]])
 
 Many consumer products pose the parachute scenario. Another company may offer a lower cost option, but the consequences of failure are seen as devastating so consumers will pay more for products such as child safety equipment, life jackets, bicycle helmets, and fire alarms, to name a few. For customers, the value of knowing - or believing -that they are choosing the most reliable or highest quality product can translate into a highly sustainable willingness to pay a premium price.

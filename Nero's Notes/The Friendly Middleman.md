@@ -1,4 +1,4 @@
-
+# The Friendly Middleman
 Many businesses must deal with middlemen to reach end consumers. The middleman's role can be positive or negative on a company's growth, margins and returns. In trying to understand the varying roles and results, we have identified several useful patterns, pivoting around what we call *the friendly middleman*.
 
 ### The Helping Hand

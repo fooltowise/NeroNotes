@@ -1,3 +1,5 @@
+# Natural Selection, Ergodicity and Fractalization
+
 [[Evolution - Natural Selection and Extinction| Natural selection]] is usually a scary process, threatening our livelihoods. However, it is possible to make it work for us rather than against us. In this chapter, I will show you how to harness the power of natural selection.
 
 ### Multiscale natural selection

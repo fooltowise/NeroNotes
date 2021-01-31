@@ -1,3 +1,5 @@
+# Economies of Scale
+
 ### Types of economies of scale
 1. Technical: Large capital equipment with large fixed costs
 2. Specialization: Division of labor and specialization within production: more efficient and high output

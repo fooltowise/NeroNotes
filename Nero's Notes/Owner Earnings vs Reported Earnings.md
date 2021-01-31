@@ -1,3 +1,6 @@
+# Owner Earnings vs Reported Earnings
+
+
 
 > Owner Earnings represent:
 > - (A) Reported Earnings, plus 

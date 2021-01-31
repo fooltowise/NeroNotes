@@ -1,3 +1,5 @@
+# General Mental Models
+
 [[The Map is not the Territory]]
 [[Circle of Competence]]
 [[First Principle Thinking]]

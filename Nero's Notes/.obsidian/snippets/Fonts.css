@@ -1,8 +1,28 @@
 
 
-div.view-header-title{
-	font-size: 2em !important;
-	color: #ECEAE4 !important;
+div.view-header-title{	
+	font-size: 0.75em !important;
+	color: #ECEAE4 !important;	
+	 text-align: center;
+}
+
+div.view-header-title-container{
+
+}
+
+div.view-header-icon{	
+	margin-bottom: 30px !important;
+	
+}
+
+div.view-actions{
+	padding-top: 30px !important;
+	
+}
+.markdown-preview-view h1{
+	font-size: 2.5em !important;
+	color: #ECEAE4 !important;	
+	padding-bottom: 50px !important;
 }
 
 .markdown-preview-view h2{
@@ -25,6 +45,11 @@ div.view-header-title{
 .cm-header-2{
 	font-size: 1.5em !important;
 	color: #FFD8BE;
+}
+
+.cm-header-1{
+	font-size: 2.5em !important;
+	color: #ECEAE4 !important;	
 }
 
 

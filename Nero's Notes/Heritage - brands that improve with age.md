@@ -1,3 +1,3 @@
-
+# Heritage - Brands that Improve with Age
 Some [[Brands]] get better with age. Buy a Cartier necklace and you get both fine jewelry and a piece of history, following in the footsteps of European royalty. Ray-Ban aviators sunglasses benefit from a tradition backed by movie stars and pilots over decades. Such legacies are impossible to replicate: no amount of capital can reproduce such an history. 
 A further trait of many heritage brands is intertwining with specific geographies. Cognac, for example, may only originate in a certain region of France, by law. Sometimes the association is less direct, but no less powerful: Swiss chocolate sounds better than Finnish chocolate and leather goods from Italy and France are often perceived to be of higher quality. 

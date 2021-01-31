@@ -1,3 +1,5 @@
+# Mergers and Acquisitions
+
 Acquisitions are a common source of value destruction, so it is usually better for capital to be deployed on organic growth as opposed to M&A.
 
 

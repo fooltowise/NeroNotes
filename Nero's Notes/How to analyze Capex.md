@@ -1,3 +1,5 @@
+# How to Analyze Capex
+
 Total Capex = Growth Capex + Maintenance Capex
 
 We know the total capex. We can get it from the fixed asset schedule in the balance sheet. We can also get it from the cash flow statement as net investment in fixed assets.

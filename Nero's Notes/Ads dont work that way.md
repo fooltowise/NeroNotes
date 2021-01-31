@@ -1,3 +1,5 @@
+# Ads don't work that way
+
 ### by Kevin Simler
 
 There's a meme, particularly virulent in educated circles, about how advertising works — how it sways and seduces us, coaxing us gently toward a purchase.

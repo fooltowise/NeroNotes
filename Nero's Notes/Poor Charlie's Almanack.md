@@ -1,3 +1,5 @@
+# Poor Charlie's Almanack
+
 [[Making Friends among the Eminent Deads]]
 [[Munger on Cicero]]
 [[Business as an Ecosystem]]

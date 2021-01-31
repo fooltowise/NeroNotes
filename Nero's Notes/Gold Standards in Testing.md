@@ -1,3 +1,5 @@
+# Gold Standards in Testing
+
 Independent verification or testing services operate in many settings, such as financial auditing, supply chain management, and consumer product reviews. They offer particular value when risks of error are high, both from the direct consequence of failure - such as misallocated capital or injuries - and from the second-order effects of harm and reputation or legal liability. Such services may have have even greater value when used by third-parties rather than the payer, as with both bond rating agencies and financial auditing.
 
 Globalization and increasingly complex supply chains stoke demand for independent verification. As companies source from more counterparts around the world and have operations in multiple jurisdictions, the value of global gold standards increases; a trend that has benefited the testing companies, [[Intertek and SGS]] and Bureau Veritas.

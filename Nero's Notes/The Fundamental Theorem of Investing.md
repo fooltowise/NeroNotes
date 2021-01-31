@@ -1,3 +1,5 @@
+# The Fundamental Theorem of Investing
+
 As long-term investors, we begin with the premise that a company's common stock price will eventually reflect the per-share value of the underlying business.
 
 

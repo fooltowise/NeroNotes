@@ -1,4 +1,4 @@
-
+# Testing Industry
 The testing industry is often another example of [[Agency Business Model]] where the paying customer does not actually choose the service.
 
 Labtest is the Hong Kong subsidiary of [[Intertek and SGS| Intertek]], a company listed on the London stock exchange. the company's role is to serve as a gatekeeper between Chinese consumer goods manufacturers and American retailers.

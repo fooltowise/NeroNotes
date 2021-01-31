@@ -1,3 +1,4 @@
+# Structured Products Industry
 The industry of selling structured products is successful because of the [[Agency Business Model]] incarnated by the distribution fee.
 
 Structured Products are commodities. For a same payoff and a reasonable issuer's balance sheet, it does not matter if a reverse convertible is sold from issuer A or issuer B. The difference should only be in the price offered by the issuer.

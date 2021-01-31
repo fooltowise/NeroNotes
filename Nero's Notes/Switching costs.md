@@ -1,3 +1,5 @@
+# Switching Costs
+
 Sometimes a product is so embedded on a customer's workflow that the risk of changing outweighs any potential cost savings. For instance, in subscription-based services like computer systems (Oracle) or payroll processing (ADP, Paychex). Networks where the customer benefits from a company's [[Economies of Scale| scale]], as in the security business (Secom), industrial gases (Praxair, Air Liquide), car auctions (USS) or testing centers ([[Intertek and SGS]]) are another example.
 
 Another example is when customers may face a very high cost if they have to shut down a production line when a component fails (Fastenal, Rotork, Spirax-Sarco). The product may also be essential by virtue of its quality, safety or performance attribute.

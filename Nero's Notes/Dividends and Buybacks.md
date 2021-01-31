@@ -1,3 +1,5 @@
+# Dividends and Buybacks
+
 Excess cash - funds a company does not need to reinvest in the business or to seize attractive opportunities - should be distributed to shareholders as dividends or share buybacks.
 
 Managers have considerable discretion in this area of capital allocation, so we appreciate companies that clearly explain buyback and dividend policy in their disclosures.

@@ -1,3 +1,4 @@
+# Make it Easy
 - The Third Law of Behavior Change is _Make is Easy_
 - **The most effective form of learning is practice, not planning**
 - Focus on taking action, not being in motion
