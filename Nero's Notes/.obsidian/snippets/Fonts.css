@@ -21,6 +21,7 @@ div.view-actions{
 }
 .markdown-preview-view h1{
 	font-size: 2.5em !important;
+	line-height: 1em !important;
 	color: #ECEAE4 !important;	
 	padding-bottom: 50px !important;
 }
@@ -50,6 +51,17 @@ div.view-actions{
 .cm-header-1{
 	font-size: 2.5em !important;
 	color: #ECEAE4 !important;	
+}
+
+
+
+.cm-strong {
+    color: #ffdc7c;
+}
+
+
+strong {
+   color: #ffdc7c;
 }
 
 

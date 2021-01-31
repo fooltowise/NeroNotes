@@ -1,3 +1,5 @@
+# 2021 Resolutions
+
 ### Physical:
 - Lose fat. Get under 10% body fat again.
 - Get some ankle mobility. Have enough [[Ankle Dorsiflexion]] to be able to do a closed legs squat.

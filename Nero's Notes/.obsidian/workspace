@@ -17,13 +17,39 @@
         }
       },
       {
-        "id": "7d3cca4632f2382d",
+        "id": "08700ef8319e6410",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021 Resolutions.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "3f1a473bd3430a43",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sustainable Sources of Competitive Advanatge.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "0661e1592a620d53",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Poor Charlie's Almanack.md",
+            "file": "Guaranteed Prescription For Misery.md",
             "mode": "source"
           }
         }
@@ -53,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "replicate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poor Charlie's Almanack.md",
+                "file": "Guaranteed Prescription For Misery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Poor Charlie's Almanack.md"
+                "file": "Guaranteed Prescription For Misery.md"
               }
             }
           }
@@ -127,19 +153,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.4687042236328,
-    "collapsed": true
+    "width": 182.4687042236328
   },
   "lastOpenFiles": [
+    "Guaranteed Prescription For Misery.md",
+    "Sustainable Sources of Competitive Advanatge.md",
+    "Shane Parrish on habits.md",
+    "2021 Resolutions.md",
     "Poor Charlie's Almanack.md",
-    "Mungerisms.md",
-    "Munger's Humor.md",
-    "Munger on How to be Happy, Get Rich, and Other Advice.md",
-    "Munger's Critique of Academia.md",
-    "Munger on Mental Models.md",
-    "Munger's Critique of Lawyers, Law Firms, and Litigation.md",
-    "Warnings about Financial Institutions and Derivatives.md",
-    "Munger's Critique of Stock Options.md",
-    "Munger's Critique of Accountants.md"
+    "Untitled.md",
+    "Reciprocity.md",
+    "The High Price of Mistrust.md",
+    "How To Attract Luck.md",
+    "Trust and Consistency of Brands.md"
   ]
 }

@@ -1,3 +1,5 @@
+# Your Mind as a Library
+
 If you think of your mind as a library, three things should concern you:
 1. The information you store in there - its accuracy and relevance.
 2. Your ability to find/retrieve that information on demand.

@@ -1,5 +1,10 @@
 # Poor Charlie's Almanack
 
+## Eleven Talks
+[[Guaranteed Prescription For Misery]]
+
+## Misc
+
 [[Making Friends among the Eminent Deads]]
 [[Munger on Cicero]]
 [[Business as an Ecosystem]]
