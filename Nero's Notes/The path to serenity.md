@@ -1,3 +1,5 @@
+# The Path To Serenity
+
 > Keep this thought at the ready at daybreak, and through the day and night - there is only one path to happiness, and that is in giving up all outside of your sphere of choice, regarding nothing else as your possession, surrendering all else to God and Fortune. Epictetus, _Discourses_ 
 
 This morning, remind yourself of what is in your control and what's not in your control. Remind yourself to focus on the former and not the latter.

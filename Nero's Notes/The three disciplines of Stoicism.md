@@ -1,3 +1,5 @@
+# The Three Disciplines of Stoicism
+
 > All you need are these: certainty of judgment in the present moment; action for the common good in the present moment; and an attitude of a gratitude in the present moment for anything that comes your way. 
 Marcus Aurelius, _Meditations_
 

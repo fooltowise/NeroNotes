@@ -1,3 +1,5 @@
+# Tragedy of the Commons
+
 ## Description:
 
 When there is a shared mutual resource, every user benefits directly from its use, but shares the cost of its abuse with the rest of the world. That's why there is a very weak feedback loop between the condition of the resource and the users' decisions.

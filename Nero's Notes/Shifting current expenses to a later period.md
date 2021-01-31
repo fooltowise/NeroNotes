@@ -1,9 +1,9 @@
+# Shifting current expenses to a later period
+### Excessively capitalizing normal operating expenses
 
-### Excessively capitalising normal operating expenses
-
-- Improperly capitalising routine operating expenses
+- Improperly capitalizing routine operating expenses
   - Watch for sizable increase in capital spending in cash flows from investing activities
-- Watch for improper capitalisation of marketing and solicitation costs (ex: "deferred membership acquisition costs" as an asset on the balance sheet)
+- Watch for improper capitalization of marketing and solicitation costs (ex: "deferred membership acquisition costs" as an asset on the balance sheet)
 - Watch for earnings boosts after adopting new accounting rules (promulgated by the standard setters)
 - Be wary of unusual asset accounts on the balance sheet
 - Watch for an increase in software capitalization

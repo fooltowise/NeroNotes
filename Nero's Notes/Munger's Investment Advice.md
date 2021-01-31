@@ -1,3 +1,5 @@
+# Munger's Investment Advice
+
 ### The importance of temperament, patience, and curiosity
 One of the key elements to successful investing is having the right temperament - most people are too fretful; they worry too much. Success means being very patient, but aggressive when it's time. And the more hard lessons  you can learn vicariously rather than through your own hard experience, the better.
 

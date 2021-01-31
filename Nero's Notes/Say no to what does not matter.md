@@ -1,3 +1,5 @@
+# Say No to What does not matter
+
 > How many have laid waste to your life when you were not aware of what you were losing, how much was wasted in pointless grief, foolish joy, greedy desire, and social amusements - how little of your own was left to you. You will realize you were dying before your time!
 
 Seneca, _On the Shortness of life_

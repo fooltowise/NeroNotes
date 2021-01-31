@@ -1,3 +1,5 @@
+# Munger on Cicero
+
 [...] But I later came to share Cicero's governmental views. What he recommended was a combination of aspects of limited-franchise democracy, oligarchy and temporary kingship formed into an elaborate system of checks and balances designed to prevent any one politician from causing unendurable damage. 
 
 My comment: how is it different from Singapore?

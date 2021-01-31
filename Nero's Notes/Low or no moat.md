@@ -1,3 +1,4 @@
+# Low or no moat
 The typical business you encounter during the day likely falls into this bucket, such as your average convenience store or insurance agency. 
 
 These are perfectly fine businesses and likely provide employment within the community and a solid product or service to customers. 

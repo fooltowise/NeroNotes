@@ -1,3 +1,5 @@
+# Boosting Income using one-time or unsustainable revenues
+
 ### Boosting income using one-time events
 
 - If a company sells a subsidiary, check that it is not included in the operating income. Ex:  IBM sold a subsidiary to AT&T  and included that gain as a reduction of SG&A

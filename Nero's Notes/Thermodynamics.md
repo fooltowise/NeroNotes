@@ -1,4 +1,4 @@
-
+# Thermodynamics
 Nothing escapes the laws of thermodynamics. Everything is moving toward equilibrium, including people, culture, ideas, and information. Of course, total equilibrium means no life, so the place where there is no difference in anything is the place where everything rests. Thus, while pursuing difference is worthwhile and necessary, it's important to understand that any barrier you try to erect will face a relentless pressure to attain equilibrium. Therefore, it's important to remember that it takes a lot of work to maintain separation.
 
 Entropy is a similar constant. The end state of high entropy is also incompatible with life. Sensing this, we try to understand randomness and the unexplainable through stories that seem to put order back into our lives, thereby reducing entropy, Narratives are important. We use them to reduce chaos and stop drifting us too far from social order and cultural norms, which allows us to maintain our complex societies.

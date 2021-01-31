@@ -1,3 +1,5 @@
+# Winners Keep Winning
+
 ## Description:
 
 If the winner of a competition is systematically rewarded with means allowing him to win again, a reinforcing loop is created by which winners end up with winning everything, and losers are eliminated.

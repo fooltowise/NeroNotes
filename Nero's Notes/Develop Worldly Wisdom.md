@@ -1,3 +1,5 @@
+# Develop Worldly Wisdom
+
 Charlie Munger has adopted an approach to business and life that he refers to as worldly wisdom. Munger believes that by using a range of different models from many different disciplines - psychology, history, mathematics, physics, philosophy, biology, and so on - a person can use the combined output of the synthesis to produce something that has more value than the sum of its parts. 
 
 Robert Hagstrom wrote a wonderful book on worldly wisdom entitled *Investing: The Last Liberal Art*, in which he states that "each discipline entwines with, and in the process strengthens, every other. From each discipline the thoughtful person draws significant [[mental models]], the key ideas that combine to produce a cohesive understanding. Those who cultivate this broad view are well on their way to achieving worldly wisdom." 

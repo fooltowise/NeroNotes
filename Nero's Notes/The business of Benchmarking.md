@@ -1,3 +1,5 @@
+# The Business of Benchmarking
+
 ## By [[Marc Rubinstein]]
 “Yes, we think of ourselves as a benchmark company. I mean, data is in vogue now, and people are really kind of a bit obsessed with data, data companies… I think data is nice, it’s interesting. But if you could turn something to a benchmark, it really transcends data.” —Senior Vice President of Investor Relations, S&P Global, November 2020. 
 

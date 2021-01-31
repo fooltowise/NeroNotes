@@ -1,3 +1,4 @@
+# The tenets of capital cycle analysis
 
 - Most investors devote more time to thinking about demand than supply. Yet [[Focus on supply rather than demand| demand is more difficult to forecast than supply]]. Focus on supply.
 - Changes in supply drive industry profitability. Stock prices often fail to anticipate shifts in the supply side.

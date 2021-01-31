@@ -1,3 +1,5 @@
+# Planning Fallacy
+
 The Denver International Airport opened 16 months late, at a cost overrun of $2 billion.
 
 The Eurofighter Typhoon, a joint defense project of several European countries, was delivered 54 months late at a cost of 19 billion instead of $7 billion.

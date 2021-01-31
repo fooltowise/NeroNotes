@@ -1,4 +1,4 @@
-
+# Analytical Reading
 You now come to another decision point. Now that you have a better understanding of the book's content and its structure, do you want to understand it? Francis Bacon remarked: "Some books are to be tasted, others to be swallowed, and some few to be chewed an digested." 
 You can think of analytical reading as doing that chewing and digesting.This is doing the actual work. This is where a book raises its demand on your time and concentration. Analytical reading is a thorough reading. If [[Inspectional Reading]] reading is the best you can do in a limited time, this is the best reading you can do given unlimited time. This is the stage where you make the book your own by conversing with the author and asking many organized questions. Asking a book questions as you read makes you a better reader.
 

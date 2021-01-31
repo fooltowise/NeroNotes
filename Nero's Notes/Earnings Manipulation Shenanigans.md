@@ -1,3 +1,4 @@
+# Earnings Manipulation Shenanigans
 [[Recording revenue too soon]]
 [[Recording bogus revenue]]
 [[Boosting income using one-time or unsustainable revenue]]

@@ -1,3 +1,5 @@
+# Economies of Scale and Market Share
+
 Competitive advantages based on [[Economies of Scale]] usually rely on the fact that the incumbent can spread its fixed costs over a larger number of units, hence he has a lower total cost per unit and bigger profit.
 
 What is important is to realize that these economies of scale depend on the market share, not the market size. What the incumbent want is that his competitor defends a smaller market share so he realizes lower profits per unit.

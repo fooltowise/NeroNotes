@@ -1,4 +1,4 @@
-
+# Fundamental Attribution Error
 > The correspondence bias is the tendency to draw inferences about a person’s unique and enduring dispositions from behaviors that can be entirely explained by the situations in which they occur.
 >
 > —Gilbert and Malone

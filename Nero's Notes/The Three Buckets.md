@@ -1,3 +1,5 @@
+# The Three Buckets
+
 ### Analogy
 
 The Three Buckets is like a slot machine.

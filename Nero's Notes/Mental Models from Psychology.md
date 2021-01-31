@@ -1,3 +1,5 @@
+# Mental Models From Psychology
+
 - [[Placebo effect]]
 - [[Hyperbolic Discounting]]
 - [[Sunk Costs]]

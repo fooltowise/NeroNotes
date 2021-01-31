@@ -1,3 +1,5 @@
+# Crony Beliefs
+
 ### By Kevin Simler
 
 Credits up front: This essay draws heavily from Overcoming Bias, Less Wrong, Slate Star Codex, Robert Kurzban, Robert Trivers, Thomas Schelling, and Jonathan Haidt (among others I'm certainly forgetting). These are some of my all-time favorite sources, so I hope I'm doing them justice here.

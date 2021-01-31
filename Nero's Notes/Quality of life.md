@@ -1,3 +1,5 @@
+# Quality of Life
+
 The quality of your life is determined by the number of W's you control.
 
 Where you live.

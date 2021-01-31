@@ -1,4 +1,4 @@
-
+# Archetypes of Systems
 [[Policy Resistance]]
 [[Tragedy of the Commons]]
 [[Drift Toward Low Performance]]

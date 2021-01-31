@@ -1,4 +1,4 @@
-
+# Conjunction Fallacy
 
 
 > Merely corroborative detail, intended to give artistic verisimilitude to an otherwise bald and unconvincing narrative . . .

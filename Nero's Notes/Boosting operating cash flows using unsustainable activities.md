@@ -1,3 +1,5 @@
+# Boosting operating cash flows using unsustainable activities
+
 ### Boosting CFFO by paying vendors more slowly
 
 - Look for a sharp increase in day payables outstanding = account payable / COGS * 365. This could mean the company is squeezing its vendors
@@ -8,7 +10,7 @@
 ### Boosting CFFO by collecting from customers more quickly
 
 - Look for a sharp drop in days sales outstanding = account receivables / Revenues *365. 
-- While many investors are pleasef when management says that it is aggressively managing working capital, you should take this as a sign that recent CFFO growth may not be sustainable.
+- While many investors are pleased when management says that it is aggressively managing working capital, you should take this as a sign that recent CFFO growth may not be sustainable.
 
 ### Boosting CFFO by purchasing less inventory
 

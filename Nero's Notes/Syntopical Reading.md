@@ -1,3 +1,5 @@
+# Syntopical Reading
+
 So far, so good. But, until now, we have been learning about how to read *a* book. The highest level of reading, syntopical reading, allows you to synthesize knowledge from a comparative reading of *several* books about the same subject. This is where the real virtue of reading is actualized. Adler and Van Doren explain, "When reading syntopically, the reader reads many books, not just one, and places them in relation to one another and to a subject about which they all revolve. But mere comparison of texts is not enough. Syntopical reading involves more. With the help of the books read, the syntopical reader is able to construct an analysis of the subject *that may not be in any of the books.*"
 
 Syntopical reading, also known as comparative reading, involves reading many books on the same subject and then comparing and contrasting the ideas, insights, and arguments within them. There are five steps to syntopical reading.

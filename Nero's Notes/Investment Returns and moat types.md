@@ -1,3 +1,4 @@
+# Investment Returns and Moat Types
 
 [[Low or no moat]]
 [[Legacy Moat - Returning Capital]]

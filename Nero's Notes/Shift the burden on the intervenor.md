@@ -1,3 +1,5 @@
+# Shift the burden to the Intervenor
+
 ## Description:
 
 This behavior happens when a solution to a systemic problem reduces or disguises symptoms, but does nothing to solve the underlying problem. Whether it is a substance that dulls the perception of the individual or a policy hiding the underlying problem, the drug of choice interferes with actions that could solve the real problem.

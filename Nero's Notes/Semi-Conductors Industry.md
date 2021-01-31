@@ -1,3 +1,5 @@
+# Semi Conductor Industry
+
 ### Artificial Intelligence is a tailwind for the semi-conductors industry
 - Until now, software written by humans were highly optimized to use the CPU in the most efficient way
 - Neural Networks and AI in general is a bit different:

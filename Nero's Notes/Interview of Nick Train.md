@@ -1,3 +1,5 @@
+# Interview of Nick Train
+
 How Nick Train, the star fund manager from the UK, never sells and yet make mammoth gains
  
 If you thought that value investing is buying below book or buying a low P/E stock or going contrarian, you have much to learn from well-known British fund manager Nick Train. Nick doesn't look for any of these when hunting for stocks. He doesn't even try to spot the next multi-bagger. And yet, when he finds companies that he likes, he keeps them for years. An avid fan of Buffett, Nick tells Mohammed Ekramul Haque and every value investor how to invest for value and more.

@@ -1,3 +1,6 @@
+# Recording Bogus Revenues
+
+
 ### Recording revenue from transactions that lack economic substance
 
 - Be aware that with bogus revenue come those fake receivables

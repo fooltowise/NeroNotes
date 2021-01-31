@@ -1,4 +1,6 @@
-Choosing Important Problems is like leverage.
+# Choosing Important Problems
+
+Choosing Important Problems is like [[leverage]].
 
 We can try our hardest, but if we don’t know what the important problems are, aren’t focused on them, and don’t know where to place our effort, we ultimately aren't as effective as we could be.
 

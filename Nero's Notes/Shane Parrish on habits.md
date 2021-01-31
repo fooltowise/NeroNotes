@@ -1,3 +1,5 @@
+# Shane Parrish on Habits
+
 **The biggest thing I do is that I create these automatic behaviors that put me on the path to success. Think about, almost backwards, right? What do I want to accomplish? Then ask myself, what does somebody who does that, accomplishes that, what does it look like, for them, to accomplish that?**
 
 And so, one thing that I do is that I am not a huge fan of meetings, calls, all of that. So i don't do many podcasts, interviews... usually I'm on the other side. I am a bit shy.

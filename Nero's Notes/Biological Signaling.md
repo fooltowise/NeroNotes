@@ -1,4 +1,4 @@
-
+# Biological Signaling
 ### Signaling in biology
 
 [[Competition for sex|Sexual selection]],[[Competition in politics|politics]] and [[Social status]] require two complementary skill sets: **the ability to *evaluate potential partners* and the ability to *attract good partners*.** Hence the need for [[Signaling]].

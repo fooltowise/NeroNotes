@@ -1,3 +1,5 @@
+# Vividness reinforces availability bias
+
 [[Availability Bias]] is reinforced when the events remembered are more vivid.
 
 Examples:

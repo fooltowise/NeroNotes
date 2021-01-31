@@ -1,3 +1,5 @@
+# Here be Sermons
+
 ### by Kevin Simler
 
 I've long turned up my nose at sermons and related forms of mass moralizing.

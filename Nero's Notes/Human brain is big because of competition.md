@@ -1,3 +1,5 @@
+# Human Brain is Big because of Competition
+
 The most distinctive feature of the human species is our intelligence. Relative to our body size, we have unusually large brains. Why are we so smart and so flexible? And why did our brains grow so large and so quickly?
 
 

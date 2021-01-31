@@ -1,3 +1,4 @@
+# Competition for sex
 
 From the perspective of [[Evolution - Natural Selection and Extinction]], mating, not survival, is the name of the game.
 

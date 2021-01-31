@@ -1,3 +1,5 @@
+# Bayes Theorem
+
 Given an Hypothesis H and an evidence E, Bayes Theorem says that:
 
 $$P(H|E) = \frac{P(H)*P(E|H)}{P(E)} $$

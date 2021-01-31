@@ -1,3 +1,5 @@
+# Two Successful Business Models
+
 ## by Nick Sleep
 
 Jeff Bezos, founder of Amazon, made the following point in a recent interview in Wired magazine:

@@ -1,3 +1,5 @@
+# Chasing the Wrong Goal
+
 ## Description:
 
 The behavior of a system is especially sensible to the goals of feedback loops. If these goals -indicators that rules are satisfied - are defined in an imprecise or incomplete manner, then the system will work obediently to produce a results that is not really wanted.

@@ -22,7 +22,7 @@ These blocks can be arranged in [[Successful Business Patterns]].
 
 However, these blocks can be damaged by several [[Qualitative Investing Pittfalls]]. It is important to apply inversion and avoid [[Bad Business Patterns to avoid|bad business patterns]], as well as to find the [[Weakest Link]] in the business. You don't want to [[Never lose Money| lose money]] as it compounds your portfolio in reverse.
 
-It is often interesting to [[Visual thinking applied to investing|visualize]] how the business will evolve. And be sure to analyze the business from every [[Vantage Point]].
+It is often interesting to [[Visual thinking applied to investing|visualize]] how the business will evolve. And be sure to analyze the business from every [[Vantage Point]]. Be  sure to know where you stand in your [[The tenets of capital cycle analysis | capital cycle analysis]].
 
 One final point: **Make sure that the competitive advantage of the company is going in the right direction, and the moat is expanding.** (Paul Black, WCM Investment Management.)
 

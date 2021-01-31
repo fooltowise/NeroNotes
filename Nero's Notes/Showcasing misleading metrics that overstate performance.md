@@ -1,3 +1,5 @@
+# Showcasing misleading metrics that overstate performance
+
 ### Highlighting a misleading metric as surrogate for revenue
 
 - Same store sales:

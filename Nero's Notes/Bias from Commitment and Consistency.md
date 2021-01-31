@@ -1,3 +1,5 @@
+# Bias from Commitment and Consistency
+
 We want to be (and be seen) as consistent with our existing commitments - such as the previous statements we've made, stands we've taken, and actions we've performed.
 
 We all see ourselves and want others to see us as reasonable, nice, honest and smart - we don't do dumb things or want to look stupid, weak or dishonest. We believe we make good decisions and do things for a good reason.

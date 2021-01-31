@@ -1,3 +1,4 @@
+# Availability Bias
 
 The *availability heuristic* is judging the frequency or probability of an event by the ease with which examples of the event come to mind.
 

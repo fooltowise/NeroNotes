@@ -1,4 +1,4 @@
-
+# Shifting current income to a later period
 ### Creating reserves and releasing them into income in a later period
 
 - Saving up for a rainy day

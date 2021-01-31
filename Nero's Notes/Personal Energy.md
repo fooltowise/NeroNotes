@@ -1,4 +1,6 @@
 
+# Personal Energy
+
 Human beings, like all living things, need energy to live and to thrive. Men and women used to spend most of their daily energy on physical tasks. For most of human history, men and women were working at hunting and gathering, raising children, ,and raising crops, most of their time consumed with energy-intensive physical labor.
 
 Nowadays, many of us are knowledge workers, and we use our brains to do the heavy lifting. The brain is a very energy-hungry organ. Of the roughly two thousand calories we consume in a day, five hundred go to running our brains. That's astonishing: the brain represents only about 2 percent of our body weight, and yet it takes up 25 percent of the energy we consume every day. It's no wonder that the way we *invest our attention* is critical to whether or not we feel high or low energy.

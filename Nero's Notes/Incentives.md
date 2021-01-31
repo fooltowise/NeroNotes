@@ -1,3 +1,5 @@
+# Incentives
+
 _Whose bread I eat, his song I sing._
 *Never, ever, think about something else when you should be thinking about the power of incentives.*
 

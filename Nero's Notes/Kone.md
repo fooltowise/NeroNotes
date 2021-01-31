@@ -1,4 +1,4 @@
-
+# Kone
 Elevators are one of those ubiquitous, everyday objects people take for granted - except when they malfunction. Although modern elevators may be faster and smarter than the originals invented in the 1850s, the basic technology remains unchanged. Whether you walk into a century old elevator in Paris or a brand new one in Shanghai, the basic concept - motors and hoists - is the same.
 
 Founded in Helsinki, Finland, in 1910, KONE started life as a machine shop repairing electric motors. Transformation into a global elevator business began in 1924, when KONE was acquired by the Herlin family, which still controls the business. In the 1960s, under the leadership of Pekka Herlin, a flamboyant character with a diligent work ethic, the business leapt forward through a number of judicious acquisitions. 

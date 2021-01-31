@@ -1,3 +1,5 @@
+# Legacy Moat - Returning Capital
+
 These businesses have an entrenched position within current markets that enable strong and consistent profitability relative to the prior invested capital. 
 
 However there are few opportunities to deploy incremental capital at similarly high rates, so the management team decides to distribute the majority of the earnings back to owners at the end of each year. 

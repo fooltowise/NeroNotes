@@ -1,3 +1,5 @@
+# Charlie Munger on Multi-Disciplinary Education
+
 Munger argues that schools' education model should follow how airplane pilots are trained.
 
 We train a pilot in a strict six-elements systems:

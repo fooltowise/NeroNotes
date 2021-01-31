@@ -1,4 +1,5 @@
 
+# Competition in Politics
 If you are a male chimp in a community with other males, it's not enough simply to be strong or even the strongest. You also need to *gang up* with a team of other strong males. You need the ability to identify, attract, and retain good allies, and you need to be savvy enough to navigate the tumult as coalitions form, dissolve, and clash all around you.
 
 Coalitions are what makes politics so *political*.

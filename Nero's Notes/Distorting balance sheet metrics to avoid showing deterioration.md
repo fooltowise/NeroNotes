@@ -1,4 +1,4 @@
-
+# Distorting balance sheet metrics to avoid showing deterioration
 
 
 ### Distorting accounts receivable metrics to hide revenue problems

@@ -1,3 +1,5 @@
+# German Bank Paradox
+
 ### by Mark Rubinstein
 
 See also [[Lending Business]]

@@ -1,3 +1,5 @@
+# Reciprocity
+
 A lot of people seem to expect the world to just hand them wings without putting any effort. This is a poor strategy because it doesn't align with the human behavior you can observe around you every day. 
 
 Reciprocation teaches us that if you give people cynicism and curtness or nothing at all, you are likely to receive the same. But if you give people opportunity and the benefit of the doubt, you will, more often than not, be on the receiving end of the same behavior.

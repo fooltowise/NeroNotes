@@ -1,3 +1,5 @@
+# Two Modes of Idea Generation
+
 ## Quantitative:
 **Pros: **
 - repeatable

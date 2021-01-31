@@ -1,4 +1,4 @@
-
+# Sources of investment edge
 ### What is an investment edge?
 
 **An edge is a repeatable sourcing of variant perception that leads to sustained outperformance.**

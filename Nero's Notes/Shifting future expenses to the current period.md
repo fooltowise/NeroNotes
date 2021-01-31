@@ -1,3 +1,5 @@
+# Shifting future expenses to the current period
+
 ### Improperly writing off assets in the current period to avoid expenses in a future period
 
 - For instance, improperly writing off deferred marketing costs

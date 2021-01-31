@@ -1,3 +1,5 @@
+# Shifting Financing Cash Inflows to the Operating Section
+
 ### Recording bogus CFFO from a normal bank borrowing
 
 - A company selling its inventory to a bank and promising to buy it later at a higher price is nothing else than a loan collateralized by the inventory -> this is a financing cash inflow!

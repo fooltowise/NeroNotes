@@ -1,3 +1,5 @@
+# Recording Revenue too soon
+
 ###### Recording revenue before completing material obligations under the contract
 
 - Watch out for boomerang transactions: cash flowing back and forth  between a customer and seller raise questions wether the revenue might have been recorded too early

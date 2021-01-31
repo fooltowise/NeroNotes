@@ -1,3 +1,5 @@
+# When the brain thinks logarithmically
+
 By [Matt Parker](https://lithub.com/author/mattparker/)
 
 January 23, 2020

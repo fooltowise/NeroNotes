@@ -1,3 +1,5 @@
+# Computation of Maintenance Capex
+
 
 The earnings that you can take out of the business every year without affecting its competitive position is called as Owner Earnings. I wrote about it in detail here. This term was coined by Warren Buffet and the formula for calculating it is given below. The capital expenditure (capex) he refers to is maintenance capex and not growth capex. But how do we know the maintenance capex? If an investor knows the business very well then he might. But it is an elusive concept which requires too much judgment for most of the investors. For calculating the maintenance capex, I used to depend on the management. Most of the times they wont reveal it and the only choice I had was to use the deprecation reported in the income statement.
 

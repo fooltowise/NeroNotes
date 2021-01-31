@@ -1,3 +1,5 @@
+# Inspectional Reading
+
 This is another name for "scanning" or "superficial reading". It means giving a piece of writing a quick  yet meaningful advance review in order to evaluate the merits of a deeper reading experience. Whereas the question that is asked at the first level ([[Elementary Reading]]) is "What does the sentence say?", the question typically asked at this level is "What is the book about?" 
 There are two subtypes of inspectional reading.
 

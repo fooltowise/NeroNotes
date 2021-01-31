@@ -1,4 +1,6 @@
-  ## What is a System?
+# System Thinking
+
+## What is a System?
 
 
  A system is a set of elements (objects, actions, concepts, persons...) interconnected in a structured way in order to perform a characteristic behavior. This behavior is called the purpose or the function of the system.

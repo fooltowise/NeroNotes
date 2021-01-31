@@ -1,3 +1,5 @@
+# Linked Lists
+
 A *singly linked list* is a data structure that contains a sequence of nodes such that each node contains an object and a reference to the next node in the list. The first node is referred to as the *head* and the last node is referred to as the *tail*; the tail's next field is null. There are many variants of linked lists, e.g, in a *doubly linked list*, each node has a link to its predecessor; similarly, a sentinel node or a self-loop can be used instead of null. 
 
 Insert and delete nodes are local operations and have O(1) time complexity. Search requires traversing the entire list, e.g if the key is at the last node or is absent, so it's time complexity is O(n) where n is the number of nodes.

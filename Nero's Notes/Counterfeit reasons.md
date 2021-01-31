@@ -1,3 +1,5 @@
+# Counterfeit Reasons
+
 Because of [[self deception]], we don't always know the whys behind our own behavior. But we certainly pretend to know.
 
 Experiences with split-brained patients show how the left hemisphere of the brain, lacking the reason to give for a behavior, *will make up one on the spot.*

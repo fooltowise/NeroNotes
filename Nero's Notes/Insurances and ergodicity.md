@@ -1,4 +1,6 @@
 
+# Insurances and Ergodicity
+
 In their *Ergodicity economics*, Ole Peters and Alexander Adamou show that insurances are a puzzle that expected values alone cannot solve.
 
 Let's say that you have a house worth $100'000 and that there is a 1% possibility of it taking fire any given year. You are considering whether to buy insurance that would give you back the value of your house, $100'000, in case it burned down.

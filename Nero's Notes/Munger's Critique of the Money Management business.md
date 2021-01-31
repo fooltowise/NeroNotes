@@ -1,3 +1,5 @@
+# Munger's Critique of the Money Management business
+
 ### Flawed incentives
 The general system of money management today require people to pretend to do something they can't do and like something they don't. It's a terrible way to spend your like, but it's very well paid.
 

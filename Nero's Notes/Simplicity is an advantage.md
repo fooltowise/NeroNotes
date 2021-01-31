@@ -1,3 +1,5 @@
+# Simplicity is an Advantage
+
 In-N-Out Burger is one of those businesses with a cult following. For three years in a row, In-N-Out has been ranked the number one limited-service restaurant chain in the *Nation's Restaurant News* annual Consumer Picks report. And for decades, the restaurant chain has been a staple of California. Unlike McDonald's or other burger chains, In-N-Out has ruthlessly followed its initial winning formula. The chain has grown slowly and remains focused on utilizing the best ingredients while maintaining a simple menu. 
 
 In-N-Out Burger and the companies profiled in this book share a discipline and a super focus on the areas where they dominate. Intelligent fanatics know that they can't be world-class at everything. In-N-Out's CEO, Lynsi Snyder, continues to demonstrate great discipline by not straying from the brand that her customers love. Randall Hyatt president of consulting firm Fessel International, describes Snyder's discipline:

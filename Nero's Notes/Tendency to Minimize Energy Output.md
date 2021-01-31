@@ -1,3 +1,5 @@
+# Tendency to Minimize Energy Output
+
 Sometimes our tendency to conserve energy helps us, and sometimes it hurts us. 
 
 While minimizing our output ensures we will have extra to draw on in times of increased need, it can also get in the way of learning. Experience doesn't become learning without reflection, and reflection is an energy expenditure. 

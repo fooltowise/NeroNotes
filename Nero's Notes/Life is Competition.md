@@ -1,3 +1,5 @@
+
+# Life is Competition
 The first biological lesson from history is that life is competition. Men are at peace when food is plenty, and violent when food is lacking.
 
 Even if cooperation is real and increases with social development, it is only a tool and a form of competition. We cooperate in our group - family, community, club, church, party, nation - in order to reinforce our group in its competition with other groups

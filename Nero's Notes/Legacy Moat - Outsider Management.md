@@ -1,3 +1,5 @@
+# Legacy Moat - Outsider Management
+
 
 Here you have a business with all of the characteristics of a Legacy Moat, but the management team decides to retain all of the capital and deploy it into new businesses through a focused M&A program. 
 

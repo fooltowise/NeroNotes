@@ -1,3 +1,5 @@
+# Cost of Capital as Opportunity Cost
+
 
 Buffett: Charlie and I don't know our cost of capital. It's taught at business schools, but we're skeptical. We just look to do the most intelligent thing we can with the capital we have. We measure everything against our alternatives. I've never seen a cost of capital calculation that made sense to me. Have you Charlie?
 

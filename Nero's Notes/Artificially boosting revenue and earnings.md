@@ -1,3 +1,5 @@
+# Artificially boosting revenues and earnings
+
 ### Inflating profits through tricks at a target company before a deal close
 - Watch for a slowdown in revenue at the target prior to the acquisition close
 - Watch for unusual sources of revenue at the time of the acquisition. For instance, boomerang transactions between a franchisor and its franchisee.

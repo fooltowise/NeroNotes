@@ -1,3 +1,5 @@
+# Mental Models
+
 - [[General Mental Models]]
 - [[Mental Models from Psychology]]
 - [[Mental Models from Physics]]

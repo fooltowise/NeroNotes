@@ -1,4 +1,6 @@
 
+# Focus on what endures time
+
 A lot of people confuse knowing the name of something with understanding it.
 
 A good heuristic: Anything effortlessly digested means that your are reading for information, not knowledge. For example, the job of the news media is to inform us about day-to-day events, to entertain us, to reflect the public moods and sentiments of the moment, to print stories that will interest us today and that we will want to read. But that's exactly what creates problems for reader, who often succumb to the recency and availability biases that news creates. The same applies to social media. The feeds we take in are characterized by recency bias. Most of what we consume is less than twenty-four hours old. **Rarely do we stop to ask ourselves questions about what we consume: Is this important? Is this going to stand the test of time for even a year?**

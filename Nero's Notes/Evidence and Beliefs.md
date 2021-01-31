@@ -1,3 +1,5 @@
+# Evidence and Beliefs
+
 How much evidence is needed to start trusting a belief? It all depends on how wide is the possibilities space in which the belief lies. 
 
 For instance, if the tested hypothesis H has odds of 1:1'000 to occur, and we define "I trust H if its probability is higher than 0.5", then the evidence needs to be 1'000 times more likely to happen in a world where H is true than in a world in which H is false. Then the updated odds would be superior or equal to 1000:1000, and p(H) superior or equal to 0.5.

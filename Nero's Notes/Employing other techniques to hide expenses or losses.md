@@ -8,6 +8,8 @@
 
 ### Recording inappropriately low expenses by using aggressive accounting assumptions
 
+# Employing other techniques to hide expenses or losses
+
 - Be alert for self-insurance assumptions in case the company chooses to self-assure.
 - Watch for changes in pension estimates and assumptions
 - Watch for changes in the measurement date (especially in the pension plan)

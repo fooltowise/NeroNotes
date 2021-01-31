@@ -1,4 +1,5 @@
- Maxwell's equations were a true breakthrough in physics during the second part of the 19th century and allowed to unify the theories of light, electricity and magnetism. One particular consequence of Maxwell's equations is that the velocity of light in a vacuum is constant (300'000 km/s). And this, independently of the referential chosen to measure it.
+# Einstein's Special Relativity
+Maxwell's equations were a true breakthrough in physics during the second part of the 19th century and allowed to unify the theories of light, electricity and magnetism. One particular consequence of Maxwell's equations is that the velocity of light in a vacuum is constant (300'000 km/s). And this, independently of the referential chosen to measure it.
 
 However, the fact that light velocity is constant in any referential was an issue. It went against the principle of relativity. For instance, if a spaceship is traveling at a speed u, and light is emitted from the rear of the spaceship - going backwards - and an external observer would measure the speed of the signal, we would expect the measured velocity to be c - u, hence we could deduce the velocity of the spaceship (which is against the principle of relativity).
 

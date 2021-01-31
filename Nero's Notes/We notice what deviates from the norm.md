@@ -1,3 +1,4 @@
+# We notice what deviates from the norm
 
 The psychophysicist Mark Changizi has a simple [[Evolution - Natural Selection and Extinction|evolutionary]] explanation for why water doesn't taste of anything: he thinks that the human taste mechanism has been calibrated not to notice the taste of water, so it is optimally attuned to the taste of anything that might be polluting it, like a carcass of a dead sheep decaying upstream.
 

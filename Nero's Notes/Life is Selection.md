@@ -1,3 +1,5 @@
+# Life is selection
+
 The second biological lesson from history is that life is selection. Some individuals are better equipped than others when facing the big test of survival. Nature has not read the universal declaration of human rights, and we are all born with physical psychological and cultural differences. Nature likes differences as a necessary material for selection.
 
 Inequalities are not only natural, they increase with the complexity of civilization. Economical development specializes functions and differentiates everyone's capacities, making men's worth unequal to their groups.

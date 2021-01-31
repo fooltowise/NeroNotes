@@ -1,3 +1,4 @@
+# Trump's Talent Stack
 
 ## by Scott Adams
 

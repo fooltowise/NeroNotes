@@ -1,3 +1,5 @@
+# Laws of Gravitation
+
 - Tycho Brahe was the first to suggest that we should measure the position of the planets in the sky to deduce the laws of their movements. He set up to document the movements of many planets in his observatory.
 - Kepler analyzed this data and observed that the movement of planets followed three laws:
     - The planets are describing an ellipse in the space, with the sun being located at one of the focus points of the ellipse

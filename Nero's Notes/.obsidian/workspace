@@ -4,71 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "e16a298e17a3f22f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Poor Charlie's Almanack.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "7689d8cb9fb8785b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mungerisms.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "0e3eab4212914790",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "General Mental Models.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "cdb938485254bb73",
+        "id": "c61f3e37bca2cdbe",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Become a learning machine.md",
-            "mode": "preview"
+            "file": "Shane Parrish on habits.md",
+            "mode": "source"
           },
           "pinned": true
         }
       },
       {
-        "id": "f8b4d56f780432d0",
+        "id": "7d3cca4632f2382d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Fundamental Theorem of Investing.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "0c84b7e05304d187",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lollapalooza Effect.md",
-            "mode": "preview"
+            "file": "Advanced tactics for habits creation.md",
+            "mode": "source"
           }
         }
       }
@@ -97,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deep",
+                "query": "replicate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,12 +103,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fundamental Theorem of Investing.md",
+                "file": "Advanced tactics for habits creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -162,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fundamental Theorem of Investing.md"
+                "file": "Advanced tactics for habits creation.md"
               }
             }
           }
@@ -171,19 +127,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.4687042236328,
-    "collapsed": true
+    "width": 182.4687042236328
   },
   "lastOpenFiles": [
+    "Advanced tactics for habits creation.md",
+    "The tenets of capital cycle analysis.md",
     "The Fundamental Theorem of Investing.md",
-    "Evolution - Natural Selection and Extinction.md",
-    "Owner Operators.md",
-    "Customer Benefits.md",
-    "Customer Types.md",
-    "Logics is a commodity.md",
-    "Free markets encourage crazy ideas.md",
-    "Reason as rationalization.md",
-    "When what is most effective makes no sense.md",
-    "Revealed preferences.md"
+    "Hearing Aid industry.md",
+    "Thoughts on Censorship.md",
+    "Weakest Link.md",
+    "Kone.md",
+    "Self Perpetuation of Corporate Culture.md",
+    "We value meaning.md",
+    "Lollapalooza Effect.md"
   ]
 }

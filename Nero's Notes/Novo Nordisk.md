@@ -1,3 +1,4 @@
+# Novo Nordisk
 In the early 1920s, two Canadians, Dr Frederick Banting and Professor John McLeod, succeeded in extracting and purifying a chemical from the pancreases of cattle: the feat earned them the 1923 Nobel Prize in medicine. The pair had discovered insulin. Early results on diabetic patients were spectacular and insulin remains the primary treatment for diabetes. Today, half the global insulin market is served by a single company, Denmark's Novo Nordisk
 
 Novo Nordisk is the product of a 1989 merger that reunited those two entities after a split that occurred generations earlier. Nordisk Insulin Laboratorium was founded in Copenhagen, Denmark, in the mid-1920s. After an internal disagreement, the company's primary engineer, Harald Pedersen, and his brother left the business and started a competitor, Novo Terapeutisk Laboratorium. 

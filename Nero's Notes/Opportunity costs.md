@@ -1,4 +1,5 @@
---- 
+# Opportunity Cost
+
 
 > Opportunity cost is a huge filter in life. If you've got two suitors who are really eager to have you and one is way the hell better than the other, you do not have to spend much time with the other. And that's the way we filter out buying opportunities.
  — Charlie Munger

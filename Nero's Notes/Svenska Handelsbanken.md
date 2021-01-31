@@ -1,3 +1,5 @@
+# Svenska Handelsbanken
+
 While banks worldwide sank amid the global financial crisis of 2008, Svenska Handelsbanken of Sweden excelled. Fundamental structures and attitudes - the stuff of [[Corporate Culture]] - explain why. 
 
 The bank, founded in the 1870s, took its current cultural shape in the 1970s under the leadership of CEO Jan Wallender. Handelsbanken's motto - "the branch is the bank" - reflects its thoroughly [[Decentralized Organizations| decentralized]] structure. Branch managers make all operating decisions for their branch, on location: hiring; product offerings; and client outreach and management. Each branch manager is accordingly fully responsible for their branch's profit and loss, with no deflecting of responsibility to other departments or functions.

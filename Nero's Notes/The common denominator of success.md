@@ -1,3 +1,5 @@
+# The common  Denominator of success
+
 ## by Albert E.N. Gray
 --- 
 

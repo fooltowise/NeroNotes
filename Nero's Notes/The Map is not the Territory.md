@@ -1,3 +1,4 @@
+# The Map is not the Territory
 Maps have long been part of human society. The are valuable tools to pass on knowledge. 
 Still, in using maps, abstractions, and models, we must always be wise to their limitations. They are, by definition, reductions of something far more complex. 
 There is always at least an element of subjectivity, and we need to remember that they are created at particular moments in time. 

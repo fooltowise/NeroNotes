@@ -1,3 +1,5 @@
+# Thoughts on Censorship
+
 ### by Luca Dellanna
 **Censorship you don’t like always begins as censorship you like.**
 Allowing censorship assumes that this power can be taken back and that it won’t corrupt the censor. Two strong assumptions.

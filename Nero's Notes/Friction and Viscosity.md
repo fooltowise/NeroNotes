@@ -1,3 +1,5 @@
+# Friction and Viscosity
+
 To achieve our aims, reducing resistance is often easier than using more force. While often hidden, friction and viscosity work against us whenever we try and do something. 
 
 To overcome resistance, we often default to using more force when s**imply reducing the friction or viscosity will do.** 

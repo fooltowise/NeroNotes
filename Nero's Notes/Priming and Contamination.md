@@ -1,3 +1,5 @@
+# Priming and Contamination
+
 Suppose you ask subjects to press one button if a string of letters forms a word, and another button if the string does not form a word (e.g., “banack” vs. “banner”). Then you show them the string “water.” Later, they will more quickly identify the string “drink” as a word. This is known as “cognitive priming”; this particular form would be “semantic priming” or “conceptual priming.”
 
 The fascinating thing about priming is that it occurs at such a low level—priming speeds up *identifying letters as forming a word*, which one would expect to take place *before* you deliberate on the word’s meaning.

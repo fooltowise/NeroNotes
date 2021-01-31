@@ -1,3 +1,5 @@
+# Jim O'Shaughnessy on Human Nature
+
 Markets change minute-by-minute. **Human nature barely changes millennium-by-millennium. There's your edge**.
 
 ## How To Arbitrage Human Nature: A thread

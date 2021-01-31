@@ -1,8 +1,10 @@
+# Shifting Operating Cash Flows to Other Sections
+
 ### Inflating CFFO with boomerang transactions
 
 - Be at the lookout for boomerang transactions: one part will usually be in the CFFO section while the offsetting part will be either in the investing or financing cash outflows.
 
-### Improperly capitalising normal operating costs
+### Improperly capitalizing normal operating costs
 
 - Recording normal operating costs as a capital asset rather than as an expense
 - Rapidly growing soft asset accounts (prepaid expense, other assets...) may be a sign of aggressive capitalization
