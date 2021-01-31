@@ -1,3 +1,5 @@
+# Know your heap libraries
+
 The implementation of a heap in the Java collections framework is referred to as a priority queue; 
 the class is *PriorityQueue*. The key methods are:
 - add("Gauss")

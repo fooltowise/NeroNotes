@@ -1,3 +1,5 @@
+# Munger's Critique of Lawyers, Law Firms, and Litigation
+
 ### Demise of Ethics among Law Firms
 
 I never have the slightest interest in defending miscreants and helping them misbehave. But the general view is that it's wonderful what Johnny Cochran did (getting O.J. Simpson off).

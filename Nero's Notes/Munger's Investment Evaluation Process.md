@@ -1,3 +1,5 @@
+# Munger's Investment Evaluation Process
+
 > The number one idea is to view a stock as an ownership of the business and to judge the staying quality of the business in terms of its competitive advantage. Look for more value in terms of discounted future cash flows than you are paying for. Move only when you have an advantage. It's very basic. You have to understand the odds and have the discipline to bet only when the odds are in your favor. We just keep our heads down and handle the headwinds and tailwinds as best as we can, and take the result after a period of years.
 
 As we've noted, Charlie doesn't make a lot of investments. His approach is perhaps best summarized by Thomas Watson Sr, the founder of IBM: "I'm no genius. I'm smart in spots, and I stay around those spots."

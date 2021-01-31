@@ -1,3 +1,5 @@
+# Munger's Critique on Corporate Management
+
 ### Earnings Manipulation and Accounting Shenanigans
 With so much money riding on reported numbers, human nature is to manipulate them. And with so many doing it, you get Serpico effects, where everyone rationalizes that it's okay because everyone else is doing it. It is always thus.
 

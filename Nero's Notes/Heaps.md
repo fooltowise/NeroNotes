@@ -1,3 +1,5 @@
+# Heaps
+
 A *heap* is a specialized [[Binary Trees]]. Specifically, it is a complete binary tree. The keys must satisfy the *heap property* - the key at each node is at least as great as the keys stored at its children. A max-heap can be implemented as an array; the children of the node at index *i* are at indices *2i+1* and *2i +2*.
 
 A max-heap supports O(log n) insertions, O(1) time lookup for the max element, and O(log n) deletion of the max element. The extract-max operation is defined to delete and return the maximum element. 

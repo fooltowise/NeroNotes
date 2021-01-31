@@ -1,3 +1,5 @@
+# An Investing Principles Checklist
+
 > No wise pilot, no matter how great his talent and experience, fails to use his checklist.
 
 

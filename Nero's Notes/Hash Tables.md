@@ -1,3 +1,5 @@
+# Hash Tables
+
 A hash table is a data structure used to store keys, optionally, with corresponding values. Inserts, deletes and lookups run in O(1) time on average.
 
 The underlying idea is to store keys in an array. A key is stored in the array locations ("slots") based on its "hash code". The hash code is an integer computed from the key by a hash function. If the has function is chosen well, the objects are distributed uniformly across the array locations.

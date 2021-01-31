@@ -1,3 +1,4 @@
+# Learn your Queue libraries
 The preferred way to manipulate queues is via the Deque interface. The LinkedList class is a doubly linked list that implements this interface, and provides efficient O(1) time queue and stack functionality.
 
 The key queue-related methods in the Deque interface are:

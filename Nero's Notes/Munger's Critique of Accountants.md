@@ -1,3 +1,5 @@
+# Munger's Critique of Accountants
+
 ### Demise of Ethics Among the Major Accounting Firms
 When I was younger, the major accounting firms were quite ethical places, and nobody got filthy rich. But in the space of twenty-five years, they sold out to terrible behavior, one little step at a time. Once you start doing something bad, then it's easy to take the next step - and in the end, you're a moral sewer. The idea that the major accounting firms of the country would sell obviously fraudulent tax shelters...
 

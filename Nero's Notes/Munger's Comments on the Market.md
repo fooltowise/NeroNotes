@@ -1,3 +1,5 @@
+# Munger's comments on the market
+
 ### Stocks, Rembrandts, and Bubbles
 Stocks are valued partly like bonds, based on a roughly rational projections of producing future cash. But they are also valued partly like Rembrandt paintings, purchased mostly because their price have gone up so far. This situation, combined with big "wealth effects", at first up and later down, can conceivably produce much mischief. 
 

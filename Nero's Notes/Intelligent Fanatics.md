@@ -1,3 +1,5 @@
+# Intelligent Fanatics
+
 
 > Our final advantage is the hard-to-replicate culture that permeates Berkshire. And in business, culture counts. Warren Buffett, 2010 Berkshire Hathaway letter to shareholders.
 

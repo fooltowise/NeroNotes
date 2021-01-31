@@ -1,3 +1,4 @@
+# Remember your Java array Libraries
 The basic array type in Java is fixed-size. You should know the Java Arrays utilities very intimately; these simplify working with the basic array type. The ArrayList type implements a dynamically resized array, and is a good replacement for the basic Java array; it's more flexible, and has more API methods. 
 
 - Know the syntax for allocating and initializing an array, i.e  new int[]{1,2,3}

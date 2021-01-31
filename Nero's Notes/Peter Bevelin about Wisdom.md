@@ -1,3 +1,5 @@
+# Peter Bevelin on Wisdom
+
 > Real Wisdom is not the knowledge of everything, but the knowledge of which things in life are necessary, which are less necessary, and which are completely unnecessary to know. And what could be more useful than learning the big and timeless principles that tell you how the world works - how reality works, how human nature works - so you know what to do or not to do in different situations?
 
 Always try to determine what the key factors or causes for what you want to achieve are and then make sure you get them right. And you can't do that if you don't first get your toolbox of ideas. 

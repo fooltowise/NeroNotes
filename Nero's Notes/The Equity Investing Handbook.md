@@ -1,3 +1,5 @@
+# The Equity Investing Handbook
+
 - What is investing
 - Assets/Liabilities
 - Different Classes of assets

@@ -1,3 +1,5 @@
+# Tradeoffs - The currency of decision making
+
 *Every decision we make carries an opportunity cost. If we don’t budget wisely, we end up wasting time and energy on things that don’t matter. Here’s how to do it right.*
 
 ***

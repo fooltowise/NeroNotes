@@ -1,4 +1,4 @@
-
+# Munger's Approach to Business Analysis and Assessment
 ## Highlights:
 
 **"Quickly eliminate the big universe of what not to do, follow up in a fluent multidisciplinary attack on what remains, then act decisively when, and only when, the right circumstances appear."**

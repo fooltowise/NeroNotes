@@ -1,3 +1,5 @@
+# Rituals
+
 ### by Kevin Simler
 
 Why do humans dress up in funny clothes and perform elaborate actions with no tangible effects?

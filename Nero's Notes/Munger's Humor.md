@@ -1,3 +1,5 @@
+# Munger's Humor
+
 - I'd rather throw a viper down my shirt front than hire a compensation consultant.
 - When asked at a cocktail party whether he played the piano, Charlie replied, "I don't know, I've never tried."
 - I always like it when someone attractive to me agrees with me, so I have fond memories of Phil Fisher.

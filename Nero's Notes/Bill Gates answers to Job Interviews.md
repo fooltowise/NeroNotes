@@ -1,3 +1,5 @@
+
+# Bill Gates answer to Job Interview
 [Source](https://www.forbes.com/sites/carminegallo/2020/11/01/watch-bill-gates-give-brilliant-30-second-answers-to-common-job-interview-questions/?sh=18a2c0677e40)
 
 

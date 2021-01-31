@@ -1,3 +1,5 @@
+# Strings
+
 Strings are ubiquitous in programming today - scripting, web development, and bioinformatics all make extensive use of strings. You should know how strings are represented in memory, and understand basic operations on strings such as comparison, copying, joining, splitting, matching, etc.
 
 

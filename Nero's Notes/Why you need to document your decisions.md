@@ -1,3 +1,5 @@
+# Why you need to document your decisions
+
 ## by Jim O'Shaughnessy
 ---
 > _"The first principle is that you must not fool yourself and you are the easiest person to fool."_

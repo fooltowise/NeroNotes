@@ -1,3 +1,4 @@
+# Box Types
 ### Factories
 - Integer.parseInt("5"), Double.parseDouble("3.14"), Byte.parseByte(8) will return the primitive type, i.e respectively an int, double, and byte.
 - The method "ToString()" is only available in Box Type classes, and not at primitive level

@@ -1,3 +1,5 @@
+# Munger on How to be Happy, Get Rich, and Other Advice
+
 ### Tips on How to Be Happy and Successful
 
 If all you succeed in doing in life is getting rich by buying little pieces of paper, it's a failed life. Life is more than being shrewd in wealth accumulation.

@@ -1,3 +1,5 @@
+# Sol Price on Scale Economics Shared
+
 In a memo from 1967, Sol Price wrote:
 
 >“Although we are all interested in margin, it must never be done at the

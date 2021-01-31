@@ -1,3 +1,5 @@
+# Munger's Critique of Wall Street
+
 ### Wall Street's lack of ethics
 The ethics of Wall Street will always average out to mediocre at best. This doesn't mean there aren't some wonderful, intelligent people on Wall Street - there are, like those in this room - but everyone I know has to fight his own firm to do the right thing.
 The general culture of investment banking has deteriorated over the years. We did a $6 million deal years ago for Diversified Retailing, and we were rigorously and intelligently screened. The bankers cared and wanted to protect their clients.

@@ -1,3 +1,5 @@
+# Primitives
+
 [[Bit Manipulation]]
 [[Box Types]]
 

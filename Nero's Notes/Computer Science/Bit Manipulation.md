@@ -1,3 +1,5 @@
+#  Bit Manipulation
+
 - Shifting a number to the left by N bits means multiplying it by 2^N
 - Shifting a number to the right by N bits means dividing it by 2^N
 - create a mask with a single 1 at bit N :     (1<<N)

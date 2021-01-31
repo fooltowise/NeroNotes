@@ -1,3 +1,5 @@
+# Munger on Buffett
+
 It's hard to believe that he's getting better with each passing year. It won't go on forever, but Warren is actually improving. It's remarkable: most seventy-two-year old men are not improving, but Warren is.
 
 ### Charlie's Influence on Warren

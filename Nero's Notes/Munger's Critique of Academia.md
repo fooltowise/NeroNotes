@@ -1,3 +1,5 @@
+# Munger's Critique of Academia
+
 ### Fatal Unconnectedness
 There's a lot wrong with American Universities. I'd remove three-fourth of the faculty - everything but the hard sciences. But nobody's going to do that, so we'll have to live with the defects. It's amazing how wrong-headed the teaching is. There is fatal unconnectedness. You have these squirelly people in each department who don't see the big picture.
 

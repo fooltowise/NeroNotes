@@ -1,3 +1,4 @@
+# Know your hashtable libraries
 There are two hash table-based data structures commonly used in Java - HashSet and HashMap. The difference between the two is that the latter stores key-value pairs, while the former simply stores keys. Both have the property that they do not allow for duplicate keys, unlike, for example, LinkedList and PriorityQueue. Technically, HashSet implements the Set interface, while HashMap implements the Map interface.
 
 The most important methods for HashSet are methods defined in Set:

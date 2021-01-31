@@ -1,3 +1,5 @@
+
+# Binary Search
 Given an arbitrary collection of *n* keys, the only way to determine if a search key is present is by examining each element. This has O(n) time complexity. Fundamentally, binary search is a natural elimination-based strategy for searching a sorted array. The idea to is eliminate half the keys from consideration by keeping the keys in sorted order. If the search key is not equal to the middle element of the array, one of the two sets of keys to the left and to the right of the middle element can be eliminated from further consideration.
 
 Questions based on binary search are ideal from the interviewers' perspective: it is a basic technique that every reasonable candidate is supposed to know and it can be implemented in a few lines of code. On the other hand, binary search is much trickier to implement correctly than it appears - you should implement it as well as write corner case tests to ensure you understand it properly.

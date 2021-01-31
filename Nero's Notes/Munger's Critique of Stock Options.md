@@ -1,3 +1,5 @@
+# Munger's Critique of Stock Options
+
 ### Stock options as compensation
 
 If you look at the impact of stock options, you'll see a lot of terrible behavior. To give a lot of options to a CEO who built the business and is in his sixties, to incent loyalty, is demented. Would the doctors at the Mayo Clinic or the lawyers at Cravath who are in their sixties work harder if they had options?

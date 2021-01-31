@@ -1,3 +1,5 @@
+# Fielmann
+
 For nearly half the developed world's population, the first task if every morning - even before checking email - is to reach for the device that allows them to see: glasses. Spectacles have morphed from medical necessity into fashion accessory, with the latest styles advertised by glamorous celebrities. This was not always the case.
 
 As recently as the 1980s, health insurance plans offered vision coverage limited to a small set of dull, monochrome, and unfashionable frames. The vision-impaired who wanted something more had to pay and costs were high, leaving many to suffer the stigma associated with cheap eyewear. Manufacturers accepted the status quo, which allowed them to charge a premium price for fancy glasses, while opticians enjoyed a comfortable living form fitting a few pairs a day.

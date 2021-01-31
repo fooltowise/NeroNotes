@@ -1,3 +1,5 @@
+# Productive Paranoia
+
 Jim Collins describes successful leaders as being "paranoid, neurotic freaks". Although paranoia can be debilitating for most people, intelligent use their paranoia to prepare for financial or competitive disruption. They are also able to promote this productive paranoia within their company culture, so the company can maintain itself by innovating and preparing for the worst. Productive paranoia is not simply worrying about the competition; it's doing something about the competition.
 
 Where does the competition come from? Successful leaders fear impermanence through any kind of disruption. Amazon operates in the highly competitive retailing industry, and Jeff Bezos is in "a race to embed the company into the fabric of worldwide commerce in a way that would make it indispensable to everyone's shopping habits - and to do so before rivals wise up to its plans". Every management action revolves around this paranoia. Bezos does not worry about showing depressed short-term earnings due to investing heavily into innovation, because he is preparing to be many steps ahead of the competition.

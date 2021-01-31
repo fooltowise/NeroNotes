@@ -1,4 +1,4 @@
-
+# Teaching by Example
 Often the best way to learn is to teach others. The CEOs profiled here thought of themselves as teachers more than anything else, John Patterson put it best:
 
 > Business is only a form of teaching. You teach people to desire your product; that is selling. You teach workmen to make the right product; that is manufacturing. You teach others to cooperate with you; that is organization. To succeed in business it is necessary to make the other man see things as you see them. I say as you see them - which means that you yourself must first see and believe before you can tell another.

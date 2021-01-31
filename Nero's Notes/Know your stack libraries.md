@@ -1,3 +1,5 @@
+# Know your stack Libraries
+
 The preferred way to represent stacks in Java is via the Deque interface. The LinkedList class is a doubly linked list that implements this interface, and provides efficient O(1) time stack and queue functionality.
 The key stack-related methods in the Deque interface are:
 - push(42)

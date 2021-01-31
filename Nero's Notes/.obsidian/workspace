@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advanced tactics for habits creation.md",
+            "file": "Poor Charlie's Almanack.md",
             "mode": "source"
           }
         }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced tactics for habits creation.md",
+                "file": "Poor Charlie's Almanack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced tactics for habits creation.md"
+                "file": "Poor Charlie's Almanack.md"
               }
             }
           }
@@ -127,18 +127,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.4687042236328
+    "width": 182.4687042236328,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Advanced tactics for habits creation.md",
-    "The tenets of capital cycle analysis.md",
-    "The Fundamental Theorem of Investing.md",
-    "Hearing Aid industry.md",
-    "Thoughts on Censorship.md",
-    "Weakest Link.md",
-    "Kone.md",
-    "Self Perpetuation of Corporate Culture.md",
-    "We value meaning.md",
-    "Lollapalooza Effect.md"
+    "Poor Charlie's Almanack.md",
+    "Mungerisms.md",
+    "Munger's Humor.md",
+    "Munger on How to be Happy, Get Rich, and Other Advice.md",
+    "Munger's Critique of Academia.md",
+    "Munger on Mental Models.md",
+    "Munger's Critique of Lawyers, Law Firms, and Litigation.md",
+    "Warnings about Financial Institutions and Derivatives.md",
+    "Munger's Critique of Stock Options.md",
+    "Munger's Critique of Accountants.md"
   ]
 }

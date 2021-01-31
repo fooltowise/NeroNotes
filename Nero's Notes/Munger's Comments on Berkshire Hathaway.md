@@ -1,3 +1,5 @@
+# Munger's Comments on Berkshire Hathaway
+
 ### Berkshire is a hell of a business
 We're like the hedgehog that only knows one big thing: if you can generate float (cash from insurance premiums that Berkshire can invest before claims must be paid) at three percent and invest it in businesses that generate thirteen percent, that's a pretty good business.
 

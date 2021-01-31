@@ -1,3 +1,5 @@
+# Capital Cycle Analysis
+
 The key to the capital cycle analysis is to understand how changes in the amount of capital employed within an industry are likely to impact upon future returns.
 Put another way, capital cycle analysis looks at how the competitive position of a company is affected by the industry's **supply side**. 
 

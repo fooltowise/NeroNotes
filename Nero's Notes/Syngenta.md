@@ -1,3 +1,4 @@
+# Syngenta
 Syngenta was formed in 2000 by combining the Novartis and AstraZeneca agribusinesses, with roots traceable to the 1930s. It is today's global market leader in crop protection and among the top three players in seeds. Its peer group include Bayer, BASF, Dow, DuPont and Monsanto. Syngenta has the broadest crop presence in the industry including Corn, Soybean, Specialty Crops and Cereals. Given the continually rising global demand for efficiently produced food, Syngenta is exposed to a compelling long-term dynamic. 
 
 In the agribusiness, innovation is crucial. Without ongoing investment in the development of novel chemistry, rivals will grab market share. The scale and complexity of required R&D creates an entry barrier to smaller rivals, one reinforced by the considerable time required to develop and commercialize innovation in agricultural products. 
