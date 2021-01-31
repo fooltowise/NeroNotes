@@ -1,3 +1,5 @@
+# Friendly Middleman Lock-In
+
 Don't let the preceding discussion about [[The Friendly Middleman]] make you think that every company always benefits equally from having a third party choose the product while a different party pays the bill. There is considerable variation to the payoffs from this three parties pattern. 
 The involvement of independent financial advisors or procurement consultants, for instance, can complicate purchasing processes. These professionals sometimes function more as costly gatekeepers than friendly middlemen. The middleman needs reasons to recommend a company's product and companies employ various strategies to provide these.
 

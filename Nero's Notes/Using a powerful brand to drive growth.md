@@ -1,3 +1,4 @@
+# Using a powerful brand to drive Growth
 
 [[Brands]] power can be enhanced through innovation and extensions. With creativity and advertising, strong existing brands can anchor expansion into new products and categories. Trends in fashion arise from the design innovation of style creators, but are stoked by a commercial payoff: change the color or shape of Oakley sunglasses and some people will discard their old pair and buy a new one to keep up with fashion. For a company like Luxxotica, the ongoing practice turns something old-tech like sunglasses into an annuity stream.
 

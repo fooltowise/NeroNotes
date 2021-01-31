@@ -1,3 +1,5 @@
+# Prisoner's Dilemna
+
 In [[Games Theory]], the prisoner's dilemna is a category of two-players' games where both player can either choose to [[Cooperation|cooperate]] or defect.
 
 The payoff structure is always as follows:

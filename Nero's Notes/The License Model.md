@@ -1,1 +1,3 @@
-The purest form of [[Recurring Revenues]] involves peiodi licensing fees that follow upfront product purchase. This license model features prominently in the software industry, where customers first pay an upfront installation charge and subsequently make monthly or annual payments for maintenance, support and upgrades. While customers may opt out of the license fee, most opt in, because without it there is substantial risk of product inoperability or obsolescence.
+# The License Model
+
+The purest form of [[Recurring Revenues]] involves periodic licensing fees that follow upfront product purchase. This license model features prominently in the software industry, where customers first pay an upfront installation charge and subsequently make monthly or annual payments for maintenance, support and upgrades. While customers may opt out of the license fee, most opt in, because without it there is substantial risk of product inoperability or obsolescence.

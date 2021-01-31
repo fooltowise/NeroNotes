@@ -1,2 +1,4 @@
-
+# Trust and Consistency of Brands
 [[Brands]] are a promise; an implicit guarantee of qualities or characteristics. Sometimes these promises are bold (BMW: *The Ultimate Driving Machine*), sometimes more humble. Whatever it is, the promise needs to be honored consistently. The phenomenal success of McDonald's is built on a simple formula: inexpensive food of consistent quality delivered quickly in a clean environment. Although McDonald's faces headwinds from increasing health focus in developed markets, its simple, unfailing formula drove unprecedented global success for a restaurant brand.
+
+See also [[Satisficing]], [[People hate uncertainty]]

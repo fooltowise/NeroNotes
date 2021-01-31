@@ -1,3 +1,5 @@
+# Why commercial airplanes don't go faster
+
 Commercial airplanes are usually rated for a given number of cycles. A cycle means a takeoff and a landing. 
 
 That means that except for the fuel, the cost of flying a plane is fixed: it is the purchase price of the plane divided by the number of cycles the plane is rated for. This fixed cost can then be distributed over the total number of seats.

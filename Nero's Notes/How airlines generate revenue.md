@@ -1,3 +1,5 @@
+# How airlines generate revenue
+
 Thanks to decades of data gathering, airlines have a very precise idea of when customers tend to use a given air route or not.
 
 The goal of the airline is to extract the most revenue possible given a certain demand.

@@ -1,3 +1,4 @@
+# How Securitization is used to finance airlines
 In the first decade of the 21st century, securitization was common among the airline industry as a financing tool.
 
 Here is how it works:

@@ -1,3 +1,5 @@
+# Signaling in Business
+
 Look at the following things:
   - posh rope-handled carrier bags you get when you spend an appreciable amount of money on clothes or cosmetics
   - the free extra scoop of fries they give you at five guys

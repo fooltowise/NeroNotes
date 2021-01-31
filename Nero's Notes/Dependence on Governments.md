@@ -1,3 +1,5 @@
+# Dependence on Governments
+
 We are wary of businesses where governments play a large role in determining corporate fortunes. Government actions, which are political and therefore often unpredictable, can both catapult a business to prosperity or cut it down. 
 
 The issue is acute for companies that rely on fixed infrastructures such as telecom operators, utilities and oil producers, and mining companies. Since wiring, power plants, oil wells, and mines cannot readily be moved, governmental impositions - from carbon taxes to excise taxes on oil and mineral extraction - are neither predictable nor avoidable. 

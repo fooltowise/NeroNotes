@@ -1,3 +1,5 @@
+# Social Status
+
 Social status among humans come usually in two flavours: *dominance* and *prestige*.
 
 Dominance is clearly the result of competition, which can be often vicious and destructive. 

@@ -1,3 +1,5 @@
+# Credit Growth Cycle
+
 
 Because [[Credit is a commodity]] and credit has no physical constraints, the only limits to how much credit can grow is the equity of the lender and how much leverage he is willing to assume.
 

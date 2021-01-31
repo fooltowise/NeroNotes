@@ -1,4 +1,4 @@
-
+# The wit and wisdom of Johann Rupert
 Johann Rupert is the South-African CEO of Richemont SA.
 
 ### On Management

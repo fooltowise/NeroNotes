@@ -1,3 +1,5 @@
+
+# Lending Death Cycle 
 The lending death cycle could be described as follows:
 - A lender makes aggressive loans to borrowers who can only cover the interest  (see [[Three degrees of lending behavior]])
 - As long as property prices grow and interest rates decline, the business grow because borrowers are able to refinance against the increased value of their property.

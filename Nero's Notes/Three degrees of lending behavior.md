@@ -1,3 +1,5 @@
+# Three Degrees of Lending Behavior
+
 The economist Hyman Minsky has separated lending behaviors into three categories:
 
 - *Hedge finance,* where the borrower is able to cover both the interest rate of the loan and repayment of the principal with his current cash flows.

@@ -1,3 +1,5 @@
+# Lending Business
+
 - A lending [[Competitive Advantage]] can be the speed at which a lender may be able to approve or reject a loan.
 - [[Drivers of a banks returns| Drivers of a Bank's returns]]
 

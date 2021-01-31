@@ -1,4 +1,4 @@
-
+# Fashion Risk
 Customer assessments of benefits sometimes change for inscrutable reasons, especially for products offering [[intangible benefits]]. Think of how brands seen as cool in the 1980s look hopelessly uncool today or how consumer demand for certain kinds of foods or beverages  may rise and fall, be it for sodas or red wine. The toy industry has historically be fertile ground for fads to take root and flourish.  Examples abound, from the Cabbage Patch Kids dolls and Care Bears of the 1980s to the Tamagotchis and Furbys of the 1990s. 
 
 Wholesale revenues from Cabbage Patch Kids Dolls, launched by Coleco in 1983, soared to $550 million in 1984, and total merchandise sales brought a multiple of that. A successful pop music record was released and the characters adorned products from clothing to breakfast cereals. The dolls were ubiquitous. By 1987, however, the fad was over, and wholesale revenue dropped by nearly 75%, a collapse that contributed to Coleco's bankruptcy. 

@@ -1,3 +1,5 @@
+# Pattern Recognition
+
 ### Also called "Functional Equivalents"
 
 Keith Holyoak, a UCLA professor of psychology and one of the world's leading thinkers on analogical reasoning, recommend people to ask themselves the following two questions in order to hone their skills:

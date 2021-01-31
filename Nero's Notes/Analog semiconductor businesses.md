@@ -1,4 +1,4 @@
-
+# Analog Semi-Conductor Business
  Analog semiconductor businesses like Linear Technology or Analog Devices have a much better profitability than digital semiconductor ones.
  
  - Differentiated product and company specific sticky human capital reduce market contestatbility. 

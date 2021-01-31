@@ -1,3 +1,5 @@
+# Classifying Aggregators
+
 [[Aggregation Theory]] is fundamentally about owning the user relationship and being able to scale that relationship; that said, there are different levels of aggregation based on *the aggregator’s relationship to suppliers:*
 
 ## Level 1 Aggregators: Supply Acquisition

@@ -1,3 +1,5 @@
+# Capital Cycle
+
 Typically, capital is attracted into high-return businesses and leaves when returns fall below the cost of capital. This process is not static, but cyclical - there is constant flux. 
 The inflow of capital leads to new investment, which over time increases capacity in the sector an eventually pushes down returns.
 

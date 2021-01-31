@@ -1,4 +1,4 @@
-
+# Corporate Management
 Good managers have the patience and discipline to invest in organic growth and the willpower to resist the temptation of a dash for growth through 'transformational' (and often value-destructive) acquisitions. Excessively proud management teams indulging in undisciplined acquisition sprees rarely create value for investors. Another sign for strong long term thinking is  a prudent balance sheet and counter-cyclical investment. Exceptional managers minimize borrowings and turn a recession into an advantage.
 
 

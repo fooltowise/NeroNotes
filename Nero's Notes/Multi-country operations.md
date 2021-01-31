@@ -1,2 +1,2 @@
-
+# Multi-Countries Operations
 A strong supply chain that covers multiple countries — with different laws, languages, and logistics challenges — is hard to beat, especially if it got a head start and operates in a challenging region. (Ex: MercadoLibre)

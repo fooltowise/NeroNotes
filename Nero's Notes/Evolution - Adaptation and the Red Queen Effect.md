@@ -1,4 +1,4 @@
-
+# Evolution - Adaptation and the Red Queen Effect
 Organisms constantly adapt to their environments to gain a [[Competitive Advantage]]. An organism unwilling to adapt is bound to disappear. 
 
 This leads to the expenditure of massive resources just to stay at the same place.** Complacency will kill you.** The stronger we are relative to others, the less we are willing to change. 

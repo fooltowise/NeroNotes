@@ -1,3 +1,4 @@
+# Market Research is not reliable
 Because people [[Evolution and self-delusion| don't know consciously the reasons of their behavior]], market research (asking people what they want and why) can be misleading.
 
 David Ogilvy, who started his career in market research, said:

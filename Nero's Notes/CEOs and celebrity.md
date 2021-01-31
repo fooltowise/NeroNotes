@@ -1,4 +1,4 @@
-
+# CEOs and Celebrity
 Shareholders should be waary of any company whose chief executive is portrayed in the media as a business celebrity. In their article 'Superstar CEOs', economists Ulrike Malmendier and Geoffrey Tate investigated the effect of celebrity status - proxied by the receipt of business awards - on company performance. They found that "award winning CEOs subsequently under-perform both relative to their prior performance and relative to a sample of non-winning CEOs. They spend more time on public and private activities... The incidence of earnings management increases after winning awards.""
 
 We therefore generally prefer executives who keep a low profile. Nonetheless, fame sometimes benefits a company, Ryanair's CEO Michael O'Leary, for instance, sometimes courts the media glare in shrewdly calculated moves to generate free advertising.

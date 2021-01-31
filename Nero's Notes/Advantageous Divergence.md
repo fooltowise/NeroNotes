@@ -1,3 +1,5 @@
+# Advantageous Divergence
+
 ### Analogy
 
 Advantageous Divergence is like unconventional wisdom.

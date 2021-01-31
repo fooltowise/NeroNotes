@@ -1,3 +1,5 @@
+# Owner Operators
+
 If you’ve ever founded your own business, you’ll know how important they become to you. For many business owners, their companies become like one of their own children; they nurture and guide them and then watch them grow, and feel every triumph and failure far more keenly than others who are not as emotionally invested within the business might. Some few decide to sell their businesses after a while, yet many others choose to stay with them, remaining with their ‘child’ over time to see it grow to maturity.
 
 I’m sure you’ve heard the saying, ‘_no one works as hard as the owner_’, and this is largely true. No one does. Where other managers and employees might come and go over time, it’s the founder who is there, quite often seven days a week, plugging away at their enterprise, steering and guiding and leading it towards success. And its this commitment to the cause that often leads to remarkable levels of performance.

@@ -1,3 +1,4 @@
+# Barriers to Entry and Rationality
 
 Some industries or product are more likely to come under competitive attack than others. If an industry has many new players popping up all the time, beware: barriers to entry are too low. However, industries with low barriers to entry may still have high barriers to success and scale - just look at the restaurant industry.
 

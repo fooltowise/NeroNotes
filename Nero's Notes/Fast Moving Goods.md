@@ -1,3 +1,5 @@
+# Fast Moving Goods
+
 Fast Moving Consumer Goods have been historically an excellent industry for shareholders' returns. By looking at their characteristics, we can derive a new kind of business dedicated to industrial clients: Fast Moving Industrial Goods.
 
 ### Fast Moving Consumer Goods

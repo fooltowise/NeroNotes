@@ -1,3 +1,5 @@
+# People Hate Uncertainty
+
 A core feature of the human species is that people hate uncertainty. 
 
 For instance, ask yourself which message on a flight departure board would distress you more: 

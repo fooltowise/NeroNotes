@@ -1,1 +1,3 @@
+# Integration as strategic value
+
 Forward integration gives companies more influence over customer experiences.  Consumers respond not just to products, but to [[Brands]] image and even to advice and guidance. In retail stores, clever merchandising can stimulate customers to trade up and explore new things, as they try on clothes or smell perfumes. Companies which control the store-front are able to shape these buying experiences more precisely. Above all, producers who sell direct name their own prices, instead of ceding control to warehouses, distributors or retailers. What's more, they exercise a mini-monopoly in their own stores, without competing brands or private labels vying for space.

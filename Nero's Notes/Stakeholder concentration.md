@@ -1,3 +1,5 @@
+# Stakeholder Concentration
+
 Strong customer relationships are wonderful but reliance on precious few creates concentration risk. Despite a strong business model and solid historical bonds, such dependency adds uncertainty. As with friendships, business relationships change, often inexplicably. Besides the negative consequences of losing a key customer, the threat of defection confers bargaining power that big customers can use to extract economic concessions that alone or in aggregate may pose significant costs.
 
 Many contemporary challenges facing food and beverage companies arise from their concentrated customer base. Large grocery retailers know their high value to their manufacturers and use it to negotiate lower prices and more favorable terms than they would have gotten otherwise.

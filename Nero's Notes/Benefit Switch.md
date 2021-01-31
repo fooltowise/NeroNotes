@@ -1,4 +1,4 @@
-
+# Benefit Switches
 Companies try to control as many of the variables that influence customer decision making as they can, often through branding and packaging. however, changes in preferences are often associated with variables they cannot control. Take the tobacco industry: companies control taste and nicotine but not public attitudes towards health, which lead some people to quit and others to ostracize those who have not.
 
 In today's food industry, companies likewise grapple with increased interest in nutritional content rather than the historical focus on taste.  In retailing, the historical competitive advantage that the consumer benefit of proximity offered is reduced by rising consumer preference for online shopping. No one can control such shifts, but we try to consider them as part of an overall assessment of the durability of competitive advantages.

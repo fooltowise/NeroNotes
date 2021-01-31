@@ -1,3 +1,5 @@
+# Why Options are usually a bad compensation scheme
+
 **Options don't mean alignment of interests with shareholders, and may even lead to more risk taking.**
 
 Ironically, the rhetoric about options frequently describes them as desirable because they put managers and owners in the same financial boat. In reality, the boats are far different. No owner has ever escaped the burden of capital costs, whereas the holder of a fixed-price option bears no capital cost at all. An owner must weigh upside potential against downside risk; an option holder has no downside.
@@ -16,3 +18,5 @@ Simply by withholding earnings from owners, Fred gets very rich, making a cool $
 They should be awarded only to those managers with overall responsibility. Managers with limited areas of responsibility should have incentives that pay off in relation to results under their control. 
 
 Second, options should be structured carefully. Absent special factors, they should have built into them a retained-earnings or carrying-cost factor. Equally important, they should be priced realistically... options should be priced at true business value. 
+
+See also [[Munger's Critique of Stock Options]]

@@ -56,8 +56,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dividends and Buybacks.md",
-            "mode": "source"
+            "file": "The Fundamental Theorem of Investing.md",
+            "mode": "preview"
           }
         }
       },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dividends and Buybacks.md",
+                "file": "The Fundamental Theorem of Investing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dividends and Buybacks.md"
+                "file": "The Fundamental Theorem of Investing.md"
               }
             }
           }
@@ -175,15 +175,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Dividends and Buybacks.md",
-    "Capital Allocation.md",
-    "Mergers and Acquisitions.md",
-    "Leveraging network benefits.md",
-    "Hearing Aid industry.md",
-    "Agency Business Model.md",
-    "Structured Products industry.md",
-    "Testing Industry.md",
-    "Dental Implants industry.md",
-    "Geberit's business model.md"
+    "The Fundamental Theorem of Investing.md",
+    "Evolution - Natural Selection and Extinction.md",
+    "Owner Operators.md",
+    "Customer Benefits.md",
+    "Customer Types.md",
+    "Logics is a commodity.md",
+    "Free markets encourage crazy ideas.md",
+    "Reason as rationalization.md",
+    "When what is most effective makes no sense.md",
+    "Revealed preferences.md"
   ]
 }

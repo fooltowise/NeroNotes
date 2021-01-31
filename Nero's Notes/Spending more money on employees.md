@@ -1,3 +1,5 @@
+# Spending More Money on Employees
+
 Some firms have strengthened their corporate culture by spending more, not less.
 
 Costco pays its staff more than the legal minimum wage, and far more than rivals. The average Costco employee makes  in excess of $20 an hour, compared to average US national retail pay of less than $12 an hour. The company also sponsors healthcare for nearly 90% of workers.

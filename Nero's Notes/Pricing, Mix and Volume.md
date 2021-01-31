@@ -1,3 +1,4 @@
+# Pricing, Mix and Volume
 Viewed from a purely financial perspective, growth in revenues can be broken down into price, product mix and volume. 
 Setting inflation aside, companies able to increase prices without corresponding increase in cost (or decrease in units volume) have substantial [[Pricing Power]].
 

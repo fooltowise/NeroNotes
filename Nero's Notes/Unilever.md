@@ -1,3 +1,5 @@
+# Unilever
+
 See [[Geographic Expansion]]
 
 Unilever boasts a vast portfolio of personal care, home, food and refreshment brands distributed in 190 countries. The company derives almost 60% of revenues from emerging markets and has deep heritage in those locales, thanks partly to Britain's historical influence over large swaths of the globe. Its geographic expansion continues today. 

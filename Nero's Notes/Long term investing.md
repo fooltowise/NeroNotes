@@ -1,3 +1,5 @@
+# Long term investing
+
 In *The Intelligent Investor*, Benjamin Graham provides a quick-and-dirty method for identifying excesses in the market: the number of IPO’s. Turns out, a large number of IPO’s typically precede market underperformance relative to the historical average. Of course, this need not imply causation: companies typically will IPO when the market is willing to except a lower yield, that is, a higher multiple, and this behavior produces excesses in itself. Thus, the record number of IPO’s that we have seen in 2019 is nothing new; what is new is the *nature* of these IPO’s. Companies are taking full advantage of a new phenomenon: equity subsidization.
 
 

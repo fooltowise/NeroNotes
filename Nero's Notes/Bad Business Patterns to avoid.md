@@ -1,3 +1,5 @@
+# Bad Business Patterns to Avoid
+
 ### These are not going to end well:
 
 A. [[Airline Business]]| Airline companies ]]
@@ -19,10 +21,5 @@ C. Depending too much on the kindness of someone else
 
 D. Relying on the price of a commodity you cannot control
 - Oil & Gas companies, fracking companies, mining companies
-
-
-
-
-
 
 See [[Pattern Recognition]]

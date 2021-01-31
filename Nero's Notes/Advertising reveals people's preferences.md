@@ -1,3 +1,5 @@
+# Advertising reveals people's preferences
+
 Consumer behavior, and advertisers' attempts to manipulate it, can be viewed as an immense social experiment, with considerable power to reveal the truth about what people want and what drives them. 
 
 

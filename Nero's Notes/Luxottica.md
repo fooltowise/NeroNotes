@@ -1,3 +1,5 @@
+# Luxottica
+
 Luxottica, founded in 1961 as a small manufacturer of components for the Italian optical industry, may not be a household name, but in the market for premium eyeglasses and sunglasses it is everywhere. Luxottica's stable of brands is iconic, encompassing Oakley and Ray-Ban, and it boasts a starry licensed portfolio featuring Armani, Bulgari, Burberry, Chanel, Polo Ralph Lauren, and Prada. In recent decades, the company has expanded through a series of brave but astute deals to become its sectors decisive global leader. 
 
 Luxottica exemplifies successful [[Forward Integrator| forward integration]], starting decades ago with manufacturing and today spanning the value chain through to the end consumer. Luxottica's forward integration started in the 1970s when it added wholesale distribution to its manufacturing capabilities. Initially focused in Italy, this strategy expanded internationally in the 1980s. The shift allowed the company to leverage its manufacturing prowess more effectively and profitably through increased control of customer relationships. 

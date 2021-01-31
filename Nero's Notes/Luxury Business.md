@@ -1,4 +1,4 @@
-
+# Luxury Business
 
 See also [[Veblen goods]].
 Luxury goods are a way to [[Signaling|signal]] "I command more resources than you". 

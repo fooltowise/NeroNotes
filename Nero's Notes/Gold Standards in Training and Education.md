@@ -1,4 +1,4 @@
-
+# Gold Standards in Training and Education
 
 Other gold standards originate in training. Many professions require members to use certain types of programs, from medical diagnostic equipment to engineering and architectural software. Training can be costly and repeated use increases knowledge and switching costs and promotes standardization.
 

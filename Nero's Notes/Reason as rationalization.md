@@ -1,3 +1,5 @@
+# Reason as Rationalization
+
 One astonishing possible explanation of the function of reason only emerged about ten years ago: the argumentative hypothesis suggests reason arose in the human brain not to inform our actions and beliefs, but to explain and defend them to others. In other words, it is an adaptation necessitated by our being a highly social species. 
 
 **We may use reason to detect lying in others, to resolve disputes, to attempt to influence other people or to explain our actions in retrospect, but it seems not to play the decisive role in individual decision-making.**

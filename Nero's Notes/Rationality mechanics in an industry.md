@@ -1,3 +1,5 @@
+# Rationality Mechanisms in an Industry
+
 Understanding the potential consequences of disruptions in a given industry is an important step in the process of assessing its attractiveness. In many industries, market share battles and small price wars will occasionally erupt.  We try to assess whether these eruptions are likely to create all-out war, destroying industry profitability, or be resolved amicably. Given the inevitable risk of any company behaving destructively, one should prefer companies in industries with the ability to snap back to rationality and stability. 
 
 The best industries are those where all companies can afford to think long-term. If an industry's technology, demand and participants will remain constant, it reduces the incentive to attempt to increase earnings on the short run at the expense of the long.  These kind of effects tend to be more powerful if key industry players are family-owned. While CEOs may have a three to five years perspective on a company, families think in generations. While bursts of irrationality undoubtly arise in family businesses, they tend to be more contained.
@@ -13,4 +15,4 @@ Discounting can be seductive in the short term: it boosts sales, enables compani
 Such behavior eroded profitability in the laundry detergent category. Having taught consumers to buy in bulk on sale is also one of the reasons why Coca Cola struggles with profitability in North America. The investor should appreciate a company policy to avoid discounts, as this is a sign of a genuinely long term view as opposed to seeking artificial short term boosts that risk long term performance. LVMH's Moët & Chandon, for instance, did not discount its champagne during the global financial crisis that began in 2008, despite a sharp contraction in demand. Instead, the company sold at full price when the good times returned. 
 
 
-See [[Rationality]]
+See [[Rationality]], [[Games Theory]]

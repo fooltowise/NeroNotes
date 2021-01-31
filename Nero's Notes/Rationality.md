@@ -1,3 +1,4 @@
+# Rationality
 Rationality can be divided in two categories: *epistemic rationality* and *instrumental rationality*. 
 
 - Epistemic rationality is the process of systematically improving its own beliefs so that the map they create reflect the territory of reality as accurately as possible. It is of course the foundation of science.

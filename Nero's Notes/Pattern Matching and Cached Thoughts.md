@@ -1,3 +1,5 @@
+# Pattern Matching and Cached Thoughts
+
 One of the single greatest puzzles about the human brain is how the damn thing works *at all* when most neurons fire 10–20 times per second, or 200Hz tops. In neurology, the “hundred-step rule” is that any postulated operation has to complete in *at most* 100 sequential steps—you can be as parallel as you like, but you can’t postulate more than 100 (preferably fewer) neural spikes one after the other.
 
 Can you imagine having to program using 100Hz CPUs, no matter how many of them you had? You’d also need a hundred billion processors just to get *anything* done in real-time.

@@ -1,4 +1,4 @@
-
+# Cults - The enabler of reflexivity
 When belief in a company transcends fandom and borderlines on religion, rationality barely matters. 
 
 Irrational pricing is what enables companies (like Tesla) to raise capital, tackle new ideas, and stir up exuberance again. Rinse, repeat.

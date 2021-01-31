@@ -1,3 +1,4 @@
+# Market Share Gainers
 A basic measure of company quality id propensity to gain market share. A company with better products (in terms of quality and/or price) and superior execution should regularly attract new customers from competitors and widen its reach among existing consumers.
 
 ### The power of Market Share

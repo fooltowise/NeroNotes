@@ -1,3 +1,5 @@
+# Economic Effects of Recurring Revenues
+
 In most [[Recurring Revenues]] models, customers fund a provider's business: customers pay ahead of delivery of goods or services. Many such companies can operate with negative [[Costs of Working Capital]], meaning fewer resources are tied up to operations, which translates into lower costs and higher profits. Indeed, for most other companies, growth in size induces greater cost of working capital; for those enjoying recurring revenues, growth can instead drive greater benefits from working capital.
 
 Subscription and service revenues tend to be billed in advance. Revenue therefore turns into cash more quickly than for companies that bill and collect only after goods are delivered or services rendered. Cash is always more valuable the earlier it is received.

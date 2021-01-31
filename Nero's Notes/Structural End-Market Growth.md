@@ -1,4 +1,4 @@
-
+# Structural End-Market Growth
 Whereas cyclical growth refers to episodic expansions, structural growth refers to more permanent expansions supported by persistent trends deemed likely to endure. 
 
 The inherent prognosis, however, warrants skepticism, as the observed pattern is in fact often cyclical and merely temporary. Many emerging market trends previously considered structural seem, in hindsight, to have been more cyclical in nature.

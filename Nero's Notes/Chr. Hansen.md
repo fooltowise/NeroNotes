@@ -1,3 +1,5 @@
+# Chr. Hansen
+
 Calf gut does not sound promising as a foundation for a successful global business. Yet, when Christian Hansen started out, its sole product was rennet: a complex of enzymes extracted from the fourth stomach of young ruminants, commonly used in cheese production.
 
 In 1874, the company's eponymous founder began commercially producing rennet from the premises of a former metal workshop in Copenhagen. Overseas expansion followed quickly, with representatives selling Hansen's rennet across Europe and a powdered rennet factory opening in America.

@@ -1,3 +1,5 @@
+# Disruption through Technological Innovation
+
 The word innovation carries positive connotations, along with gratitude toward great inventors who have improved life, such as Alexander Fleming's discovery of penicillin, Thomas Alva Edison's light bulb and Robert Noyce's integrated circuit. But, at least for capitalists, innovation is two-edged: while great improvements create new fortunes and even new industries, they often decimate others. 
 Innovation can be such a brutal and destructive force for businesses that we often avoid industries where the risk of significant technological innovation is high. Among the most important questions we ask when investing is whether a company's products will still exist in a similar and relevant form ten years hence. See [[Long term investing]]
 

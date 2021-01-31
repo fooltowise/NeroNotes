@@ -1,2 +1,2 @@
-
+# Longevity of Brands
 One relatively simple way to assess [[Brands]] is longevity. The market can be a brutal evolutionary system (see [[Evolution - Natural Selection and Extinction]]). To survive a long time in a competitive, sometimes cut-throat environment, a brand must have special qualities. Brands that have retained preferred status for decades have something special. While this doesn't insulate them entirely form future disruptions, such brands clearly have an enduring appeal that should help them to survive. 

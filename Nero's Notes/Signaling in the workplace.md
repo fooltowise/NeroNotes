@@ -1,3 +1,4 @@
+# Signaling in the Workplace
 
 In [*Willing Slaves*](https://www.amazon.com/gp/product/000716372X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=farnamstreet-20&creative=9325&linkCode=as2&creativeASIN=000716372X&linkId=6374b0ba57500bf35dcba846375d8c15)*,* Madeleine Bunting writes, “Many professionals in the public sector have come to the painful conclusion that they now have two tasks; to do their job and then to prove they’ve done it.” This is true in many workplaces in cultures that value overwork—people are incentivized to prioritize the appearance of hard work above all else. The result is deliberate efforts to [signal productivity,](https://fs.blog/2013/12/your-environment-matters/) no matter how counterproductive they prove to be for the company or the individual.
 

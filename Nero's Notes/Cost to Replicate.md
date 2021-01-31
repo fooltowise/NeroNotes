@@ -1,3 +1,5 @@
+# Cost to replicate
+
 One way of assessing the durability of a competitive advantage is to [[Inversion| invert]] the analysis. Instead of looking at what supports a competitive advantage, we analyze what it would take for a newcomer to replicate the business and remove the advantage. Such analysis often reveals idiosyncrasies that can be instructive in assessing a business' quality.
 
 Take two examples. In the liquor business, white spirits are probably more at risk from disruption than brown spirits, no matter how strong the brand. While clever marketing and deep pockets enable new entrants to develop a competitive brand of gin or vodka, it is challenging to do with cognac or whiskeys. For one, brown spirits require aging, entailing not merely creativity and resources but unusual patience (often over ten years) for rivals to have even a shot at building a credible portfolio of brands. At the other end of the spectrum, in the white spirit market, potatoes can be transformed into cash within the space of a month.

@@ -1,3 +1,5 @@
+# Corporate Culture
+
 A strong corporate culture constitutes  an intangible asset, potentially as valuable as a high profile brand or network of customer relationships.
 
 As Buffett says:

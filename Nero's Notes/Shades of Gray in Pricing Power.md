@@ -1,4 +1,4 @@
-
+# Shades of Gray in Pricing Power
 
 In an ideal world, a company with pricing power can raise prices significantly without any decline in volume. In reality, no company has such absolute pricing power. It is doubtful that any company could double prices without losing volume.
 

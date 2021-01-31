@@ -1,3 +1,5 @@
+# Vantage Point
+
 ## Eight points of view for evaluating a stock
 ### by Sanjay Bakshi
 

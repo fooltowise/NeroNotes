@@ -1,3 +1,4 @@
+# Execution
 The ability to deliver on time and according to plan is highly valuable. Timely execution is usually embedded in [[corporate culture]]. If it is not, when deadlines loom and backlogs grow, workers wonder why they should stay late or work overtime when others leave early or stay home. We look for firms where diligence is stimulated and rewarded, where people are eager to go the extra mile.
 
 A few telltale signs indicate an ability to execute. For example, companies that are good at executing tend to be less "accident" prone. They do not suddenly announce big cost overruns on their acquisition made two years earlier. They are organizations that tend to deliver on their promises, small as well as large. That doesn't mean everything always goes to plan, just that mishaps occur more rarely. More importantly, when things do go wrong, they are usually able to identify the problem and use it with dispatch. 

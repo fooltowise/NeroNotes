@@ -1,4 +1,4 @@
-
+# Filtering
 Our scarcest resource is time. You will find more value in things that help you filter. Ex: Google. 
 
 Those will have pricing power. Filtering happens as well because of [[Signaling in business|trust]]. 

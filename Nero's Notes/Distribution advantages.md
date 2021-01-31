@@ -1,3 +1,5 @@
+# Distribution Advantages
+
 Distribution as a competitive advantage means that a company's route to consumers is more effective than its rival's for an otherwise equivalent product. For manufacturers who distribute through middlemen rather than making direct sales, relationships are critical. The best manufacturers nurture these relationships to make them mutually advantageous. Such relationships often provide a significant layer of protection for manufacturers.
 
 Think of a scenario where a store feels the manufacturer treats it well, that customers like the product and product sales contribute meaningfully to the store's profit. It would take considerably more than a cheaper price from a rival manufacturer to induce the retailer to switch or alter its product mix. Rivals can offer lower prices, but a retailer faces risks: the relationship with the new manufacturer may not turn out as well or customers may like the alternative less.

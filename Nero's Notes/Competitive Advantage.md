@@ -35,6 +35,7 @@ Pricing power can come from:
 ### Be the [[Low Cost Provider]]
 1. [[Economies of Scale]]
 2. [[Reverse pricing power]]
+3. [[Scale Economics Shared]]
 
 
 

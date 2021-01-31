@@ -1,3 +1,4 @@
+# Free markets encourage crazy ideas
 The biggest strength of free markets is to generate and encourage ideas whose popularity [[When what is most effective makes no sense| makes no sense.]]
 
 In planned economies, decisions have to look rational before production even begins, so [[You can never be fired for being logical|nobody is going to risk his career]] by suggesting illogical approaches or products.

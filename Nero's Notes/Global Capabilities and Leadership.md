@@ -1,3 +1,4 @@
+# Global Capabilities and Leadership
 History is littered with examples of impressive franchises that were eroded by the encroachment of foreign rivals. In the 1980s, European consumer electronics makers all but disappeared after Japanese manufacturers entered the market with higher quality and better priced alternatives. In the 1990s, England's financial industry, a cozy coterie of large firms centered in London, was shocked to find American investment banks aggressively muscling in on their territory. 
 
 Other strong domestic companies try to project their might abroad only to fail, proving unable to transplant their strengths. A recent example is Tesco, the venerable British grocer whose efforts to expand globally backfired.

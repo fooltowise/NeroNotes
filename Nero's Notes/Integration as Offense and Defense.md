@@ -1,4 +1,4 @@
-
+# Integration as Offense and Defense
 Forward integration can strengthen a company's position vs competitors. For some companies, selling and promoting products in the right location cements a company's brand and reputation, whether on Fifth Avenue in New York, Bond Street in London or Rodeo Drive in Los Angeles. With a shortage of such locations available, it can take years for newer brands to build the kind of store-front offering needed to give a brand the desired cachet.
 Forward Integration can also ease entry into new markets. Companies that control their own stores and infrastructure depend less on the kindness of strangers to promote the company's benefits. Dependence on partners or other companies in supply chains can prove particularly tricky in emerging markets, where verifying reliability can be difficult. In our view, companies that take the time to build their own operations from scratch are more likely to succeed than those who are at the mercy of third parties. 
 

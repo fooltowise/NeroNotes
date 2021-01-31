@@ -1,3 +1,4 @@
+# Low Cost Squared
 A strategy of consistently low pricing is typically enabled by low unit costs. Some low-price businesses, however, achieve competitive advantage through several cost-saving small steps. When doing so translates into huge cumulative cost savings, the strategy punishes rivals and deters new entrants. We call this *low-cost squared*. 
 
 Many companies that pursue low production costs achieve lowest-cost status - for a while. The more routine low-cost tactics give only short-term advantages because they can be copied. For example, pallets - portable wooden packing platforms - were first used for stocking merchandise in deep-discount retailers but are now a common sight at many supermarkets. Low-cost airlines like Southwest pioneered shorter aircraft turnaround times, but traditional airliners soon followed suit.
@@ -9,3 +10,5 @@ To illustrate how low cost advantages consist of may small things added and squa
 Traditional retailers struggle to replicate all of Costco's advantages through frugality though they copy what they can, like using pallets. Many are stuck in high-rent locales. Others invested considerably in display and presentation. Most opted long ago to accept alternative payment systems. Some have nowhere near the scale needed to challenge the Costco model.
 
 Other example: [[Ryanair]]
+
+See also [[Scale Economics Shared]]

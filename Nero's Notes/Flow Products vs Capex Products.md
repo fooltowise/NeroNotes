@@ -1,3 +1,5 @@
+# Flow Products vs Capex Products
+
 The [[Capital Cycle]] can be very detrimental to the revenues of a company.
 
 A business that is solely linked to customer's capital expenditures makes for a much more complicated investment than one linked to their operating costs. In most cyclical industries, capital equipment is purchased amid periods of capacity expansions. When iron ore prices rise, mining companies plan and build new mines; but when they fall, new projects are postponed or canceled.

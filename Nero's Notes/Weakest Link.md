@@ -1,3 +1,5 @@
+# Weakest Link
+
 Imagine that for an investment operation to be successful, four events must happen. Imagine further that you know what are the chances of each of those events happening, You reckon that there is a 95% chance of occurrence of each of the first three events. But the fourth event is not very likely to happen. In fact, it is very unlikely and has a probability of only 5% of its occurrence. 
 
 How should you think about this investment operation?

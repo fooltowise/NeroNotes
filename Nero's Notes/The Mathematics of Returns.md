@@ -1,3 +1,4 @@
+# The Mathematics of Returns
 
 If we purchase a share of Company A for price P1 at t1 and sell it for P2 at t2, our annual return can be represented as 
 

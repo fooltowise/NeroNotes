@@ -1,3 +1,5 @@
+# Cooperation
+
 Cooperation teaches us to seek out and frame interactions based not only on what we can get, but also what we can give. If there was any one model that explains humanity, then this is it. 
 
 Cooperation unleashed the potential of the human species. Working and collaborating with others gives us options and opportunities that are unavailable when we insist on going it alone. 

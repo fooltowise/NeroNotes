@@ -1,3 +1,4 @@
+# Limits to Isometric scaling
 *Isometric Scaling* is about multiplying all dimensions of an object by a constant while keeping its shape constant. It very rarely happens in nature.
 
 *Allometric Scaling* happens when the dimensions of an organism are changed, and as a result the shape is changed as well so the entity can keep working as expected.Exemple: the human body's proportions will change as it grows from a baby (big head, clunky members) to an adult.

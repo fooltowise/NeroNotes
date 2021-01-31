@@ -1,3 +1,4 @@
+# New Entrants
 Business life was easier when national markets were largely closed to outside competitors. In Europe, national corporate champions were able to businesses with impressive economics based on market dominance often supported by legacy infrastructure. Free trade agreements and the rise of online commerce have created open marketplaces for virtually all goods and services. 
 
 While businesses have always faced the threat of new entrants, building and strengthening competitive advantages were reliable defensive strategies. New entrants are now much harder to fend off. Rivals that previously were not considered a threat can more easily move across borders, virtually of physically. In the UK, for example, the entry of deep-discounters in the grocery market has disrupted what many viewed as an unassailable industry structure. 

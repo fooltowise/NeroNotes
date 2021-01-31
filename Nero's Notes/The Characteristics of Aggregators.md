@@ -1,3 +1,5 @@
+# The Characteristics of Aggregators
+
 Aggregators have all three of the following characteristics; the absence of any one of them can result in a very successful business (in the case of Apple, arguably the most successful business in history), but it means said company is not an aggregator.
 
 ## Direct Relationship with Users

@@ -1,4 +1,4 @@
-
+# Different Definitions of return on capital
 The simplest and most commonly used tool for measuring returns is return on equity: net income as a percentage of shareholders' equity. While useful as a general proxy, the figure is crude for two reasons. Most obviously, the return part of the equation uses accounting measures, whose application leaves managers with considerable discretion over the treatment of important measures such as depreciation and provisioning. 
 
 The calculation can also be distorted by factors that affect the value of shareholders' equity, such as write-downs and debt levels. The latter is particularly problematic, since the leverage effect of debt boosts return on equity but does not reflect the associated risks: many of the failed financial institutions in the 2008 crisis boasted seductive returns on equity in preceding years.

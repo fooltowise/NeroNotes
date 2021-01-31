@@ -1,3 +1,5 @@
+# Visual Thinking Applied to Investing
+
 It is interesting to *visualize* how certain financial ratios (and therefore, valuation multiples) will change because of changes in a business. For example:
 
 1. A gradual transformation of a B2B business with much lower profit margins into a B2C business with much higher margins if it becomes successful.

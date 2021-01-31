@@ -1,4 +1,4 @@
-
+# Satisficing
 [[People hate uncertainty]].
 
 Often it is better to avoid an [[Inversion|horrible mistake]] than have the absolute best result.
