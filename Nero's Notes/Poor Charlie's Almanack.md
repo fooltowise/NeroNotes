@@ -1,7 +1,8 @@
 # Poor Charlie's Almanack
 
 ## Eleven Talks
-[[Guaranteed Prescription For Misery]]
+1. [[Guaranteed Prescription For Misery]]
+2. [[A Lesson on Elementary Worldly Wisdom]]
 
 ## Misc
 

@@ -9,6 +9,7 @@
 - [[Binary Trees]]
 - [[Heaps]]
 - [[Hash Tables]]
+- [[Binary Search Trees]]
 
 
 ### Algorithms

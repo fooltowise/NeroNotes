@@ -8,6 +8,9 @@
 - [[The Three Buckets]]
 - [[Lollapalooza Effect]]
 - [[Choosing Important Problems]]
+- [[Mental Models from Mathematics]]
+- [[Mental Models from Engineering]]
+- [[Mental  Models from Microeconomics]]
 
 
 

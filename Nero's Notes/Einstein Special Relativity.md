@@ -13,7 +13,7 @@ $$y' = y $$
 $$ z' = z$$
 $$ t' = \frac{t - \frac{u x}{c^2}}{\sqrt{1-\frac{u^2}{c^2} }}  $$
 
-Einstein used this transformation to show that the only modification needed for Newton's equation to follow the principle of relativity when the speed of light is involved is to transform the formula of the mass. The mas is not constant anymore, but is equal to:
+Einstein used this transformation to show that the only modification needed for Newton's equation to follow the principle of relativity when the speed of light is involved is to transform the formula of the mass. The mass is not constant anymore, but is equal to:
 $$ m = \frac {m_0}{\sqrt{1 - \frac{u^2}{c^2}   }} $$  where m0 is the mass at rest of the object considered.
 
 

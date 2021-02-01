@@ -1,4 +1,4 @@
-
+# Great Businesses I'd like to own
 See [[The Fundamental Theorem of Investing]]
 
 - Constellation Software Inc

@@ -59,10 +59,23 @@
         "id": "731b4cdf38df1575",
         "type": "leaf",
         "active": true,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Awaken the giant within.md",
+            "file": "A Lesson on Elementary Worldly Wisdom.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "b6b4e1ddc9bf6eb5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mental  Models from Microeconomics.md",
             "mode": "source"
           }
         }
@@ -92,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: scale economics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awaken the giant within.md",
+                "file": "A Lesson on Elementary Worldly Wisdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awaken the giant within.md"
+                "file": "A Lesson on Elementary Worldly Wisdom.md"
               }
             }
           }
@@ -169,15 +181,15 @@
     "width": 182.4687042236328
   },
   "lastOpenFiles": [
-    "Awaken the giant within.md",
-    "Forward Integrator.md",
-    "Atomic Habits.md",
-    "Make it satisfying.md",
-    "Make it easy.md",
-    "Make it Attractive.md",
-    "Make it obvious.md",
-    "Mental Models from Biology.md",
-    "Vulnerability.md",
-    "Mental Models from Psychology.md"
+    "A Lesson on Elementary Worldly Wisdom.md",
+    "Mental  Models from Microeconomics.md",
+    "Economies of Scale.md",
+    "Mental Models.md",
+    "Niches.md",
+    "Mental Models from Engineering.md",
+    "Mental Models from Physics.md",
+    "How to Think for yourself.md",
+    "Untitled.md",
+    "Binary Search Trees.md"
   ]
 }

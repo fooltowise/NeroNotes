@@ -1,3 +1,5 @@
+# Incentives of Advisors
+
 *Whose bread I eat, his song I sing.*
 
 It's dangerous to get advice from people where their compensation - and maybe a very large compensation - depends on a specific line of advice they give you.
