@@ -113,7 +113,7 @@ And that reaction of the robber barons was so irritating to people that it made 
 
 Just as in an ecosystem, people who narrowly specialize can get terribly good at occupying some little [[Niches| niche]]. Just as animals flourish in niches, similarly people who specialize in the business world - and get very good because they specialize - frequently find good economics that they wouldn't get any other way.
 
-And once we get into microeconomics, we get into the concept of [[Economies of Scale | advantage of scale]]. Now we're getting closer to investment analysis - because in terms of which businesses succeed and which business fail, advantages of scale are ungodly important.
+And once we get into microeconomics, we get into the concept of [[Economies of Scale | advantage of scale]]. Now we're getting closer to investment analysis - because **in terms of which businesses succeed and which business fail, advantages of scale are ungodly important.**
 
 For example, one great advantage of scale taught in all of the business schools of the world is cost reductions along the so-called experience curve. Just doing something complicated in more and more volume enables human beings, who are trying to improve and are motivated by the incentives of capitalism, to do it more and more efficiently.
 
@@ -164,6 +164,101 @@ Just think of how narrowcast that kind of publishing is. So occasionally, scalin
 The great defect of scale, of course, which makes the game interesting - so that the big people don't always win - is that as you get big, you get the bureaucracy. And with the bureaucracy comes the territoriality - which is again grounded in human nature.
 
 And the incentives are perverse. For example, if you worked for AT&T in my day, it was a great bureaucracy. Who in the hell was really thinking about the shareholder or anything else? And in a bureaucracy, you think the work is done when it goes out of your in-basket into somebody else's in-basket. But, of course, it isn't. It's not done until AT&T delivers what it's supposed to deliver. So you get big, fat, dumb, unmotivated bureaucracies.
+
+They also tend to become somehow corrupt. In other words,  if I've got a department and you've got a department and we kind of share power running this thing, there's sort of an unwritten rule: "If you won't bother me, I won't bother you, and we're both happy." So you get layers of management an associated costs that nobody needs. Then, while people are justifying all these layers, it takes forever to get anything done. They're too slow to make decisions, and nimbler people run circles around them.
+
+The constant curse of scale is that it leads to big, dumb bureaucracy - which, of course, reaches its highest and worst form in government where the incentives are really awful. That doesn't mean we don't need government - because we do. But it's a terrible problem to get big bureaucracies to behave.
+
+So people go to stratagems. They create little decentralized units and fancy motivation and training programs. For example, for a big company, General Electric has fought bureaucracy with amazing skill. But that's because they have a combination of a genius and a fanatic running it. And they put him in young enough so he gets a long run. Of course, that's Jack Welch.
+
+But bureaucracy is terrible... And as things get very powerful and very big, you can get some really dysfunctional behavior. Look at Westinghouse. They blew billions of dollars on a bunch of dumb loans to real estate developers. They put some guy who'd come up by some career path - I don't know exactly what it was, but it could have been refrigerators or something - and all of a sudden, he's loaning money to real estate developers building hotels. It's a very unequal contest. And, in due time, they lost all those billions of dollars.
+
+CBS provides an interesting example of another rule of psychology - namely, [[Pavlovian Association]]. If people tell you what you really don't want to hear  - what's unpleasant  - there's an almost automatic reaction to antipathy. You have to train yourself out of it. It isn't foredestined that you have to be this way. But you will tend to be this way if you don't think about it.
+
+Television was dominated by one network - CBS - in its early days. And Paley was a god. But he didn't like to hear what he didn't like to hear, and people soon learned that. So they told Paley what he liked to hear. Therefore, he was soon living in a little cocoon of unreality and everything else was corrupt - although it was a great business.
+
+So the idiocy that crept into the system was carried along by this huge tide. It was a Mad Hatter's Tea Party the last ten years under Bill Paley.
+
+And that is not the only example, by any means. You can get severe misfunction in the high rank of business. And, of course, if you're investing, it can make a hell of a lot of difference. If you take all the acquisitions that CBS made under Paley after the acquisition of the network itself, with all his dumb advisors - his investment bankers, management consultants, and so forth, who were getting paid very handsomely - it was absolutely terrible.
+
+So life is an everlasting battle between those two forces - to get these advantages of scale on one side and a tendency to get a lot like the U.S. Agriculture Department on the other side - where they just sit around and so forth. I don't know exactly what they do. However, I do know that they do very little useful work.
+
+On the subject of advantages of economies of scale, I find chain stores quite interesting. Just think about it. The concept of a chain store was a fascinating invention. You get this huge purchasing power - which means that you have lower merchandise costs. You get a whole bunch of little laboratories out there in which you can conduct experiments. And you get specialization.
+
+If one little guy is trying to buy across twenty-seven different merchandise categories influenced by traveling salesmen, he's going to make a lot of dumb decisions. But if your buying is done in headquarters for a huge bunch of stores, you can get very bright people that know a lot about refrigerators and so forth to do the buying.
+
+The reverse is demonstrated by the little store where one guy is doing all the buying. It's like the old story about the little store with salt all over its walls. And a stranger comes in and says to the store owner, "You must sell a lot of salt", and he replies, "No, I don't. But you should see the guy who sells me salt."
+
+So there are huge purchasing advantages. And then there are the slick systems of forcing everyone to do what works. So a chain store can be a fantastic enterprise.
+
+It's quite interesting to think about Wal-Mart starting from a single store in Arkansas - against Sears, Roebuck with its name, reputation and all of its billions. How does a guy in Bentonville, Arkansas, with no money, blow right by Sears, Roebuck? And he does it in his own lifetime - in fact, during his own late lifetime because he was already pretty old by the time he started out with one little store...
+
+He played the chain store game harder and better than anyone else. Walton invented practically nothing. But he copied everything anybody else ever did that was smart - and he did it with more fanaticism and better employee manipulation. So he just blow right by them all.
+
+He also had a very interesting competitive strategy in the early days. He was like a prize fighter who wanted a great record so he could be in the finals and make a big TV hit. So what did he do? He went out and fought forty-two palookas. Right? And the result was knockout, knockout, knockout - forty-two times.
+
+Walton, being as shrewd as he was, basically broke other small town merchants in the early days. With his more efficient system, he might not have been able to tackle some titan head-on at the time, But with his better system, he could sure as hell destroy those small town merchants. And he went around doing it time after time after time. Then, as he got bigger, he started destroying the big boys.
+
+Well, that was a very, very shrewd strategy.
+
+You can say, "Is this a nice way to behave?" Well, capitalism is a pretty brutal place. But I personally think that the world is better for having Wal-Mart. I mean, you can idealize small town life. But I've spent a fair amount of time in small towns. And let me tell you - you wouldn't get too idealistic about all those small businesses he destroyed.
+
+Plus, a lot of people working at Wal-Mart are very high-grade, bouncy people who are raising nice children. I have no feeling that an inferior culture destroyed a superior culture. I think this is nothing more than nostalgia and delusion. But, at any rate, it's an interesting model of how the scale of things and fanaticism combine to be powerful.
+
+And it's also an interesting model on the other side - how with all its great advantages, the disadvantages of bureaucracy did such terrible damage to Sears, Roebuck. Sears had layers and layers of people it didn't need. It was very bureaucratic. It was slow to think. And there was an established way of thinking. If you poked your head up with a new thought, the system kind of turned against you. It was everything in the way of a dysfunctional big bureaucracy that you would expect.
+
+In all fairness, there was also much that was good about it. But it wasn't as lean and mean and shrewd and effective as Sam Walton. And, in due time, all Sear's advantage of scale were not enough to prevent it from losing heavily to Wal-Mart and other similar retailers.
+
+Here's a model that we've had trouble with. Maybe you'll be able to figure it out better. Many markets get down to two or three big competitors - or five or six. And in some of those markets, nobody makes any money to speak of. But in others, everybody does very well.
+
+Over the years, we've tried to figure out why the competition in some markets gets sort of [[Rationality mechanics in an industry | rational from the investor's point of view]] so that the shareholders do well, while in other markets there's destructive competition that destroys shareholder wealth.
+
+If it's a pure commodity business like airline seats, you can understand why no one makes any money. As we sit here, just think of what airlines have given to the world - safe travel, greater experience, time with your loved ones, you name it. Yet, the net amount of money that's been made by the shareholders of  airlines since Kitty Hawk is now  a negative figure. Competition was so intense that, once it was unleashed by deregulation, it ravaged shareholder wealth in the airline business.
+
+Yet, in other fields, like cereals, for example - almost all the big boys make out. If you're some kind of a medium-grade cereal maker, you might make fifteen percent on your capital. And if you're really good, you might make forty percent. But why are cereals so profitable - despite the fact that it looks to me like they're competing like crazy with promotions, coupons, and everything else? I don't fully understand it.
+
+Obviously, there's a brand identity factor in cereals that doesn't exist in airlines. That must be the main factor that accounts for it.
+
+And maybe the cereal makers, by and large, have learned to be less crazy about fighting for market share... For example, if I were Kellogg and I decided that I had to have sixty percent of the market, I think I could take most of the profit out of cereals. I'd ruin Kellogg in the process. But I think I could do it.
+
+In some businesses, the participants behave like a demented Kellogg. In other businesses, they don't. Unfortunately, I do not have a perfect model for predicting how that's going to happen.
+
+For example, if you look around at bottler markets, you'll find many markets where bottlers of Pepsi and Coke both make a lot of money and many others where they destroy most of the profitability of the two franchises. That must get down to the peculiarities of individual adjustment to market capitalism. I think you'd have to know the people involved to fully understand what's happening.
+
+In microeconomics, of course, you've got the concept of [[Patent, Trademark, Exclusive Franchise | patents, trademarks, exclusive franchises]], and so forth. Patents are quite interesting. When I was young, I think more money went into patents than came out. Judges tended to throw them out - based on arguments about what was really invented and what relied on prior art. That isn't altogether clear.
+
+But they changed that. They didn't change the law. They just changed the administration - so that it all goes to one patent court. And that court is now very much pro-patent. So I think people are now starting to make a lot of money out of owning patents.
+
+Trademarks, of course, have always made people a lot of money. A trademark system is a wonderful thing for a big operation if it is well known.
+
+The exclusive franchise can also be wonderful. If there were only three television channels awarded in a big city and you owned one of them, there were only so many hours a day that you could be on. So you had a natural position in an oligopoly in the pre-cable days.
+
+And if you get the franchise for the only food-stamp in an airport, you have a captive clientele, and you have a small monopoly of a sort.
+
+**The great lesson in microeconomics is to discriminate between  when technology is going to help you and when it's going to kill you.** And most people do not get this straight in your heads. But a fellow like Buffett does (See [[Evolution - Adaptation and the Red Queen Effect| Red Queen effect]]).
+
+For example, when we were in the textile business, which is a terrible commodity business, we were making low-end textiles - which are a real commodity product. And one day, the people came to Warren and said, "They've invented a new loom that we think will do twice as much work as our old ones". And Warren said, "Gee, I hope this doesn't work - because if it does, I'm going to close the mill." And he meant it.
+
+What was he thinking? He was thinking "It's a lousy business. We're earning substandard returns and keeping it open just to be nice to the elderly workers. But we're not going to put huge amounts of new capital into a lousy business."
+
+And he knew that the huge productivity increases that would come from a better machine introduced into the production of a commodity product would all go to the benefit of the buyers of the textiles. Nothing was going to stick to our ribs as owners.
+
+That's such an obvious concept - that there are all kinds of wonderful new inventions that give you nothing as owners except the opportunity to spend a lot more money in a business that's still going to be lousy. The money still won't come to you. All of the advantages from great improvements are going to flow through to the customers.
+
+Conversely, if you own the only newspaper in Oshkosh and they were to invent more efficient ways of composing the whole newspaper, then when you got rid of the old technology and got new, fancy computers and so forth, all of the savings would come right through to the bottom line.
+
+In all cases, the people who sell the machinery - and, by and large, even the internal bureaucrats urging you to buy the equipment - show you projections with the amount you'll save at current prices with the new technology. However, they don't do the second step of the analysis - which is to determine how much is going to stay home and how much is just going to flow through to the customer. I've never seen a single projection incorporating that second step in my life. And I see them all the time. Rather, they always read: "This  capital outlay will save you so much money that it will pay for itself in three years."
+
+So you keep buying things that will pay for themselves in three years. And after twenty years of doing that, somehow you've earned a return of only about four percent per annum. That's the textile business.
+
+And it isn't that the machines weren't better. It's just that the savings didn't go to you. The cost reductions came through all right. But the benefit of the cost reductions didn't go to the guy who bought the equipment. It's such a simple idea. It's so basic. And yet it's so often forgotten.
+
+Then there's another model from microeconomics that I find very interesting. When technology moves as fast as it does in a civilization like ours, you get a phenomenon that I call [[competitive destruction]]. You know, you have the finest buggy whip factory, and, all of a sudden, in comes this little horseless carriage. And before too many years go by, your buggy whip business is dead. You either get into a different business or you're dead - you're destroyed. It happens again and again and again.
+
+And when these new businesses come in, there are huge advantages for the early birds. And when you're an early bird, there's a model that I call "[[Surfing]]" - when a surfer gets up and catches the wave and just stays there, he can go a long, long time. But if he gets off the wave, he becomes mired in shallows.
+
+But people get long runs when they're right on the edge of the wave, whether it's Microsoft or Intel or all kinds of people, including National Cash Register in the early days.
+
 
 
 

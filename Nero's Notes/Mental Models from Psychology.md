@@ -14,6 +14,7 @@
 - [[Bias from Commitment and Consistency]]
 - [[Social Proof]]
 - [[Bias from Authority]]
+- [[Pavlovian Association]]
 - [[Contrast Bias]]
 - [[Addiction and Dopamine]]
 - [[Overconfidence and Overoptimism]]

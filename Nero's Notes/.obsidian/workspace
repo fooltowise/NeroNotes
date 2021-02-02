@@ -70,7 +70,7 @@
         }
       },
       {
-        "id": "b6b4e1ddc9bf6eb5",
+        "id": "5fbd94896387262e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -178,18 +178,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.4687042236328
+    "width": 182.4687042236328,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "A Lesson on Elementary Worldly Wisdom.md",
     "Mental  Models from Microeconomics.md",
-    "Economies of Scale.md",
-    "Mental Models.md",
-    "Niches.md",
-    "Mental Models from Engineering.md",
-    "Mental Models from Physics.md",
-    "How to Think for yourself.md",
-    "Untitled.md",
-    "Binary Search Trees.md"
+    "Mental Models from Psychology.md",
+    "Patent, Trademark, Exclusive Franchise.md",
+    "The three disciplines of Stoicism.md",
+    "Self Deception.md",
+    "Shane Parrish on habits.md",
+    "Experimentation.md",
+    "Low Price by Name.md",
+    "Economies of scale and market share.md"
   ]
 }
