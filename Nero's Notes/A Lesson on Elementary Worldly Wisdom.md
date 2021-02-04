@@ -3,7 +3,7 @@
 ## The University of Southern California Marshall School of Business
 ### April 14, 1994
 
-I am going to ply a minor trick on you today - because the subject of my talk is the art of stock picking as a subdivision of the art of worldly wisdom. That enables me to start talking about worldly wisdom - a much broader topic that interests me because I think all too little of it is delivered by modern educational systems, at least in an effective way.
+I am going to play a minor trick on you today - because the subject of my talk is the art of stock picking as a subdivision of the art of worldly wisdom. That enables me to start talking about worldly wisdom - a much broader topic that interests me because I think all too little of it is delivered by modern educational systems, at least in an effective way.
 
 And, therefore, the talk is sort of along the lines that some behaviorist psychologists call "Grandma's Rule" - after the wisdom of Grandma when she said that you have to eat the carrots before you get the dessert.
 
@@ -259,7 +259,247 @@ And when these new businesses come in, there are huge advantages for the early b
 
 But people get long runs when they're right on the edge of the wave, whether it's Microsoft or Intel or all kinds of people, including National Cash Register in the early days.
 
+The cash register was one of the great contributions to civilization. It's a wonderful story. Patterson was a small retail merchant who didn't make any money. One day, somebody sold him a crude cash register, which he put into his retail operation. And it instantly changed from losing money to earning a profit because it made it so much harder for the employees to steal.
 
+But Patterson, having the kind of mind that he did, didn't think, "Oh, good for my retail business." He thought, "I'm going into the cash register business." And, of course, he created National Cash Register.
+
+And he "surfed". He got the best distribution system, the biggest collection of patents, and the best of everything. He was a fanatic about everything important as the technology developed. I have in my files an early National Cash Register Company report in which Patterson described his methods and objectives. And a well-educated orangutan could see that buying into partnership with Patterson in those early days, given his notions about the cash register business, was a total one hundred percent cinch.
+
+And, of course, that's exactly what an investor should be looking for. In a long life, you can expect to profit heavily from at least a few of those opportunities if you develop the wisdom and will to seize them. At any rate, "surfing" is a very powerful model.
+
+However, Berkshire Hathaway, by and large, doesn't invest in these people that are "surfing" on complicated things. After all, we're cranky and idiosyncratic - as you may have noticed.
+
+And Warren and I don't feel like we have any great advantage in the high-tech sector. In fact, we feel like we're at a big disadvantage in trying to understand the nature of technical developments in software, computer chips, or what have you. So we tend to avoid that stuff, based on our personal inadequacies.
+
+Again, that is a very, very powerful idea. Every person is going to have a [[Circle of Competence]]. And it's going to be very hard to enlarge that circle. If I had to make my living as a musician... I can't even think of a level low enough to describe where I would be sorted out to if music were the measuring standard of the civilization.
+
+So you have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don't, you're going to lose. And that's as close to certain as any prediction that you can make. You have to figure out where you've got an edge. And you've got to play within your own circle of competence.
+
+If you want to be the best tennis player in the world, you may start out trying and soon find out that it's hopeless - that other people blow right by you. However, if you want to become the best plumbing contractor in Bemidji, that is probably doable by two-thirds of you. It takes a will. But after a while, you'd gradually know all about the plumbing business in Bemidji and master the art. That is an attainable objective, given enough discipline. And people who could never win a chess tournament or stand in center court in a respectable tennis tournament can rise quite high in life by slowly developing a circle of competence - which results partly from what they were born with and partly from what they slowly develop through work.
+
+So some edges can be acquired. And the game of life to some extent for most of us is trying to be something like a good plumbing contractor in Bemidji. Very few of us are chosen to win the world's chess tournaments.
+
+Some of you may find opportunities "surfing" along in the new high-tech fields - the Intels, the Microsofts, and so on. The fact that we don't think we're very good at it and have pretty well stayed out of it doesn't mean that it's irrational for you to do it.
+
+Well, so much for the basic microeconomic models, a little bit of psychology, a little bit of mathematics, helping create what I call the general substructure of worldly wisdom. Now, if you want to go on from carrots to dessert, I'll turn to stock picking - trying to draw on this general worldly wisdom as we go. 
+
+I don't want to get into emerging markets, bond arbitrage, and so forth. I'm talking about nothing but plain vanilla stock picking. That, believe me, is complicated enough. And I'm talking about common stock picking.
+
+The first question is, "What is the nature of the stock market?" And that gets you directly to this efficient market theory that got to be the rage - a total rage - long after I graduated from law school.
+
+And it's rather interesting because one of the greatest economists of the world is a substantial shareholder in Berkshire Hathaway and has been from the very early days after Buffett was in control. His textbook always taught that the stock market was perfectly efficient and that nobody could beat it. But his own money went into Berkshire and made him wealthy. So, like Pascal in his famous wager, he hedged his bet.
+
+Is the stock market so efficient that people can't beat it? Well, the efficient market theory is obviously roughly right - meaning that markets are quite efficient and it's quite hard for anybody to beat the market by significant margins as a stock picker by just being intelligent and working in a disciplined way.
+
+Indeed, the average result has to be the average result. By definition, everybody can't beat the market. **As I always say, the iron rule of life is that only twenty percent of the people can be in the top fifth.** That's just the way it is. So the answer is that it's partly efficient and partly inefficient.
+
+And, by the way, I have a name for people who went to the extreme efficient market theory - which is "bonkers." It was an intellectually consistent theory that enabled them to do pretty mathematics. So I understand its seductiveness to people with large mathematical gifts. It just had a difficulty in that the fundamental assumption did not tie properly to reality.
+
+Again, to the man with a hammer, every problem looks like a nail. If you're good at manipulating higher mathematics in a consistent way, why not make an assumption that enables you to use your tool?
+
+The model I like - to sort of simplify the notion of what goes on in a market for common stocks - is the pari-mutuel system at the race track. If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets, and the odds change based on what's bet. That's what happens in the stock market.
+
+Any damn fool can see that a horse carrying a light weight with a wonderful win rate and a good post position, etc, etc., is way more likely to win than a horse with a terrible record and extra weight and so on and so on. But if you look at the damn odds, the bad horse pays 100 to 1, whereas the good horse pays 3 to 2. Then, it's not clear which is statistically the best bet using the mathematics of Fermat and Pascal. The prices have changed in such a way that it's very hard to beat the system.
+
+And then the track is taking seventeen percent off the top. So not only do you have to outwit all the other bettors, but you've got to outwit them by such a big margin than on average, you can afford to take seventeen percent of you gross bets off the top and give it to the house before the rest of your money can be put to work.
+
+Given those mathematics, is it possible to beat the horses using only one's intelligence? Intelligence should give some edge because lots of people who don't know anything go out and bet lucky numbers and so forth. Therefore, somebody who really thinks about nothing but horse performance and is shrewd and mathematical could have a very considerable edge, in the absence of the frictional cost caused by the house take.
+
+Unfortunately, what a shrewd horseplayer's edge does in most cases is to reduce his average loss over a season of betting from the seventeen percent that he would lose if he got the average result to maybe ten percent. However, there are actually a few people who can beat the game after paying the full seventeen percent.
+
+I used to play poker, when I was young, with a guy who made a substantial living doing nothing but bet harness races. Now, harness racing is a relatively inefficient market. You don't have the depth of intelligence betting on harness races that you do on regular races. What my poker pal would do was to think about harness races as his main profession. And he would bet only occasionally when he saw some mispriced bet available. And by doing that, after paying the full handle to the house - which I presume was around seventeen percent - he made a substantial living.
+
+You have to say that's rare. However, the market was not perfectly efficient. And if it weren't for that big seventeen percent handle, lots of people would regularly be beating lots of other people at the horse races. It's efficient, yes. But it's not perfectly efficient. And with enough shrewdness and fanaticism, some people will get better results than others.
+
+The stock market is the same way - except that the house handle is so much lower. If you take transaction costs - the spread between the bid and the ask plus the commissions - and if you don't trade too actively, you're talking about fairly low transaction costs. So that, with enough fanaticism and enough discipline, some of the shrewd people are going to get way better results than average in the nature of things.
+
+It is not a bit easy. And, of course, fifty percent will end up in the bottom half, and seventy percent will end up in the bottom seventy percent. But some people will have an advantage. And in a fairly low transaction cost operation, they will get better than average results in stock picking.
+
+How do you get to be one of those who is a winner - in a relative sense - instead of a loser?
+
+Here again, look at the pari-mutuel system. I had dinner last night by absolute accident with the president of Santa Anita. He says that there are two or three bettors who have a credit arrangement with the track, now that they have off-track betting, who are actually beating the house. The track is sending money out net after the full handle - a lot of it to Las Vegas, by the way - to people who are actually winning slightly, net, after paying the full handle. They're that shrewd about something with as much unpredictability as horse racing.
+
+It's not given to human beings to have such talent that they can just know everything all the time. But it is given to human beings who work hard at it - who look and sift the world for a mispriced bet - that they can occasionally find one.
+
+And the wise ones bet heavily when the world offers them that opportunity. They bet big when they have the odds. And the rest of the time, they don't. It's just that simple.
+
+That is a very simple concept. And to me it's obviously right - based on my experience not only from the pari-mutuel system, but everyone else.
+
+And yet, in investment management, practically nobody operates that way. We operate that way - I'm talking about Buffett and Munger. And we're not alone in the world. But a huge majority of people have some other crazy construct in their heads. And instead of waiting for a near cinch and loading up, they apparently ascribe to the theory that if they work a little harder or hire more business school students, they'll come to know everything about everything all the time. To me, that's totally insane.
+
+How many insights do you need? Well, I'd argue that you don't need many in a lifetime. If you look at Berkshire Hathaway and all of its accumulated billions, the top ten insights account for most of it. And that's with a very brilliant man - Warren's a lot more able than I am and very disciplined - devoting his lifetime to it. I don't mean to say that he's only had ten insights. I'm just saying that most of the money came from ten insights.
+
+So you can get very remarkable investment results if you think more like a winning pari-mutuel player. Just think of it as a heavy odds against game full of bullshit and craziness with an occasional mispriced something or other. And you're probably not going to be smart enough to find thousands in a lifetime. And when you get  a few, you really load up. It's just that simple.
+
+When Warren lectures at business schools, he says, "I could improve your ultimate financial welfare by giving you a ticket with only twenty slots in it so that you had twenty punches - representing all the investments that you got to make in a lifetime. And once you'd punched through the card, you couldn't make any more investments at all."
+
+He says, "Under those rules, you'd really think carefully about what you did, and you'd be forced to load up on what you'd really thought about. So you'd do so much better."
+
+Again, this is a concept that seems perfectly obvious to me. And to Warren, it seems perfectly obvious. But this is one of the very few business classes in the United States where anybody will be saying so. It just isn't the conventional wisdom.
+
+To me, it's obvious that the winner has to bet very selectively. It's been obvious to me since very early in life. I don't know why it's not obvious to very many other people.
+
+I think the reason why we got into such idiocy in investment management is best illustrated by a story that I tell about the guy who sold fishing tackle. I asked him, "My God, they're purple and green. Do fish really take these lures?" And he said, "Mister, I don't sell to fish."
+
+Investment managers are in the position of that fishing tackle salesman. They're like the guy who was selling salt to the guy who already had too much salt. And as long as the guy would buy salt, why, they'll sell salt. But that isn't what ordinarily works for the buyer of investment advice.
+
+If you invested Berkshire Hathaway - style, it would be hard to get paid as an investment manager as well as they're currently paid - because you'd be holding a block of Wal-Mart and a block of Coca-Cola and a block of something else. You'd be sitting on your ass. And the client would be getting rich. And, after a while, the client would think, "Why am I paying this guy half-a-percent a year on my wonderful passive holdings?"
+
+So what makes sense for the investor is different from what makes sense for the manager. **And, as usual in human affairs, what determines the behavior are incentives for the decision maker, and getting the incentives right is a very, very important lesson.**
+
+From all business, my favorite case on incentives is Federal Express. The heart and soul of its system - which creates the integrity of the product - is having all its airplanes come to one place in the middle of the night and shift all the packages from plane to plane. If there are delays, the whole operation can't deliver a product full of integrity to Federal Express customers.
+
+And it was always screwed up. They could never get it done on time. They tried everything - moral suasion, threats, you name it. And nothing worked.
+
+Finally, somebody got the idea to pay all these people not so much an hour, but so much a shift - and when it's all done, they can all go home. Well, their problems cleared up overnight.
+
+So getting the incentives right is a very, very important lesson. It was not obvious to Federal Express what the solution was. But maybe now, it will hereafter more often be obvious to you.
+
+All right, we've now recognized that the market is efficient as a pari-mutuel system is efficient - with the favorite more likely than the long shot to do well in racing, but not necessarily give any betting advantage to those that bet on the favorite.
+
+In the stock market, some railroad that's beset by better competitors and tough unions may be available at one-third of its book value. In contrast, IBM in its heyday might be selling at six times book value. So it's just like the pari-mutuel system. Any damn fool could plainly see that IBM had better business prospects than the railroad. But once you put the price into the formula, it wasn't so clear anymore what was going to work best for a buyer choosing between the stocks. So it's a lot like a pari-mutuel system. And, therefore, very hard to beat.
+
+What style should the investor use as a picker of common stocks in order to try to beat the market - in other words, to get an above average long-term result? A standard technique that appeals to a lot of people is called "sector rotation." You simply figure out when oils are going to outperform retailers, etc., etc. You just kind of flit around being in the hot sector of the market making better choices than other people. And presumably, over a long period of time, you get ahead.
+
+However, I know of no really rich sector rotator. Maybe some people can do it. I'm not saying they can't. All i know is that all the people I know who got rich - and I know a lot of them - did not do it that way.
+
+The second basic approach is the one that Ben Graham used - much admired by Warren and me. As one factor, Graham had this concept of value to a private owner  - what the whole enterprise would sell for if it were available. And that was calculable in many cases.
+
+Then, if you could take the stock price and multiply it by the number of shares and get something that was one third or less of sellout value, he would say that you've got a lot of edge going for you. Even with an elderly alcoholic running a stodgy business, this significant excess of real value per share working for you means that all kinds of good things can happen to you. You had a huge margin of safety - as he put it - by having this big excess value going for you.
+
+But he was, by and large, operating when the world was in shell-shock from the 1930s - which was the worst contraction in the English-speaking world in about 600 years. Wheat in Liverpool, I believe, got down to something like a  600-year low, adjusted for inflation. People were so shell-shocked for a long time thereafter that Ben Graham could run his Geiger counter over this detritus from the collapse of the 1930s  and find things selling below their working capital per share and so on.
+
+And in those days, working capital actually belonged to the shareholders. If the employees were no longer useful, you just sacked them all, took the working capital, and stuck it in the owners' pockets. That was the way capitalism then worked.
+
+Nowadays, of course, the accounting is not realistic - because the minute the business starts contracting, significant assets are not there. Under social norms and the new legal rules of the civilization, so much is owed to the employees, that the minute the enterprise goes into reverse, some of the assets on the balance sheet aren't there anymore.
+
+Now, that might not be true if you run a little auto dealership yourself. You may be able to run it in a way that there's no health plan and this and that so that if the business gets lousy, you can take your working capital and go home. But IBM can't or at least didn't. Just look at what disappeared from its balance sheet when it decided that it had to change size both because the world had changed technologically and because its market position had deteriorated.
+
+And in terms of blowing it, IBM is some example. Those were brilliant, disciplined people. But there was enough turmoil in technological change that IBM got bounced off the wave after "surfing" successfully for sixty years. And that was some collapse - an object lesson in the difficulties of technology and one of the reasons why Munger and Buffett don't like technology very much. We don't think we're any good at it, and strange things can happen.
+
+At any rate, the trouble with what I call the classic Ben Graham concept is that gradually the world wised up, and those real obvious bargains disappeared. You could run your Geiger counter over the rubble, and it wouldn't click.
+
+But such is the nature of people who have a hammer - to whom, I mentioned, every problem looks like a nail - that the Ben Graham followers responded by changing the calibration on their Geiger counters. In effect, they started defining a bargain in a different way. And they kept changing the definition so that they could keep doing what they'd always done. And it sill worked pretty well. So the Ben Graham intellectual system was a very good one.
+
+Of course, the best part of it all was his concept of "Mr Market." Instead of thinking the market was efficient, Graham treated it as a manic-depressive who comes by every day. And some days "Mr Market" says, "I'll sell you some of my interest for way less than you think it's worth." And other days, he comes by and says, "I'll buy your interest at a price that's way higher than you think it's worth." And you get the option of deciding whether you want to buy more, sell part of what you already have, or do nothing at all.
+
+To Graham, it was a blessing to be in business with a manic-depressive who gave you this series of options all the time. That was a very significant mental construct. And it's been very useful to Buffett, for instance, over his whole adult lifetime.
+
+However, if we'd stayed with classic Graham the way Ben Graham did it, we would never had the record we have. And that's because Graham wasn't trying to do what we did.
+
+For example, Graham didn't want to ever talk to management. And his reason was that, like the best sort of professor aiming his teaching at a mass audience, he was trying to invent a system that anybody could use. And he didn't feel that the man in the street could run around and talk to management and learn things. He also had a concept that management would often couch the information very shrewdly to mislead. Therefore, it was very difficult. And that is still true, of course - human nature being what it is.
+
+And so having started out as Grahamites - which, by the way, worked fine - we gradually got what I would call better insights. And we realized that some company that was selling at two or three times book value could still be a hell of a bargain because of momentums implicit in its position, sometimes combined with an unusual managerial skill plainly present in some individual form or other, or some system or other.
+
+And once we'd gotten over the hurdle of recognizing that a thing could be a bargain based on quantitative measures that would have horrified Graham, we started thinking about better businesses.
+
+And, by the way, the bulk of the billions of Berkshire Hathaway has come from the  better businesses. Much of the first $200 or $300 million came from scrambling around with our Geiger counter. But the great bulk of the money has come from the great businesses.
+
+And even some of the early money was made by being temporarily present in great businesses. Buffett Partnership, for example, owned American Express and Disney when they got pounded down.
+
+Most investment managers are in a game where the clients expect them to know a lot about a lot of things. We didn't have any clients who could fire us at Berkshire Hathaway. So we didn't have to be governed by any such construct. And we came to this notion of finding a mispriced bet and loading up when we were very confident that we were right. So we're way less diversified. And I think our system is miles better.
+
+However, in all fairness, I don't think a lot of money managers could successfully sell their services if they used our system. But if you're investing for forty years in some pension fund, what difference does it make if the path from start to finish is a little more bumpy or a little different than everybody else's so long as it's going to work out well in the end? So what if there's a little extra volatility.
+
+In investment management today, everybody wants not only to win, but to have the path never diverge very much from a standard except on the upside. Well, that is a very artificial, crazy construct. That's the equivalent in investment management to the custom of binding the feet of the Chinese women. It's the equivalent of what Nietzsche meant when he criticized the man who had a lame leg and was proud of it.
+
+That is really hobbling yourself. Now, investment managers would say, "We have to be that way. That's how we are measured." And they may be right in terms of the way the business is now constructed. But from the viewpoint of a rational consumer, the whole system's "bonkers" and draws a lot of talented people into socially useless activity.
+
+And the Berkshire system is not "bonkers". It's so damned elementary that even bright people are going to have limited, really valuable insights in a very competitive world when they're fighting against other very bright, hardworking people.
+
+And it makes sense to load up on the very few good insights you have instead of pretending to know everything about everything at all times. You're much more likely to do well if you start out to do something feasible instead of something that isn't feasible. Isn't that perfectly obvious?
+
+How many of you have fifty-six brilliant insights in which you have equal confidence? Raise your hands, please. How many  of you have two or three insights that you have some confidence in? I rest my case.
+
+We've really made the money out of high-quality businesses. In some cases, we bought the whole business. And in some cases, we just bought a big block of stock. But when you analyze what happened, the big money's been made in the high-quality businesses. And most of the other people who've made a lot of money have done so in high-quality businesses.
+
+**Over the long term, it's hard for a stock to earn a much better return than the business which underlies it earns. If the business earns six percent on capital over forty years and you hold it for that forty years, you're not going to make much different than a six percent return - even if you've originally buy it at a huge discount. Conversely, if a business earns eighteen percent on capital over twenty or thirty years, even if you pay an expensive looking price, you'll end up with one hell of a result.**
+
+So the trick is getting into better businesses. And that involves all of these advantages of scale that you could consider momentum effects.
+
+**How do you get into these great companies? One method is what I'd call the method of finding them small - get'em when they're little. For example, buy Wal-Mart when Sam Walton first goes public and so forth. And a lot of people try to do just that. And it's a very beguiling idea. If I were a young man, I might actually go into it.**
+
+
+But it doesn't work for Berkshire Hathaway anymore because we've got too much money. We can't find anything that fits our size parameter that way. Besides, we're set in our ways. But I regard finding them small as a perfectly intelligent approach for somebody to try with discipline. It's just not something that I've done.
+
+Finding them big obviously is very hard because of the competition. So far, Berkshire's managed to do it. But can we continue to do it? What's the next Coca-Cola investment for us? Well, the answer to that is I don't know. I think it gets harder for us all the time.
+
+And ideally - and we've done a lot of this - you get into a great business which also has a great manager because management matters. For example, it's made a hell of a difference to General Electric that Jack Welch came in instead of the guy who took over Westinghouse - one hell of a difference. So management matters, too.
+
+And some of it is predictable. I do not think it takes a genius to understand that Jack Welch was a more insightful person and a better manager than his peers in other companies. Nor do I think it took tremendous genius to understand that Disney had basic momentums in place that are very powerful and that Eisner and Wells were very unusual managers.
+
+So you do get an occasional opportunity to get into a wonderful business that's being run by a wonderful manager. And, of course, that's hog heaven day. If you don't load up when you get those opportunities, it's a big mistake.
+
+Occasionally, you'll find a human being who's so talented that he can do things that ordinary skilled mortals can't. I would argue that Simon Marks - who was second generation Marks & Spencer of England - was such a man. Patterson was such a man at National Cash Register. And Sam Walton was such a man.
+
+These people do come along - and, in many cases, they're not all that hard to identify. If they've got a reasonable hand - with the fanaticism and intelligence and so on that these people generally bring to the party - then management can matter much. 
+
+However, averaged out, betting on the quality of a business is better than betting on the quality of management. In other words, if you have to choose one, bet on the business momentum, not the brilliance of the manager.
+
+But, very rarely, you find a manager who's so good that you're wise to follow him into what looks like a mediocre business.
+
+Another very simple effect I very seldom see discussed either by investment managers or anybody else is the effect of taxes. If you're going to buy something that compounds for thirty years at fifteen percent per annum and you pay one thirty-five percent tax at the very end, the way that works out is that after taxes, you keep 13.3 percent per annum.
+
+In contrast, if you bought the same investment but had to pay taxes every year of thirty-five percent out of the fifteen percent that you earned, then your return would be fifteen percent minus thirty five percent of fifteen percent - or only 9.75 percent per year compounded. So the difference there is over 3.5 percent. And what 3.5 percent does to the numbers over long holding periods like thirty years is truly eye-opening. If you sit on your ass for long, long stretches in great companies, you an get a huge edge from nothing but the way income taxes work.
+
+Even with a ten percent per annum investment, paying a thirty five percent tax at the end gives you 8.3%  after taxes as an annual compounded result after thirty years. In contrast, if you pay the thirty-five percent each year instead of at the end, your annual result goes down to 6.5%. So you add nearly two percent of after-tax return per annum if you only achieve an average return by historical standards from common stock investments in companies with low dividend payout ratios.
+
+But in terms of business mistakes that I've seen over a long lifetime, I would say that trying to minimize taxes too much is one of the great standard causes of really dumb mistakes. I see terrible mistakes form people being overly motivated by tax considerations. 
+
+Warren and I personally don't drill oil wells. We pay our taxes. And we've done pretty well, so far. Anytime somebody offers you a tax shelter from here on in life, my advice would be don't buy it.
+
+In fact, anytime anybody offers you anything with a big commission and a 200-page prospectus, don't buy it. Occasionally, you'll be wrong if you adopt "Munger's Rule." However, over a lifetime, you'll be a long way ahead - and you will miss a lot of unhappy experiences that might otherwise reduce your love for your fellow man.
+
+These are huge advantages for an individual to get into a position where you make a few great investments and just sit on your ass: you're paying less to brokers. You're listening to less nonsense. And if it works, the governmental tax system gives you an extra one, two, or three percentage points per annum compounded.
+
+And you think that most of you are going to get that much advantage by hiring investment counselors and paying them one percent to run around, incurring a lot of taxes on your behalf? Lots of luck.
+
+Are there any dangers in this philosophy? Yes. Everything in life has dangers. Since it's so obvious that investing in great companies works, it gets horribly overdone from time to time. In the Nifty-Fifty days, everybody could tell which companies were the great ones. So they got up to fifty, sixty, and seventy times earning. And just as IBM fell off the wave, other companies did, too. Thus, a large investment disaster resulted from too high prices. And you've got to be aware of that danger.
+
+So there are risks. Nothing is automatic and easy. But if you can find some fairly priced great company and buy it and sit, that tends to work out very, very well indeed - especially for the individual.
+
+Within the growth stock model, there's a sub-position:
+**There are actually businesses that you will find a few times in a lifetime where any manager could raise the return enormously just by raising prices - and yet they haven't done it. So they have huge untapped pricing power that they're not using. That is the ultimate no-brainer.**
+
+That existed in Disney. It's such a unique experience to take your grandchild to Disneyland. You're not doing that often. And there are lots of people in the country. And Disney found that it could raise those prices a lot, and the attendance stayed right up.
+
+So a lot of the great record of Eisner and Wells was utter brilliance but the rest came from just raising prices at Disneyland and Disneyworld and through video cassette sales of classic animated movies.
+
+At Berkshire Hathaway, Warren and I raised the prices of See's Candy a little faster than others might have. And, of course, we invested in Coca-Cola - which had some untapped pricing power. And it also had brilliant management. So a Goizueta and Keough could do much more than raise prices. It was perfect.
+
+You will get a few opportunities to profit from finding underpricing. There are actually people out there who don't price everything as high as the market will easily stand. And once you figure that out, it's like finding money in the street - if you have the courage of your convictions.
+
+If you look at Berkshire's investments where a lot of the money's been made and you look for the models, you can see that we twice bought into two-newspaper towns which have since become  one-newspaper towns. So we made a bet to some extent.
+
+In one of those - *The Washington Post* - we bought it at about twenty percent of the value to a private owner. So we bought it on a Ben Graham-style basis - at one-fifth of obvious value - and, in addition, we faced a situation where you had both the top hand in a game that was clearly going to end up with one winner and a management with a lot of integrity and intelligence. That one was a real dream. They're very high class people - the Katharine Graham family. That's why it was a dream - and absolute, damn dream.
+
+Of course, that came about back in '73-'74. And that was almost like 1932. That was probably a once-in-forty-years-type denouement in the markets. That investment's up about fifty times over our cost. If I were you, I wouldn't count on getting any investment in your lifetime quite as good as *The Washington Post*  in '73-'74.
+
+Let me mention another model. Of course, Gillette and Coke make fairly-priced items and have a tremendous marketing advantage all over the world. And in Gillette's case, they keep "surfing" along new technology, which is fairly simple  by the standards of microchips. But it's hard for competitors to do.
+
+So they've been able to stay constantly near the edge of improvements in shaving. There are whole countries where Gillette has more than ninety percent of the shaving market.
+
+GEICO is a very interesting model. It's another one of the one hundred  or so models you ought to have in your head. I've had many friends in the sick-business-fix game over a long lifetime. And they practically all use the following formula - I call it the cancer surgery formula:
+
+They look at this mess. And they figure out if there's anything sound left that can live on its own if they cut away everything else. And if they find anything sound, they just cut away everything else. Of course, if that doesn't work, they liquidate the business. But it frequently does work.
+
+And GEICO had a perfectly magnificent business - submerged in a mess, but still working. Misled by its success, GEICO had done some foolish things. They got to thinking that, because they were making a lot of money, they knew everything. And they suffered huge losses.
+
+All they had to do was to cut out all the folly and go back to the perfectly wonderful business that was laying there. And when you think about it, that's a very simple model. And it's repeated over and over again.
+
+And, in GEICO's case, think about all the money we passively made. It was a wonderful business combined with a bunch of foolishness that could easily be cut out. And people were coming in who were temperamentally and intellectually designed so they were going to cut it out. That is a model you want to look for.
+
+And you may find one or two or three in a long lifetime that are very good. And you may find twenty or thirty that are good enough to be quite useful.
+
+Finally, I'd like to once again talk about investment management. That is a funny business - because on a net basis, the whole investment management business together gives no value added to all buyers combined. That's the way it has to work.
+
+Of course, that isn't true of plumbing, and it isn't true of medicine. If you're going to make your careers in the investment management business, you face a very peculiar situation. And most investment managers handle it with psychological denial - just like a chiropractor. That is the standard method of handling the limitations of the investment management process. But if you want to live the best sort of life, I would urge each of you not to use the psychological denial mode.
+
+I think a select few - a small percentage of the investment managers - can deliver value added. But I don't think brilliance alone is enough to do it. I think that you have to have a little of this discipline of calling your shots and loading up - if you want to maximize your chances of becoming one who provides above average real returns for clients over the long pull.
+
+But I'm just thinking about investment managers engaged in common stock picking. I am agnostic elsewhere. I think there may well be people who are so shrewd about currencies and this, that, and the other thing that they can achieve good long-term records operating on a pretty big scale in that way. But that doesn't happen to be my milieu. I'm talking about stock picking in American stocks.
+
+I think it's hard to provide a lot of value added to the investment management client, but it's not impossible.
 
 
 
