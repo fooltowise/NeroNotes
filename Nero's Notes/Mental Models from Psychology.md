@@ -27,3 +27,4 @@
 - [[Endowment Effect]]
 - [[When the brain thinks logarithnically]]
 - [[Pain reducing psychological denial]]
+- [[Ideology]]

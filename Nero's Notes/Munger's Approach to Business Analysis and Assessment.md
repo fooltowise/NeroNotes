@@ -39,3 +39,4 @@ Obviously, the methods described to this point can't be learned in a university 
 **"Quickly eliminate the big universe of what not to do, follow up in a fluent multidisciplinary attack on what remains, then act decisively when, and only when, the right circumstances appear."**
 
 Is it worth the effort to develop and adhere to such an approach? Charlie seems to think so: "It's kind of fun to sit there and out-think people who are way smarter than you are because you've trained yourself to be more objective and more multidisciplinary. Furthermore, there is a lot of money in it, as I can testify from my own personal experience."
+

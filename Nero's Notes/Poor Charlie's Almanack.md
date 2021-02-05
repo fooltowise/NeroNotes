@@ -3,6 +3,7 @@
 ## Eleven Talks
 1. [[Guaranteed Prescription For Misery]]
 2. [[A Lesson on Elementary Worldly Wisdom]]
+3. [[A Lesson on Elementary, Worldly Wisdom, Revisited]]
 
 ## Misc
 

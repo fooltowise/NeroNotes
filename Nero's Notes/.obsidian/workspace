@@ -56,28 +56,39 @@
         }
       },
       {
-        "id": "731b4cdf38df1575",
+        "id": "3eb5138dcc127c6b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mental Models from Psychology.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f9fe5a004b3f4a35",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mental Models from Mathematics.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "50456a02ae268b45",
         "type": "leaf",
         "active": true,
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A Lesson on Elementary Worldly Wisdom.md",
+            "file": "A Lesson on Elementary, Worldly Wisdom, Revisited.md",
             "mode": "source"
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "47822216f3749e42",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Evolution - Adaptation and the Red Queen Effect.md",
-            "mode": "preview"
-          }
         }
       }
     ],
@@ -105,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "patterns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Lesson on Elementary Worldly Wisdom.md",
+                "file": "A Lesson on Elementary, Worldly Wisdom, Revisited.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Lesson on Elementary Worldly Wisdom.md"
+                "file": "A Lesson on Elementary, Worldly Wisdom, Revisited.md"
               }
             }
           }
@@ -182,15 +194,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "A Lesson on Elementary Worldly Wisdom.md",
-    "Evolution - Adaptation and the Red Queen Effect.md",
-    "Evolution - Natural Selection and Extinction.md",
-    "Shane Parrish on habits.md",
-    "Mental  Models from Microeconomics.md",
+    "A Lesson on Elementary, Worldly Wisdom, Revisited.md",
     "Mental Models from Psychology.md",
-    "Patent, Trademark, Exclusive Franchise.md",
-    "The three disciplines of Stoicism.md",
-    "Self Deception.md",
-    "Experimentation.md"
+    "Mental Models from Mathematics.md",
+    "Poor Charlie's Almanack.md",
+    "Munger's Approach to Business Analysis and Assessment.md",
+    "Great Businesses to Study.md",
+    "The Fundamental Theorem of Investing.md",
+    "Never lose Money.md",
+    "Here be Sermons.md",
+    "Experian.md"
   ]
 }

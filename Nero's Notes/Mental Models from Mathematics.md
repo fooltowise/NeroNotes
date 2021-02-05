@@ -5,3 +5,4 @@
 - [[Probabilistic Thinking]]
 - [[Bayes Theorem]]
 - [[Gaussian Distribution]]
+- [[Graph]]

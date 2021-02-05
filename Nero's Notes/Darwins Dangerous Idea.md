@@ -1,3 +1,5 @@
+# Darwin's Dangerous Idea
+
 ### by Daniel Dennett
 - Before Darwin, a "Mind first" view of the universe reigned unchallenged; an intelligent god was seen as the ultimate source of all Design, the ultimate answer to any chain of "Why?" questions. Even David Hume, who deftly exposed the insoluble problems with this vision, and had glimpses of the Darwinian alternative, could not see how to take it seriously.
 
