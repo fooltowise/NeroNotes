@@ -356,4 +356,124 @@ Each person has to play the game given his own marginal utility considerations a
 
 Mine works for me. But, in part, that's because I'm good at taking losses. I can take 'em psychologically. And, besides, I have very few. The combination works fine.
 
+*Q: You and Buffett have said that Berkshire's stock is overvalued and you wouldn't recommend buying it.*
 
+We didn't day we thought it was overvalued. We just said that we wouldn't buy it or recommend that our friends buy it at the prices then prevailing. But that just related to Berkshire's intrinsic value as it was at that time.
+
+*Q: If I had the money, I would buy it - because you've been saying that your returns would go down for thirty years...*
+
+Well, I hope that your optimism is justified. But I do not change my opinion. After all, today, we're in uncharted territory. I sometimes tell my friends, "I'm doing the best I can. But I've never grown old before. I'm doing it for the first time. And I'm not sure that I'll do it right."
+
+Warren and I never been in this kind of territory - with high valuations and a huge amount of capital. We've never done it before. So we're learning.
+
+*Q: Everything that you and Buffett say seems logical. But it sounds like exactly the same language that Ben Graham was using thirty years ago when he was saying the stock market was overvalued - when it was at 900.*
+
+Oh, I don't think that we share that with him. Graham, great though he was as a man, has a screw loose as he tried to predict outcomes for the stock market as  a whole. In contrast, Warren and I are almost always agnostic about the market.
+
+On the other hand, we have said that commons stocks generally have generated returns of ten to eleven percent after inflation for many years and that those returns can't continue for a very long period. And they can't. It's simply impossible. The wealth of the world will compound at no such rate. Whatever experience Stanford has had in its portfolio for the last fifteen years, its future experience is virtually certain to be worse. It may still be okay. But it's been a hog heaven period for investors over the last fifteen years. Bonanza effects of such scale can't last forever.
+
+*Q: Berkshire's annual report got a lot of press for being pessimistic and for expressing concern about the shrinking pool of opportunities as the company gets bigger and bigger. Where does that leave you ten years from now?*
+
+We've said over and over that our future rate of compounding our shareholders' wealth is going to go down compared to our past - and that our size will be an anchor dragging on performance. And we've said over and over again that this is not an opinion, but a promise.
+
+However, let's suppose that we are able to compound our present book value at fifteen percent per annum from this point. That would not be so bad and would work out okay for our long-tern shareholders. I'm just saying that we could afford to slow down some, as we surely will, and still do okay for the long-term shareholder.
+
+By the way, I'm not saying that we will compound our book value at fifteen percent per annum.
+
+*Q: You talked about how important it was not to have an extreme ideology. What responsibility, if any, do you think the business and legal communities have for helping inner-city areas, spreading the wealth and so on?*
+
+I'm all for fixing social problems. I'm all for being generous to the less fortunate. And I'm all for doing things where, based on a slight preponderance of the evidence, you guess that it's likely to do more good than harm.
+
+What I'm against is being very confident and feeling that you know, for sure, that your particular intervention will do more good than harm, given that you're dealing with highly complex systems wherein everything is interacting with everything else.
+
+*Q: So what you're saying is to just make sure that what you're doing is doing more good...*
+
+You can't make sure. That's my point.
+
+On the other hand, I did recently reverse the conclusions of two sets of engineers. How did I have enough confidence in such a complicated field to do that? Well, you might think, "Oh, this guy is just an egomaniac who's made some money and thinks he knows everything."
+
+Well, I may be an egomaniac, but I don't think I know everything. But I saw huge reasons in the circumstances for bias in each set of engineers as each recommended a course of action very advantageous to itself. And what each was saying was so consonant with a natural bias that it made me distrust it. Also, perhaps I knew enough about engineering to know that what they were saying didn't make sense.
+
+Finally, I found a third engineer who recommended a solution I approved. And, thereafter, the second engineer came to me and said, "Charlie, why didn't I think of that?" - which is to his credit. It was a much better solution, both safer and cheaper.
+
+You must have the confidence to override people with more credentials than you whose cognition is impaired by incentive-caused bias or some similar psychological force that is obviously present. But there are also cases where you have to recognize that you have no wisdom to add - and that your best course is to trust some expert.
+
+In effect, you've got to know what you know and what you don't know. What could possibly be more useful in life than that?
+
+*Q: You discussed Coke's mistake. Do you have any thought about where Apple went wrong?*
+
+Let me give you a very good answer - one I'm copying from Jack Welch, CEO of General Electric. He has a PhD in engineering. He's a star businessman. He's a marvelous guy. And recently, in Warren's presence, someone asked him, "Jack, what did Apple do wrong?"
+
+His answer? "I don't have any special competence that would enable me to answer that question." And I'll give you the very same answer. That's not a field in which I'm capable of giving you any special insight.
+
+On the other hand, in copying Jack Welch, I am trying to teach you something. When you don't know and you don't have any special competence, don't be afraid to say so.
+
+There's another type of person I compare to an example from biology: when a been finds nectar, it comes back and does a little dance that tells the rest of the hive, as a matter of genetic programming, which direction to go and how far. So about forty of fifty years ago, some clever scientist stuck the nectar straight up. Well, the nectar's never straight up in the ordinary life of a bee. The nectar's out. So the bee finds the nectar and returns to the hive. But it doesn't have the genetic programming to do a dance that says straight up. So what does it to?
+
+Well, if it were like Jack Welch, it would just sit there. But what it actually does is to dance this incoherent dance that gums things up. And a lot of people are like that bee.(See also [[Cargo Cult Science]]). They attempt to answer a question like that. And that is a huge mistake. Nobody expects you to know everything about everything. 
+
+I try to get rid of people who always confidently answer questions about which they don't have any real knowledge. To me, they're like the bee dancing its incoherent dance. They're just screwing up the hive.
+
+*Q: As someone who's been in legal practice and business, how did you incorporate, or did you incorporate, these models into your legal practice? And how did it work? I suspect many of us have seen law firms that don't appear to adhere to these kinds of models.*
+
+Well, the models are there. But just as there are perverse incentives in academia, there are perverse incentives in law firms. In fact, in some respects, at the law firms, it's much worse.
+
+Here's another model from law practice. When I was very young, my father practiced law. One of his best friends, Grant McFayden - Omaha's Pioneer Ford dealer - was a client. He was a perfectly marvelous man -  a self-made Irishman who'd run away uneducated from a farm as a youth because his father beat him. So he made his own way in the world. And he was a brilliant man of enormous charm and integrity - just a wonderful, wonderful man.
+
+In contrast, my father had another client who was a blowhard, overreaching, unfair, pompous, difficult man. And I must have been fourteen years old or thereabouts when I asked, "Dad, why do you do so much work for Mr. X - this overreaching blowhard - instead of working more for wonderful men like Grant McFayden?"
+
+My father said, "Grant McFayden treats his employees right, his customers right, and his problems right. And if he gets involved with a psychotic, he quickly walks over to where the psychotic is and works out an exit as fast as he can. Therefore, Grant McFayden doesn't have enough remunerative law business to keep you in Coca-Cola. But Mr. X is a walking minefield of wonderful legal business."
+
+This case demonstrates one of the troubles with practicing law. To a considerable extent, you're going to be dealing with grossly defective people. They create an enormous amount of the remunerative law business. And even when your own client is a paragon of virtue, you'll often be dealing with gross defectives on the other side or even on the bench. That's partly what drove me out of the profession.
+
+The rest was my own greed, but my success in serving greed partly allowed me to make easier the process of being honorable and sensible. Like Ben Franklin observed, "It's hard for an empty sack to stay upright."
+
+I'd argue that my father's model when I asked him about the two clients was totally correct didaction. He taught me the right lesson. The lesson? As you go through life, sell your services once in a while to an unreasonable blowhard if that's what you must do to feed your family. But run your own life like Grant McFayden. That was a great lesson.
+
+There, again, we're talking about elementary psychology. It's elementary literature. Good literature makes the reader reach a little for understanding. Then, it works better. You hold it better. It's the commitment and consistency tendency. if you're reached for it, the idea's pounded in better.
+
+As a lawyer or executive, you'll want to teach somebody what my father taught me or maybe you'll want to teach  them something else. And you can use lessons like this. Isn't that a great way to teach a child? My father used indirection on purpose. And look at how powerfully it worked - like Captain Cook's wise use of psychology. I've been trying to imitate Grant McFayden ever since - for all my life. I may have had a few lapses. But at least I've been trying.
+
+*Q: At the end of your article in OID, you mentioned that only a select few investment managers actually add value. Since you're speaking to an audience of future lawyers, what would you encourage us to do in order to be able to add value in our profession?*
+
+To the extent you become a person who thinks correctly, you can add great value. To the extent you've learned it so well that you have enough confidence to intervene where it takes a little courage, you can add great value. And to the extent that you can prevent or stop some asininity that would otherwise destroy your firm, your client, or something that you care about, you can add great value.
+
+And there are constructive tricks you can use. For example, one reason why my old classmate, Joe Flom of Skadden Arps, has been such a successful lawyer is that he's very good at dreaming up little, vivid examples that serve to pound the point home in a way that really works. It's enormously helpful when you're serving clients or otherwise trying to persuade someone in a good cause to come up with a little humorous example.
+
+The ability to do that is a knack. So you could argue that the Joe Floms of the world are almost born with a gift. But he's honed the gift. And to one degree or another, all of you were born with the gift. An you can hone it, too.
+
+Occasionally, you get into borderline stuff.  For instance, suppose you've got a client who really wants to commit tax fraud. If he doesn't push the tax code way beyond the line, he can't stand it. He can't shave in the morning if he thinks there's been any cheating he could get by with that he hasn't done. And there are people like that. They just feel they aren't living aggressively enough.
+
+You can approach that situation in either of two ways: (A) You can say, "I just won't work for him", and duck it. Or, (B) you can say, "Well, the circumstances of my life require that I work for him. And what I'm doing for him doesn't involve my cheating. Therefore, I'll do it."
+
+And if you see he wants to do something really stupid, it probably won't work to tell him, "What you're doing is bad. I have better morals than you."
+
+That offends him. You're young. He's old. Therefore, instead of being persuaded, he's more likely to react with, "Who in the hell are you to establish the moral code of the whole world?"
+
+But, instead, you can say to him, "You can't do that without three other people beneath you knowing about it. Therefore, you're making yourself subject to blackmail. You're risking your reputation. You're risking your family, your money, etc."
+
+That is likely to work. And you're telling him something that's true. Do you want to spend a lot of time working for people where you have to use methods like that to get them to behave well? I think the answer is no. But if you're hooked with it, appealing to his interest is likely to work better as a matter of human persuasion than appealing to anything else. That, again, is a powerful psychological principle with deep biological roots.
+
+I saw that psychological principle totally blown at Salomon. Salomon's general counsel knew that the CEO, Gutfreund, should have promptly told the federal authorities all about Salomon's trading improprieties in which Gutfreund didn't participate and which he hadn't caused. And the general counsel urged Gutfreund to do it. He told Gutfreund, in effect, "You're probably not legally required to do that, but it's the right thing to do. You really should."
+
+But it didn't work. The task was easy to put off - because it was unpleasant. So that's what Gutfreund did - he put it off.
+
+And the general counsel had very little constituency within Salomon except for the CEO. If the CEO went down, the general counsel was going down  with him. Therefore, his whole career was on the line. So to save his career, he needed to talk the dilatory CEO into doing the right thing. 
+
+It would have been child's play to get that job done right. All the general counsel had to do was to tell his boss, "John, this situation could ruin your life. You could lose your wealth. You could lose your reputation." And it would have worked. CEOs don't like the idea of being ruined, disgraced, and fired.
+
+And the ex-general counsel of Salomon is brilliant and generous - and he had the right idea. However, he lost his job because he didn't apply a little elementary psychology. **He failed to recognize that what works best in most cases is to appeal to a man's interest.**
+
+But you don't have to get similarly lousy results when you face similar situations. Just remember what happened to Gutfreund and his general counsel. The right lessons are easily learned if you'll work at it. And if you do learn them, you can be especially useful at crucial moments when others fail. And to the extent that you do become wise, diligent, objective, and, especially able to persuade in a good cause, then you're adding value.
+
+*Q: Would you discuss how the threat of litigation - shareholder lawsuits and so forth - and legal complexity in general have affected decision-making in big business?*
+
+Well, every big business screams about its legal costs, screams about the amount of regulation, screams about the complexity of its life, screams about the plaintiff's bar - particularly the class action plaintiff's bar. So there's an absolute catechism on that where you could just copy the screams from one corporation to another and you'd hardly have to change a word.
+
+But what causes the screams has, so far, been a godsend for the law firms. The big law firms have had a long updraft. And they now tend to kind of cluck like an undertaker in a plague. An undertaker, of course, would look very unseemly if he were jumping up and down and playing his fiddle during the plague. So law firm partners say, "Oh, isn't it sad - all this complexity, all this litigation, all this unfairness."
+
+But, really, they're somewhat schizophrenic on the subject because it's been very good for them. Some recent California initiatives created some interesting conduct. Part of the defense bar lobbied quietly against certain propositions and, effectively, against their clients because they didn't want their clients to catch 'em in the process. And the reason that they did so was because it became harder for plaintiffs to bring cases.
+
+If you make a living fighting overreaching and it keeps your children in school and somebody proposes a system that eliminates it - well, that's an adult experience and and adult choice that you have to make.
+
+So big corporations adapt. They have to have a bigger legal department. They scream about what they don't like. But they adapt.
