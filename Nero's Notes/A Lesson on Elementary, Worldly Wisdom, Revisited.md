@@ -128,5 +128,116 @@ Another reason that I recommend Pinker, the semanticist who wrote the book that 
 
 Well, I have far less in the way of qualifications than Pinker. In fact, I've never taken a single course in psychology. However, I've come to exactly the same conclusion - that the psychology texts. while they are wonderful in part, are also significantly daft.
 
-In fact, just take simple psychological denial. About three centuries before the birth of Christ, Demosthenes said "What a man wishes, that also he will believe." Well, Demosthenes was right.
+In fact, just take simple psychological denial. About three centuries before the birth of Christ, Demosthenes said **"What a man wishes, that also he will believe."** Well, Demosthenes was right.
 
+I had a family acquaintance whose much-loved son - who was brilliant and a star football player - flow off over the ocean and never came back. Well, his mother thought he was still alive. The mind will sometimes flip so that the wish becomes the belief. (See [[Pain reducing psychological denial]]). It will do so at various levels. Individuals very in how much psychological denial they get. But miscognition from denial overwhelmingly pervades the reality that you're going to have to deal with. And yet, you won't find an adequate treatment of simple psychological denial in psychology texts.
+
+So you can't learn psychology the way your professors teach it. You've got to learn everything they teach. But you've got to learn a lot more that they don't teach - because they don't handle their own subject correctly.
+
+Psychology to me, as currently organized, is like electromagnetism after Faraday, but before Maxwell - a lot has been discovered, but not one mind has put it all together in proper form. And it should be done because it wouldn't be that hard to do - and it's enormously important.
+
+Just open a psychology text, turn to the index, and look up [[Envy]]. Well, envy made it into one or two or three of the Ten Commandments. Moses knew well all about envy. The old Jews, when they were herding sheep, knew all about envy. It's just that psychology professors don't know about envy.
+
+Books that thick are teaching a psychology course without envy?! And with no simple psychological denial? And no [[Incentives|Incentive-caused bias]]?
+
+And psychological texts don't deal adequately with combinations of factors. I told you earlier to be aware of the [[Lollapalooza Effect]] effect when two or three or more forces are operating in the same direction.
+
+Well, the single most publicized psychology experiment ever done is the [[Milgram Experiment]] - where they asked people to apply what they had every reason to believe was heavy electrical torture on innocent fellow human beings. And they manipulated mos of these decent volunteers into doing the torture.
+
+Milgram performed the experiment right after Hitler had gotten a bunch of believing Lutherans, Catholics, and so forth to perform unholy acts they should have known were wrong. He was trying to find out how much authority could be used to manipulate high-grade people into doing things that were clearly and grossly wrong.
+
+And he got a very dramatic effect. He managed to get high-grade people to do many awful things.
+
+But for years, it was in the psychology books as a demonstration of authority - how authority could be used to persuade people to do awful things.
+
+Of course, that's mere [[First Conclusion Bias]]. That's not the complete and correct explanation. Authority is part of it. However, were were also quite a few other psychological principles, all operating in the same direction, that achieved that lollapalooza effect precisely because they acted in combination toward the same end.
+
+People have gradually figured that out. And if you read the recent psychology texts at a place like Stanford, you'll see that they've now managed to get it about two-thirds right. However, here's the main experiment in all of psychology. And even at Stanford, they still leave out some of the important causes of Milgram's experiment.
+
+How can smart people be so wrong? Well, the answer is that they don't do what I'm telling you to do - which is to take all the main models from psychology and use them as a checklist in reviewing outcomes in complex systems.
+
+No pilot takes off without going through his checklist: A, B, C, D... And no bridge player who needs two extra trick plays a hand without going down his checklist and figuring out how to do it.
+
+But these psychology professors think they're so smart that they don't need a checklist. But they aren't that smart. Almost nobody is. Or, maybe, nobody is.
+
+If they used a checklist, they'd realize the Milgram experiment harnesses six psychological principles, at least - not three. All they'd have to do is to go down the checklist to see the ones that they missed.
+
+Similarly, without this system of getting the main models and using them together in a multi-modular way, you'll screw up every time after time after time, too.
+
+One reason psychology professors so screw up denial is that it's hard to do demonstrative experiments without conduct forbidden by ethics. To demonstrate how misery creates mental misfunction in people, think of what you'd have to do to your fellow human beings. And you'd have to do it without telling them about the injury to come. So, clearly, there are ethical reasons why it's practically impossible to do the experiments necessary to best lay out the ways human misery creates human mental misfunction.
+
+Most professors solve this problem, in effect, by assuming, "If I can't demonstrate it with my experiments, then it doesn't exist." However, obviously, that's asinine. If something is very important but can't be perfectly and precisely demonstrated because of ethical constraints, you can't treat it like it doesn't exist. You have to do the best you can with it - with such evidence as is available.
+
+Pavlov himself spent the last ten years of his life torturing dogs. And he published. Thus, we have a vast amount of data about misery-caused mental misfunction in dogs - and its correction. Yet, it's in no introductory psychological book that you'll ever see.
+
+I don't know whether they don't like the fact that Pavlov tortured dogs or whether B.F. Skinner, by overclaiming when he lapsed into his literary mode, made the drawing of implications from animal behavior into human behavior unpopular. However, for some crazy reason or other, the psychology books are grossly inadequate in dealing with misery-caused mental misfunction.
+
+You may say, "What difference does all this psychological ignorance make?" Well, if I'm right, you need these models that are blanked out by this ignorance. And, furthermore, you need them in a form whereby, if there are twenty constructs, you have all twenty. In other words, you shouldn't be operating with ten. And you need to use them as a checklist. So you have to go back and put in your own head what I'd call the psychology of misjudgment in a form whereby you have all of the important models and you can use them.
+
+And you especially need them when four of five forces from these models come together to operate in the same direction. In such cases, you often get lollapalooza effects - which can make you rich or they can kill you. So it's essential that you beware of lollapalooza effects.
+
+There's only one right way to do it: You have to get the main doctrines together and use them as a checklist. And, to repeat for emphasis, you have to pay special attention to combinatorial effects that create lollapalooza consequences.
+
+*(Charlie discusses the lack of multidisciplinary teaching in the professions, especially how the field of psychology is virtually ignored in academia).*
+
+Let me give you an example of that - of wise psychology of yore. In Captain Cook's day, he took these long voyages. At the time, scurvy was the dread of the long voyage. And in scurvy, your living gums putrefy in your mouth - after which the disease gets unpleasant and kills you.
+
+And being on a primitive sailing ship with a bunch of dying sailors is a very awkward business. So everybody was terribly interested in scurvy, but they didn't know about vitamin C. Well, Captain Cook, being a smart man with a multiple-model kind of approach, noticed that Dutch ships had less scurvy than English ships on long voyages. So he said, "What are the Dutch doing that's different?"
+
+And he noticed they had all these barrels of sauerkraut. So he thought, "I'm going on these long voyages. And it's very dangerous. Sauerkraut may help." So he laid in all this sauerkraut, which, incidentally, happens to contain a trace of vitamin C.
+
+But English sailors were a tough, cranky, and dangerous bunch in that day. They hated "krauts". And they were used to their standard food and booze. So how do you get such English sailors to eat sauerkraut?
+
+Well, Cook didn't want to tell'em that he was doing it in the hope it would prevent scurvy - because they might mutiny and take over the ship if they thought that he was taking them on a voyage so long that scurvy was likely.
+
+So here's what he did: Officers ate at one place where the men could observe them. And for a long time, he served sauerkraut to the officers, but not to the men. And, then, finally, Captain Cook said, "Well, the men can have it one day a week."
+
+In due course, he had the whole crew eating sauerkraut. I regard that as a very constructive use of elementary psychology. It may have saved God knows how many lives and caused God knows how much achievement. However, if you don't know the right techniques, you can't use them.
+
+*(Charlie discusses psychological effects in play in marketing of consumer items, such as Coca-Cola, Procter & Gamble, Tupperware, etc.)*
+
+Worldly wisdom is  mostly very, very simple. And what I'm urging on you is not that hard if you have the will to plow through and do it. And the rewards are awesome - absolutely awesome.
+
+But maybe you aren't interested in awesome rewards or avoiding a lot of misery of being more able to serve everything you love in life. And, if that's your attitude, then don't pay attention to what I've been trying to tell you - because you're already on the right track.
+
+It can't be emphasized too much that issues of morality are deeply entwined with worldly wisdom considerations involving psychology. For example, take the issue of stealing. A very significant fraction of the people in the world will steal if (A) it's very easy to do and (B) there's practically no chance of being caught.
+
+And once they start stealing, the [[Bias from Commitment and Consistency| consistency principle]] - which is a big part of human psychology - will soon combine with operant conditioning to make stealing habitual. So if you run a business where it's easy to steal because of your methods, you're working a great moral injury on the people who work for you.
+
+Again, that's obvious. It's very, very important to create human systems that are hard to cheat. Otherwise, you're ruining your civilization because these big incentives will create incentive-caused bias and people will [[Reason as rationalization | rationalize ]] that bad behavior as OK.
+
+Then, if somebody else does it, now you've got at least two psychological principles: incentive-caused bias plus [[Social Proof]]. Not only that, but you get [[Serpico Effects]]: if enough people are profiting in a general social climate of going wrong, then they'll turn on you and become dangerous enemies if you try and blow the whistle.
+
+It's very dangerous to ignore these principles and let slop creep in. Powerful psychological forces are at work for evil.
+
+How does this relate to law business? Well, people graduate from places like Stanford Law School and go into the legislatures of our nation, and , with the best of motives, pass laws that are easily used by people to cheat. Well, there could hardly be a worse thing you could do.
+
+Let's say you have a desire to do public service. As a natural part of your planning, you think in reverse and ask, "What can I do to ruin our civilization?" That's easy. If what you want to do is to ruin our civilization, just go to the legislature and pass laws that create systems wherein people can easily cheat. It will work perfectly.
+
+Take the workers' compensation system in California. Stress is real. And its misery can be real. So you want to compensate people for their stress in the workplace. It seems like a noble thing to do.
+
+But the trouble with such a compensation practice is that it's practically impossible to delete huge cheating. And once you reward cheating, you get crooked lawyers, crooked doctors, crooked unions, etc., participating in referral schemes. You get a total miasma of disastrous behavior. And the behavior makes all the people doing it worse as they do it. So you were trying to help your civilization. But what you did was create enormous damage, net.
+
+So it's much better to let some things go uncompensated - to let life be hard - than to create systems that are easy to cheat.
+
+Let me give you an example: I have a friend who made an industrial product at a plant in Texas not far from the border. He was in a low-margin, tough business. He got massive fraud in the workers' compensation system - to the point that his premiums reached double-digit percentages of payroll. And it was not that dangerous to produce his product. It's not like he was a demolition contractor or something.
+So he pleaded with the union "You've got to stop this. There's not enough money in making this product to cover all of this fraud."
+
+But, by then, everyone's used to id. "It's extra income. It's extra money. Everybody does it. It can't be that wrong. Eminent lawyers, eminent doctors, eminent chiropractors - if there are any such things - are cheating."
+
+And no one could tell them, "You can't do it anymore." Incidentally, that's [[Pavlovian Association]], too. When people get bad news, they hate the messenger. Therefore, it was very hard for the union representative to tell all of these people that the easy money was about to stop. That is not the way to advance as a union representative.
+
+So my friend closed his plant and moved the work to Utah among a community of believing Mormons. Well, the Mormons aren't into workers' compensation fraud - at least they aren't in my friend's plant. And guess what his workers' compensation expense is today? It's two percent of payroll - down from double-digits.
+
+This sort of tragedy is caused by letting the slop run. You must stop slop early. it's very hard to stop slop and moral failure if you let it run for a while.
+
+*(Charlie describes his notion of "deprival super-reaction syndrome" as it relates to gambling and the New Coke debacle of the mid-1980s.)*
+
+Of course, as I said before, there is one big consideration that needs huge and special attention as part of any use of techniques deliberately harnessing elementary psychological forces: And that is that once you know how to do it, there are real moral limits regarding how much you should do it. Not all of what you know how to do should you use to manipulate people.
+
+Also, if you're willing to transcend the moral limits and the person you're trying to manipulate realizes what you're doing because he also understands the psychology, he'll hate you. There is wonderfully persuasive evidence of this effect taken from labor relations - some in Israel. So not only are there moral objections, but there are also practical objections - big ones in some cases...
+
+
+*Q: How do you incorporate psychology in your investment decisions? I think it would be more than just picking products that will appeal to everybody like Coke. After all, there are a lot of smart people out there who obviously think just the way that you showed us today. So are you looking for failure in the thinking of other investors when you go about picking successful companies?*
+
+What makes investment hard, as I said in USC, is that it's easy to see that some companies have better businesses than others. But the price of the stock goes up so high that, all of a sudden, the question of which stock is the best to buy gets quite difficult.

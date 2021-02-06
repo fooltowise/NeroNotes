@@ -28,3 +28,6 @@
 - [[When the brain thinks logarithnically]]
 - [[Pain reducing psychological denial]]
 - [[Ideology]]
+- [[Envy]]
+- [[First Conclusion Bias]]
+-  [[Serpico Effects]]
