@@ -241,3 +241,119 @@ Also, if you're willing to transcend the moral limits and the person you're tryi
 *Q: How do you incorporate psychology in your investment decisions? I think it would be more than just picking products that will appeal to everybody like Coke. After all, there are a lot of smart people out there who obviously think just the way that you showed us today. So are you looking for failure in the thinking of other investors when you go about picking successful companies?*
 
 What makes investment hard, as I said in USC, is that it's easy to see that some companies have better businesses than others. But the price of the stock goes up so high that, all of a sudden, the question of which stock is the best to buy gets quite difficult.
+
+We've never eliminated the difficulty of that problem. And ninety-eight percent of the time, our attitude toward the market is... that we're agnostic. We don't know. Is GM valued properly vis-à-vis Ford? We don't know.
+
+We're always looking for something where we think we have an insight which gives us a big statistical advantage. And sometimes it comes from psychology, but often it comes from something else. And we only find a few - maybe one or two a year. We have no system for having automatic good judgment on all investments decisions that can be made. Ours is a totally different system.
+
+We just look for no-brainer decisions. As Buffett and I say over and over again, we don't leap for seven-foot fences. Instead, we look for one-foot fences with big rewards on the other side. So we've succeeded by making the world easy for ourselves, not by solving hard problems.
+
+*Q: Based on statistical analysis and insight?*
+
+Well, certainly when we do make a decision, we think that we have an insight advantage. And it's true that some of the insight is statistical in nature. However, again, we find only a few of those.
+
+It doesn't help us merely for favorable odds to exist. They have to be in a place where we can recognize them. So it takes a mispriced opportunity that we're smart enough to recognize. And that combination doesn't occur often.
+
+But it doesn't have to. If you wait for the big opportunity and have the courage and vigor to grasp it firmly when it arrives, how many do you need? For example, take the top ten business investments Berkshire Hathaway's ever made. We would be very rich if we'd never done anything else - in two lifetimes.
+
+So, once again, we don't have any system for giving you perfect investment judgment on all subjects at all times. That would be ridiculous. I'm just trying to give you a method you can use to sift reality to obtain an occasional opportunity for rational reaction.
+
+If you take that method into something as competitive as common stock picking, you're competing with many brilliant people. So, even with our method, we only get a few opportunities. Fortunately, that happens to be enough.
+
+*Q: Have you been successful in creating an atmosphere where people below you can do the same things you're talking about doing yourself? For example, you talked about the tendency towards commitment and consistency...*
+
+Mostly about the terrible mistakes it causes you to make.
+
+*Q: How have you created an atmosphere comfortable enough for people to abandon that tendency and admit that they've made a mistake?*
+
+*For example, someone here earlier this year from Intel talked about problems that occurred with their Pentium chip. One of the most difficult things for them to do was to realize they'd been going about it the wrong way and turn course. And it's very difficult to do that in a complex structure. How do you foster that?*
+
+Intel and its ilk create a coherent culture where teams solve difficult problems on the cutting edge of science. That's radically different from Berkshire Hathaway. Berkshire is a holding company. We've decentralized all the power except for natural headquarters- type capital allocation.
+
+By and large, we've chosen people we admire enormously to have the power beneath us. It's easy for us to get along with them on average because we love and admire them. And they create the culture for whatever invention and reality recognition is going on in their businesses. And included in that reality recognition is the recognition that previous conclusions were incorrect.
+
+But we're a totally different kind of company. It's not at all clear to me that Warren or I would be that good at doing what Andy Grove does. We don't have special competence in that field. We are fairly good at relating to brilliant people we love. But we have defects. For example, some regard me as absent-minded and opinionated. I might be a mess at Intel.
+
+However, both Warren and I are very good at changing our prior conclusions. We work at developing that facility because, without it, disaster often comes.
+
+*Q: Would you talk a little bit about your seeming predilection away from investing in high technology stocks - on your own part and the part of Berkshire Hathaway. One of the things I've found eye-opening and a little surprising is how the difficulties of running a low-tech business and those of running a high-tech business aren't all that different.*
+
+They're all hard. But why should it be easy to get rich? In a competitive world, shouldn't it be impossible for there to be an easy way for everybody to get rich? Of course, they're all hard.
+
+The reason we're not in high-tech businesses is that we have a special lack of aptitude in that area. And, yes - a low-tech business can be plenty hard. Just try to open a restaurant and make it succeed.
+
+*Q: You seem to be suggesting that there's special aptitude required in high-tech businesses - that they're harder. But aren't they equally difficult?*
+
+The advantage of low-tech stuff for us is that we think we understand it fairly well. The other stuff we don't. And we'd rather deal with what we understand.
+
+Why should we want to play a competitive game in a field where we have no advantage - maybe a disadvantage - instead of in a field where we have a clear advantage?
+
+Each of you will have to figure out where your talents lie. And you'll have to use your advantages. But if you try to succeed in what you're worst at, you're going to have a very lousy career. I can almost guarantee it. To do otherwise, you'd have to buy a winning lottery ticket or get very lucky somewhere else.
+
+*Q: Warren Buffett has said that the investment Berkshire made in an airline was a good example of what not to do. What chain of thinking led to that wrong decision?*
+
+We were not buying stock in USAir on the theory that the common shareholders were certain to prosper - because the history of the airline business in terms of taking care of shareholders has been terrible. It was a preferred stock with a mandatory redemption. In effect, we were loaning  money to USAir, and we had this equity kicker.
+
+We weren't guessing whether it would be a great place for the shareholders. We were guessing whether it would remain prosperous enough to pay off a credit instrument - carrying a fixed dividend and a mandatory redemption. And we guessed that the business would not get so bad that we'd have a credit threat for which we were not being adequately compensated by the high rate we were getting. As it happened, USAir went right to the brink of going broke. It was hanging by a thread for several months. It's since come back. And we'll probably get all our money back plus the whole coupon. But it was a mistake.
+
+I don't want you to think we have any way of learning or behaving so you won't make a lot of mistakes. I'm just saying that you can learn to make fewer mistakes than other people - and how to fix your mistakes faster when you do make them.
+
+But there's no way that you can live an adequate life without making many mistakes.
+
+In fact, one trick in life is to get so you can handle mistakes. **Failure to handle psychological denial is a common way for people to go broke.** You've made an enormous commitment to something. You've poured effort and money in. And the more you put in, the more that the whole consistency principle makes you think, "Now it has to work. If I put in just a little more, then it'll work."
+
+And deprival super-reaction syndrome also comes in: You're going to lose the whole thing is you don't put in a little more. People go broke that way - because they can't stop, rethink, and say: "I can afford to write this one off and live to fight again. I don't have to pursue this thing as an obsession - in a way that will break me."
+
+Part of what you must learn is how to handle mistakes and new facts that change the odds (see [[Bayes Theorem]]).  Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand.
+
+*Q: Could you talk about the thoughts that went into your decision to swap you Capital Cities stock for Disney rather than taking cash. In the media, it was reported that you mentioned thinking about the cash.*
+
+Disney's a perfectly marvelous company, but it's also very high-priced. Part of what it does is to make ordinary movies - which is not a business that attracts me at all. However, part of what Disney has is better than a great gold mine. My grandchildren - I mean, those videocassettes...
+
+Disney is a amazing example of [[Catalysts| Autocatalysis]]... They had all those movies in the can. They owned the copyright. And just as Coke could prosper when refrigeration came, when the videocassette was invented, Disney didn't have to invent anything or do anything except take the thing out of the can and stick it on the cassette. And every parent and grandparent wanted his descendants to sit around and watch that stuff at home on videocassette. So Disney got this enormous tailwind from life. And it was billions of dollars worth of tail wind.
+
+Obviously, that's a marvelous model if you can find it. You don't have to invent anything. All you have to do is to sit there while the world carries you forward...
+
+Disney's done a lot of new things right. Don't misunderstand me. But a lot of what happened with Disney was like a friend of mine said about an ignorant fraternity brother of his who succeeded in life: "He was a duck sitting on a pond. And they raised the level of the pond."
+
+Eisner and Wells were brilliant in how they ran Disney. But the huge tail wind from videocassettes sales on all the old stuff that was there when they came in, that was an automatic break for the new management.
+
+To be fair, they have been brilliant about creating new stuff - like *Pocahontas* and *The Lion King*  - to catch the same tailwind. But by the time it's done, *The Lion King* alone is going to do plural billions. And, by the way, when I say "When it's done", I mean fifty years from now or something. But plural billions - from one movie?
+
+*Q: Could you talk about why you left the law?*
+
+I had a huge family. Nancy and I supported eight children... And I didn't realize that the law was going to get as prosperous as it suddenly got. The big money came into law shortly after I left it. by 1962, I was mostly out. And I was totally out by 1965. So that was a long time ago.
+
+Also, I preferred making the decisions and gambling my own money. I usually thought I knew better than the client anyway. So why should I have to do it his way? So partly, it was having an opinionated personality. And partly, it was a desire to get resources permitting independence.
+
+Also, the bulk of my clients were terrific. But there were one or two I didn't enjoy. Plus, I like the independence of a capitalist. And I'd always had sort of a gambling personality. I like figuring things out and making bets. So I simply did what came naturally.
+
+*Q: Do you ever gamble Las Vegas-style?*
+
+I won't bet $100 against house odds between now and the grave. I don't do that. Why should I? I will gamble recreationally with my pals. And I'll occasionally play a much better bridge player, like Bob Hamman, who might be the best card player in the world. But I know I'm paying for the fun of playing with him. That's recreational.
+
+As for gambling with simple mechanical house odds against me, why in the world would I ever want to do that - particularly given how I detest the manipulative culture of legalized gambling. So I don't like legalized gambling.
+
+And I'm not comfortable in Las Vegas, even though it does now include a higher percentage of wholesome family recreation. I don't like to be with many of the types who hang around card parlors and so forth.
+
+On the other hand, I do like the manly art of wagering, so to speak. And I like light social gambling among friends. But I do not like the professional gambling milieu.
+
+*Q: Could you say something about how the mutual fund and money management business has changed since you got into  it - and the growth of capital markets?*
+
+Actually, I didn't really get into it. I had the little private partnership for fourteen years - up until a little over twenty years ago. However, I never had enough money from other people to amount to a hill of beans - at least by current investment-management standards. So I've never really been part of the mutual fund business.
+
+But the money management business has been one of the great growth businesses in the recent history of the United States. It's created many affluent professionals and multimillionaires. It's been a perfect gold mine for people who got in it early. the growth of pension funds, the value of American corporations, and the world's wealth have created a fabulous profession for many and carried lots of them up to affluence.
+
+And we deal with them in a variety of ways. However, we haven't been part of it for many years. We've basically invested our own money for a long, long time.
+
+*Q: Do you expect this bull run to continue?*
+
+Well, I'd be amazed if the capitalized value of all American businesses weren't considerably higher twenty five years from now. And if people continue to trade with one another and shuffle these pieces of paper around, then money management may continue to be a marvelous business for the managers. But except for what might be called our own money, we're really not in it.
+
+*Q: I was interested in the evolution of your investment strategy from when you first began - using the Ben Graham model - to the Berkshire Hathaway model. Would you recommend that model to a beginning investor - i.e, dumping most of it or all of it into one opportunity we think is a great one and leaving ti there for decades? Or is that strategy really for a more mature investor?*
+
+Each person has to play the game given his own marginal utility considerations and in a way that takes into account his own psychology. If losses are going to make you miserable - and some losses are inevitable - you might be wise to utilize a very conservative pattern of investment and saving all your life. So you have to adapt your strategy to your own nature and your own talents. I don't think there's a one-size-fits-all investment strategy that I can give you.
+
+Mine works for me. But, in part, that's because I'm good at taking losses. I can take 'em psychologically. And, besides, I have very few. The combination works fine.
+
+
