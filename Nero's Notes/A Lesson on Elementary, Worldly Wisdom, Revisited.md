@@ -477,3 +477,105 @@ But, really, they're somewhat schizophrenic on the subject because it's been ver
 If you make a living fighting overreaching and it keeps your children in school and somebody proposes a system that eliminates it - well, that's an adult experience and and adult choice that you have to make.
 
 So big corporations adapt. They have to have a bigger legal department. They scream about what they don't like. But they adapt.
+
+*Q: But hasn't that legal complexity consumed a lot more of companies' resources over the last few decades?*
+
+The answer is yes. There's hardly a corporation in America that isn't spending more on lawsuits and on compliance with various regulations than it was twenty years ago. And, yes, some of the new regulation is stupid and foolish. And some was damn well necessary. And it will ever be thus, albeit with some ebb and flow.
+
+*Q: But have you seen or experienced any change in decision making at corporations in their being less likely to take on riskier investments for fear of failure or liability?*
+
+The only place I saw - with another friend, not Warren - was where I was part owner of the biggest shareholder in a company that invented a better policeman's helmet. It was made of Kevlar or something of that sort. And they brought it to us and wanted us to manufacture it. 
+
+As a matter of ideology, we've very pro-police. I believe civilization needs a police force - although I don't believe in policemen creating too many widows and orphans unnecessarily either. But we like the idea of a better policeman's helmet.
+
+However, we took one look at it and said to the people who invented it, "We're a rich corporation. We can't afford to make a better policeman's helmet. That's just how the civilization works. All risks considered, it can't work for us. But we want the civilization to have these."
+
+"So we don't maximize what we sell it for it. Get somebody else to make it. Transfer the technology or whatever to somebody who can do it. But we're not going to."
+
+Thus, we didn't try to disadvantage policemen by keeping them from getting new helmets, but we decided not to manufacture helmets ourselves.
+
+There are businesses - given the way civilization has developed - where being the only deep pocket around is a bad business. In high school football, for example, a paraplegic or quadriplegic will inevitably be created occasionally. And who with deep pockets can the injured person best sue other than the helmet manufacturer? Then everyone feels sorry, the injuries are horrible, and the case is dangerous for the manufacturer...
+
+I think big, rich corporations are seldom wise to make football helmets in the kind of a civilization we're in. And maybe it should be harder to successfully sue helmet makers.
+
+I know two different doctors - each of whom had a sound marriage. And when the malpractice premiums got high enough, they divorced their wives and transferred most of their properties to their wives. And they continued to practice - only without malpractice insurance.
+
+They were angry at the civilization. They needed to adapt. And they trusted their wives. So that was that. And they've not carried any malpractice insurance since.
+
+People adapt to a changing litigation climate. They have various ways of doing it. That's how it's always been and how it's always going to be.
+
+What I personally hate most are systems that make fraud easy. Probably way more than half of all the chiropractic income in California comes from pure fraud. For example, I have a friend who had a little fender bender - an auto accident - in a tough neighborhood. And he got two chiropractors' cards and one lawyer's card before he'd even left the intersection. They're in the business of manufacturing claims that necks hurt.
+
+In California, I believe the Rand statistics showed that we have twice as many personal injuries per accident as in many other states. And we aren't getting twice as much real injuries per accident. So the other half of that is fraud. People just get so that they think everybody does it, and it's all right to do. I think it's terrible to let that stuff creep in.
+
+If I were running the civilization, compensation for stress in workers' comp would be zero - not because there's no work-caused stress, but because I think the net social damage of allowing stress to be compensated at all is worse than what would happen if a few people that had real work-caused stress injuries went uncompensated.
+
+I like the Navy system. If you're a captain in the Navy and you've been up for twenty-four hours straight and have to go to sleep and you turn the ship over to  a competent first mate in tough conditions and he takes the ship aground - clearly through no fault of yours - they don't court-martial you, but your naval career is over.
+
+You can say, "That's too tough. That's not law school. That's not due process." Well, the Navy model is better in its context than would be the law school model.  The Navy model really forces people to pay attention when conditions are tough - because they know there's no excuse.
+
+Napoleon said he liked luckier generals - he wasn't into supporting losers. Well, the Navy likes luckier captains.
+
+It doesn't matter why your ship goes aground, your career is over. Nobody's interested in your fault. It's just a rule that we happen to have - for the good of all, all effects considered.
+
+I like some rules like that. I think that the civilization works better with some of these no-faults rules. But that stuff tends to be anathema around law schools. "It's no due process. You're not really searching for justice."
+
+Well, I am searching for justice when I argue for the Navy rule - for the justice of few ships going aground. Considering the net benefit, I don't care if one captain has some unfairness in his life. After all, it's not like he's being court-martialed. He just has to look for a new line of work. And he keeps vested pension rights and so on. So it's not like it's the end of the world.
+
+So I like things like that. However, I'm in a minority.
+
+*Q: I'd like to hear you talk a little bit more about judgment. In your talk, you said we should read the psychology textbooks and take the fifteen or sixteen principles that are best of the ones that make sense.*
+
+The ones that are obviously important and obviously right. That's correct... And then you stick in the ones that are obviously important and not in the books - and you've got a system.
+
+*Q: Right. My problem seems to be the prior step, which is determining which ones are obviously right. And that seems to me to be the more essential question to ask.*
+
+No, no, you overestimate the difficulty. Do you have difficulty understanding that people are heavily influenced by what other people think and what other people do - and that some of that happens on a subconscious level?
+
+*Q: No I don't. I understand that.*
+
+Well, you can go right through the principles. And, one after another, they're like that. It's not that hard...
+
+Do you have any difficulty with the idea that [[Pavlovian Association |operant conditioning]] works - that people will repeat what worked for them the  last time?
+
+*Q: It just seems to me like there's a lot of other things out there, as well, that also make a lot of sense. The system would quickly get too complicated, I imagine - as a result of too much cross-talk.*
+
+Well, if you're like me, it's kind of fun for it to be a little complicated. If you want it totally easy and totally laid out, maybe you should join some cult that claims to provide all the answers. I don't think that's a good way to go. I think you'll just have to endure the world - as complicated as it is. Einstein has a marvelous statement on that: "Everything should be made as simple as possible, but not simpler."
+
+I'm afraid that's the way it is. If there are twenty factors and they interact some, you'll just have to handle it - because that's the way the world is. But you won't find it that hard if you go at it Darwin-like, step by step with curious persistence. You'll be amazed at how good you can get.
+
+*Q: You've given us about three of the models you use. I wondered where you found the other ones. And, second, do you have an easier way for us to find them than going through a psychology textbook? I'm not adverse to doing that, but it takes longer.*
+
+There are a relatively small number of disciplines and a relatively small number of truly big ideas. And it's a lot of fun to figure it out. Plus, if you figure it out and do the outlining yourself, the ideas will stick better than if you memorize 'em using somebody else's cram list.
+
+Even better, the fun never stops. I was miseducated horribly. And I hadn't bothered to pick up what's called modern Darwinism. I do a lot of miscellaneous reading, too. But I just missed it. And in the last year, I suddenly realized I was a total damned fool and hadn't picked it up properly. So I went back. And with the aid of Dawkins - Oxford's great biologist - and others, I picked it up.
+
+Well, it was an absolute circus for me in my seventies to get the modern Darwinism synthesis in my head. It's so awesomely beautiful and so awesomely right. And it's so simple once you get it. So one beauty of my approach is that the fun never stops. I suppose that it does stop eventually when you're drooling in the convalescent home at the end. But, at least, it lasts a long time.
+
+If I were a czar at law school - although, of course, no law school will permit a czar (they don't even want the dean to have much power) - I'd create a course that I'd call "Remedial Worldly Wisdom" that would, among other useful things, include a fair amount of properly taught psychology. And it might last three weeks or a month...
+
+I think you could create a course that was so interesting - with pithy examples and powerful examples and powerful principles - that it would be a total circus. And I think that it would make the whole law school experience work better.
+
+People raise their eyebrows at that idea. "People don't do that kind of thing." They may not like the derision that's implicit in the title "Remedial Worldly Wisdom."
+But the title would be my way of announcing, "Everybody ought to know this." And, if you call it remedial, isn't that what you're saying? "This is really basic and everybody has to know it."
+
+Such a course would be a perfect circus. The examples are so legion. I don't see why people don't do it. They may not do it mostly because they don't want to. But also, maybe they don't know how. And maybe they don't know what it is.
+
+But the whole law school experience would be much more fun if the really basic ideas were integrated and pounded in with good examples for a month or so before you got into conventional law school material. I think the whole system of education would work better. But nobody has any interest in doing it.
+
+And when law schools do reach out beyond traditional material, they often do it in what looks to me like a pretty dumb way. If you think psychology is badly taught in America, you should look at corporate finance. Modern Portfolio Theory? It's demented! It's truly amazing.
+
+I don't know how these things happen. Hard science and engineering tend to be pretty reliably done. But the minute you get outside of those areas, a certain amount of inanity seems to creep into academia - even in academia involving people with very high I.Q.'s.
+
+But, boy, what a school would be like that pounded a lot of the silliness out. But the right way to pound it out is not to have some seventy-plus-year old capitalist come in and tell seniors, "Here's a little remedial worldly wisdom." This is not the way to do it.
+
+On the other hand, a month at the start of law school that really pounded in the basic doctrines... Many of the legal doctrines are tied to other doctrines. They're joined at the hip. And, yet, they teach you those legal doctrines without pointing out how they're tied to the other important doctrines? That's insanity  - absolute insanity.
+
+Why do we have a rule that judges shouldn't talk about legal issues that aren't before them? In my day, they taught us the rule, but not in a way giving reasons tied to the guts of undergraduate courses. It's crazy that people don't have those reasons. The human mind is not constructed so that it works well without having reasons. You've got to hand reality on a theoretical structure with reasons. That's the way it hangs together in usable form so that you're an effective thinker.
+
+And to teach doctrines - either with no reasons or with poorly explained reasons? That's wrong!
+
+Another reason why I like the idea of having a course on remedial worldly wisdom is that it would force more sense on the professors. It would be awkward for them to teach something that was contravened by lessons that were obviously correct and emphasized in a course named "Remedial Worldly Wisdom." Professors doing so would really have to justify themselves.
+
+Is that a totally crazy idea? It may be crazy to expect it to be done. However, if somebody had done it, would you have found it useful?
+
