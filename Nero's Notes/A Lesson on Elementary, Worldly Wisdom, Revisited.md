@@ -579,3 +579,61 @@ Another reason why I like the idea of having a course on remedial worldly wisdom
 
 Is that a totally crazy idea? It may be crazy to expect it to be done. However, if somebody had done it, would you have found it useful?
 
+*Q: I think it would be a wonderful thing to have. Unfortunately, when it's created, we won't be there anymore. You're proposing that this would be good to teach people in a course form so it would be accessible for them. Is there any way that it could be more accessible to us - other than having to...*
+
+I get requests for pointers to easy learning all the time. And I'm trying to provide a little easy learning today. But one talk like this is not the right way to do it. The right way to do it would be a book.
+
+I hope what I'm saying will help you to be more effective and better human beings. And if you don't get rich, that won't bother me. But I'm always asked this question: "Spoon-feed me what you know." And, of course, what they're often saying is, "Teach me now to get rich with soft white hands faster. And not only let me get rich faster, but teach me faster, too."
+
+I don't have much interest in writing a book myself. Plus it would be a lot of work for somebody to try and do it in my seventies. And I have plenty else to do in life. So I'm not going to do it. But it's a screaming opportunity for somebody. And I'd provide funds to support the writing of an appropriate book if I found someone with the wisdom and the will to do the job right.
+
+Let me turn to some of the probable reasons for present bad education. Part of the trouble is caused by the balkanization of academia. For example, psychology is most powerful when combined with doctrines from other academic departments. But if your psychology professor doesn't know the other doctrines, then he isn't capable of doing the necessary integration.
+
+And how would anyone get to be a psychology professor in the first place if he were good with non-psychology doctrines and constantly worked non-psychology doctrines into his material? Such a would-be professor would usually offend his peers and superiors.
+
+There have been some fabulous psychology professors in the history of the world. Cialdini of Arizona State was very useful to me, as was B.F. Skinner - for his experimental results, if divorced from his monomania and utopianism. But averaged out, I don't believe that psychology professors in America are people whose alternative career paths were in the toughest part of physics. And that may be one of the reasons why they don't get it quite right.
+
+The schools of education, even at eminent universities, are pervaded by psychology. And they're almost an intellectual disgrace. It's not unheard of for academic departments - even at great institutions - to be quite deficient in important ways. And including a lot of material labeled as psychological is no cure-all.
+
+And given academic inertia, all academic  deficiencies are very hard to fix. Do you know how they tried to fix psychology at the University of Chicago? Having tenured professors  who were terrible, the president there actually abolished the entire psychology department.
+
+And Chicago, in due course, will probably bring back a new and different psychology department. Indeed, by now, it probably has. Perhaps conditions are now better. And I must admit that I admire a college president who will do something like that.
+
+I do not wish to imply in my criticism that the imperfections of academic psychology teaching are all attributable to some kind of human fault common only to such departments. Instead, the causes of many of the imperfections lie deep in the nature of things - in irritating peculiarities that can't be removed from psychology.
+
+Let me demonstrate by a thought experiment involving a couple of questions: Are there not many fields that need a synthetizing super-mind like that of James Clerk Maxwell, but are destined never to attract one? And is academic psychology, by its nature, one of the most unfortunate of all the would-be attractors of super-minds? I think the answers are yes and yes.
+
+One can see this by considering the case of any of the few members of each generation who can, as fast as fingers can move, accurately work through the problem sets of thermodynamics, electromagnetism, and physical chemistry. Such a person will be begged by some of the most eminent people alive to enter the upper reaches of hard science.
+
+Will such a super-gifted person instead will choose academic psychology wherein lie very awkward realities: (A) that the tendencies demonstrated by social psychology paradoxically grow weaker as more people learn them, and, (B) that clinical psychology has to deal with the awkward reality that happiness, physiologically measured is often improved by believing things that are not true? The answer, I think, is plainly no. The super-mind will be repelled by academic psychology much as Nobel laureate physicist Max Planck was repelled by economics, wherein he saw problems that wouldn't yield to his methods.
+
+*Q: We talk a lot about trade-offs between the quality of our life and our professional commitments. Is there time for a professional life, learning about these models, and doing whatever else interests you? Do you find time to do fun things besides learning?*
+
+I've always taken a fair amount of time to do what I really wanted to do - some of which was merely to fish or play bridge or play golf.
+
+Each of us must figure out his or her own lifestyle. You may want to work seventy hours a week for ten years to make partner at Cravath and thereby obtain the obligation to do more of the same. Or you may say, "I'm not willing to pay that price." Either way, it's a totally personal decision that you have to make by your own lights.
+
+But, whatever you decide, I think it's a huge mistake not to absorb elementary worldly wisdom if you're capable of doing it because it makes you better able to serve others, it makes you better able to serve yourself, and it makes life more fun. So if you have an aptitude for doing it, I think you'd be crazy not to. Your life will be enriched - not only financially, but in a host of other ways - if you do.
+
+Now this has been a very peculiar talk for some businessman to come in and give at a law school - some guy who's never taken a course in psychology telling you that all of the psychology textbooks are wrong. This is very eccentric. But all I can tell you is that I'm sincere.
+
+There's a lot of simple stuff that many of you are quite capable of learning. And your lives will work way better, too, if you do. Plus, learning it is a lot of fun. So I urge you to learn it.
+
+*Q: Are you, in effect, fulfilling your responsibility to share your wisdom that you've acquired over the years?*
+
+Sure. Look at Berkshire Hathaway. I call it the ultimate didactic enterprise. Warren's never going to spend any money. He's going to give it all back to society. He's just building a platform so people will listen to his notions. Needless to say, they're very good notions. And the platform's not so bad either. But you could argue that Warren and I are academics in our own way.
+
+*Q: Most of what you've said is very compelling. And your quest for knowledge and, therefore, command of the human condition and money are all laudable goals*
+
+I'm not sure the quest for money is so laudable.
+
+*Q: Well, then - understandable.*
+
+That I'll take. I don't sneer, incidentally, at making sales calls or proofreading bond indentures. If you need the money, it's fun earning it. And if you have to try a bunch of cases in the course of your career, you'll learn something doing that. You ought to do something to earn money. Many activities are dignified by the fact that you earn money.
+
+*Q: I understand your skepticism about overly ideological people. But is there an ideological component of what you do? Is there something that you're irrationally passionate about?*
+
+Yeah, I'm passionate about wisdom. I'm passionate about accuracy and some kinds of curiosity. Perhaps I have some streak of generosity in my nature and a desire to serve values that transcend my brief life. But maybe I'm just here to show off. Who knows?
+
+**I believe in the discipline of mastering the best that other people have ever figured out. I don't believe in just sitting down and trying to dream it all up yourself. Nobody's that smart...**
+
