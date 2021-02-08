@@ -15,6 +15,7 @@
 - [[Social Proof]]
 - [[Bias from Authority]]
 - [[Pavlovian Association]]
+- [[Operant Conditioning]]
 - [[Contrast Bias]]
 - [[Addiction and Dopamine]]
 - [[Overconfidence and Overoptimism]]
@@ -30,4 +31,4 @@
 - [[Ideology]]
 - [[Envy]]
 - [[First Conclusion Bias]]
--  [[Serpico Effects]]
+- [[Serpico Effects]]

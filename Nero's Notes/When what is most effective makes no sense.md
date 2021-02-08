@@ -11,7 +11,7 @@ In the business world, many of the greatest successes are based on premises that
 -   "And so I confidently predict that the great enduring fashion of the next century will be a coarse, uncomfortable fabric which fades unpleasantly and which takes ages to dry. To date, it has been largely popular with indigent laborers. (Jeans)"
 -    "And people will be forced to choose between 3 or 4 items (McDonald's)"
 -    "And best of all, the drink has a taste which consumer say they hate (RedBull)"
--     "And just watch as perfectly sane people pay $5 for a drink they can make at home for a few pence. (Starbucks)"
+-    "And just watch as perfectly sane people pay $5 for a drink they can make at home for a few pence. (Starbucks)"
 
 
 

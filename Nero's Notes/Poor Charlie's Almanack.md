@@ -4,6 +4,7 @@
 1. [[Guaranteed Prescription For Misery]]
 2. [[A Lesson on Elementary Worldly Wisdom]]
 3. [[A Lesson on Elementary, Worldly Wisdom, Revisited]]
+4. [[Practical Thought About Practical Thought]]
 
 ## Misc
 
