@@ -4,19 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c61f3e37bca2cdbe",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Shane Parrish on habits.md",
-            "mode": "preview"
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "08700ef8319e6410",
         "type": "leaf",
         "pinned": true,
@@ -67,17 +54,6 @@
             "mode": "source"
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "aa62e2341fc16fa8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mental Models from Psychology.md",
-            "mode": "source"
-          }
         }
       }
     ],
