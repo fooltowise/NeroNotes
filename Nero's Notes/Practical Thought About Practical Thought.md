@@ -102,6 +102,26 @@ And, second, there is a truly horrible lack of synthesis blending psychology and
 
 In short, academic psychology departments are immensely more important and useful than other academic departments think. And, at the same time, the psychology departments are immensely worse than most of their inhabitants think. It is, of course, normal for self-appraisal to be more positive than external appraisal. Indeed, a problem of this sort may have given you your speaker today. But the size of this psychology- department gap is preposterously large. In fact, the gap is so enormous that one very eminent university (Chicago) simply abolished its psychology department, perhaps with an undisclosed hope of later creating a better version.
 
+In such a state of affairs, many years ago and with much that was going wrong already present, the "New Coke" fiasco occurred. Therein, Coke's executives came to the brink of destroying the most valuable trademark in the world. The academically correct reaction to this immense and well-publicized fiasco would have been the sort of reaction Boeing would display if three of its new airplanes crashed in a single week. After all, product integrity is involved in each case, and the plain educational failure was immense.
+
+But almost no such responsible, Boeing-like reaction has come from academia. Instead, academia, by and large, continues in its balkanized way to tolerate psychology professors who misteach psychology, non-psychology professors who fail to consider psychological effects obviously crucial in their subject matter, and professional schools that carefully preserve psychological ignorance coming in with each entering class and are proud of their inadequacies.
+
+Even though this regrettable blindness and lassitude is now the normal academic result, are there exceptions providing hope that disgraceful shortcomings of the education establishment will eventually be corrected? Here, my answer is a very optimistic yes.
+
+For instance, consider the recent behavior of the economics department of the University of Chicago. Over the last decade, this department has enjoyed a near monopoly of the Nobel prizes in economics, largely by getting good predictions out of "free market" models postulating man's rationality. And what is the reaction of this department after winning so steadily with its rational-man approach?
+
+Well, it has just invited into a precious slot amid its company of greats a wise and witty Cornell economist, Richard Thaler. And it has done this because Thaler pokes fun at much that is holy at the University of Chicago. Indeed, Thaler believes, with me, that people are often massively irrational in ways predicted by psychology that must be taken into account in microeconomics.
+
+In so behaving, the University of Chicago is imitating Darwin, who spent much of his long life thinking in reverse as he tried to disprove his own hardest-won and best-loved  ideas. And so long as there are parts of academia that keep alive its best values by thinking in reverse like Darwin, we can confidently expect that silly educational practices will eventually be replaced by better ones, exactly as Carl Jacobi might have predicted.
+
+This will happen because the Darwinian approach, with its habitual objectivity taken on as a sort of hair shirt, is a mighty approach, indeed. No less a figure than Einstein said that one of the four causes of his achievement was self criticism, ranking right up there alongside curiosity, concentration, and perseverance.
+
+And, to further appreciate the power of self-criticism, consider where lies the grave of that very "ungifted" undergraduate, Charles Darwin. It is in Westminster Abbey, right next to he headstone of Isaac Newton, perhaps the most gifted student who ever lived, honored on that headstone in eight Latin words constituting the most eloquent praise in all graveyard print : "Hic depositum est, quod mortale fuit Isaaci Newtoni" - "Here lies that which was mortal of Isaac Newton."
+
+A civilization that so places a dead Darwin will eventually develop and integrate psychology in a proper and practical fashion that greatly increases skills of all sorts. But all of us who have dollops of power and see the light should help the process along. There is a lot at stake. If, in many high places, a universal product as successful as Coca-Cola is not properly understood and explained, it can't bode well for our competency in dealing with much else that is important.
+
+Of course, those of you with fifty percent of net worth in Coca-Cola stock, occurring because you tried to so invest ten percent after thinking like I did in making my pitch to Glotz, can ignore my message about psychology as too elementary for useful transmission to you. But I am not so sure that this reaction is wise for the rest of you. The situation reminds me of the old-time Warner & Swasey ad that was a favorite of mine: "The company that needs a new machine tool, and hasn't bought it, is already paying for it."
+
 
 
 
