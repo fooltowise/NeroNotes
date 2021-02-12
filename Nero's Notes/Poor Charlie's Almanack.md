@@ -6,6 +6,8 @@
 3. [[A Lesson on Elementary, Worldly Wisdom, Revisited]]
 4. [[Practical Thought About Practical Thought]]
 5. [[The Need for More Multidisciplinary Skills from Professionals - Educational Implications]]
+6. [[Investment Practices of Leading Charitable Foundations]]
+7. [[Breakfast Meeting of the Philanthropy Roundtable]]
 
 ## Misc
 

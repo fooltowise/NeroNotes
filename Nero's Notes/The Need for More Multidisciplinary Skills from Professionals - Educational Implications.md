@@ -37,7 +37,7 @@ To find the best educational narrow-scale model, we have to look not at unthreat
 - **Like any good algebraist, he is made to think sometimes in a forward fashion and sometimes in reverse; and so he learns when to concentrate mostly on what he wants to happen and also when to concentrate mostly on avoiding what he does not want to happen.** (see [[Inversion]])
 - **His training time is allocated among subjects so as to minimize damages from his later malfunctions; and so what is most important in his performance gets the most training coverage and is raised to the highest fluency levels.**
 - **Checklist routines are always mandatory for him.**
-- **Even after original training, he is forced into a special knowledge-maintenance routine: regular use of the aircraft simulator to prevent through long disuse of skills needed to ope with rare and important problems.**
+- **Even after original training, he is forced into a special knowledge-maintenance routine: regular use of the aircraft simulator to prevent through long disuse of skills needed to cope with rare and important problems.**
 
 The need for this clearly correct six-elements system, with its large demands in a narrow-scale field where stakes are high, is rooted in the deep structure of the human mind. Therefore, we must expect that the education we need for broadscale problem solving will keep all these elements but with awesomely expanded coverage for each element. How could it be otherwise?
 
