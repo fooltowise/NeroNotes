@@ -8,6 +8,7 @@
 5. [[The Need for More Multidisciplinary Skills from Professionals - Educational Implications]]
 6. [[Investment Practices of Leading Charitable Foundations]]
 7. [[Breakfast Meeting of the Philanthropy Roundtable]]
+8. [[The Great Financial Scandal of 2003]]
 
 ## Misc
 
