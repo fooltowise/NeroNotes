@@ -124,3 +124,5 @@ Startled by the vehemence and presumption, the Great Judge Paused. Then He quiet
 
 This account is not an implied prediction about 2003. It is a work of fiction. Except in the case of Professor Galbraith, any resemblance to real persons or companies is accidental. It was written in an attempt to focus possibly useful attention on certain modern behaviors and belief systems.
 
+
+

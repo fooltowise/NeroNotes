@@ -9,6 +9,7 @@
 6. [[Investment Practices of Leading Charitable Foundations]]
 7. [[Breakfast Meeting of the Philanthropy Roundtable]]
 8. [[The Great Financial Scandal of 2003]]
+9. [[Academic Economics]]
 
 ## Misc
 

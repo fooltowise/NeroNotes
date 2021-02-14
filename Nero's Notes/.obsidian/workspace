@@ -59,10 +59,23 @@
         "id": "08f7d70cd21330c4",
         "type": "leaf",
         "active": true,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Great Financial Scandal of 2003.md",
+            "file": "Academic Economics.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "1eea920e320d6645",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mental  Models from Microeconomics.md",
             "mode": "source"
           }
         }
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Great Financial Scandal of 2003.md",
+                "file": "Academic Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Great Financial Scandal of 2003.md"
+                "file": "Academic Economics.md"
               }
             }
           }
@@ -170,15 +183,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "The Great Financial Scandal of 2003.md",
+    "Academic Economics.md",
+    "Mental  Models from Microeconomics.md",
+    "Opportunity costs.md",
+    "Opportunity cost.md",
     "Poor Charlie's Almanack.md",
+    "The Great Financial Scandal of 2003.md",
     "Great Businesses to Study.md",
     "Breakfast Meeting of the Philanthropy Roundtable.md",
     "Investment Practices of Leading Charitable Foundations.md",
-    "The Need for More Multidisciplinary Skills from Professionals - Educational Implications.md",
-    "A Lesson on Elementary Worldly Wisdom.md",
-    "A Lesson on Elementary, Worldly Wisdom, Revisited.md",
-    "2021 Resolutions.md",
-    "The Investing Playing Field.md"
+    "The Need for More Multidisciplinary Skills from Professionals - Educational Implications.md"
   ]
 }

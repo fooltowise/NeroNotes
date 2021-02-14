@@ -1,0 +1,67 @@
+# Academic Economics: Strengths and Faults after Considering Interdisciplinary Needs
+
+## Herb Kay Undergraduate Lecture
+## University of California, Santa Barbara
+### Economics Department, October 3, 2003
+
+I have outlined some remarks in a rough way, and after I'm finished talking from that outline, I'll take questions as long as anybody can endure listening, until they drag me away to wherever I'm supposed to go. As you might guess, I agreed to do this because the subject of getting the soft sciences so they talk better to each other has been one that has interested me for decades. And, of course, economics is, in many respects, the queen of soft sciences. 
+
+It's my view that economics is better at the multidisciplinary stuff than the rest of the soft sciences. And it's also my view that it's still lousy, and I'd like to discuss this failure in this talk.
+
+As I talk about strengths and weaknesses in academic economics, one interesting fact you are entitled to know is that I never took a course in economics. And with this striking lack of credentials, you may wonder why I have the chutzpah to be up here giving this talk. The answer is I have a black belt in Chutzpah. I was born with it. Some people, like some of the women I know, have a black belt in spending. they were born with that. But what they gave me was a black belt in chutzpah.
+
+But, I come from two peculiar strands of experience that may have given me some useful economic insights. One is Berkshire Hathaway, and the other is my personal educational history. Berkshire, of course, has finally gotten interesting. When Warren took over Berkshire, the market capitalization was about $10 million. And forty-something years later, there are not many more shares outstanding now that there were then, and the market capitalization is about a $100 billion, then thousand for one. And since that has happened, year after year, in kind of a grind-ahead fashion with very few failures, it eventually drew some attention, indicating that maybe Warren and I knew something useful in microeconomics.
+
+For a long time there was a Nobel Prize-winning economics who explained Berkshire Hathaway's success as follows: 
+
+First, he said Berkshire beat the market in common stock investing through one sigma of luck because nobody could beat the market except by luck. This hard-form version of efficient market theory was taught in most schools of economics at the time. People were taught that nobody could beat the market. Next, the professor went to two sigmas, and three sigmas, and four sigmas, and when he finally got to six sigmas of luck, people were laughing so hard he stopped doing it.
+
+Then, he reversed the explanation 180 degrees. He said, "No, it was still six sigmas , but it was six sigmas of skill." Well, this very sad history demonstrates the truth of Benjamin Franklin's observation in *Poor Richard's Almanack*, "If you would persuade, appeal to interest and not to reason." The man changed his silly view when his incentives made him change it not before.
+
+I watched the same thing happen at the Jules Stein Eye Institute at UCLA. I asked, at one point, "Why are you treating cataracts only with a totally obsolete cataract operation?" And the man said to me, "Charlie, it's such a wonderful operation to teach." When he stopped using that operation, it was because almost all the patients had voted with their fee. Again, appeal to interest and not to reason if you want to change conclusions.
+
+Well, Berkshire's whole record has been achieved without paying one ounce of attention to the efficient market theory in its hard form. And not one ounce of attention to the descendants of that idea, which came out of academic economics and went into corporate finance and morphed into such obscenities as the capital asset pricing model, which we also paid no attention to. I think you'd have to believe in the tooth fairy to believe that you could easily outperform the market by seven percentage points per annum by investing in high-volatility stocks.
+
+
+Yet, believe it or not, like the Jules Stein doctor, people once believed this stuff. And the belief was rewarded. And it spread. And many people still believe it. But Berkshire never paid any attention to it. And now, I think the world is coming our way, and the idea of perfection in all market outcomes is going the way of the dodo.
+
+It was always clear to me that the stock market couldn't be perfectly efficient, because, as a teenager, I'd been to the racetrack in Omaha where they had the pari-mutuel system. And it was quite obvious to me that if the house take, the croupier's take, was seventeen percent, some people consistently lost a lot less than seventeen percent of all their bets, and other people consistently lost more than seventeen percent of all their bets. So the pari-mutuel system in Omaha had no perfect efficiency. And so I didn't accept the argument that the stock market was always perfectly efficient in creating rational prices.
+
+
+Indeed , there have been some documented cases since of people so good at understanding horses and odds that they actually are able to beat the house in off-track betting. There aren't many people who can do that, but there are a few people in America who can.
+
+Next, my personal education history is interesting because its deficiencies and my peculiarities eventually created advantages. For some odd reason, I had an early and extreme multidisciplinary cast of mind. I couldn't stand reaching for a small idea in my own discipline when there was a big idea right over the fence in somebody else's discipline. So I just grabbed in all directions for the big ideas that would really work. Nobody taught me to do that; I was just born with that yen.
+
+I also was born with a huge craving for synthesis. And when it didn't come easily, which was often, I would rag the problem, and then when I failed, I would put it aside, and I'd come back to it and rag it again. It took me twenty years to figure out how and why cult conversion methods worked. But the psychology departments haven't figured it out yet, so I'm ahead of them.
+
+But anyway, I have this tendency to want to rag the problems. Because WWII caught me, I drifted into some physics, and the Air Corps sent me to Caltech, where I did a little more physics as part of being made into a meteorologist. And there, at a very young age, I absorbed what I call the fundamental full attribution ethos of hard science. And that was enormously useful to me. Let me explain that ethos.
+
+**Under this ethos, you've got to know all the big ideas in all the disciplines more fundamental than your own. You can never make any explanation that can be made in a more fundamental way in any other way than the most fundamental way. And you always take with full attribution to the most fundamental ideas that you are required to use.** When you're using physics, you say you're using physics. When you're using biology, you say you're using biology. And so on and on. 
+
+I could early see that that ethos would act as a fine organizing system for my thought. And I strongly suspected that it would work really well in the soft sciences as well as the hard sciences, so I just grabbed it and used it all through my life in soft science as well as hard science. That was a very lucky idea for me.
+
+Let me explain how extreme that ethos is in hard science. There is a constant, one of the fundamental constants in physics, known as Boltzmann's constant. You probably all know it very well. And the interesting thing about Boltzmann's constant is that Boltzmann didn't discover it. So why is Boltzmann's constant now named for Boltzmann? Well, the answer is  that Boltzmann derived that constant from basic physics in a more fundamental way than the poor forgotten fellow who found the constant in the first place in a less fundamental way. The ethos of hard science is so strong in favor of reductionism to the more fundamental body of knowledge that you an wash the discoverer right out of history when somebody else handles his discovery in a more fundamental way. I think that is correct. I think Boltzmann's constant should be named for Boltzmann.
+
+At any rate, in my history and Berkshire's history, Berkshire went on and on into considerable economic success while ignoring the hard-form efficient markets doctrine once very popular in academic economics and ignoring the descendants of that doctrine in corporate finance where the results became even sillier than they were in economics. This naturally encouraged me.
+
+Finally, with my peculiar history, I'm also bold enough to be here today because, at least when I was young, I wasn't a total klutz. For one year at the Harvard Law School, I was ranked second in a very large group, and I always figured that, while there were always a lot of people much smarter than I was, I didn't have to hang back totally in the thinking game.
+
+Let me begin by discussing the obvious strengths of academic economics. The first obvious strength, and this is true of a lot of places that get repute, is that it was in the right place at the right time. Two hundred years ago, aided by the growth of technology and the growth of other developments in the civilization, the real output per capital of the civilized world started going up at about two percent per annum, compounded. And before that, for the previous thousands of years, it had gone up at a rate that hovered just a hair's breadth above zero. And, of course, economics grew up amid this huge success. Partly it helped the success, and partly it explained it. 
+
+So, naturally, academic economics grew. And, lately, with the collapse of all the communist economies, as the free market economies or partially free market economies flourished, that added to the reputation of economics. Economics has been a very favorable place to be if you're in academia.
+
+Economics was always more multidisciplinary than the rest of soft science. It just reached out and grabbed things as it needed to. And that tendency to just grab whatever you need from the rest of knowledge if you're a economist has reached a fairly high point in N. Gregory Mankiw's new textbook. 
+
+I checked out that textbook. I must have been one of the few businessmen in America that bough it immediately when it came out because it had gotten such a big advance. I wanted to figure out what the guy was doing where he could get an advance that great. So this is how I happened to riffle through Mankiw's freshman textbook. 
+
+And there I found laid out as principles of economics: [[Opportunity costs]] is a superpower, to be used by all people who have any hope of getting the right answer. Also, [[Incentives]] are superpowers.
+
+And, lastly, the [[Tragedy of the Commons]] model, popularized by my longtime friend, UCSB's Garrett Hardin. Hardin caused the delightful introduction into economics - alongside Smith's beneficent invisible hand - of Hardin's wicked evildoing invisible foot. Well, I thought that the Hardin model made economics more complete, and I knew when Hardin introduced me to this model, the tragedy of the commons, that it would be in the economics textbook eventually. And, lo and behold, it finally made it about twenty years later.  And that's right for Mankiw to reach out into other disciplines and grab Hardin's model and anything else that works well.
+
+Another thing that helped economics is that, from the beginning, it attracted the best brains in soft science. Its denizens also interacted more with the practical world than was at all common in soft science and the rest of academia, and that resulted in very creditable outcomes like the three cabinet appointments of economics PhD George Shultz and the cabinet appointment of Larry Summers. So this has been a very favored part of academia.
+
+Also, economics early on attracted some of the best writers of language in the history of Earth. You start out with Adam Smith. Adam Smith was so good a thinker and so good a writer that, in his own time, Emmanuel Kant, then the greatest intellectual in Germany, simply announced that there was nobody in Germany to equal Adam Smith. Well, Voltaire, being an even pithier speaker than Kant, which wouldn't be that hard, immediately said, "Oh well, France doesn't have anybody who can even be compared to Adam Smith." So economics started with some very great men and great writers.
+
+And then, there have been later great writers like John Maynard Keynes, whom i quote all the time and who has added a great amount of illumination to my life. And finally, even in the present era, if you take Paul Krugman and read his essays, you will be impressed by his fluency. I can't stand his politics; I'm on the other side. But I love this man's essays. I think Paul Krugman is one of the best essayists alive. And so, economics has constantly attracted these fabulous writers. And they are so good that they have this enormous influence far outside their economic discipline, and that's very uncommon in other academic departments.
+
+Okay, now it's time to extend criticism instead of praise. We've recognized that economics is better than other soft science academic departments in many ways. And one of the glories of civilization. Now it's only fair that we outline a few things that are wrong with academic economics.
