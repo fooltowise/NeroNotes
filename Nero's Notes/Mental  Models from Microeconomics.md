@@ -8,3 +8,5 @@
 - [[Tragedy of the Commons]]
 - [[Opportunity costs]]
 - [[Incentives]]
+- [[Comparative Advantage]]
+- [[Pin Factory]]
