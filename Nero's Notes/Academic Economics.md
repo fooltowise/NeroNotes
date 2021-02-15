@@ -268,3 +268,116 @@ Well, there's no such profit in making truck trailers. He closed his plant and m
 Are the Latinos who were peopling his plant in Texas intrinsically dishonest or bad compared to the Mormons? No. It's just that the incentive structure that so rewards all this fraud is put in place by these ignorant legislatures, many members of which have been to law school, and they just don't think about what terrible things they're doing to the civilization because they don't take into account the second-order and the third-order effects in lying and cheating. So, this happens everywhere, and when economics is full of it, it is just like the rest of life.
 
 
+There was a wonderful example of gaming a human system in the career of Victor Niederhoffer in the Economics Department of Harvard. Victor Niederhoffer was the son of a police lieutenant, and he needed to get A's at Harvard. But he didn't want to do any serious work at Harvard because what he really liked doing was, one, playing world-class checkers; two, gambling in high-stakes card games, at which he was very good, all hours of the day and night; three, being the squash champion of the United States, which he was for years; and, four, being about as good as tennis player as a part-time tennis player could be.
+
+This does not leave much time for getting A's at Harvard, so he went into the Economics Department. You'd think he would have chosen French Poetry. But remember, this was a guy who could play championship checkers. He thought he was up to outsmarting the Harvard Economics Department. And he was. 
+
+He noticed that the graduate students did most of the boring work that would otherwise go to the professors, and he noticed that because it was so hard to get to be a graduate student at Harvard, they were all very brilliant and organized and hardworking, as well as much needed by grateful professors.
+
+And, therefore, by custom, and as would be predicted from the psychological force called "reciprocity tendency," in a really advanced graduate course, the professors always gave an A. So Victor Niederhoffer signed up for nothing but the most advanced graduate courses in the Harvard Economics Department, and, of course, he got A, after A, after A, after A, and was hardly even near a class. And, for a while, some people at Harvard may have thought it had a new prodigy on its hands. That's a ridiculous story, but the scheme will work still. And Niederhoffer is famous: they call his style "Niederhoffering the curriculum."
+
+This shows how all human systems are gamed. Another example of not thinking through the consequences of the consequences is the standard reaction in economics to Ricardo's law of comparative advantage giving benefit on both sides of trade. 
+
+Ricardo came up with a wonderful, non-obvious explanation that was so powerful that people were charmed with it, and they still are because it's a very useful idea. Everybody in economics understands that comparative advantage is a big deal when one considers first-order advantages in trade from the Ricardo effect. But suppose you've got a very talented ethnic group, like the Chinese, and they're very poor and backward, and you're an advanced nation, and you create free trade with China, and it goes on for a long time.
+
+Now let's follow second- and third-order consequences. You are more prosperous than you would have been if you hadn't traded with China in terms of average well-being in the United States, right? Ricardo proved it. But which nation is going to be growing faster in economic terms? It's obviously China. They're absorbing all the modern technology of the world through this great facilitator in free trade, and, like the Asian Tigers have proved, they will get ahead fast. Look at Hong Kong. Look at Taiwan. Look at early Japan.
+
+So, you start in a place where you've got a weak nation of backward peasants, a billion and a quarter of them, and, in the end, they're going to be a much bigger, stronger nation than you are, maybe even having more and better atomic bombs. Well, Ricardo did not prove that that's a wonderful outcome for the former leading nation. He didn't try to determine second-order and higher-order effects.
+
+The best answer I ever got on that subject - in three tries - was from George Shultz. He said, "Charlie, the way I figure it is if we stop trading with China, the other advanced nations will do it anyway, and we wouldn't stop the ascent of China compared to us, and we'd lose the Ricardo-diagnosed advantages of trade." Which is obviously correct. And I said, "George, you've just invented a new form of tragedy of the commons. You're locked in this system, and you can't fix it. You're going to go to a tragic hell in a handbasket, if going to hell involves being once the great leader of the world and finally going to the shallows in terms of leadership." And he said, "Charlie, I do not want to think about this." I think he's wise. He's even older than I am, and maybe I should learn from him.
+
+## 8. Not enough attention to the concept of Febezzlement
+
+Okay, I'm now down to my eighth objection: too little attention within economics to the simplest and most fundamental idea of algebra. Now, this sounds outrageous, that economics doesn't do algebra, right?
+
+Well, I want to try an example . I may be wrong on this. I'm old and I'm iconoclastic - but I throw it out anyway. I say that economics doesn't pay enough attention to the concept of febezzlement. And that I derive from Galbraith's idea. Galbraith's idea was that, if you have an undisclosed embezzlement, it has a wonderful Keynesian stimulating effect on the economy because the guy who's been embezzled thinks he is as rich as he always was and spends accordingly, and the guy who has stolen the money gets all this new purchasing power.
+
+I think that's correct analysis on Galbraith's part. The trouble with his notion is that he's described a minor phenomenon. Because when the embezzlement is discovered, as it almost surely will be, the effect will quickly reverse. So the effect quickly cancels out.
+
+But suppose you paid a lot of attention to algebra, which I guess Galbraith didn't, and you think, "Well, the fundamental principle of algebra is 'If A is equal to B and B is equal to C, then A is equal to C.'" You've then got a fundamental principle that demands that you look for functional equivalents, all you can find. So suppose you ask the question, "Is there such a thing in economics as a febezzlement?" 
+
+By the way, Galbraith invented the word "bezzle" to describe the amount of undisclosed embezzlement, so I invented the word "febezzlement": the functional equivalent of embezzlement.
+
+This happened after I asked the question, "Is there a functional equivalent of embezzlement?" I cam up with a lot of wonderful, affirmative answers. Some were in investment management. After all, I'm near investment management.  I considered the billions of dollars totally wasted in the course of investing common stock portfolios for American owners. 
+
+As long as the market keeps going up, the guy who's wasting all this money doesn't feel it because he's looking at these steadily rising values. And to the guy who is getting the money for investment advice, the money looks like well-earned income when he's really selling detriment for money, surely the functional equivalent of undisclosed embezzlement. You can see why I don't get invited to many lectures.
+
+So I say, if you look in the economy for febezzlement, the functional equivalent of embezzlement, you'll find some enormously powerful factors. They create some wealth effect that is on steroids compared to the old wealth effect. But practically nobody thinks as I do, and I quitclaim my idea to any hungry graduate student who has independent means, which he will need before his thesis topic is approved.
+
+
+## 9. Not enough attention to virtue and vice effects
+
+Okay, my ninth objection: not enough attention to virtue and vice effects in economics. It has been plain to me since early life that there are enormous virtue effects in economics and also enormous vice effects. But economists get very uncomfortable when you talk about virtue and vice. It doesn't lend itself to a lot of columns and numbers. But, I would argue that there are big virtue effects in economics.
+
+I would say that the spreading of double-entry bookkeeping by the monk, Fra Luca de Pacioli, was a big virtue effect in economics. It made business more controllable, and it made it more honest. Then, the cash register. The cash register did more for human morality than the Congregational Church. It was a really powerful phenomenon to make an economic system work better, just as, in reverse, a system that can be easily defrauded ruins a civilization. A system that's very hard to defraud, like a cash-register-based system, helps the economic performance of a civilization by reducing vice, but very few people within economics talk about it in those terms.
+
+
+I'll go further: I say economic systems work better when there's an extreme reliability ethos. And traditional way to get a reliability ethos, at least in past generations in America, was through [[Religion]]. The religions instilled guilt. We have a charming Irish Catholic priest in our neighborhood, and he loves to say, "Those old Jews may have invented guilt, but we perfected it." And this guilt, derived from religion, has been a huge driver of a reliability ethos, which has been very helpful to economic outcomes for man.
+
+Many bad effects from vice are clear. You've got the crazy booms and crooked promotions - all you have to do is read the paper over the last six months. There's enough vice to make us all choke. And, by the way, everybody's angry about unfair compensation at the top of American corporations, and people should be. 
+
+We now face various crazy governance nostrums invented by lawyers and professors that won't give us a fix for unfair compensation, yet a good partial solution is obvious: if directors were significant shareholders who got a pay of zero, you'd be amazed what would happen to unfair compensation of corporate executives as we dampened effects from [[Reciprocity]] tendency.
+
+A roughly similar equivalent of this no-pay system has been tried in a strange place. In England, lay magistrates staff the lower criminal courts, which can send you to prison for a year or fine you substantially. You've got three judges sitting up there, and they all get a pay of zero. Their expenses are reimbursed, but not too liberally. And they work about forty half-days a year, as volunteers. It's worked beautifully for about seven hundred years. Able and honest people compete to become magistrates, to perform the duty and get the significance, but not pay.
+
+
+This is the system Benjamin Franklin, near the end of his life, wanted for the U.S. government. He didn't want the high executives of government to be paid, but to be like himself or the entirely unpaid, well-off ministers and rulers of the Mormon Church. 
+
+And when I see what's happened in California, I'm not sure he wasn't right. At any rate, no one now drifts in Franklin's direction. For one thing, professors - and most of them need the money - get appointed directors.
+
+It is not always recognized that, to function best, morality should sometimes appear unfair, like most worldly outcomes. The craving for perfect fairness causes a lot of terrible problems in system function. Some systems should be made deliberately unfair to individuals because they'll be fairer on average for all of us. 
+
+Thus, there can be virtue in apparent non-fairness. I frequently cite the example of having your career over, in the Navy, if your ship goes aground, even if it wasn't your fault. I say the lack of justice for the one guy that wasn't at fault is way more than made up by a greater justice for everybody when every captain of a ship always sweats blood to make sure the ship doesn't go aground.
+
+Tolerating a little unfairness to some to get a greater fairness for all is a model I recommended to all of you. But again, I wouldn't put it in your assigned college work if you want to be graded well, particularly in modern law school wherein there is usually an over-love of fairness-seeking process.
+
+There are, of course, enormous vice effects in economics. You have these bubbles with so much fraud and folly. The aftermath is frequently very unpleasant, and we've had some of that lately. One of the fist big bubbles, of course, was the huge and horrible South Sea Bubble in England. And the aftermath was interesting.
+
+Many of you probably don't remember what happened after the South Sea Bubble, which caused an enormous contraction and a lot of pain. Except in certain rare cases, they banned publicly traded stock in England for decades. Parliament passed a law that said you can have a partnership with a few partners, but you can't have publicly traded stock.
+
+The people who were in the business of prospering because there's a lot of stock being traded in casino-like frenzy wouldn't like this example if they studied it enough. It didn't ruin England to have a long period when they didn't have publicly traded shares.
+
+Just as in real-estate. We had all the shopping centers and auto dealerships, and so on, we needed for years when we didn't have publicly-traded real estate shares. It's a myth that once you've got some capital market, economic considerations demand that it has to be as fast and efficient as a casino. It doesn't.
+
+Another interesting problem is raised by vice effects involving envy. Envy wisely got a very strong condemnation in the laws of Moses. You remember how they laid it on with a trowel: You couldn't covet thy neighbor's ass, you couldn't covet thy neighbor's servant girl, you couldn't covet...
+
+Those old Jews knew how envious people are and how much trouble it caused. They really laid it on hard, and they were right. But Mandeville - remember his fable of bees? He demonstrated convincingly - to me, anyway - that envy was a great driver of proclivity to spend. 
+
+And so, here's this terrible vice, which is forbidden in the Ten Commandments, and here it's driving all there favorable results in economics. There's some paradox in economics that nobody's going to get out.
+
+When I was young, everybody was excited by Gödel, who came up with proof that you couldn't have a mathematical system without a lot of irritating incompleteness in it. Well, since then, my betters tell me that they've come up with more irremovable effects in mathematics and have decided that you're never going to get mathematics without some paradox in it. No matter how hard you work, you're going to have to live with some paradox if you're a mathematician.
+
+Well, if the mathematician can't get the paradox out of their system when they're creating it themselves, the poor economists are never going to get rid of paradoxes, nor are any of the rest of us. It doesn't matter. Life is interesting with some paradox. When I run into a paradox, I think either I'm a total horse's ass to have gotten to this point, or I'm fruitfully near the edge of my discipline. It adds excitement to life to wonder which it is.
+
+As I conclude, I want to tell one more story demonstrating how awful it is to get a wrong idea from a limited repertoire and just stick to it. And this is the story of Hyman Leibowitz, who came to America from the old country. In the new country, as in the old, he tried to make his way in the family trade, which was manufacturing nails. And he struggled, and he struggled, and, finally, his little nail business got to vast prosperity, and his wife said to him, "You are old, Hyman, it's time to go to Florida and turn the business over to our son."
+
+So down he went to Florida, turning his business over to the son, but he got weekly financial reports. And he hadn't been in Florida very long before they turned sharply negative. In fact, they were terrible. So he got on an airplane, and he went back to New Jersey where the factory was. As he left the airport on the way to the factory, he saw this enormous outdoor advertising sign lighted up. And there was Jesus, spread out on the cross. And under it was a big legend, "They used Leibowitz's nails." So he stormed into the factory and said, "You dumb son! What do you think you're doing? It took me fifty years to create this business!" "Papa," he said, "trust me, I will fix it."
+
+So back he went to Florida, and while he was in Florida, he got more reports, and the results kept getting worse. So he got on the airplane again. Left the airport, drove by the sign, looked up at this big lighted sign, and now there's a vacant cross. And, lo and behold, Jesus is crumpled on the ground under the cross, and the sign said, "They didn't use Leibowitz's nails."
+
+
+Well, you can laugh at that. It is ridiculous, but it's no more ridiculous than the way 
+a lot of people cling to failed ideas. Keynes said, "It's not bringing in the new ideas that's so hard. It's getting rid of the old ones." And Einstein said it better, attributing his mental success to *curiosity, concentration, perseverance, and self criticism.* By self-criticism, he meant becoming good at destroying your own best-loved and hardest-won ideas. If you can get really good at destroying your own wrong ideas, that is a great gift.
+
+Well, it's time to repeat the big lesson in this little talk. What I've urged is the use of a bigger multidisciplinary bag of tricks, mastered to fluency, to help economics and everything else. And I also urged that people not be discouraged by irremovable complexity and paradox. It just adds more fun to the problems. My inspiration again is Keynes: Better roughly right than precisely wrong.
+
+And so, I end by repeating what I said once before on a similar occasion. If you skillfully follow the multidisciplinary path, you will never wish to come back. It would be like cutting off your hands.
+
+Well, that's the end. I'll take questions as long as people can endure me.
+
+Male: ... financial destruction from trading of derivatives contracts. Buffett said that the genie's out of the bottle and the hangover may be proportionate to the binge. Would you speculate for us how that scenario can play out? (The question was garbled, but the person asked about derivatives, which Buffett has called financial weapons of mass destruction.)
+
+Munger: Well, of course, catastrophe predictions have always been quite difficult to make with success. But I confidently predict that there are big troubles to come. The system is almost insanely irresponsible. And what people think are fixes aren't really fixes. It's so complicated I can't do it justice here - but you can't believe the complexity. You can't believe how difficult it is to do the accounting. You can't believe how big the incentives are to have wishful thinking about values and wishful thinking about ability to clear.
+
+Running off a derivative book is agony and takes time. And you saw what happened when they tried to run off the derivative books at Enron. Its certified net worth vanished. In the derivative books of America, there are a lot of reported profits that were never earned and assets that never existed.
+
+And there are large febezzlement effects and some ordinary embezzlement effects that come form derivative activity. And the reversal of these is going to cause pain. How big the pain will be and how well it will be handled, I can't tell you. But you would be disgusted if you had a fair mind and spent  a month really delving into a big derivative operation. You would think it was Lewis Carroll. You would think it was the Mad Hatter Tea Party.
+
+And the false precision of these people is just unbelievable. They make the worst economics professors look like gods. moreover, there is depravity augmenting the folly. Read the book F.I.A.S.C.O, by law professor and former derivatives trader Frank Partnoy, an insider account of depravity in derivatives trading at one of the biggest and best-regarded Wall Street Firms. The book will turn your stomach.
+
+Rajneesh Mehta: We'll take one more question. There's a class outside that has also to come in. So one more question.
+
+Male: Could you describe Warren's reaction to the advice about the negative reaction that he got from musing about defects of California's Prop Thirteen? Was he shocked, surprised?
+
+Munger: It's hard to shock Warren. he's past seventy, he's seen a lot. And his brain works quickly. He generally avoid certain subjects before elections; and that is what I am going to do here.
+
