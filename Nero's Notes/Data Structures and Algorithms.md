@@ -16,3 +16,4 @@
 - [[Searching]]
 - [[Sorting]]
 - [[Recursion]]
+- [[Dynamic Programming]]

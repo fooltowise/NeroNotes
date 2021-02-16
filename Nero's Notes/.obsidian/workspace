@@ -43,22 +43,8 @@
         }
       },
       {
-        "id": "2db6567bfd797439",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Practical Thought About Practical Thought.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "08f7d70cd21330c4",
         "type": "leaf",
-        "active": true,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -70,12 +56,26 @@
         }
       },
       {
-        "id": "149f57d8ef93ba24",
+        "id": "6d8260a38ebef592",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources of investment edge.md",
+            "file": "Dynamic Programming.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "c4d975ebd5d7d1e8",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "USC Gould School of Law Commencement Address.md",
             "mode": "source"
           }
         }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic Economics.md",
+                "file": "USC Gould School of Law Commencement Address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic Economics.md"
+                "file": "USC Gould School of Law Commencement Address.md"
               }
             }
           }
@@ -183,15 +183,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "USC Gould School of Law Commencement Address.md",
+    "Poor Charlie's Almanack.md",
+    "Dynamic Programming.md",
+    "Data Structures and Algorithms.md",
     "Academic Economics.md",
     "Reciprocity.md",
     "How to build a moat around an investment process.md",
     "Sources of investment edge.md",
     "Mental  Models from Microeconomics.md",
-    "Opportunity costs.md",
-    "Opportunity cost.md",
-    "Poor Charlie's Almanack.md",
-    "The Great Financial Scandal of 2003.md",
-    "Great Businesses to Study.md"
+    "Opportunity costs.md"
   ]
 }
