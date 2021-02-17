@@ -71,3 +71,88 @@ There is a warning example I use whenever I feel threatened by drift towards int
 I have what I call an "iron prescription" that helps me keep sane when I drift toward preferring one intense ideology over another. I feel that I'm not entitled to have an opinion unless I can state the arguments against my position better than the people who are in opposition. I think that I am qualified to speak only when I've reached  that state. This sounds almost as extreme as the "iron prescription" Dean Acheson was fond of attributing to William the Silent of Orange, who roughly said, "It's not necessary to hope in order to persevere."
 
 That probably is too tough for most people, although I hope it won't ever become too tough for me. My way of avoiding over-intensity in ideology is easier than Acheson's injunction and worth learning. This business of not drifting into extreme ideology is very, very important in life. If you want to end up wise, heavy ideology is very likely to prevent that outcome.
+
+Another thing that often causes folly and ruin is the [[Self Serving Bias]], often subconscious, to which we're all subject. You think that "true little me" is entitled to do what it wants to do. For instance, why shouldn't the true little me get what it wants by overspending its income? Well, there once was a man who became the most famous composer in the world. But he was utterly miserable most of the time. And one of the reasons was that he always overspent his income. That was Mozart. If Mozart couldn't get by with this kind of asinine conduct, I don't think you should try it.
+
+Generally speaking, envy, resentment, revenge and self-pity are disastrous modes of thought. Self-pity can get pretty close to paranoia. And paranoia is one of the very hardest things to reverse. You do not want to drift into self-pity. I had a friend  who carried a thick stack of linen-based cards. And when somebody would make a comment that reflected self-pity, he would slowly and portentously pull out his huge stack of cards, take the top one and hand it to the person. The card said "Your story has touched my heard. Never have I heard of anyone with as many misfortunes as you." 
+
+Well, you can say that's waggery, but I suggest it can be mental hygiene. Every time you find you're drifting into self-pity, whatever the cause, even if your child is dying of cancer, self-pity is not going to help. Just give yourself one of my friends' cards. Self-pity is always counterproductive. It's the wrong way to think. 
+
+**And when you avoid it, you get a great advantage over everybody else, or almost everybody else, because self-pity is a standard response. And you can train yourself out of it.**
+
+Of course you also want to get self-serving bias out of your mental routines. Thinking that what's good for you is good for the wider civilization, and rationalizing foolish or evil conduct, based on your subconscious tendency to serve yourself, is a terrible way to think.
+
+And you want to drive that out of yourself because you want to be wise not foolish, and good not evil. You also have to allow, in your own cognition and conduct, for the self-serving bias of everybody else, because most people are not going to be very successful at removing such bias, the human condition being what it is. If you don't allow for self-serving bias in the conduct of others, you are, again, a fool.
+
+I watched this brilliant and worthy Harvard Law Review-trained general counsel of Salomon Brothers lose his career there. When the able CEO was told that an underling had done something wrong, the general counsel said, "Gee, we don't have any legal duty to report this, but I think it's what we should do. It's our moral duty." 
+
+The general counsel was technically and morally correct. But his approach didn't persuade. He recommended a very unpleasant thing for the busy CEO to do and the CEO, quite understandably, put the issue off, and put it off, and not with any intent to do wrong. In due course, when powerful regulators resented not having been promptly informed, down went the CEO and the general counsel with him.
+
+The correct persuasive technique in situations like that was given by Ben Franklin. He said, **"If you would persuade, appeal to interest, not to reason."** The self-serving bias of man is extreme and should have been used in attaining the correct outcome. So the general counsel should have said, "Look, this is likely to erupt into something that will destroy you, take away your money, take away your status, grossly impair your reputation. My recommendation will prevent a likely disaster from which you can't recover." That approach would have worked. You should often appeal to interest, not to reason, even when your motives are lofty.
+
+Another thing to avoid is being subjected to perverse incentives. You don't want to be in a perverse incentive system that's rewarding you if you behave more and more foolishly, or worse and worse. Perverse incentives are so powerful as controllers of human cognition and human behavior that one should avoid their influence.
+And one of the things you're going to find in at least a few modern law firms is high billable-hour quotas. I could not have lived under billable-hour quotas of 2'400 hours a year. That would have caused too many problems for me. I woulnd't have done it. I don't have a solution for the situation some of you will face. You'll have to figure out for yourselves how to handle such significant problems.
+
+Perverse associations are also to be avoided. You particularly want to avoid working directly under somebody you don't admire and don't want to be like. It's dangerous. We're all subject to control to some extent by authority figures, particularly authority figures who are rewarding us. Dealing properly with this danger requires both some talent and will. I coped in my time by identifying people I admired and by maneuvering, mostly without criticizing anybody, so that I was usually working under the right sort of people. A lot of law firms will permit that if you're shrewd enough to work it out with some tact. Generally, your outcome in life will be more satisfactory if you work under people you correctly admire.
+
+Engaging in routines that allow you to maintain are, of course, very helpful to cognition. We all remember that Darwin paid special attention to disconfirming evidence, particularly when it disconfirmed something he believed and loved. Routines like that are required if a life is to maximize correct thinking. And one also needs checklist routines. They prevent a lot of errors, and not just for pilots. You should not only possess wide-ranging elementary wisdom but also go through mental checklist routines in using it. There is no other procedure that will work as well.
+
+Another idea that I found important is that maximizing non-egality will often work wonders. What do I mean? Well, John Wooden of UCLA presented an instructive example when he was the number one basketball coach in the world. He said to the bottom 5 players "You don't get to play - you are practice partners." The top seven did almost all the playing. 
+
+Well, the top seven learned more - remember the importance of the learning machine - because they were doing all the playing. And when he adopted that non-egalitarian system, Wooden won more games than he had won before.
+
+I think the game of competitive life often requires maximizing the experience of the people who have the most aptitude and the most determination as learning machines. And if you want the very highest reaches of human achievement, that's where you have to go. You do not have to choose a brain surgeon for you child by drawing straws to select one of fifty applicants, all of whom take turns doing procedures. You don't want your airplanes designed in too egalitarian a fashion. You don't want your Berkshire Hathaway run that way either. You want to provide a lot of playing time for your players.
+
+I frequently tell the apocryphal story about how Max Planck, after he won the Nobel Prize, went around Germany giving a same standard lecture on the new quantum mechanics. Over time, his chauffeur memorized the lecture and said, "Would you mind, Professor Planck, because it's so boring to stay in our routine, if I gave the lecture in Munich and you just sat in front wearing my chauffeur's hat?" Planck said, "Why not?" And the chauffeur got up and gave this long lecture on quantum mechanics. After which a physics professor stood up and asked a perfectly ghastly question. The speaker said, "Well, I'm surprised that in an advanced city like Munich I get such an elementary question. I'm going to ask my chauffeur to reply."
+
+Well, the reason I tell that story is not to celebrate the quick wittedness of the protagonist. In this world I think we have two kinds of knowledge: One is Planck knowledge, that of the people who really know. They've paid the dues, they have the aptitudes. Then we've got chauffeur knowledge. They have learned to prattle the talk. They may have a big head of hair. They often have fine timbre in their voices. They make a big impression. But in the end what they've got is chauffeur knowledge masquerading as real knowledge.
+
+I think I've just described practically every politician in the United States. You're going to have the problem in your life of getting as much responsibility as you can into the people with the Planck knowledge and away from the people who have the chauffeur knowledge. And there are huge forces working against you.
+
+
+My generation has failed you to some extent. More and more, we're delivering to you in California a legislature in which mostly the certified nuts from the left, and the certified nuts from the right, are the ones allowed to serve. And none of them are removable. And none of them are removable. That's what my generation has done for you. But, you wouldn't like it to be too easy, would you?
+
+Another thing that I have found is that intense interest in any subject is indispensable if you're really going to excel in it. I could force myself to be fairly good in a lot of things, but I couldn't excel in anything in which I didn't have an intense interest. So to some extent you're going to have to do as I did. If at all feasible, you want to maneuver yourself into doing something in which you have an intense interest.
+
+Another thing you have to do is have a lot of assiduity. I like that word because to me it means: "Sit down on your ass until you do it." I've had marvelous partners, full of assiduity, all of my life. I think I got them because I tried to deserve them and partly because I was shrewd enough to select them, and partly there was some luck. 
+
+Two partners that I chose for one phase of my life made the following simple agreement when they created a little design/build construction team in the middle of the great depression: "Two-man partnership," they said, "and divide everything equally. And, whenever you're behind in our commitments to other people, we will both work fourteen hours a day, seven days a week, until we're caught up."
+
+Well, needless to say, they didn't fail. And my partners were widely admired. Simple, old-fashioned ideas like theirs are almost sure to provide a good outcome.
+
+Another thing to cope with is that life is very likely to provide terrible blows, unfair blows. Some people recover, and others don't. And there I think the attitude of Epictetus helps guide one to the right direction.
+
+He thought that every mischance in life, however bad, created an opportunity to behave well. He believed every mischance provided an opportunity to learn something useful. And one's duty was not to become immersed in self-pity, but to utilize each terrible blow in a constructive fashion.
+
+His ideas were very sound, influencing the best of the Roman emperors, Marcus Aurelius, and many others over many centuries. And you may remember the epitaph that Epictetus made for himself: "Here lies Epictetus, a slave, maimed in body, the ultimate in poverty, and favored by the Gods."
+
+Well, that's the way Epictetus is now remembered: Favored by the Gods. He was favored because he became wise, became manly, and instructed others, both in his own time and over following centuries.
+
+I've another idea to emphasize in a brief account. My grandfather Munger was the only federal judge in his city for nearly forty years. And I admired him. I'm his namesake. And I'm Confucian enough that even now as I speak I'm thinking, "Well Judge Munger would be pleased to have me here." 
+
+All these years after my grandfather is dead, I conceive myself as duty bound to carry the torch for my grandfather's values. One such value was prudence as the servant of duty. 
+
+Grandfather Munger was a federal judge at a time when there were no pensions for widows of federal judges. So if he didn't save from his income, my grandmother would become a destitute widow. And, besides, net worth would enable him to serve others better. Being the kind of man he was, he underspent his income all his life and left his widow in comfortable circumstances.
+
+But that was not all that his prudence enabled. Along the way, in the 30s, my uncle's tiny bank failed and couldn't reopen without help. My grandfather saved the bank by exchanging over a third of his good assets for horrible bank assets. I've always remembered the event. It reminds me of Houseman's little poem that went something like this:
+
+The thoughts of others
+Were light and fleeting,
+Of lovers' meeting
+Or luck or fame.
+Mine were of trouble,
+And mine were steady,
+And I was ready 
+When trouble came.
+
+You may well say, "Who wants to go through life anticipating trouble?" Well, I did, trained as I was. I've gone through a long life anticipating trouble. And here I am now, well along in my 84th year. Like Epictetus I've had a favored life. It didn't make me unhappy to anticipate trouble all the time and be ready to perform adequately if trouble came. It didn't hurt me at all. In fact it helped me. So, I quitclaim to you Houseman and judge Munger.
+
+The last idea that I want to give to you, as you go out into a profession that frequently puts a lot of procedure and some mumbo jumbo into what it does, is the complex bureaucratic procedure does not represent the highest form civilization can reach.
+
+**One higher form is a seamless, non-bureaucratic web of deserved trust. **
+
+Not much fancy procedure, just totally reliable people correctly trusting one another. That's the way an operating room works at the Mayo clinic. 
+
+If lawyers would there introduce a lot of layer-like process, more patients would die. So never forget, when you're a lawyer, that while you may have to sell procedure, you don't always have to buy. **In you own life what you want to maximize is a seamless web of deserved trust.** And if your proposed marriage contract has 47 pages, my suggestion is that you not enter.
+
+Well, that's enough for one graduation. I hope these ruminations of an old man are useful to you. In the end, i'm speaking toward the only outcome feasible for old Valiant-for-Truth in *Pilgrim's Progress*: "My sword I leave to him who can wield it."

@@ -16,6 +16,7 @@
 - [[Bias from Authority]]
 - [[Pavlovian Association]]
 - [[Operant Conditioning]]
+- [[Self Serving Bias]]
 - [[Contrast Bias]]
 - [[Addiction and Dopamine]]
 - [[Overconfidence and Overoptimism]]
