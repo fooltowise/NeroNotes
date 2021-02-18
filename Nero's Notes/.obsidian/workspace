@@ -71,7 +71,6 @@
       {
         "id": "10164901db1dc571",
         "type": "leaf",
-        "active": true,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -85,10 +84,11 @@
       {
         "id": "78052aeee75799af",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mental Models from Psychology.md",
+            "file": "The Psychology of Human Misjudgment.md",
             "mode": "source"
           }
         }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USC Gould School of Law Commencement Address.md",
+                "file": "The Psychology of Human Misjudgment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USC Gould School of Law Commencement Address.md"
+                "file": "The Psychology of Human Misjudgment.md"
               }
             }
           }
@@ -196,15 +196,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "The Psychology of Human Misjudgment.md",
+    "Poor Charlie's Almanack.md",
     "USC Gould School of Law Commencement Address.md",
     "Mental Models from Psychology.md",
     "Dynamic Programming.md",
     "2021 Resolutions.md",
-    "Poor Charlie's Almanack.md",
     "Data Structures and Algorithms.md",
     "Academic Economics.md",
     "Reciprocity.md",
-    "How to build a moat around an investment process.md",
-    "Sources of investment edge.md"
+    "How to build a moat around an investment process.md"
   ]
 }
