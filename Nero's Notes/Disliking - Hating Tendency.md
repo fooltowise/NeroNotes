@@ -1,0 +1,13 @@
+# Disliking - Hating Tendency
+
+In a pattern obverse to the [[Liking - Loving Tendency]], the newly arrived human is also "born to dislike and hate" as triggered by normal and abnormal triggering forces in its life. It is the same with most apes and monkeys.
+
+As a result, the long history of man contains almost continuous war. For instance, most American Indian tribes warred incessantly, and some tribes would occasionally bring captives home to women so that all could going in the fun of torturing captives to death. Even with the spread of religion, and the advent of advanced civilization, much modern war remains pretty savage. But we also get what we observe in present-day Switzerland and the United States, wherein the clever political arrangements of man "channel" the hatreds and dislikings of individuals and groups into non-lethal patterns including elections.
+
+But the dislikings and hatreds never go away completely. Born into man, these driving tendencies remain strong. Thus, we get maxims like the one from England: "Politics is the art of marshaling hatreds." And we also get the extreme popularity of negative political advertising in the United States.
+
+At the family level, we often see one sibling hate is other siblings and litigate with them endlessly if he can afford it. Indeed, a wag named Buffett has repeatedly explained to me that "a major difference between rich and poor people is that the rich people can spend their lives suing their relatives." My father's law practice in Omaha was full of such intra-family hatreds. And when I got to the Harvard Law School and its professors taught me "property law" with no mention of sibling rivalry in the family business, I appraised the School as a pretty unrealistic place that wore blinders like the milk wagon horses of yore. My current guess is that sibling rivalry has not yet made it into property law as taught in Harvard.
+
+Disliking/Hating tendency also acts as a conditioning device that the disliker/hater tend to (1) ignore virtues of the object of dislike, (2) dislike people, products, and actions merely associated with the object of his dislike, and (3) distort other facts to facilitate hatred.
+
+Distortion of that kind is often so extreme that miscognition is shockingly large. When the World Trade Center was destroyed,  many Pakistani immediately concluded that the Hindus did it, while many Muslims concluded that the Jews did it. Such factual distortion often make mediation between opponents locked in hatred either difficult or impossible. Mediation between Israelis and Palestinians is difficult because facts in one side's history overlap very little with facts from the other side's.

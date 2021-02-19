@@ -56,41 +56,41 @@
         }
       },
       {
-        "id": "6d8260a38ebef592",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Dynamic Programming.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "10164901db1dc571",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "USC Gould School of Law Commencement Address.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "78052aeee75799af",
         "type": "leaf",
-        "active": true,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "The Psychology of Human Misjudgment.md",
             "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "2236a3a823df12a2",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Doubt Avoidance Tendency.md",
+            "mode": "source"
           }
+        }
+      },
+      {
+        "id": "fc5d8cf10b064612",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reward and Punishement Super-response Tendency.md",
+            "mode": "source"
+          },
+          "pinned": true
         }
       }
     ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "efficient markets",
+                "query": "patterson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Psychology of Human Misjudgment.md",
+                "file": "Doubt Avoidance Tendency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Psychology of Human Misjudgment.md"
+                "file": "Doubt Avoidance Tendency.md"
               }
             }
           }
@@ -196,15 +196,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Doubt Avoidance Tendency.md",
     "The Psychology of Human Misjudgment.md",
-    "Poor Charlie's Almanack.md",
-    "USC Gould School of Law Commencement Address.md",
-    "Mental Models from Psychology.md",
-    "Dynamic Programming.md",
-    "2021 Resolutions.md",
-    "Data Structures and Algorithms.md",
-    "Academic Economics.md",
+    "Reward and Punishement Super-response Tendency.md",
+    "Inconsistency Avoidance Tendency.md",
+    "Disliking - Hating Tendency.md",
+    "Liking - Loving Tendency.md",
+    "Superpower of Incentives.md",
     "Reciprocity.md",
-    "How to build a moat around an investment process.md"
+    "Mental Models from Psychology.md",
+    "Poor Charlie's Almanack.md"
   ]
 }

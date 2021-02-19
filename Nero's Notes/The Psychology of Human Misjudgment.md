@@ -69,3 +69,63 @@ And I found that introductory psychology texts, by and large, didn't deal approp
 Yet the complex parsing out of effects from intertwined tendencies was usually avoided by the writers of the elementary texts. Possibly the authors did not wish, through complexity, to repel entry of new devotees to their disciplines.
 
 And, possibly, the cause of their inadequacy was the one given by Samuel Johnson in response to a woman who inquired as to what accounted for his dictionary's misdefinition of the word "pastern." "Pure ignorance", Johnson replied. And, finally, the text writers showed little interest in describing standard antidotes to standard psychology-driven folly, and they thus avoided most discussion of exactly what most interested me.
+
+But academic psychology has some very important merits alongside its defects. I learned this eventually, in the course of general reading, from a book, *Influence*, aimed at popular audience, by a distinguished psychology professor, Robert Cialdini, at Arizona State, a very big university. Cialdini had made himself into a super-tenured "Regent's Professor" at a very young age by devising, describing, and explaining a vast group of clever experiments in which man manipulated man to his detriment, with all of this made possible by man's intrinsic thinking flaws.
+
+I immediately sent copies of Cialdini's book to all my children. I also gave Cialdini a share of Berkshire stock (class A)  to thank him for what he had done for me and the public. Incidentally, the sale by Cialdini of hundreds of thousands of copies of a boo about social psychology was a huge feat, considering that Cialdini didn't claim that he was going to improve your sex life or make you any money.
+
+Part of Cialdini's large book-buying audience came because, like me, it wanted to learn how to become less often tricked by salesmen and circumstances. However, as an outcome not sought by Cialdini, who is a profoundly ethical man, a huge number of his books were bought by salesmen who wanted to learn how to become more effective in misleading customers. Please remember this perverse outcome when my discussion comes to incentive-caused bias as a consequence of the superpower of incentives.
+
+With the push given by Cialdini's book, I soon skimmed through three much used textbooks covering introductory psychology. I also pondered considerably while craving synthesis and taking into account all my previous training and experience. 
+
+The result was Munger's partial summary of the non-patient-treating, non-nature-vs-nurture weighing parts of non-developmental psychology. This material was stolen form its various discoverers (most of whose names I did not even try to learn), often with new descriptions and titles selected to fit Munger's notion of what make recall easy for Munger, then revised to make Munger's use easy as he seeks to avoid errors.
+
+I will start my summary with a general observation that helps explain what follows. This observation is grounded in what we know about social insects. The limitations inherent in evolution's development of the nervous system cells that control behavior are beautifully demonstrated by these insects, which often have a mere 100'000 or so cells in their entire nervous system, compared to man's multiple billions of cells in his brain alone.
+
+Each ant, like each human, is composed of a living physical structure plus behavioral algorithm in its nerve cells. In the ant's case, the behavioral algorithms are few in number and almost entirely genetic in origin. The ants learn a little behavior from experiences, but mostly it merely responds to ten or so stimuli with a few simple responses programmed into its nervous system by its genes.
+
+Naturally, the simple ant behavior system has extreme limitations because of its limited nerve-system repertoire. For instance, one type of ant, when it smells a pheromone given off by a dead ant's body in the hive, immediately responds by cooperating with other ants in carrying the dead body out of the hive. And Harvard's great E.O. Wilson performed one of the best psychology experiments ever done when he painted dead-ant pheromone on a live ant. Quite naturally, the other ants dragged this useful live ant out of the hive even though it kicked and otherwise protested throughout the entire process. Such is the brain of the ant. It has a simple program of responses that generally work out all right, but which are imprudently used by rote in many cases.
+
+Another type of and demonstrates that the limited brain of ants can be misled by circumstances as well as by clever manipulation from other creatures. The brain of this ant contains a simple behavioral program that directs the ant, when walking, to follow the and ahead. And when these ants stumble into walking in a big circle, they sometimes walk round and round until they perish.
+
+It seems obvious, to me at least, that the human brain must often operate counter-productively just like the ant's , from unavoidable over-simplicity in its mental process, albeit usually in trying to solve problems more difficult than those faced by ants that don't have to design airplanes.
+
+The perception system of man just demonstrates just such an unfortunate outcome. man is easily fooled, either by the cleverly thought out manipulation of man, by circumstances occurring by accident, or by very effective manipulation practices that man has stumbled into during "practice evolution" and kept in place because they work so well. One such outcome is caused by a quantum effect in human perception. If stimulus is kept below a certain level, it does not get through. And, for this reason, a magician was able to make the Statue of Liberty disappear after a certain amount of magician lingo expressed in the dark. The audience was not aware that it was sitting on a platform that was rotating so slowly, below man's sensory threshold, that no one could feel the acceleration implicit in the considerable rotation. When a surrounding curtain was then opened in the place on the platform where the Statue had earlier appeared, it seemed to have disappeared.
+
+And even when perception does get through to man's brain, it is often mis-weighted, because what is registered in perception is in shockingness of apparent contrast, not the standard scientific units that make possible science and good engineering.
+
+A magician demonstrates this sort of contrast-based error in your nervous system when he removes your wristwatch without your feeling it. As he does it, he applies pressure of touch on your wrist that you would sense if it was the only pressure of touch you were experiencing. be he has concurrently applied other intense pressure of touch on your body, but not on your wrist, "swamping" the wrist pressure by creating a high-contrast touch pressure elsewhere. This high contrast takes the wrist pressure below perception.
+
+Some psychology professors like to demonstrate the inadequacy  of contrast-bases perception by having students put one hand in a bucket of hot water  and one hand in a bucket of cold water. They are suddenly asked to remove both hands and place them in a single bucket of room-temperature water. Now, with both hands in the same water, one hands feels as if it has just been put in cold water and the other hand feels as if it has just been placed in hot water. 
+
+When one thus sees perception so easily fooled by mere contrast, where a simple temperature gauge would make no error, and realizes that cognition mimics perception in being misled by mere contrast, he is well on the way toward understanding, not only how magicians fool one, but also how life will fool one. this can occur, through deliberate human manipulation or otherwise, if one doesn't take certain precautions against often-wrong effects from generally useful tendencies in his perception and cognition.
+
+Man's - often wrong but generally useful - psychological tendencies are quite numerous and quite different. The natural consequence of this profusion of tendencies is the grand general principle of social psychology: cognition is ordinarily situation-dependent so that different situations often cause different conclusions, even when the same person is thinking in the same general subject area.
+
+With this introductory instruction from ants, magicians, and the grand general principle of social psychology, I will next simply number and list psychology based tendencies that, while generally useful, often mislead. Discussion of errors from each tendency will come later, together with description of some antidotes to errors, followed by some general discussion. Here are the tendencies:
+
+1. [[Reward and Punishement Super-response Tendency]]
+2. [[Liking - Loving Tendency]]
+3. [[Disliking - Hating Tendency]]
+4. [[Doubt Avoidance Tendency]]
+5. [[Inconsistency Avoidance Tendency]]
+6. [[Curiority Tendency]]
+7. [[Kantian Fairness Tendency]]
+8. [[Envy - Jealousy Tendency]]
+9. [[Reciprocation Tendency]]
+10. [[Influence from Mere Association Tendency]]
+11. [[Pain Avoiding Psychological Denial]]
+12. [[Excessive Self Regard Tendency]]
+13. [[Overoptimism Tendency]]
+14. [[Deprival Super-reaction Syndrome]]
+15. [[Social Proof]]
+16. [[Contrast Bias]]
+17. [[Stress Influence Tendency]]
+18. [[Availability Mis-Weighing Tendency]]
+19. [[Use It Or Lose It Tendency]]
+20. [[Drug Misunfluence Tendency]]
+21. [[Senescence Misunfluence Tendency]]
+22. [[Authority Misunfluence Tendency]]
+23. [[Twaddle Tendency]]
+24. [[Reason Respecting Tendency]]
+25. [[Lollapalooza Tendency]]

@@ -1,5 +1,35 @@
 # Mental Models From Psychology
 
+## From Munger
+
+- [[Reward and Punishement Super-response Tendency]]
+- [[Liking - Loving Tendency]]
+- [[Disliking - Hating Tendency]]
+- [[Doubt Avoidance Tendency]]
+- [[Inconsistency Avoidance Tendency]]
+- [[Curiority Tendency]]
+- [[Kantian Fairness Tendency]]
+- [[Envy - Jealousy Tendency]]
+- [[Reciprocation Tendency]]
+- [[Influence from Mere Association Tendency]]
+- [[Pain Avoiding Psychological Denial]]
+- [[Excessive Self Regard Tendency]]
+- [[Overoptimism Tendency]]
+- [[Deprival Super-reaction Syndrome]]
+- [[Social Proof]]
+- [[Contrast Bias]]
+- [[Stress Influence Tendency]]
+- [[Availability Mis-Weighing Tendency]]
+- [[Use It Or Lose It Tendency]]
+- [[Drug Misunfluence Tendency]]
+- [[Senescence Misunfluence Tendency]]
+- [[Authority Misunfluence Tendency]]
+- [[Twaddle Tendency]]
+- [[Reason Respecting Tendency]]
+- [[Lollapalooza Tendency]]
+
+## From Other sources
+
 - [[Placebo effect]]
 - [[Hyperbolic Discounting]]
 - [[Sunk Costs]]
@@ -10,14 +40,14 @@
 - [[Confirmation Bias]]
 - [[Availability Bias]]
 - [[Loss Aversion]]
-- [[Deprival Super-reaction Syndrome]]
+
 - [[Bias from Commitment and Consistency]]
-- [[Social Proof]]
+
 - [[Bias from Authority]]
 - [[Pavlovian Association]]
 - [[Operant Conditioning]]
 - [[Self Serving Bias]]
-- [[Contrast Bias]]
+
 - [[Addiction and Dopamine]]
 - [[Overconfidence and Overoptimism]]
 - [[Conjunction Fallacy]] 
