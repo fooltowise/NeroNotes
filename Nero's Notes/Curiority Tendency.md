@@ -1,0 +1,5 @@
+# Curiosity Tendency
+
+There is a lot of innate curiosity in mammals, but its nonhuman version is highest among apes and monkeys. Man's curiosity, in turn, is much stronger than that of his simian relatives. In advanced human civilization, culture greatly increases the effectiveness of curiosity in advancing knowledge. For instance, Athens (including its colony, Alexandria) developed much math and science out of pure curiosity while the Romans made almost no contribution to either math or science. They instead concentrated their attention on the "practical" engineering of mines, roads, aqueducts, etc. 
+
+Curiosity, enhanced by the best of modern education (which is by definition a minority part in many places), much helps man to prevent or reduce bad consequences arising from other psychological tendencies.  The curious are also provided with much fun and wisdom long after formal education has ended.

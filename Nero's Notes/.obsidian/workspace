@@ -43,19 +43,6 @@
         }
       },
       {
-        "id": "08f7d70cd21330c4",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Academic Economics.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "78052aeee75799af",
         "type": "leaf",
         "pinned": true,
@@ -63,34 +50,21 @@
           "type": "markdown",
           "state": {
             "file": "The Psychology of Human Misjudgment.md",
-            "mode": "source"
+            "mode": "preview"
           },
           "pinned": true
         }
       },
       {
-        "id": "2236a3a823df12a2",
+        "id": "ed67080be38451e8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Doubt Avoidance Tendency.md",
+            "file": "Envy - Jealousy Tendency.md",
             "mode": "source"
           }
-        }
-      },
-      {
-        "id": "fc5d8cf10b064612",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reward and Punishement Super-response Tendency.md",
-            "mode": "source"
-          },
-          "pinned": true
         }
       }
     ],
@@ -168,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doubt Avoidance Tendency.md",
+                "file": "Envy - Jealousy Tendency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doubt Avoidance Tendency.md"
+                "file": "Envy - Jealousy Tendency.md"
               }
             }
           }
@@ -196,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Doubt Avoidance Tendency.md",
+    "Envy - Jealousy Tendency.md",
     "The Psychology of Human Misjudgment.md",
-    "Reward and Punishement Super-response Tendency.md",
-    "Inconsistency Avoidance Tendency.md",
+    "Kantian Fairness Tendency.md",
+    "Curiority Tendency.md",
     "Disliking - Hating Tendency.md",
-    "Liking - Loving Tendency.md",
-    "Superpower of Incentives.md",
-    "Reciprocity.md",
-    "Mental Models from Psychology.md",
-    "Poor Charlie's Almanack.md"
+    "Doubt Avoidance Tendency.md",
+    "Inconsistency Avoidance Tendency.md",
+    "First Conclusion Bias.md",
+    "Reward and Punishement Super-response Tendency.md",
+    "Liking - Loving Tendency.md"
   ]
 }
