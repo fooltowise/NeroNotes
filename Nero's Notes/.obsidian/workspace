@@ -56,13 +56,37 @@
         }
       },
       {
+        "id": "644665ab4abb125b",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Influence from Mere Association Tendency.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
         "id": "ed67080be38451e8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Envy - Jealousy Tendency.md",
+            "file": "Poor Charlie's Almanack.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ca5360e7028ac343",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Need for More Multidisciplinary Skills from Professionals - Educational Implications.md",
             "mode": "source"
           }
         }
@@ -142,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Envy - Jealousy Tendency.md",
+                "file": "Poor Charlie's Almanack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Envy - Jealousy Tendency.md"
+                "file": "Poor Charlie's Almanack.md"
               }
             }
           }
@@ -170,15 +194,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Envy - Jealousy Tendency.md",
+    "Poor Charlie's Almanack.md",
+    "The Need for More Multidisciplinary Skills from Professionals - Educational Implications.md",
     "The Psychology of Human Misjudgment.md",
+    "Influence from Mere Association Tendency.md",
+    "Reciprocation Tendency.md",
+    "Envy - Jealousy Tendency.md",
     "Kantian Fairness Tendency.md",
     "Curiority Tendency.md",
     "Disliking - Hating Tendency.md",
-    "Doubt Avoidance Tendency.md",
-    "Inconsistency Avoidance Tendency.md",
-    "First Conclusion Bias.md",
-    "Reward and Punishement Super-response Tendency.md",
-    "Liking - Loving Tendency.md"
+    "Doubt Avoidance Tendency.md"
   ]
 }

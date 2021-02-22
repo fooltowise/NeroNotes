@@ -1,0 +1,53 @@
+# Reciprocation Tendency
+
+The automatic tendency of humans to reciprocate both favors and disfavors has long been noticed as extreme, as it is in apes, monkeys, dogs, and many less cognitively gifted animals. The tendency clearly facilitates group cooperation for the benefit of members (see [[Cooperation]]). In this respect, it mimics much genetic programming of the social insects.
+
+We see the extreme power of the tendency to reciprocate disfavors in some wars, wherein it increases hatred to a level causing very brutal conduct. For long stretches in many wars, no prisoners were taken; the only acceptable enemy being a dead one. And sometimes that was not enough, as in the case of Genghis Khan, who was not satisfied with corpses. He insisted on their being hacked into pieces.
+
+One interesting mental exercise is to compare Genghis Khan, who exercised extreme, lethal hostility toward other men, with ants that display extreme, lethal hostility toward members of their own species that are not part of their breeding colony. Genghis looks sweetly lovable when compared to the ants. The ants are more disposed to fight and fight with more extreme cruelty.
+
+Indeed, E.O. Wilson once waggishly suggested that if ants were suddenly to get atom bombs, all ants would be dead within eighteen hours. What both human and ant history suggests is (1) that nature has no general algorithm making intraspecies, turn-the-other-cheek behavior a booster of species survival, (2) that it is not clear that a country would have good prospects where it to abandon all reciprocate-disfavor tendency directed at outsiders, and (3) if turn-the-other-cheek behavior is a good idea for a country as it deals with outsiders, man's culture is going to have to do a lot of heavy lifting because his genes won't be of much help.
+
+I next turn to man's reciprocated hostility that falls well short of war. Peacetime hostility can be pretty extreme, as in many modern cases of "road rage" or injury-producing temper tantrums on athletic fields.
+
+The standard antidote to one's overactive hostility is to train oneself to defer reaction. As my smart friend Tom Murphy so frequently says, "You can always tell the man off tomorrow, if it is such a good idea."
+
+Of course, the tendency to reciprocate favor for favor is also very intense, so much so that it occasionally reverses the course of reciprocated hostility. Weird pauses in fighting have sometimes occurred right in the middle of wars, triggered by some minor courtesy or favor on the part of one side, followed by favor reciprocation from the other side, and so on, until fighting stopped for a considerable period.
+
+This happened more than once in the trenches in World War I, over big stretches of the front and much to the dismay of the generals.
+
+It is obvious that commercial trade, a fundamental cause of modern prosperity, is enormously facilitated by man's innate tendency to reciprocate favors. In trade, enlightened self-interest joining with reciprocation tendency results in constructive conduct. Daily interchange in marriage is also assisted by reciprocation tendency, without which marriage would lose much of its allure.
+
+And reciprocation tendency, insomuch as it causes good results, does not join forces only with the superpower of incentives. It also joins [[Inconsistency Avoidance Tendency]] in helping cause (1) the fulfillment of promises in marriage ceremonies, and (2) correct behavior expected from persons serving as priests, shoemakers, physicians, and all else.
+
+Like other psychological tendencies, ans also man's ability to turn somersaults, reciprocate-favor tendency operates to a very considerable degree at a subconscious level. This helps make the tendency a strong force that can sometimes be used by some men to mislead others, which happens all the time.
+
+For instance, when an automobile salesman graciously steers you into a comfortable place to sit and gives you a cup of coffee, you are very likely being tricked, by this small courtesy alone, into parting with an extra five hundred dollars. This is far from the most extreme case of sales success that is rooted in a salesman dispensing minor favors. However, in this scenario of buying a car, you are going to be disadvantaged by parting with an extra five hundred dollars of your own money. This potential loss will protect you to some extent.
+
+But suppose you are the purchasing agent of someone else - a rich employer, for instance. Now the minor favor you receive from the salesman is less opposed by the threat of extra cost to you because someone else is paying the extra cost. Under such circumstances, the salesman is often able to maximize his advantage, particularly when government is the purchaser.
+
+Wise employers, therefore, try to oppose reciprocate-favor tendencies of employees engaged in purchasing. The simplest antidote works best: don't let them accept any favor from vendors.
+
+Sam Walton agreed with this idea of absolute prohibition. He wouldn't let purchasing agents accept so much as a hot dog from a vendor. Given the subconscious level at which much reciprocation tendency operates, this policy of Walton's was profoundly correct. If I controlled the defense department, its policies would mimic Walton's.
+
+In a famous psychology experiment, Cialdini brilliantly demonstrated the power of "Compliance practitioners" to mislead people by triggering their subconscious reciprocation tendency.
+
+Carrying out this experiment, Cialdini caused his "compliance practitioners" to wander around his campus and ask strangers to supervise a bunch of juvenile delinquents on a trip to a zoo. Because this happened on a campus, one person in six out of a large sample agreed to do this. After accumulating one-in-six statistics, Cialdini changed his procedure.
+
+His practitioners next wandered around the campus asking strangers to devote a big chunk of time every two weeks for two years to the supervision of juvenile delinquents. This ridiculous request got him a one hundred percent rejection rate. But the practitioner had a follow up question: "Will you at least spend one afternoon taking juvenile delinquents to a zoo?" This raised Cialdini's former acceptance rate of 1/6 to 1/2 - a tripling.
+
+What Cialdini's compliance practitioners had done was make a small concession, which was reciprocated by a small concession from the other side. This subconscious reciprocation of a concession by Cialdini's experimental subjects actually caused a much increased percentage of them to end up irrationally agreeing to go to a zoo with juvenile delinquents. Now, a professor who can invent an experiment like that, which so powerfully demonstrates something so important, deserves much recognition in the wider world, which he indeed got to the credit of many universities that learned a lot from Cialdini.
+
+Why is reciprocation tendency so important? Well, consider the folly of having law students graduate, and go out in the world representing clients in negotiations, not knowing the nature of the subconscious processes of the mind as exhibited in Cialdini's experiment. Yet such folly was prevalent in the law schools of the world for decades, in fact, generations. The correct name for that is educational malpractice. The law schools didn't know, or care to teach, what Sam Walton so well knew.
+
+The importance and power of reciprocate-favor tendency was also demonstrated in Cialdini's explanation of the foolish decision of the attorney general of the United States to authorize the Watergate burglary. There, an aggressive subordinate made some extreme proposal for advancing Republican interests through use of whores and a gigantic yacht. When this ridiculous request was rejected, the subordinate backed off, in gracious concession, to merely asking for consent to a burglary, and the attorney general went along. Cialdini believes that subconscious reciprocation tendency thus became one important cause of the resignation of a United States president in the Watergate debacle, and so do I. Reciprocation tendency subtly causes many extremes and dangerous consequences, not just on rare occasions but pretty much all the time.
+
+Man's belief in reciprocate-favor tendency, following eons of his practicing it, has done some queer and bad things in religion. The ritualized murder of the Phoenicians and the Aztecs, in which they sacrificed human victims to their gods, was a particularly egregious example. And we should not forget that as late as the Punic Wars, the civilized Romans, out of fear of defeat, returned in a few instances to the practice of human sacrifices. On the other hand, the reciprocity-based, religion-boosting idea of obtaining help from God in reciprocation for good human behavior has probably been vastly constructive. 
+
+Overall, both inside and outside religions, it seems clear to me that Reciprocation Tendency's constructive contributions to man far outweigh its destructive effects. In cases of psychological tendencies being used to counter or prevent bad results from one or more other psychological tendencies - for instance, in the case of interventions to end chemical dependency - you will usually find reciprocation tendency performing strongly on the constructive side.
+
+And the very best part of human life probably lies in relationships of affection wherein parties are more interested in pleasing than being pleased - a not uncommon outcome in display of reciprocate-favor tendency.
+
+Before we leave reciprocate-favor tendency, the final phenomenon we will consider is widespread human misery from feelings of guilt. To the extent the feeling of guilt has an evolutionary base, I believe the most plausible cause is the mental conflict triggered in one direction by reciprocate-favor tendency and in the opposite direction by reward super-response tendency pushing one to enjoy one hundred percent of some good thing. Of course, human culture has often greatly boosted the genetic tendency to suffer from feelings of guilt. 
+
+Most especially, religious culture has imposed hard-to-follow ethical and devotional demands on people. There is a charming Irish Catholic priest in my neighborhood who, with rough accuracy, often says, "The old Jews may have invented guilt, but we Catholics perfected it." And if you, like me and this priest, believe that, averaged out, feelings of guilt do more good than harm, you may join in my special gratitude for reciprocate-favor tendency, no matter how unpleasant you find feelings of guilt.

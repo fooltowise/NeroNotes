@@ -22,3 +22,12 @@
 [[Munger's Investment Evaluation Process ]]
 [[An Investing Principles Checklist]]
 [[Mungerisms]]
+
+
+### Follow up:
+- Read Ben Franklin
+- Create Checklists
+- Learn microeconomics (Greg Mankiw)
+- Think forward and backward
+- Maintain knowledge through use of deep fluency
+- Learn the mathematics of Pascal and Fermat
