@@ -56,6 +56,18 @@
         }
       },
       {
+        "id": "f1240b2d8b89c53f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Excessive Self Regard Tendency.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "644665ab4abb125b",
         "type": "leaf",
         "pinned": true,
@@ -71,11 +83,10 @@
       {
         "id": "ed67080be38451e8",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Poor Charlie's Almanack.md",
+            "file": "Greedy Algorithms and Invariants.md",
             "mode": "source"
           }
         }
@@ -166,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poor Charlie's Almanack.md",
+                "file": "Excessive Self Regard Tendency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Poor Charlie's Almanack.md"
+                "file": "Excessive Self Regard Tendency.md"
               }
             }
           }
@@ -194,15 +205,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Excessive Self Regard Tendency.md",
+    "The Psychology of Human Misjudgment.md",
+    "Pain Avoiding Psychological Denial.md",
+    "Influence from Mere Association Tendency.md",
+    "Greedy Algorithms and Invariants.md",
+    "Data Structures and Algorithms.md",
     "Poor Charlie's Almanack.md",
     "The Need for More Multidisciplinary Skills from Professionals - Educational Implications.md",
-    "The Psychology of Human Misjudgment.md",
-    "Influence from Mere Association Tendency.md",
     "Reciprocation Tendency.md",
-    "Envy - Jealousy Tendency.md",
-    "Kantian Fairness Tendency.md",
-    "Curiority Tendency.md",
-    "Disliking - Hating Tendency.md",
-    "Doubt Avoidance Tendency.md"
+    "Envy - Jealousy Tendency.md"
   ]
 }
