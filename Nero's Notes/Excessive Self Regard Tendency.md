@@ -35,4 +35,18 @@ There is a famous passage somewhere in Tolstoy that illuminates the power of exc
 
 The second half of the "Tolstoy effect", where the man makes excuses for his fixable poor performance, instead of providing the fix, is enormously important. Because a majority of mankind will try to get along by making way too many unreasonable excuses for fixable poor performance, it is very important to have personal and institutional antidotes limiting the ravages of such folly. 
 
-On the personal level a man should try to face the two simple facts: (1) fixable but unfixed bad performance is bad character and tends to create more of itself, causing more damage to the excuse giver with each tolerated instance, and (2) in demanding places, like athletic teams and General Electric, you are almost sure to be discarded in due course if you keep giving excuses instead of behaving like you should.
+On the personal level a man should try to face the two simple facts: (1) fixable but unfixed bad performance is bad character and tends to create more of itself, causing more damage to the excuse giver with each tolerated instance, and (2) in demanding places, like athletic teams and General Electric, you are almost sure to be discarded in due course if you keep giving excuses instead of behaving like you should. 
+
+The main institutional antidotes to this part of the Tolstoy effect are (1) a fair, meritocratic, demanding culture plus personnel handling methods that build up morale and (2) severance of the worst offenders. Of course, when you can't sever, as in the case with your own child, you much try to fix the child as much as you can.
+
+I once heard about a child-teaching method so effective that the child remembered the learning experience over fifty years later. The child later became Dean of the USC School of Music and then related to me what his father said when he saw his child taking candy from the stock of his employer with the excuse that he planned to replace it later. The father said, "Son, it would be better for you to take all you want and to call yourself a thief every time you do it."
+
+The best antidote to folly from an excess of self regard is to force yourself to be more objective when you are thinking about yourself, your family and friends, your property, and  the value of your past and future activity.
+
+This isn't easy to do well and won't work perfectly, but it will work much better than simply letting psychological nature work its normal course.
+
+While an excess in self-regard is often counterproductive in its effects on cognition, it can cause some weird successes from overconfidence that happens to cause success. This factor accounts for the adage: "Never underestimate the man who overestimate himself."
+
+Of course, some high self-appraisal are correct and serve better than false modesty. Moreover, self-regard in the form of justified pride in a job well done, or a life well lived, is a large constructive force. Without such justified pride, many more aircrafts would crash. "Pride" is another word generally left out of the psychology textbooks, and this omission is not a good idea. It is also not a good idea to construct the Bible's parable about the Pharisee and the Publican as condemning all pride.
+
+Of all forms of useful pride, perhaps the most desirable one is a justified pride in being trustworthy. Moreover, the trustworthy man, even after allowing for the inconveniences of his chosen course, ordinarily has a life that averages out better than he would have if he provided less reliability.

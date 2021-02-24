@@ -40,3 +40,41 @@ We perform 6 iterations, and each of these iterations does a constant amount of 
 - It's often easier  to conceptualize a greedy algorithm recursively, and then implement it using iteration for higher performance.
 - Even if the greedy approach does not yield an optimum solution, it can give insights into the optimum algorithm, or serve as an heuristic.
 - Sometimes the correct greedy algorithm is not obvious.
+
+## Invariants
+
+A common approach to designing an efficient algorithm is to use invariants. Briefly, an invariant is a condition that is true during execution of a program. This condition may be on the values of the variables of the program, or on the control logic. A well-chosen invariant can be used to rule out potential solutions that are suboptimal or dominated by other solutions.
+
+For example, binary search, maintains the invariant that the space of candidate solutions contains all possible solutions as the algorithm executes.
+
+Sorting algorithms nicely illustrate algorithm design using invariants. Intuitively, selection sort is based on finding the smallest element, the next smallest element, etc. and moving them to their right place. More precisely, we work with successively larger subarrays beginning at index 0, and preserve the invariant that these subarrays are sorted, their elements are less than or equal to the remaining elements, end the entire array remains a permutation of the original array.
+
+As a more sophisticated example, consider the algorithm for generating the first k numbers of the form a + b sqrt(2). The key idea there is to process these numbers in sorted order. The queues in that code maintain multiple invariants: queues are sorted, duplicates are never present, and the separation between elements is bounded.
+
+### Invariant Boot Camp
+
+Suppose you were asked to write a program that takes as input a sorted array and a given target value and determines if there are two entries in the array (not necessarily distinct) that add up to that value. For example, if the array is (-2,1,2,4,7,11), then there are entries adding to 6, to 0, and to 13, but not 10. 
+
+The brute force algorithm for this problem consists of a pair of nested loops. Its complexity is O(n^2), where n is the length of the input array.  A faster approach is to add each element of the array to a hash table, and test for each element e if K-e, where K is the target value, is present in the hash table. While reducing time complexity to O(n), this approach requires O(n) additional storage for the hash.
+
+The most efficient approach uses invariant: maintain a subarray that is guaranteed to hold a solution, if it exists. This subarray is initialized to the entire array, and iteratively shrunk from one side to the other. The shrinking makes use of the sortedness of the array. Specifically, if the sum of the leftmost and the rightmost elements is less than the target, then the leftmost element can never be combined with some element to obtain the target. A similar observation holds for the rightmost element.
+
+```java
+public static boolean hasTwoSum(List<Integer> A, int t){
+	int i = 0, j = A.size()-1;
+	while(i<=j){
+ 		if(A.get(i)+A.get(j) == t) return true;
+		else if(A.get(i) + A.get(j) > t) j --;
+		else i ++;
+ 	}
+	return false;
+}
+```
+
+The time complexity is O(n), where n is the length of the array. The space complexity is O(1), since the subarray can be represented by two variables.
+
+### Top tips for invariants
+
+Identifying the right invariant is an art. The key strategy to determine whether to use an invariant when designing an algorithm is to work on small examples to hypothesize the invariant.
+
+Often, the invariant is a subset of the set of input space, i.e a subarray.

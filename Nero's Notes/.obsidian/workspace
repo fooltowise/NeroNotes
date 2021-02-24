@@ -56,48 +56,13 @@
         }
       },
       {
-        "id": "f1240b2d8b89c53f",
+        "id": "19960ca5b9d1896f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Excessive Self Regard Tendency.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "644665ab4abb125b",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Influence from Mere Association Tendency.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "ed67080be38451e8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Greedy Algorithms and Invariants.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ca5360e7028ac343",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Need for More Multidisciplinary Skills from Professionals - Educational Implications.md",
+            "file": "Stress Influence Tendency.md",
             "mode": "source"
           }
         }
@@ -127,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "patterson",
+                "query": "promoter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excessive Self Regard Tendency.md",
+                "file": "Stress Influence Tendency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excessive Self Regard Tendency.md"
+                "file": "Stress Influence Tendency.md"
               }
             }
           }
@@ -205,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Excessive Self Regard Tendency.md",
+    "Stress Influence Tendency.md",
     "The Psychology of Human Misjudgment.md",
-    "Pain Avoiding Psychological Denial.md",
-    "Influence from Mere Association Tendency.md",
+    "Contrast Bias.md",
+    "Social Proof.md",
     "Greedy Algorithms and Invariants.md",
-    "Data Structures and Algorithms.md",
-    "Poor Charlie's Almanack.md",
-    "The Need for More Multidisciplinary Skills from Professionals - Educational Implications.md",
-    "Reciprocation Tendency.md",
-    "Envy - Jealousy Tendency.md"
+    "Munger's Investment Advice.md",
+    "Munger's Critique of Wall Street.md",
+    "Deprival Super-reaction Syndrome.md",
+    "Overoptimism Tendency.md",
+    "Excessive Self Regard Tendency.md"
   ]
 }
