@@ -1,0 +1,29 @@
+# Authority Misinfluence Tendency
+
+Living in dominance [[Hierarchical Organization| hierarchies]] as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading. And so, human society is formally organized into dominance hierarchies, with their culture augmenting the natural follow-the-leader tendency of man.
+
+But automatic as most human reactions are, with the tendency to follow leaders being no exception, man is often destined to suffer greatly when the leader is wrong or when his leader's ideas don't get through properly in the bustle of life and are misunderstood. And so, we find much miscognition from man's Authority-Misinfluence Tendency.
+
+Some of the misinfluences are amusing, as in a case described by Cialdini. A physician left a written order for a nurse treating an earache, as follows: "Two drops, twice a day, 'r. ear.'" The nurse then directed the patient to turn over and put the ear drops in his anus.
+
+Other versions of confused instructions from authority figures are tragic. In World War II, a new pilot for a general, who sat beside him in the copilot's seat, was so anxious to please his boss that he misinterpreted some minor shift in the general's position as a direction to do some foolish thing. The pilot crashed the plane and became a paraplegic.
+
+Well, naturally, cases like this one get the attention of careful thinkers like Boss Buffett, who always acts like an overquiet mouse around his pilots.
+
+Such cases are also given attention in the simulator training of copilots who have to learn to ignore certain really foolish orders from boss pilots because boss pilots will sometimes err disastrously. Even after going through such a training regime, however, copilots in simulator exercises will too often allow the simulated plane to crash because some extreme and perfectly obvious simulated error of the chief pilot.
+
+After Corporal Hitler had risen to dominate Germany, leading a bunch of believing Lutherans and Catholics into orgies of genocide and other mass destruction, one clever psychology professor, Stanley Milgram, decided to do an experiment to determine exactly how far authority figures could lead ordinary people into gross misbehavior. In this experiment, a man posing as an authority figure, namely a professor governing a respectable experiment, was able to trick a great many ordinary people into giving what they had every reason to believe were massive electric shocks that inflicted heavy torture on innocent fellow citizens. This experiment did demonstrate a terrible result contributed to by Authority-Misinfluence Tendency, but it also demonstrated extreme ignorance in the psychology professoriate right after World War II.
+
+Almost any intelligent person with my checklist of psychological tendencies in his hand would, by simply going down the checklist, have seen that Milgram's experiment involved about six powerful psychological tendencies acting in confluence to bring about his extreme experimental result. For instance, the person pushing Milgram's shock lever was given much social proof from presence of inactive bystanders whose silence communicated that his behavior was okay. 
+
+Yet it took over a thousand psychological papers, published before I got to Milgram for the professoriate to get his experiment only about ninety percent as well understood as it would have immediately been by any intelligent person who used (1) any sensible organization of psychology along the lines of this talk, plus (2) a checklist procedure. This outcome displaying the dysfunctional thinking of long-dead professors deserves a better explanation. I will later deal with the subject in a very hesitant fashion.
+
+We can be pleased that the psychology professoriate of a former era wasn't quite as dysfunctional as the angler in my next-to-last illustration of Authority-Misinfluence Tendency.
+
+When I once fished in the Rio Colorado in Costa Rica, my guide, in a state of shock, told me a story about an angler who'd earlier come to the river without ever having fished for tarpon. A fishing guide like the one I had runs the boat and gives fishing advice, establishing himself in this context as the ultimate authority figure. 
+
+In the case of this guide, his native language was Spanish, while the angler's native language was English. the angler got a big tarpon on an began submitting to many directions from this authority figure called a guide: tip up, tip down, reel in, etc. Finally, when it was necessary to put more pressure on the fish by causing more bending of the angler's rod, the guide said in English: "Give him the rod, give him the rod." Well, the angler threw his expensive rod at the fish, and when last seen, it was going down the Rio Colorado toward the ocean. This example shows how powerful is the tendency to go along with an authority figure and how it can turn one's brain into mush.
+
+My final example comes from business. A psychology PhD once became the CEO of a major company and went wild, creating an expensive new headquarters, with a great wine cellar, at an isolated site. At some point, his underlings remonstrated that money was running short. "Take the money out of the depreciation reserves," said the CEO. Not too easy because a depreciation reserve is a liability account.
+
+So strong is undue respect for authority that this CEO, and many even worse examples, have actually been allows to remain in control of important business institutions for long periods after it was clear they should have been removed. The obvious implication: be careful whom you appoint to power because a dominant authority figure will often be hard to remove, aided as he will by Authority-Misinfluence Tendency. 

@@ -1,0 +1,9 @@
+# Twaddle Tendency
+
+Man, as a social animal who has the gift of language, is born to prattle and to pour out twaddle that does much damage when serious work is being attempted. Some people produce copious amounts of twaddle and others very little.
+
+A trouble from the honeybee version of twaddle was once demonstrated in an interesting experiment. A honeybee normally goes out and finds nectar and then comes back and does a dance that communicates to the other bees where the nectar is. The other bees then go out and get it. Well some scientist - clever, like B.F. Skinner - decided to see how well a honeybee would do with a handicap. He put the nectar straight up. Way up. Well, in a natural setting, there is no nectar a long way straight up, and the poor honeybee doesn't have a genetic program that is adequate  to handle what she now has to communicate.
+
+You might guess that this honeybee would come back to the hive and slink into a corner, but she doesn't. She comes into the hive and does an incoherent dance. Well, all my life I've been dealing with the human equivalent of that honeybee. And it's a very important part of wise administration to keep prattling people, pouring out twaddle, far away from the serious work.
+
+A rightly famous Caltech engineering professor, exhibiting more insight than tact, once expressed his version of this idea as follows: "The principal job of an academic administration is to keep the people who don't matter from interfering with the work of the people that do." I include this quotation partly because I long suffered from backlash caused by my version of this professor's conversational manner. After much effort, I was able to improve only slightly, so one of my reasons for supplying the quotation is the hope that, at least in comparison, I will appear tactful.

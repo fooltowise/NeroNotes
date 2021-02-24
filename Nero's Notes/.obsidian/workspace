@@ -56,13 +56,13 @@
         }
       },
       {
-        "id": "19960ca5b9d1896f",
+        "id": "4cf343d131435cda",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stress Influence Tendency.md",
+            "file": "Reason Respecting Tendency.md",
             "mode": "source"
           }
         }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stress Influence Tendency.md",
+                "file": "Reason Respecting Tendency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stress Influence Tendency.md"
+                "file": "Reason Respecting Tendency.md"
               }
             }
           }
@@ -170,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Stress Influence Tendency.md",
+    "Reason Respecting Tendency.md",
     "The Psychology of Human Misjudgment.md",
-    "Contrast Bias.md",
-    "Social Proof.md",
-    "Greedy Algorithms and Invariants.md",
-    "Munger's Investment Advice.md",
-    "Munger's Critique of Wall Street.md",
-    "Deprival Super-reaction Syndrome.md",
-    "Overoptimism Tendency.md",
-    "Excessive Self Regard Tendency.md"
+    "Twaddle Tendency.md",
+    "Authority Misinfluence Tendency.md",
+    "Hierarchical Organization.md",
+    "Drug Misinfluence Tendency.md",
+    "Senescence Misinfluence Tendency.md",
+    "Authority Misunfluence Tendency.md",
+    "Drug Misunfluence Tendency.md",
+    "Senescence Misunfluence Tendency.md"
   ]
 }
