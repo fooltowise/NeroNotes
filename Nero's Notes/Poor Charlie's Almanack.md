@@ -26,6 +26,7 @@
 
 ### Follow up:
 - Read Ben Franklin
+- Read Darwin biography
 - Create Checklists
 - Learn microeconomics (Greg Mankiw)
 - Think forward and backward

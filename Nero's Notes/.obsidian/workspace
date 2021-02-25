@@ -56,13 +56,35 @@
         }
       },
       {
-        "id": "4cf343d131435cda",
+        "id": "e8495e357037e15c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reason Respecting Tendency.md",
+            "file": "The Psychology of Human Misjudgment.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a2de7204736632ba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lollapalooza Tendency.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4cf343d131435cda",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Poor Charlie's Almanack.md",
             "mode": "source"
           }
         }
@@ -142,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reason Respecting Tendency.md",
+                "file": "The Psychology of Human Misjudgment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reason Respecting Tendency.md"
+                "file": "The Psychology of Human Misjudgment.md"
               }
             }
           }
@@ -170,15 +192,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Reason Respecting Tendency.md",
     "The Psychology of Human Misjudgment.md",
+    "Lollapalooza Tendency.md",
+    "Reason Respecting Tendency.md",
+    "Poor Charlie's Almanack.md",
     "Twaddle Tendency.md",
     "Authority Misinfluence Tendency.md",
     "Hierarchical Organization.md",
     "Drug Misinfluence Tendency.md",
     "Senescence Misinfluence Tendency.md",
-    "Authority Misunfluence Tendency.md",
-    "Drug Misunfluence Tendency.md",
-    "Senescence Misunfluence Tendency.md"
+    "Authority Misunfluence Tendency.md"
   ]
 }

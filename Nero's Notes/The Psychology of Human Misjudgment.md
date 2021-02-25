@@ -129,3 +129,49 @@ With this introductory instruction from ants, magicians, and the grand general p
 23. [[Twaddle Tendency]]
 24. [[Reason Respecting Tendency]]
 25. [[Lollapalooza Tendency]]
+
+## Questions and Answers
+
+Now, as promised, I will ask and answer a few general questions.
+
+My first is a compound question: isn't this list of psychological tendencies tautological to some extent compared to the system of Euclid? That is, aren't there overlaps in the tendencies? And couldn't the system be laid out just as plausibly in a somewhat different way? The answers are yes, yes, and yes, but this matters only moderately. Further refinement of these tendencies, while desirable, has a limited practical potential because a significant amount of messiness is unfixable in a soft science like psychology.
+
+My second question is; Can you supply a real-world model, instead of a Milgram-type controlled psychology experiment, that uses your system to illustrate multiple psychological tendencies interacting in a plausibly diagnosable way? The answer is yes. One of my favorite cases involves the McDonnell Douglas airliner evacuation test. 
+
+Before a new airliner can be sold, the government requires that is pass an evacuation test, during which a full load of passengers must get out in some short period of time. The government directs the test to be realistic. So you can't pass by evacuating only twenty-year-old athletes. So McDonnell Douglas scheduled such a test in a darkened hangar using a lot of old people as evacuees. The passenger cabin was, say, twenty feet above the concrete floor of the hangar and was to be evacuated through moderately flimsy rubber chutes. The first test was made in the morning. There were about twenty very serious injuries, and the evacuation took so long it flunked the time test. 
+
+So what did McDonnell Douglas next do? It repeated the test in the afternoon, and this time there were another failure, with about twenty more serious injuries, including one case of permanent paralysis.
+
+What psychological tendencies contributed to this terrible result? Well, using my tendency list as a checklist, I come up with the following explanation. Reward-Super-response  Tendency drove McDonnell Douglas to act fast. It couldn't sell its airliner until it passed the test. Also pushing the company was Doubt-Avoidance Tendency with its natural drive to arrive at a decision and run with it. Then the government's direction that the test be realistic drove Authority-Misinfluence Tendency into the mischief of causing McDonnell Douglas to overreact by using what was obviously too dangerous a test method.
+
+By now the course of action had been decided, so Inconsistency Avoidance Tendency helped preserve the near idiotic plan. When all the old people got to the dark hangar, with its high airline cabin and concrete floor, the situation must have made McDonnell Douglas employees very queasy, but they saw other employees and supervisors not objecting. Social Proof Tendency, therefore, swamped the queasiness. 
+
+And this allowed continued action as planned, a continuation that was aided by more Authority Misinfluence Tendency. Then came the disaster in the morning test with its failure, plus serious injuries. McDonnell Douglas ignored the strong disconfirming evidence from the failure of the first test because confirmation bias, aided by the triggering of the strong Deprival Super-Reaction tendency, favored maintaining the original plan. McDonnell Douglas' Deprival Super-Reaction Tendency was now like that which cause a gambler, bent on getting even after a huge loss, to make his final big bet. After all, McDonnell Douglas was going to lose a lot if it didn't pass its test as scheduled. 
+
+More psychology-based explanation can probably be made, but the foregoing discussion is complete enough to demonstrate the utility of my system when used in a checklist mode.
+
+My third question is also compound: In the practical world,  what good is the thought system laid out in this list of tendencies? Isn't practical benefit prevented because these psychological tendencies are so thoroughly programmed into the human mind by broad evolution that we can't get rid of them? Well, the answer is that the tendencies are probably much more good than bad. Otherwise, they wouldn't be there, working pretty well for man, given his condition and his limited brain capacity. So the tendencies can't be simply washed out automatically, and shouldn't be. Nevertheless, the psychological thought system described, when properly understood and used, enables the spread of wisdom and good conduct and facilitates the avoidance of disaster. Tendency is not always destiny, and knowing the tendencies and their antidotes can often help prevent trouble that would otherwise occur.
+
+Here is a short list of examples reminding us of the great utility of elementary psychological knowledge.
+
+**One**: Carl Braun's communication practices.
+
+**Two**: The use of simulators in pilot training.
+
+**Three**: The system of Alcoholic Anonymous
+
+**Four**: Clinical Training methods in medical schools.
+
+**Five**: The rules of U.S. Constitutional Convention: totally secret meetings, no recorded vote by name until the final vote, votes reversible at any time before the end of the convention, then just one vote on the whole Constitution. There are very clever psychology-respecting rules. If the founders had used a different procedure, many people would have been pushed by various psychological tendencies into inconsistent, hardened positions. The elite founders got our Constitution through by a whisker only because they were psychologically acute.
+
+**Six:** The use of Granny's incentive-driven rule to manipulate oneself toward better performance of one's duties.
+
+**Seven**: The Harvard Business School's emphasis on decision trees. When I was young and foolish I used to laugh at the Harvard Business School. I said, "They're teaching twenty-eight-year-old people that high school algebra works in real life?" But later, I wised up and realized it was very important that they do that to counter some bad effects from psychological tendencies. Better late than never.
+
+**Eight**: The use of autopsy equivalents at Johnson & Johnson. At most corporations, if you make an acquisition and it turns out to be a disaster, all the people, paperwork, and presentations that caused the foolish acquisition are quickly forgotten. Nobody wants to be associated with the poor outcome by mentioning it. But at Johnson & Johnson, the rules make everybody revisit old acquisitions, comparing predictions with outcomes. That is a very smart thing to do.
+
+**Nine**: The great example of Charles Darwin as he avoided confirmation bias, which has morphed into the extreme anti-confirmation bias method of the "double-blind" studies wisely required in drug research by FDA.
+
+**Ten**: The Warren Buffett rule for open outcry auctions: Don't go.
+
+My fourth question is : What special knowledge problems lie buried in the thought system demonstrated by your list?
