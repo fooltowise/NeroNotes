@@ -175,3 +175,23 @@ Here is a short list of examples reminding us of the great utility of elementary
 **Ten**: The Warren Buffett rule for open outcry auctions: Don't go.
 
 My fourth question is : What special knowledge problems lie buried in the thought system demonstrated by your list?
+
+Well, one answer is paradox. In social psychology, the more people learn about the system the less it is true, and this is what gives the system its great value as a preventer of bad outcomes and a driver of good outcomes. This result is paradoxical, and doesn't remind one of elementary physics, but so what. One can't get all the paradox out of pure math, so why should psychology be shocked by some paradox?
+
+There is also some paradox in cognition change that works even when the manipulated person knows he is being manipulated. This creates a sort of paradox in a paradox, but again, so what. I once much enjoyed an occasion of this sort. I drew this beautiful woman as my dinner partner many years ago. I'd never seen her before. She was married to a prominent Los Angeles man. She sat down next to me, turned her beautiful face up, and said, "Charlie, what one word accounts for your remarkable success in life?" I knew I was being manipulated by a practiced routine, and I just loved it. I never see this woman without a little life in my spirits. And, by the way, I told her I was rational. You'll have to judge yourself whether that's true. I may be demonstrating some psychology tendency I hadn't planned on demonstrating.
+
+My fifth question is: Don't we need more reconciliation of psychology and economics? My answer is yes, and I suspect that some slight progress is being made. I have heard of one such example. Colin Camerer of Caltech, who works in "Experimental Economics", devised an interesting experiment in which he cause high I.Q. students, playing for real money, to pay price A+B for a "security" they knew would turn into A dollars at the end of the day. This foolish auction occurred because the students were allowed to trade with each other in a liquid market for the security. And some students paid A+B because they hoped to unload on other students at a higher price before the day was over.
+
+What I will now confidently predict is that, despite Camerer's experimental outcome, most economics and corporate finance professors  who still believe in the "hard form efficient market hypothesis" will retain their original belief. If so, this will be one more indication of how irrational smart people can be when influenced by psychological tendencies.
+
+My sixth question is: Don't moral and prudential problems come with knowledge of these psychological tendencies? The answer is yes. For instance, psychological knowledge  improves persuasive power and, like other power, it can be used for good or ill. Captain Cook once played a psychology-based trick on his seamen to cause them to eat sauerkraut and avoid scurvy. In my opinion, this action was both ethical and wise under the circumstances, despite the deliberate manipulation involved. 
+
+But ordinarily, when you try to use your knowledge of psychological tendencies in the artful manipulation of someone whose trust you need, you will be making both a moral and prudential error.
+The moral error is obvious. The prudential error comes because many intelligent people, targeted for conscious manipulation, are likely to figure out what you are trying to do and resent your action.
+
+My final question is: Aren't there factual and reasoning errors in this talk? The answer is yes, almost surely yes. The final revision was made from memory over about fifty hours by a man eighty-one years old, who never took a course in psychology and has read none of it, except one book on developmental psychology, for nearly fifteen years. 
+
+Even so, I think the totality of my talk will stand up very well, and I hope all my descendants and friends will carefully consider what I have said. I even hope that more psychology professors will join me in: (1) making heavy use of inversion; (2) driving for a complete description of the psychological system so that it works better as a checklist; and (3) especially emphasizing effects from combinations of psychological tendencies.
+
+
+Well that ends my talk. If in considering what I have said you had ten percent the fun I had saying it, you were lucky recipients.

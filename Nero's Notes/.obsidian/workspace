@@ -62,30 +62,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Psychology of Human Misjudgment.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a2de7204736632ba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lollapalooza Tendency.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4cf343d131435cda",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Poor Charlie's Almanack.md",
-            "mode": "source"
+            "file": "Suites Arithmetico-geometriques.md",
+            "mode": "preview"
           }
         }
       }
@@ -164,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Psychology of Human Misjudgment.md",
+                "file": "Suites Arithmetico-geometriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Psychology of Human Misjudgment.md"
+                "file": "Suites Arithmetico-geometriques.md"
               }
             }
           }
@@ -192,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Suites Arithmetico-geometriques.md",
     "The Psychology of Human Misjudgment.md",
+    "Suites Arithmetico-geometriques-Juliens iMac.md",
     "Lollapalooza Tendency.md",
-    "Reason Respecting Tendency.md",
     "Poor Charlie's Almanack.md",
+    "Reason Respecting Tendency.md",
     "Twaddle Tendency.md",
     "Authority Misinfluence Tendency.md",
     "Hierarchical Organization.md",
-    "Drug Misinfluence Tendency.md",
-    "Senescence Misinfluence Tendency.md",
-    "Authority Misunfluence Tendency.md"
+    "Drug Misinfluence Tendency.md"
   ]
 }

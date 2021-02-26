@@ -32,3 +32,23 @@
 - Think forward and backward
 - Maintain knowledge through use of deep fluency
 - Learn the mathematics of Pascal and Fermat
+
+
+### Reading List
+- Principles of MicroEconomics (Mankiw)
+- Deep Simplicity (Gribbin)
+- FIASCO (Partnoy)
+- Ice Age (Gribbin)
+- A matter of degrees (Gino Segre)
+- Andrew Carnegie (Joseph Frazier Wall)
+- The Third Chimpanzee (Jared Diamond)
+- The autobiography of Benjamin Franklin
+- Living within limits, Garrett Hardin
+- The selfish gene, Dawkins
+- The wealth and poverty of nations, David S. Landes
+- Getting to Yes, Roger Fisher
+- Three scientists and their gods, Robert Wright
+- Only the paranoid survive, Andy Grove
+- Les Schwab, Pride in Performance, Schwab
+- Men and Rubber: History of business, Firestone
+- Men to watch my mountains, Irving Stone

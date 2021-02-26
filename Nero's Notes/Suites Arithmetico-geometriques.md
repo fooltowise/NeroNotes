@@ -1,3 +1,6 @@
+# Suites Arithmetico-Geometriques 
+
+
 Elles sont définies par:
 
 $$\forall n \in \mathbf{N}, u_{n+1} = a \ u_n + b$$
