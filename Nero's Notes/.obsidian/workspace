@@ -45,26 +45,26 @@
       {
         "id": "78052aeee75799af",
         "type": "leaf",
-        "pinned": true,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Psychology of Human Misjudgment.md",
-            "mode": "preview"
-          },
-          "pinned": true
+            "file": "The Wisdom of Crowds.md",
+            "mode": "source"
+          }
         }
       },
       {
         "id": "e8495e357037e15c",
         "type": "leaf",
-        "active": true,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Suites Arithmetico-geometriques.md",
-            "mode": "preview"
-          }
+            "file": "The Wisdom of Crowds.md",
+            "mode": "source"
+          },
+          "pinned": true
         }
       }
     ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Suites Arithmetico-geometriques.md",
+                "file": "The Wisdom of Crowds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Suites Arithmetico-geometriques.md"
+                "file": "The Wisdom of Crowds.md"
               }
             }
           }
@@ -170,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Suites Arithmetico-geometriques.md",
+    "The Wisdom of Crowds.md",
+    "Stock Market and Independence of opinions.md",
+    "How to Improve Skill Development.md",
+    "Self Improvement.md",
+    "Untitled.md",
     "The Psychology of Human Misjudgment.md",
+    "Suites Arithmetico-geometriques.md",
     "Suites Arithmetico-geometriques-Juliens iMac.md",
     "Lollapalooza Tendency.md",
-    "Poor Charlie's Almanack.md",
-    "Reason Respecting Tendency.md",
-    "Twaddle Tendency.md",
-    "Authority Misinfluence Tendency.md",
-    "Hierarchical Organization.md",
-    "Drug Misinfluence Tendency.md"
+    "Poor Charlie's Almanack.md"
   ]
 }
