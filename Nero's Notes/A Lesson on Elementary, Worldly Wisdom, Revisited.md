@@ -66,7 +66,7 @@ My friend, Dr. Nat Myhrvold, who's the chief technology officer at Microsoft, is
 
 By the way, I think Myhrvold is wrong to be amazed by that. The so-called fitness landscape of our ancestors forced them to know how to throw spears, run around, turn corners, and have you long before they had to think correctly like Myhrvold. So I don't think he should be so surprised. However, the difference is so extreme that I can understand how he finds it incongruous.
 
-At any rate, mankind invented a system to cope with the fact that we are so intrinsically lousy at manipulating numbers. It's called the [[Graph]]. Oddly enough, it came out of the Middle Ages. And it's the only intellectual invention of the monks during the Middle Ages I know of that's worth a damn. **The graph puts numbers in a form that looks like motion.** So it's using some of this primitive stuff in your system in a way that helps you understand it. So the Value Line graphs are very useful. 
+At any rate, mankind invented a system to cope with the fact that we are so intrinsically lousy at manipulating numbers. It's called the [[Graphs]]. Oddly enough, it came out of the Middle Ages. And it's the only intellectual invention of the monks during the Middle Ages I know of that's worth a damn. **The graph puts numbers in a form that looks like motion.** So it's using some of this primitive stuff in your system in a way that helps you understand it. So the Value Line graphs are very useful. 
 
 The graph I've distributed is on log paper - which is based on the natural tables of logarithms. And that's based on the elementary mathematics of [[Compound Interest]] - which is one of the most important models there is on earth. So there is a reason why that graph is in that form.
 

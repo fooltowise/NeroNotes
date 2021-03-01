@@ -46,12 +46,14 @@
         "id": "78052aeee75799af",
         "type": "leaf",
         "active": true,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Wisdom of Crowds.md",
+            "file": "Big Ideas of the Big Disciplines - Learning Plan.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       },
       {
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Wisdom of Crowds.md",
+                "file": "Big Ideas of the Big Disciplines - Learning Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Wisdom of Crowds.md"
+                "file": "Big Ideas of the Big Disciplines - Learning Plan.md"
               }
             }
           }
@@ -170,15 +172,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Big Ideas of the Big Disciplines - Learning Plan.md",
+    "Great Businesses to Study.md",
+    "Graphs.md",
     "The Wisdom of Crowds.md",
-    "Stock Market and Independence of opinions.md",
-    "How to Improve Skill Development.md",
-    "Self Improvement.md",
+    "Graph.md",
+    "Data Structures and Algorithms.md",
     "Untitled.md",
-    "The Psychology of Human Misjudgment.md",
-    "Suites Arithmetico-geometriques.md",
-    "Suites Arithmetico-geometriques-Juliens iMac.md",
-    "Lollapalooza Tendency.md",
-    "Poor Charlie's Almanack.md"
+    "The Feynman Technique.md",
+    "Stock Market and Independence of opinions.md",
+    "How to Improve Skill Development.md"
   ]
 }
