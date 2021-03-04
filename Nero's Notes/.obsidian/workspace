@@ -45,7 +45,6 @@
       {
         "id": "78052aeee75799af",
         "type": "leaf",
-        "active": true,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -54,6 +53,18 @@
             "mode": "source"
           },
           "pinned": true
+        }
+      },
+      {
+        "id": "12d5443c100f3225",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Paul Black on Moat Direction.md",
+            "mode": "preview"
+          }
         }
       },
       {
@@ -144,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Ideas of the Big Disciplines - Learning Plan.md",
+                "file": "Paul Black on Moat Direction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Ideas of the Big Disciplines - Learning Plan.md"
+                "file": "Paul Black on Moat Direction.md"
               }
             }
           }
@@ -172,15 +183,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Paul Black on Moat Direction.md",
+    "The Fundamental Theorem of Investing.md",
+    "Graphs.md",
+    "Reading List of St. John's College.md",
     "Big Ideas of the Big Disciplines - Learning Plan.md",
     "Great Businesses to Study.md",
-    "Graphs.md",
     "The Wisdom of Crowds.md",
     "Graph.md",
     "Data Structures and Algorithms.md",
-    "Untitled.md",
-    "The Feynman Technique.md",
-    "Stock Market and Independence of opinions.md",
-    "How to Improve Skill Development.md"
+    "Untitled.md"
   ]
 }

@@ -81,3 +81,17 @@ The time complexity and space complexity are both O(E), where E is the number of
 Computing vertices which are reachable from other vertices is a fundamental operation which can be performed in one of two idiomatic ways, namely depth-first search(DFS) and breadth-first search (BFS). Both have linear time complexity - O( E + V) to be precise. In the worst-case there is a path from the initial vertex covering all vertices without any repeats, and the DFS edges selected correspond to this path, so the space complexity of DFS is O(V) (this space is implicitly allocated on the function call stack). The space complexity of BFS is also O(V), since in a worst case there is an edge from the initial vertex to all remaining vertices, implying that they will all be in the BFS queue simultaneously at some point.
 
 DFS and BFS differ from each other in terms of the additional information they provide, e.g, BSF can be used to compute distances from the start vertex and DFS can be used to check for the presence of cycles. Key notions in DFS include the *discovery time* and *finishing time* for vertices.
+
+
+## Advanced Graph Algorithms
+
+Up to this point we looked at basic search and combinatorial properties of graphs. The algorithms we considered were all linear time complexity and relatively straightforward - the major challenge was in modeling the problem appropriately.
+
+There are four classes of complex graph problems that can be solved efficiently, i.e in polynomial time. Most other problems on graphs are either variants of these or , very likely, not solvable by polynomial time algorithms. These four classes are:
+
+- *Shortest Path*  - Given a graph, directed or undirected, with costs on the edges, find the minimum cost path from a given vertex to all vertices. Variants include computing the shortest paths for all pairs of vertices, and the case where costs are all non-negative
+- *Minimum Spanning Tree* - given an undirected graph G = (V, E), assumed to be connected, with weights on each edge, find a subset E' of the edges with minimum total weight such that the subgraph G' = (V, E') is connected
+- *Matching* - given an undirected graph, find a maximum collection of edges subject to the constraint that every vertex is incident to at most one edge. The matching problem for bipartite graphs is especially common and the algorithm for this problem is much simpler than for the general case. A common variant is the maximum weighted matching problem in which edges have weights and a maximum weight edge set is sought, subject to the matching constraint.
+- *Maximum Flow* - given a directed graph with a capacity for each edge, find the maximum flow from a given source to a given sink, where a flow is a function mapping edges to numbers satisfying conservation (flow into a vertex equals the flow out of it) and the edges capacities. The minimum cost circulation problem generalizes the maximum  flow problem by adding lower bounds on edge capacities, and for each edge, a cost per unit flow.
+
+These four problems classes have polynomial time algorithms and can be solved efficiently in practice for very large graphs. Algorithms for these problems tend to be specialized, and the natural approach does not always work best. For example, it is natural to apply divide and conquer to compute the MST as follows. Partition the vertex set into two subsets, compute MSTs for the subsets independently, and then join these two MSTs with an edge of minimum weight between them.

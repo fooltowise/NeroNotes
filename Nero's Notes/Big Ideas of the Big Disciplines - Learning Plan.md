@@ -23,6 +23,7 @@
 - Complexity Economics, Santa Fe Institute
 - Understanding Michael Porter, Joan Magretta
 - Books by Clayton Christensen
+- Books by Thomas Sowell
 
 
 ## Mathematics
@@ -56,3 +57,7 @@
 - How to Win Friends and Influence People, Dale Carnegie
 - Never Split the difference, Chris Voss
 - Getting to Yes, Fisher
+
+
+## Literature
+- [[Reading List of St. John's College]]
