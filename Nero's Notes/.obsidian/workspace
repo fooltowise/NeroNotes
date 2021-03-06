@@ -30,6 +30,18 @@
         }
       },
       {
+        "id": "9ae5d54fcf53f74a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Philip Fisher's 15 points.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "78f1b4b0dd233482",
         "type": "leaf",
         "pinned": true,
@@ -50,31 +62,6 @@
           "type": "markdown",
           "state": {
             "file": "Big Ideas of the Big Disciplines - Learning Plan.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "12d5443c100f3225",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Paul Black on Moat Direction.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "e8495e357037e15c",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Wisdom of Crowds.md",
             "mode": "source"
           },
           "pinned": true
@@ -155,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paul Black on Moat Direction.md",
+                "file": "Philip Fisher's 15 points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Black on Moat Direction.md"
+                "file": "Philip Fisher's 15 points.md"
               }
             }
           }
@@ -183,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "Sustainable Sources of Competitive Advanatge.md",
+    "2021 Resolutions.md",
+    "Big Ideas of the Big Disciplines - Learning Plan.md",
+    "The Wisdom of Crowds.md",
     "Paul Black on Moat Direction.md",
     "The Fundamental Theorem of Investing.md",
     "Graphs.md",
     "Reading List of St. John's College.md",
-    "Big Ideas of the Big Disciplines - Learning Plan.md",
-    "Great Businesses to Study.md",
-    "The Wisdom of Crowds.md",
-    "Graph.md",
-    "Data Structures and Algorithms.md",
-    "Untitled.md"
+    "Great Businesses to Study.md"
   ]
 }
