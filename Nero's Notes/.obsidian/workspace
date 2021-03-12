@@ -17,6 +17,18 @@
         }
       },
       {
+        "id": "e26cf0b7950be4fa",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Writing.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "3f1a473bd3430a43",
         "type": "leaf",
         "pinned": true,
@@ -32,24 +44,12 @@
       {
         "id": "9ae5d54fcf53f74a",
         "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Philip Fisher's 15 points.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "78f1b4b0dd233482",
-        "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Self Improvement.md",
-            "mode": "preview"
+            "file": "Skill stack.md",
+            "mode": "source"
           },
           "pinned": true
         }
@@ -62,7 +62,7 @@
           "type": "markdown",
           "state": {
             "file": "Big Ideas of the Big Disciplines - Learning Plan.md",
-            "mode": "source"
+            "mode": "preview"
           },
           "pinned": true
         }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philip Fisher's 15 points.md",
+                "file": "Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philip Fisher's 15 points.md"
+                "file": "Writing.md"
               }
             }
           }
@@ -170,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Sustainable Sources of Competitive Advanatge.md",
+    "Writing.md",
     "2021 Resolutions.md",
+    "Skill stack.md",
+    "Self Awareness.md",
+    "Conflict Resolution.md",
+    "Rapport.md",
+    "Trumps Talent Stack - System vs Goals.md",
     "Big Ideas of the Big Disciplines - Learning Plan.md",
-    "The Wisdom of Crowds.md",
-    "Paul Black on Moat Direction.md",
-    "The Fundamental Theorem of Investing.md",
-    "Graphs.md",
-    "Reading List of St. John's College.md",
-    "Great Businesses to Study.md"
+    "Untitled.md",
+    "Sustainable Sources of Competitive Advanatge.md"
   ]
 }
