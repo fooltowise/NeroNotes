@@ -7,6 +7,7 @@ Good managers have the patience and discipline to invest in organic growth and t
 - [[Corporate Culture]]
 - [[Corporate Candor]]
 - [[Corporate governance]]
+- [[Management Alignment]]
 
 
 [[The wit and Wisdom of Johann Rupert]]

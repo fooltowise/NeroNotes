@@ -28,6 +28,10 @@ One final point: **Make sure that the competitive advantage of the company is go
 
 
 
+Make sure you are in a state where you [[Avoid Bad Decisions]]
+
+
+
 
 
 

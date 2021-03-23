@@ -19,3 +19,4 @@
 - [[Recursion]]
 - [[Dynamic Programming]]
 - [[Greedy Algorithms and Invariants]]
+- [[Parallel Computing]]

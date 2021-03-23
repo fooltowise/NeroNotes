@@ -3,7 +3,6 @@
 
 
 ## Meta Learning
-- All I want to know is where I am going to die so I'll never go there, Bevelin
 - Metaphors we live by, Lakoff
 - Consilience, E.O Wilson
 - Super Thinking, Gabriel Weinberg
