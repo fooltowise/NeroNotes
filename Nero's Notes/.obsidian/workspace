@@ -49,7 +49,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Evolutionarily Stable Strategy.md",
+            "file": "Kin Selection.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
           "type": "markdown",
           "state": {
             "file": "Selfish Gene.md",
-            "mode": "preview"
+            "mode": "source"
           },
           "pinned": true
         }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolutionarily Stable Strategy.md",
+                "file": "Kin Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolutionarily Stable Strategy.md"
+                "file": "Kin Selection.md"
               }
             }
           }
@@ -205,15 +205,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Kin Selection.md",
+    "Mental Models from Biology.md",
+    "Selfish Gene.md",
     "Evolutionary Stable Strategy.md",
     "Games Theory.md",
-    "Selfish Gene.md",
     "2021 Resolutions.md",
     "The OODA Loop.md",
     "Mental Models from the Military.md",
     "Mental Models.md",
-    "Mental Models from Biology.md",
-    "Genetics and Genome.md",
-    "Big Ideas of the Big Disciplines - Learning Plan.md"
+    "Genetics and Genome.md"
   ]
 }

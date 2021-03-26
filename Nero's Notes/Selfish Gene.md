@@ -81,3 +81,9 @@ Survival machines of the same species tend to impinge on each others' lives more
 
 Why is it that animals do not go all out to kill rival members of their species at every possible opportunity?  
 We can explain it with [[Games Theory]], and in particular with the essential concept of [[Evolutionarily Stable Strategy]] introduced by John Maynard Smith.
+
+
+### Genesmanship
+
+The key point of this chapter is that a gene might might be able to assist replicas of itself that are sitting in other bodies. If so, this would appear as individual altruism but it would be brought about by gene selfishness. The whole mechanism is called [[Kin Selection]] and has been first described by Hamilton.
+
