@@ -49,7 +49,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kin Selection.md",
+            "file": "Battle of the sexes.md",
             "mode": "source"
           }
         }
@@ -127,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "promoter",
+                "query": "trivers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kin Selection.md",
+                "file": "Battle of the sexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kin Selection.md"
+                "file": "Battle of the sexes.md"
               }
             }
           }
@@ -205,15 +205,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Battle of the sexes.md",
+    "Selfish Gene.md",
+    "Rapport.md",
+    "Skill stack.md",
+    "Big Ideas of the Big Disciplines - Learning Plan.md",
     "Kin Selection.md",
     "Mental Models from Biology.md",
-    "Selfish Gene.md",
     "Evolutionary Stable Strategy.md",
     "Games Theory.md",
-    "2021 Resolutions.md",
-    "The OODA Loop.md",
-    "Mental Models from the Military.md",
-    "Mental Models.md",
-    "Genetics and Genome.md"
+    "2021 Resolutions.md"
   ]
 }

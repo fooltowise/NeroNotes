@@ -87,3 +87,8 @@ We can explain it with [[Games Theory]], and in particular with the essential co
 
 The key point of this chapter is that a gene might might be able to assist replicas of itself that are sitting in other bodies. If so, this would appear as individual altruism but it would be brought about by gene selfishness. The whole mechanism is called [[Kin Selection]] and has been first described by Hamilton.
 
+
+### Battle of the sexes
+
+See [[Battle of the sexes]]
+
