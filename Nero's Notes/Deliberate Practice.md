@@ -16,4 +16,4 @@ There are some key elements of deliberate practice:
 
 
 
-See also [[Choosing Important Problems]], [[Advantageous Divergence]]
+See also [[Choosing Important Problems]], [[Advantageous Divergence]], and above all [[The Definitive Guide to Deliberate Practice]]

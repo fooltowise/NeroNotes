@@ -34,6 +34,9 @@
 - The selfish gene, Dawkins
 - The red queen, Ridley
 
+## Sociology
+- Social Capital, Nan Lin
+
 ## Games Theory
 - Strategy: an introduction to games theory, Joel Watson
 - Games Information 4e: An Introduction to Games Theory, Rasmusen

@@ -92,3 +92,18 @@ The key point of this chapter is that a gene might might be able to assist repli
 
 See [[Battle of the sexes]]
 
+
+### You scratch my back, I'll ride on yours
+
+See [[Reciprocated Altruism]]
+
+See [[Social Insects]]
+
+See [[Symbiosis]]
+
+
+### Memes, The New Replicators
+See [[Memes]]
+
+
+

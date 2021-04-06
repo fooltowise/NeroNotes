@@ -43,29 +43,6 @@
         }
       },
       {
-        "id": "21cf509aaa6cb6cb",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Battle of the sexes.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "22ba65fd254f576a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The OODA Loop.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "f7ef96a570c445a5",
         "type": "leaf",
         "pinned": true,
@@ -79,13 +56,14 @@
         }
       },
       {
-        "id": "5b1bb135970c4c98",
+        "id": "3d0d0e8f409e8969",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Parallel Computing.md",
-            "mode": "preview"
+            "file": "Memes.md",
+            "mode": "source"
           }
         }
       },
@@ -177,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Battle of the sexes.md",
+                "file": "Memes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Battle of the sexes.md"
+                "file": "Memes.md"
               }
             }
           }
@@ -205,15 +183,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Battle of the sexes.md",
+    "Memes.md",
     "Selfish Gene.md",
-    "Rapport.md",
-    "Skill stack.md",
     "Big Ideas of the Big Disciplines - Learning Plan.md",
-    "Kin Selection.md",
-    "Mental Models from Biology.md",
-    "Evolutionary Stable Strategy.md",
-    "Games Theory.md",
-    "2021 Resolutions.md"
+    "Diageo.md",
+    "The Definitive Guide to Deliberate Practice.md",
+    "Deliberate Practice.md",
+    "Four Types of Luck.md",
+    "How To Attract Luck.md",
+    "Symbiosis.md",
+    "Social Capital.md"
   ]
 }
