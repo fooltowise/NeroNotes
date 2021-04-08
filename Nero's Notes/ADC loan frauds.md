@@ -14,5 +14,5 @@ The typical control fraud made ADC loans with the following characteristics:
 - The developer pledged the real estate project (the collateral) to secure the loan.
 - The loan amount equaled the (purported) value of the collateral.
 - It was common for the borrower to receive at closing a developer's profit that could represent up to 2% of the loan balance.
-- It was common for borrowers to give S&Ls an equity kicker, an interest in the developer's net profits on the project. At first, these kickers often exceeded 50%. After the accounting profession issed a "notice to practitioners" that said 50% equity kicker was evidence that the transaction was not a true loan, it became common to give a 49% interest.
+- It was common for borrowers to give S&Ls an equity kicker, an interest in the developer's net profits on the project. At first, these kickers often exceeded 50%. After the accounting profession issued a "notice to practitioners" that said 50% equity kicker was evidence that the transaction was not a true loan, it became common to give a 49% interest.
 
