@@ -7,7 +7,7 @@
 So, compound interest is a marvelous force, where if you start out with 1x what you have, and then if you increase 20% a year for 30 years, it’s not that you got 30 years times 20% added on. It was compounding, so it just grew, and grew, and grew until you suddenly got a massive amount of whatever it is. Whether it’s goodwill, or love, or relationships, or money. So, I think compound interest is a very important force.
 
 
-You have to be able to play a long-term game. And long-term games are good not just for compound interest, they’re also good for trust. If you look at [[Prisoners Dilemna]] type games, a solution to prisoner’s dilemma is tit-for-tat, which is I’m just going do to you what you did last time to me, with some forgiveness in case there was a mistake made. But that only works in an iterated prisoner’s dilemma, in another words if we play a game multiple times.
+You have to be able to play a long-term game. And long-term games are good not just for compound interest, they’re also good for trust. If you look at [[Prisoners Dilemma]] type games, a solution to prisoner’s dilemma is tit-for-tat, which is I’m just going do to you what you did last time to me, with some forgiveness in case there was a mistake made. But that only works in an iterated prisoner’s dilemma, in another words if we play a game multiple times.
 
 So, if you’re in a situation, like for example you’re in Silicon Valley, where people are doing business with each other, and they know each other, they trust each other. Then they do right by each other because they know this person will be around for the next game.
 

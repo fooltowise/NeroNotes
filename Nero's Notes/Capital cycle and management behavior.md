@@ -4,7 +4,7 @@ High current profitability often leads to overconfidence among managers, who con
 
 Both investors and managers are engaged in making demand projection. Such forecasts have a wide margin of error and are prone to systematic biases. In good times, the demand forecasts tend to be too optimistic and in bad times overly pessimistic.
 
-High profitability loosens capital discipline in a industry. When returns are high, companies are inclined to boost capital spending. Competitors are likely to follow (engaging in a [[Prisoners Dilemna]]) - perhaps they are equally hubristic, or maybe they just don't want to lose market share.
+High profitability loosens capital discipline in a industry. When returns are high, companies are inclined to boost capital spending. Competitors are likely to follow (engaging in a [[Prisoners Dilemma]]) - perhaps they are equally hubristic, or maybe they just don't want to lose market share.
 
 Beside, CEO pay is often set in relation to company's earnings or market capitalization, thus [[Incentives|incentivizing]] managers to grow their firm's assets.  When a company announces with great fanfare a large increase in capacity, its share price often rises. Growth investors like growth! Momentum investors like momentum!
 

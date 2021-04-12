@@ -21,3 +21,6 @@ If this is a one-off decision, cooperating is a [[Dominated Strategy]] and both 
 However, when there is a non-negligible probability that the game will be repeated, we fall into an iterated instance of the prisoner's dilemna and players are better off cooperating. 
 
 Robert Axelrod has showed that in a iterated prisoner's dilemna, a [[Tit for Tat]] strategy is often optimal: players start cooperating at the first round and afterward play whatever the other player did on the previous round.
+
+
+See also [[Prisoners Dilemma in Evolution]]

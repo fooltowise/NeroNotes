@@ -56,13 +56,13 @@
         }
       },
       {
-        "id": "75ecdbc2feb98df0",
+        "id": "5f80b87c7e32eeec",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Memes.md",
+            "file": "Prisoners Dilemma in Evolution.md",
             "mode": "source"
           }
         }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memes.md",
+                "file": "Prisoners Dilemma in Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memes.md"
+                "file": "Prisoners Dilemma in Evolution.md"
               }
             }
           }
@@ -183,15 +183,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Memes.md",
-    "Selfish Gene.md",
-    "Implications of ADC loan frauds.md",
-    "How ADC Ponzis prevented defaults.md",
-    "ADC loan frauds.md",
-    "Profile of Control Frauds.md",
+    "Prisoners Dilemma in Evolution.md",
     "Big Ideas of the Big Disciplines - Learning Plan.md",
-    "Diageo.md",
-    "The Definitive Guide to Deliberate Practice.md",
-    "Deliberate Practice.md"
+    "Games Theory.md",
+    "Prisoners Dilemna.md",
+    "Prisoners Dilemna in Evolution.md",
+    "Selfish Gene.md",
+    "Untitled.md",
+    "Memes.md",
+    "Implications of ADC loan frauds.md",
+    "How ADC Ponzis prevented defaults.md"
   ]
 }

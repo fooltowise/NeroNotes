@@ -20,4 +20,4 @@ graph TD
 ```
 
 
-See Also [[Prisoners Dilemna]]
+See Also [[Prisoners Dilemma]]

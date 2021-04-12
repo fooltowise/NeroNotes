@@ -1,5 +1,6 @@
 # Games Theory
 
-[[Prisoners Dilemna]]
+[[Prisoners Dilemma]]
+[[Prisoners Dilemma in Evolution]]
 [[Advantageous Divergence]]
 [[Evolutionarily Stable Strategy]]
