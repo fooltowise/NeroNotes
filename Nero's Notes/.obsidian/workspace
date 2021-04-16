@@ -62,7 +62,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prisoners Dilemma in Evolution.md",
+            "file": "The Extended Phenotype.md",
             "mode": "source"
           }
         }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prisoners Dilemma in Evolution.md",
+                "file": "The Extended Phenotype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prisoners Dilemma in Evolution.md"
+                "file": "The Extended Phenotype.md"
               }
             }
           }
@@ -183,15 +183,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "The Extended Phenotype.md",
+    "Selfish Gene.md",
+    "Suites Arithmetico-geometriques.md",
     "Prisoners Dilemma in Evolution.md",
+    "2021 Resolutions.md",
     "Big Ideas of the Big Disciplines - Learning Plan.md",
     "Games Theory.md",
     "Prisoners Dilemna.md",
     "Prisoners Dilemna in Evolution.md",
-    "Selfish Gene.md",
-    "Untitled.md",
-    "Memes.md",
-    "Implications of ADC loan frauds.md",
-    "How ADC Ponzis prevented defaults.md"
+    "Untitled.md"
   ]
 }

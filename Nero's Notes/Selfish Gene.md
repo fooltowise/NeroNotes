@@ -109,4 +109,9 @@ See [[Memes]]
 See [[Prisoners Dilemma in Evolution]]
 
 
+### The Long Reach of the Gene
+
+See [[The Extended Phenotype]]
+
+
 
