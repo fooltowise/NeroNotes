@@ -11,7 +11,7 @@ Rule of thumb: don’t allow censorship if you’re not willing to have your ene
 
 First, we had a problem.  
 Then, we addressed it with censorship.  
-Now, we have a two problems.
+Now, we have two problems.
 
 
 The greatest trick authoritarians ever pulled was to convince the population that censorship is a tool to fight disinformation. Instead, it's a tool of disinformation used to fight information.
