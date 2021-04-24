@@ -43,26 +43,13 @@
         }
       },
       {
-        "id": "f7ef96a570c445a5",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Selfish Gene.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "5f80b87c7e32eeec",
+        "id": "24dd0b59e60a0abf",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Extended Phenotype.md",
+            "file": "Picking DNA's Locks.md",
             "mode": "source"
           }
         }
@@ -105,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trivers",
+                "query": "meiosis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Extended Phenotype.md",
+                "file": "Picking DNA's Locks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Extended Phenotype.md"
+                "file": "Picking DNA's Locks.md"
               }
             }
           }
@@ -183,15 +170,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "The Extended Phenotype.md",
-    "Thoughts on Censorship.md",
-    "Untitled.md",
-    "2021 Resolutions.md",
+    "Picking DNA's Locks.md",
+    "Sex.md",
+    "The Red Queen Effect in Biology.md",
+    "The genetic cost of Sex.md",
+    "Sex is Genetic Mixing.md",
+    "Why we fall in Love.md",
+    "Sex is primordial for Human Evolution.md",
     "Selfish Gene.md",
-    "Suites Arithmetico-geometriques.md",
-    "Prisoners Dilemma in Evolution.md",
-    "Big Ideas of the Big Disciplines - Learning Plan.md",
-    "Games Theory.md",
-    "Prisoners Dilemna.md"
+    "Mental Models from Biology.md",
+    "Evolution - Adaptation and the Red Queen Effect.md"
   ]
 }

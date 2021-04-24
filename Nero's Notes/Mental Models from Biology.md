@@ -15,3 +15,5 @@
 [[Genetics and Genome]]
 [[Selfish Gene]]
 [[Kin Selection]]
+[[The Extended Phenotype]]
+[[Sex]]
