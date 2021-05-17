@@ -6,3 +6,5 @@
 - [[The Red Queen Effect in Biology]]
 - [[Picking DNA's Locks]]
 - [[Why there are Two Genders]]
+- [[Why Women look for Personality]]
+- [[Why Women care for Fashion]]

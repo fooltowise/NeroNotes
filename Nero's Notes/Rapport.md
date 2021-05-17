@@ -3,7 +3,7 @@
 - [[How to win friends and Influence People]]
 
 
-> Or take relationships - getting criticized by your boss or spouse feels much worse than getting praised feels good. In fact, someone said about marriages that positive interactions must outnumber negative interactions by about five to one for a marriage to succeed. (See [[Deprival Super-reaction Syndrome]], and [[How to win friends and Influence People]]) - *All I want to know is where I am going to die so I'll never go there.
+> Or take relationships - getting criticized by your boss or spouse feels much worse than getting praised feels good. In fact, someone said about marriages that positive interactions must outnumber negative interactions by about five to one for a marriage to succeed. (See [[Deprival Super-reaction Syndrome]], and [[How to win friends and Influence People]]) - *All I want to know is where I am going to die so I'll never go there.*
 
 
 - You will not be able to change someone by criticizing him. If you want someone to change his opinions or behavior, **Appeal to interest and not to reason.**

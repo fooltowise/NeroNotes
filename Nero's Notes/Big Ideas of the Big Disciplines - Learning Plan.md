@@ -9,7 +9,7 @@
 - The Model Thinker, Scott Page
 
 ## Complex Adaptive Systems
-- Deep Simplicity, Gribbin
+- The Economy as a Complex Evolving System, Santa Fe Institute
 
 
 ## Architecture
@@ -19,7 +19,8 @@
 
 ## Economics
 - Principle of microeconomics, Mankiw
-- Complexity Economics, Santa Fe Institute
+- The Economy as a Complex Evolving System, Santa Fe Institute
+- Technology, what it is and how it evolves, W. Brian Arthur
 - Understanding Michael Porter, Joan Magretta
 - Books by Clayton Christensen
 - Books by Thomas Sowell
@@ -31,8 +32,6 @@
 
 
 ## Biology
-- The selfish gene, Dawkins
-- The red queen, Ridley
 
 ## Sociology
 - Social Capital, Nan Lin
