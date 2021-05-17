@@ -4,66 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "08700ef8319e6410",
+        "id": "6167a5de2d947551",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "2021 Resolutions.md",
-            "mode": "preview"
+            "mode": "preview",
+            "backlinks": true
           },
           "pinned": true
         }
       },
       {
-        "id": "3f1a473bd3430a43",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sustainable Sources of Competitive Advanatge.md",
-            "mode": "preview"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "9ae5d54fcf53f74a",
+        "id": "8478822865c85634",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Skill stack.md",
-            "mode": "preview"
+            "mode": "preview",
+            "backlinks": true
           },
           "pinned": true
         }
       },
       {
-        "id": "78052aeee75799af",
+        "id": "266a0ac51f20423c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Fundamental Theorem of Investing.md",
+            "mode": "preview",
+            "backlinks": true
+          }
+        }
+      },
+      {
+        "id": "9c96a59d06eed169",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Big Ideas of the Big Disciplines - Learning Plan.md",
-            "mode": "source"
+            "mode": "preview",
+            "backlinks": true
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "2f431d2e268b054a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Journal/2021-05-17.md",
-            "mode": "source"
-          }
         }
       }
     ],
@@ -140,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2021-05-17.md",
+                "file": "The Fundamental Theorem of Investing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,12 +143,12 @@
             }
           },
           {
-            "id": "4bfe365173fb5dfb",
+            "id": "86c18888f83b075b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2021-05-17.md"
+                "file": "The Fundamental Theorem of Investing.md"
               }
             }
           }
@@ -169,17 +160,17 @@
     "width": 182.4687042236328,
     "collapsed": true
   },
-  "active": "2f431d2e268b054a",
+  "active": "266a0ac51f20423c",
   "lastOpenFiles": [
-    "Journal/2021-05-17.md",
-    "How to win friends and Influence People.md",
-    "Dont Criticize People.md",
-    "Arouse an Eager Want.md",
-    "Give Honest and Sincere Appreciation.md",
-    "Journal/2021-05-16.md",
-    "INTJ.md",
-    "Growth Seeker.md",
-    "Stress Influence Tendency.md",
-    "Atomic Habits.md"
+    "The Fundamental Theorem of Investing.md",
+    "Never lose Money.md",
+    "Owner Operators.md",
+    "It is Owner Earnings that count.md",
+    "Owner Earnings vs Reported Earnings.md",
+    "Lollapalooza Effect.md",
+    "Skill stack.md",
+    "2021 Resolutions.md",
+    "Big Ideas of the Big Disciplines - Learning Plan.md",
+    "Competitive Advantage.md"
   ]
 }
