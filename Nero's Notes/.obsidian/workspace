@@ -32,6 +32,36 @@
         }
       },
       {
+        "id": "7709f3d91b90b463",
+        "type": "split",
+        "children": [
+          {
+            "id": "c263e4b150723344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to win friends and Influence People.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "5caf54a9c1a44534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2021-05-17.md",
+                "mode": "preview",
+                "backlinks": true
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
         "id": "266a0ac51f20423c",
         "type": "leaf",
         "state": {
@@ -131,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fundamental Theorem of Investing.md",
+                "file": "Journal/2021-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fundamental Theorem of Investing.md"
+                "file": "Journal/2021-05-17.md"
               }
             }
           }
@@ -160,17 +190,17 @@
     "width": 182.4687042236328,
     "collapsed": true
   },
-  "active": "266a0ac51f20423c",
+  "active": "5caf54a9c1a44534",
   "lastOpenFiles": [
-    "The Fundamental Theorem of Investing.md",
-    "Never lose Money.md",
-    "Owner Operators.md",
-    "It is Owner Earnings that count.md",
-    "Owner Earnings vs Reported Earnings.md",
-    "Lollapalooza Effect.md",
+    "Journal/2021-05-17.md",
+    "How to win friends and Influence People.md",
     "Skill stack.md",
-    "2021 Resolutions.md",
-    "Big Ideas of the Big Disciplines - Learning Plan.md",
-    "Competitive Advantage.md"
+    "Rapport.md",
+    "The Fundamental Theorem of Investing.md",
+    "Paul Black on Moat Direction.md",
+    "Visual thinking applied to investing.md",
+    "The making of a Multi-bagger.md",
+    "Capital Allocation.md",
+    "Never lose Money.md"
   ]
 }
