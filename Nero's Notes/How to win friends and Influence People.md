@@ -13,7 +13,7 @@ This is an action book.
 
 ## Part 1- Fundamental Techniques In Handling People
 
-- [[ Dont Criticize People]]
+- [[Dont Criticize People]]
 - [[Give Honest and Sincere Appreciation]]
 - [[Arouse an Eager Want]]
 

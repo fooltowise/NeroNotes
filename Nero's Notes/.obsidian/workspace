@@ -61,7 +61,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How to win friends and Influence People.md",
+            "file": "Journal/2021-05-17.md",
             "mode": "source"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to win friends and Influence People.md",
+                "file": "Journal/2021-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to win friends and Influence People.md"
+                "file": "Journal/2021-05-17.md"
               }
             }
           }
@@ -166,19 +166,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.4687042236328
+    "width": 182.4687042236328,
+    "collapsed": true
   },
   "active": "2f431d2e268b054a",
   "lastOpenFiles": [
+    "Journal/2021-05-17.md",
     "How to win friends and Influence People.md",
+    "Dont Criticize People.md",
     "Arouse an Eager Want.md",
     "Give Honest and Sincere Appreciation.md",
-    "Dont Criticize People.md",
     "Journal/2021-05-16.md",
     "INTJ.md",
     "Growth Seeker.md",
     "Stress Influence Tendency.md",
-    "Atomic Habits.md",
-    "Advanced tactics for habits creation.md"
+    "Atomic Habits.md"
   ]
 }
