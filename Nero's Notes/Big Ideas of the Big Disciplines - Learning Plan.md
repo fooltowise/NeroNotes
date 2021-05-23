@@ -55,10 +55,19 @@
 - [[Great Businesses to Study]]
 
 ## Interacting with People
-- How to Win Friends and Influence People, Dale Carnegie
+- [[How to Win Friends and Influence People]], Dale Carnegie
 - Never Split the difference, Chris Voss
 - Getting to Yes, Fisher
 
 
 ## Literature
 - [[Reading List of St. John's College]]
+
+
+## Semantics
+- *Drive Yourself Sane*, Bruce Kodish
+- *General Semantics Seminar 1937*, Alfred Korzybski
+- *Science & Sanity*, Alfred Korzybski
+- *The Book of Radical General Semantics*, Gad Horowitz
+- *Cosmic Trigger*, Robert Anton Wilson
+- *The Book*, Alan Watts
