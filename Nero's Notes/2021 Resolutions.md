@@ -12,12 +12,12 @@
 - Meditate daily
 - Understand what makes you tick and gets you in the flow
 - Acknowledge bad emotions. *I see you, Mara.*
-- Read *Awaken the Giant Within* and apply its lessons.
+- Read *[[Awaken the giant within]]* and apply its lessons.
 - Develop an effective morning routine. Re-read *Tools of Titans* for some ideas.
 - Read *The art of learning* by Josh Waitzkin
 
 ### Social
-- Read *[[How to win friends and Influence People]]* by Dale Carnegie and apply its lessons. Resolve this year, and all of the rest of my years, to come to a better understanding of the way people really are and to start living in accordance with it.
+- ~~Read *[[How to win friends and Influence People]]* by Dale Carnegie and apply its lessons. Resolve this year, and all of the rest of my years, to come to a better understanding of the way people really are and to start living in accordance with it.~~
 - **Actively look for people better than you and hang out with them often.**
 - Read *Never Split the difference* to learn how to negotiate, and apply its lessons.
 

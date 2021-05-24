@@ -34,39 +34,32 @@
               },
               "pinned": true
             }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "7709f3d91b90b463",
-        "type": "split",
-        "children": [
-          {
-            "id": "c263e4b150723344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to win friends and Influence People.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
           },
           {
-            "id": "5caf54a9c1a44534",
+            "id": "eb0b3acbc07dbb0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Journal Template.md",
+                "file": "Rapport.md",
                 "mode": "preview"
               }
             }
           }
         ],
         "direction": "horizontal"
+      },
+      {
+        "id": "790aae836cf6f46c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Awaken the giant within.md",
+            "mode": "source",
+            "backlinks": true
+          }
+        }
       },
       {
         "id": "9c96a59d06eed169",
@@ -85,13 +78,15 @@
       {
         "id": "08d7725a65055775",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "The Fundamental Theorem of Investing.md",
             "mode": "preview",
             "backlinks": true
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -168,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to win friends and Influence People.md",
+                "file": "The Fundamental Theorem of Investing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to win friends and Influence People.md"
+                "file": "The Fundamental Theorem of Investing.md"
               }
             }
           }
@@ -197,17 +192,17 @@
     "width": 182.4687042236328,
     "collapsed": true
   },
-  "active": "c263e4b150723344",
+  "active": "08d7725a65055775",
   "lastOpenFiles": [
-    "How to win friends and Influence People.md",
-    "Templates/Journal Template.md",
     "The Fundamental Theorem of Investing.md",
-    "Begin With Praise and Honest Appreciation.md",
-    "Show Respect for the Other Person's Opinions.md",
-    "Appeal to Nobler Motives.md",
-    "How to Practice social skills.md",
-    "Journal/2021-05-22.md",
+    "Unblemished by Industry Dogma.md",
+    "2021 Resolutions.md",
     "Big Ideas of the Big Disciplines - Learning Plan.md",
-    "Journal/2021-05-19.md"
+    "Awaken the giant within.md",
+    "Decisions -  The Pathway to Power.md",
+    "Skill stack.md",
+    "Self Awareness.md",
+    "How to win friends and Influence People.md",
+    "Rapport.md"
   ]
 }
