@@ -55,7 +55,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Awaken the giant within.md",
+            "file": "The Force That Shapes Your Life.md",
             "mode": "source",
             "backlinks": true
           }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fundamental Theorem of Investing.md",
+                "file": "The Force That Shapes Your Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fundamental Theorem of Investing.md"
+                "file": "The Force That Shapes Your Life.md"
               }
             }
           }
@@ -192,17 +192,17 @@
     "width": 182.4687042236328,
     "collapsed": true
   },
-  "active": "08d7725a65055775",
+  "active": "790aae836cf6f46c",
   "lastOpenFiles": [
-    "The Fundamental Theorem of Investing.md",
-    "Unblemished by Industry Dogma.md",
-    "2021 Resolutions.md",
-    "Big Ideas of the Big Disciplines - Learning Plan.md",
+    "The Force That Shapes Your Life.md",
+    "The Psychology of Human Misjudgment.md",
+    "Pavlovian Association.md",
     "Awaken the giant within.md",
     "Decisions -  The Pathway to Power.md",
-    "Skill stack.md",
-    "Self Awareness.md",
-    "How to win friends and Influence People.md",
-    "Rapport.md"
+    "Journal/2021-05-24.md",
+    "Untitled.md",
+    "The Fundamental Theorem of Investing.md",
+    "Unblemished by Industry Dogma.md",
+    "2021 Resolutions.md"
   ]
 }
