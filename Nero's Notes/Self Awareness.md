@@ -1,3 +1,3 @@
 # Self Awareness
 
-- [[Awaken the giant within]]
+- [[Awaken the Giant Within]]

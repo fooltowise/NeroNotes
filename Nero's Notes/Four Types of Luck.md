@@ -93,7 +93,7 @@ Capturing this kind of luck can seem impossible to envision at the start because
 
 **“Keep redefining what you do until this is true.”** - Naval Ravikant
 
-You need to build a [[[Skill stack]]](https://www.wealest.com/articles/25-percent-rule) unique to you. The more skills you stack, the more unique your offering, and the better chance you have to become the “best” at something.
+You need to build a [Skill stack](https://www.wealest.com/articles/25-percent-rule) unique to you. See also [[Skill stack]]. The more skills you stack, the more unique your offering, and the better chance you have to become the “best” at something.
 
 ### How To Get Luck Unique To You On Your Side
 

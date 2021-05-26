@@ -12,7 +12,7 @@
 - Meditate daily
 - Understand what makes you tick and gets you in the flow
 - Acknowledge bad emotions. *I see you, Mara.*
-- Read *[[Awaken the giant within]]* and apply its lessons.
+- Read *[[Awaken the Giant Within]]* and apply its lessons.
 - Develop an effective morning routine. Re-read *Tools of Titans* for some ideas.
 - Read *The art of learning* by Josh Waitzkin
 

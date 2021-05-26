@@ -50,16 +50,35 @@
         "direction": "horizontal"
       },
       {
-        "id": "790aae836cf6f46c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Force That Shapes Your Life.md",
-            "mode": "source",
-            "backlinks": true
+        "id": "f614e383010fd0f3",
+        "type": "split",
+        "children": [
+          {
+            "id": "790aae836cf6f46c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Force That Shapes Your Life.md",
+                "mode": "preview",
+                "backlinks": true
+              }
+            }
+          },
+          {
+            "id": "2d68c3e757930d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Mathematics of Returns.md",
+                "mode": "preview",
+                "backlinks": true
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "9c96a59d06eed169",
@@ -87,6 +106,18 @@
             "backlinks": true
           },
           "pinned": true
+        }
+      },
+      {
+        "id": "8fac65ccdce3e5e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Belief Systems - The Power to Create and the Power to Destroy.md",
+            "mode": "source",
+            "backlinks": true
+          }
         }
       }
     ],
@@ -163,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Force That Shapes Your Life.md",
+                "file": "Belief Systems - The Power to Create and the Power to Destroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Force That Shapes Your Life.md"
+                "file": "Belief Systems - The Power to Create and the Power to Destroy.md"
               }
             }
           }
@@ -192,17 +223,17 @@
     "width": 182.4687042236328,
     "collapsed": true
   },
-  "active": "790aae836cf6f46c",
+  "active": "8fac65ccdce3e5e5",
   "lastOpenFiles": [
-    "The Force That Shapes Your Life.md",
-    "The Psychology of Human Misjudgment.md",
-    "Pavlovian Association.md",
+    "Belief Systems - The Power to Create and the Power to Destroy.md",
+    "Social Proof.md",
+    "The Mathematics of Returns.md",
+    "Journal/2021-05-25.md",
     "Awaken the giant within.md",
-    "Decisions -  The Pathway to Power.md",
-    "Journal/2021-05-24.md",
-    "Untitled.md",
+    "How to kill a cuture.md",
+    "How to Improve Skill Development.md",
+    "How much do I get to live.md",
     "The Fundamental Theorem of Investing.md",
-    "Unblemished by Industry Dogma.md",
-    "2021 Resolutions.md"
+    "Nomad Letters.md"
   ]
 }

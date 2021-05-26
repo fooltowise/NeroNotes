@@ -1,5 +1,7 @@
 # How to improve Skill development
 
+You want to build your [[Skill stack]].
+
 
 You can increase the velocity of development with three variables: 
 - (1) The quantity of focused repetitions; 
