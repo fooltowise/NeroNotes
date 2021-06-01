@@ -158,3 +158,100 @@ Using social proof is a great way to limit your life - to make it just like ever
 
 What's the lesson? Trusting experts blindly is not well-advised. Don't blindly accept everything I say, either! Consider things in the context of your own life; does it make sense for you?
 
+
+## Pain is the ultimate tool for shifting a belief
+
+Again, pain is still the most powerful way to change a belief.
+
+It's vital to examine our beliefs, and their consequences, to make sure that they're empowering us. How do we know what beliefs to adopt? The answer is to find someone who's producing the results you truly want in your life. These people are the role models who can give you some of the answers you seek. Invariably, behind all successful people lies a specific set of empowering beliefs.
+
+**The way to expand our lives is to model the lives of those people who are already succeeding.** It's powerful, it's fun, and these people are available all around you. It's just a matter of asking questions: "What do you believe makes you different? What are the beliefs you have that separate you from others?"
+
+Years ago I read a book called *Meetings with Remarkable Men*, and used that as a theme to shape my life. Since then I've become a hunter of excellence, constantly seeking out the leading men and women in our culture to discover their beliefs, values, and strategies for achieving success. But remember: you are not limited to me: the models that you need are surrounding you every single day.
+
+...
+
+What can we learn from all this? The beliefs that we hold in business and in life control all of our decisions, and therefore our future. One of the most important global beliefs that you and I can adopt is a belief that in order to succeed and be happy, we've got to be constantly improving the quality of our lives, constantly growing and expanding.
+
+In Japan, they understand this principle well. In fact, in Japanese businesses, as a result of Deming's influence, there is a word that is used constantly in discussions about business or relationships. That word is *kaizen*. This word literally means constant improvement, and the word is constantly used in their language. They often speak of the *kaizen* of their trade deficit, the *kaizen* of the production line, the *kaizen* of their personal relationships. As a result, they're constantly looking at how to improve. By the way, *kaizen* is based upon the principle of gradual improvement, simple improvements. But the Japanese understand that tiny refinements made daily begin to create compounded enhancements at a level that most people would never dream of. The Japanese have a saying: "If a man has not been seen for three days, his friends should take a good look at him, and see what changes have befallen him". Amazingly, but not surprisingly, we have no equivalent word for *kaizen* in English.
+
+The more I began to see the impact of *kaizen* in the Japanese business culture, I realized that it was an organizing principle that made a tremendous impact in my own life. My own commitment to constantly improve, to constantly raise my own standards for a quality life is what's kept me both happy and successful. I realized that we all need a word to anchor ourselves to the focus of Constant and Never-ending Improvement. When we create a word, we encode meaning and create a way of thinking. The words that we use consistently make up the fabric of how we think and even affect our decision making.
+
+As a result of this understanding, I created a simple mnemonic: CANI!, which stands for Constant And Never-ending Improvement. I believe that the level of success we experience in life is in direct proportion to the level of our commitment to CANI!, to constant and never-ending improvement. CANI! is not a principle related merely to business, but to every aspect of our lives. In Japan, they often talk of company-wide quality control. I believe we have to focus on CANI! in our business, CANI! in our personal relationships, CANI! in our spiritual connection, CANI! in our health, and CANI! in our finances. How we can make constant and never-ending improvement in each of these areas? This makes life an incredible adventure in which we're always looking forward to the next level.
+
+CANI! is a true discipline. It can't just be practiced every once in a while, when you feel like it. It must be a **constant commitment backed up by action**. The essence of CANI! is gradual, even minute, continuous improvement that *over the long term* sculpts a masterpiece of colossal proportions. 
+
+Most people never feel secure because they are always worried that they will either lose their job, lose the money they already have, lose their spouse, lose their health, and so on. **The only true security in life comes from knowing that every single day you are improving yourself in some way**, that you are increasing the caliber of who you are and that you are valuable to your company, your friends and your family. **I don't worry about *maintaining* the quality of my life, because every day I work on *improving* it.** I constantly strive to learn and to make new and more powerful distinctions about ways to add value to other people's lives. This gives me a sense of certainty that I can always learn, that I can always expand, that I can always grow.
+
+As a integral part of my personal commitment to CANI!, at the end of each day I ask myself these questions: What have I learned today? What did I contribute or improve? What did I enjoy? If every day you constantly improve your ability to enjoy your life, then you'll experience it at a level of richness most people never even dream of.
+
+## Simple improvements are believable and therefore achievable!
+
+The key to success is developing a sense of certainty - the kind of belief that allows you to expand as a person and take the necessary action to make your life and the lives of those around you even greater. You may believe something is true today, but you and I need to remember that as the years go by and we grow, we'll be exposed to new experiences. And we may develop even more empowering beliefs, abandoning things we once felt certain about. Realize that your beliefs may change as you gather additional references. What really matters now is whether the beliefs you have today empower or disempower you. Begin today to develop the habit of focusing on the consequences of all your beliefs. Are they strengthening your foundation by moving you to action in the direction you desire, or are they holding you back?
+
+
+We've discovered so much about beliefs, but in order to truly take control of our lives, we've got to know what beliefs we're already using to guide us.
+
+So right now, stop everything else you're doing and take the next ten minutes to have some fun. Begin to brainstorm all the beliefs you have, both those that empower you and disempower you: little beliefs that don't seem to matter at all and global beliefs that seem to make a big difference. Make sure you cover:
+
+- **If-then** beliefs like: "If I consistently give my all, then I will succeed", or "If I'm totally passionate with this person, then they'll leave me"
+- **Global beliefs**, like beliefs about people - "People are basically good", or "People are a pain" - beliefs about yourself, beliefs about opportunity, beliefs about time, beliefs about scarcity and abundance.
+
+Jot down as many of these as you can imagine for the next ten minutes. Please give yourself the gift of doing this right now. When you're done, I'll show you how you can strengthen your empowering beliefs and eliminate the disempowering ones. Do it right now.
+
+
+As of 26/05/21:
+
+### Empowering beliefs:
+
+- When I am motivated I can learn any skill
+- I am a very good investor and master my personal finances. In four years I should be able to be a full time private investor.
+- People want to feel important
+- I have a wonderful wife who loves me, and a lovely kid
+- Time is the most scarce resource in the world
+- Lifelong learning is my motto
+- I can only progress on what I focus on
+
+
+### Disempowering beliefs:
+- I have a hard time socializing with people
+- Small talk is very hard to me
+- I have a very weak back that causes me pain
+- There are too many hurdles to create my own investment fund
+- I cannot resist eating too much food
+- I don't have a personal network 
+- I am stuck at my current job because even if i lack passion in what I do, nobody will pay me as much for the few hours I do.
+
+
+What have you learned by doing this? Take a moment now to review your beliefs. Decide upon and **circle the three most empowering beliefs on your list.** How do they empower you? How do they strengthen your life? Think about the positive processional effects they have upon you. Years ago, I made a list like this, and I found it invaluable because I discovered that I had a belief that was underemployed. It was the belief "**There's always a way to turn things around if I'm committed.**" When I read my list, I thought, "This is a belief that needs to be strengthened and turned into a conviction." 
+
+I am so glad I did because only about a year later that conviction was a life preserver that pulled me through one of the toughest times, a time when everything around me seemed to be sinking. Not only did it buoy my spirit, but it also helped me deal with one of the most difficult personal and business challenges I had yet faced.
+
+This one belief, this sense of certainty, enabled me to find ways to turn things around when everybody around me said it couldn't be done. I not only turned things around, I turned my biggest challenges into my biggest opportunities - and so can you! Review this list and strengthen your emotional intensity and sense of certainty that these beliefs are true and real so they can guide your future behaviors.
+
+
+
+Now let's take a look at your limiting beliefs. As you review them, what are some of the consequences that these beliefs carry with them? Circle the two most disempowering beliefs. Decide right now, once and for all, that you're no longer willing to pay the price that these beliefs are charging your life. Remember that if you begin to doubt the beliefs and question their validity, you can shake their reference legs so they no longer impact you. Knock those legs of certainty out from under your disempowering beliefs by **asking yourself some of the following questions:**
+1. How is this belief ridiculous or absurd?
+2. Was the person I learned this belief from worth modeling in this area?
+3. What will it ultimately cost me emotionally if I don't let go of this belief?
+4. What will it ultimately cost me in my relationships if I don't let go of this belief?
+5. What will it ultimately cost me physically if I don't let go of this belief?
+6. What will it ultimately cost me financially if I don't let go of this belief?
+7. What will it cost my family/loved ones if I don't let go of this belief?
+
+
+If you've taken the time to really answer these questions, you may find that your beliefs have been significantly weakened under the scrutiny of these questions. Now become fully associated to what these beliefs have been costing you and the real costs in your future if you do not change. Link such intense pain that you'll want to rid yourself of them forever, and then, finally, decide to do so *now*.
+
+Finally, we can't get rid of a pattern without replacing it with a new one. So right now, **write down the replacements for the two limiting beliefs you've just eliminated.** What is their antithesis? For example, if you had a belief that "I can never succeed because I am a woman," your new belief might be, "Because I am a woman, I have resources available to me that no man could ever dream of!" What are some of the references you have to back up this idea so you begin to feel certain about it? As you reinforce and strengthen the belief, it will begin to direct your behavior in an entirely new and more empowering way.
+
+If you're not getting the results you want in your life, I suggest you ask yourself, "What would I have to believe in order to succeed here?" Or "Who is already succeeding in this area, and what do they believe differently than I do about what's possible?" Or "What's necessary to believe in order to succeed?"
+
+You may very well discover the key belief that's been eluding you. If you're experiencing pain, if you feel challenged or frustrated or angry, you may want to ask yourself, "What would I have to believe in order to feel the way that I do?" The miracle of the simple process is that it will uncover beliefs you aren't even aware you have. For example if you're feeling depressed and ask yourself, "What would I have to believe in order to feel depressed?", you'll probably come up with something that relates to the future, like "Things will never get better," or "There's no hope." When you hear these beliefs verbalized, you might well think, "I don't believe that! I feel bad right now, but I know it's not going to be bad forever. This, too, shall pass." Or you may just decide that a belief about having problems permanently is totally destructive and one you're not willing to ever consider again.
+
+While you're examining these limiting beliefs, notice how your feelings change. Realize, believe, and trust that if you change the **meaning** of any event in your mind, you will immediately change how you feel and what you do, which will lead you to change your actions and thus transform your destiny. Changing what something means will change the decisions you make. Remember, **nothing in life has any meaning except the meaning you give it.** So make sure that you **consciously** choose the meanings that are most in alignment with the destiny you've chosen for yourself.
+
+Beliefs have the awesome potential to create or destroy. I believe you picked up a book because deep down you've decided you will not settle for less than the best you know you're capable of. Do you truly want to harness the vision you want rather than destroy your dreams? Then learn to choose the beliefs that empower you; create convictions that drive you in the direction of the destiny that calls to the highest within you. Your family, your business, your community, and your country deserves no less.
+
+
+

@@ -34,17 +34,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "eb0b3acbc07dbb0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rapport.md",
-                "mode": "preview"
-              }
-            }
           }
         ],
         "direction": "horizontal"
@@ -59,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Force That Shapes Your Life.md",
+                "file": "How to win friends and Influence People.md",
                 "mode": "preview",
                 "backlinks": true
               }
@@ -114,7 +103,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Belief Systems - The Power to Create and the Power to Destroy.md",
+            "file": "Yen Liow - Graham And Doddsville Interview.md",
             "mode": "source",
             "backlinks": true
           }
@@ -145,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "goodha",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +151,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Belief Systems - The Power to Create and the Power to Destroy.md",
+                "file": "Yen Liow - Graham And Doddsville Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Belief Systems - The Power to Create and the Power to Destroy.md"
+                "file": "Yen Liow - Graham And Doddsville Interview.md"
               }
             }
           }
@@ -225,15 +215,15 @@
   },
   "active": "8fac65ccdce3e5e5",
   "lastOpenFiles": [
-    "Belief Systems - The Power to Create and the Power to Destroy.md",
-    "Social Proof.md",
-    "The Mathematics of Returns.md",
-    "Journal/2021-05-25.md",
-    "Awaken the giant within.md",
-    "How to kill a cuture.md",
-    "How to Improve Skill Development.md",
-    "How much do I get to live.md",
+    "Yen Liow - Graham And Doddsville Interview.md",
+    "Yen Liow.md",
+    "Great Investors.md",
+    "Awaken the Giant Within.md",
+    "Journal/2021-06-01.md",
+    "Journal/2021-05-31.md",
     "The Fundamental Theorem of Investing.md",
-    "Nomad Letters.md"
+    "Journal/2021-05-30.md",
+    "How to win friends and Influence People.md",
+    "Skill stack.md"
   ]
 }
