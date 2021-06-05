@@ -1,10 +1,19 @@
 
-1. What topic am I currently focusing on?
-2.  What did I learn today?
-3. What mistakes did I make?
-4. What did I do was right - and in what way could I have improved my performance?
-5.  What lessons can I learn from that experience?
 
+
+## Daily Journal
+
+
+
+### Deliberate Practice:
+- How many blocks of deliberate practice did I do today?
+- What were the basic blocks I was trying to master?
+- Which question should I focus on?
+
+
+
+### Focus Training
+- What did I do to train my focus and my attention?
 
 
 

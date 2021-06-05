@@ -103,9 +103,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Yen Liow - What Got You There Interview.md",
+            "file": "Journal/2021-06-05.md",
             "mode": "source",
             "backlinks": true
+          }
+        }
+      },
+      {
+        "id": "f4dea2d3d39f93e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Yen Liow.md",
+            "mode": "source"
           }
         }
       }
@@ -151,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yen Liow - What Got You There Interview.md",
+                "file": "Journal/2021-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yen Liow - What Got You There Interview.md"
+                "file": "Journal/2021-06-05.md"
               }
             }
           }
@@ -215,15 +225,15 @@
   },
   "active": "8fac65ccdce3e5e5",
   "lastOpenFiles": [
-    "Yen Liow - What Got You There Interview.md",
-    "Yen Liow.md",
-    "Yen Liow - Graham And Doddsville Interview.md",
+    "Journal/2021-06-05.md",
+    "The days are long but the decades are short.md",
+    "Self Improvement.md",
     "Be aware of the rules of life.md",
-    "Great Investors.md",
-    "Awaken the Giant Within.md",
-    "Journal/2021-06-01.md",
-    "Journal/2021-05-31.md",
-    "The Fundamental Theorem of Investing.md",
-    "Journal/2021-05-30.md"
+    "Choose your Role Models.md",
+    "Marketing through Authenticity.md",
+    "Improve your environment.md",
+    "Quality of life.md",
+    "Designing your life.md",
+    "Deliberate Practice.md"
   ]
 }

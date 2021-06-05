@@ -14,7 +14,7 @@
 - Acknowledge bad emotions. *I see you, Mara.*
 - Read *[[Awaken the Giant Within]]* and apply its lessons.
 - Develop an effective morning routine. Re-read *Tools of Titans* for some ideas.
-- Read *The art of learning* by Josh Waitzkin
+- Read *[[The Art of Learning]]* by Josh Waitzkin
 
 ### Social
 - ~~Read *[[How to win friends and Influence People]]* by Dale Carnegie and apply its lessons. Resolve this year, and all of the rest of my years, to come to a better understanding of the way people really are and to start living in accordance with it.~~

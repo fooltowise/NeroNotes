@@ -1,5 +1,7 @@
 # Self Improvement
 
+
+[[Quality of life]]
 [[Improve your environment]]
 [[Choose your Role Models]]
 [[Be aware of the rules of life]]
@@ -18,4 +20,4 @@
 
 
 
-See[[How to be successful]], [[Designing your life]], [[Deliberate Practice]], [[The days are long but the decades are short]]
+See [[How to be successful]], [[Designing your life]], [[Deliberate Practice]], [[The days are long but the decades are short]]

@@ -7,3 +7,5 @@ Choose your role model and emulate him as much as possible. In everything you do
 - Terry Smith
 - Nick Sleep
 - Warren Buffett
+- Yen Liow
+- Mohnish Pabrai
