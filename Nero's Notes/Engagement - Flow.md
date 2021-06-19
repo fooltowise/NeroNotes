@@ -1,3 +1,5 @@
+# Engagement - Flow 
+
 Flow is engagement on steroids. Flow is that state of being in which time stands still, you're totally engaged in an activity, and the challenge of that particular activity matches up with your skill - so you're neither bored because it's too easy nor anxious because it's too hard. People describe this state of engagement as "euphoric", "in the zone", and "freakin' awesome". 
 
 Flow was "discovered" by Professor Mihaly Csikszentmialyi, who has been researching this phenomenon since the 1970s. When he first described the state of flow, he had studied the detailed activities of thousands of people going about their daily lives and was able to isolate this very special form of intense engagement. 

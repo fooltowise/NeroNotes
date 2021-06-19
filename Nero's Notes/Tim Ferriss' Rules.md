@@ -1,3 +1,5 @@
+# Tim Ferriss' Rules
+
 
 Tim Ferriss' great rules to go by:
 

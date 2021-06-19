@@ -6,7 +6,7 @@ The key to pursuing excellence is to embrace an organic, long-term learning proc
 
 In my experience, successful people shoot for the stars, put their hearts on the line in every battle, and ultimately discover that the lessons learned from the pursuit of excellence mean much more than the immediate trophies and glory. In the long run, painful losses may prove much more valuable than wins - those who are armed with a healthy attitude and are able to draw wisdom from every experience, "good" or "bad", are the ones who make it down the road. They are also the ones who are happier along the way. Of course the real challenge is to stay in range of this long-term perspective when you are under fire and hurting in the middle of the war. This, maybe our biggest hurdle, is at the core of the art of learning.
 
-The learner should internalize a process-first approach and the feedback he receives should be to effort over results. Feedback should praise good concentration, a good day's work, a lesson learned. When a victory occurs, the spotlight should be on the road to that moment and beyond as opposed to the glory.
+The learner should internalize a process-first approach and the feedback he receives should be to effort over results. Feedback should praise good concentration, a good day's work, a lesson learned. When a victory occurs, the spotlight should be on the road to that moment and beyond as opposed to the glory. See also [[Deliberate Practice]] and [[The Definitive Guide to Deliberate Practice]]
 
 **The Soft Zone**
 

@@ -19,3 +19,6 @@ After doubling in the share price and the weighty resultant position in the Part
 Indeed, Sleep’s Nomad Partnership held $55.2 million of Amazon shares in 2007, when the stock ended the year trading at 82x earnings. Nomad had more than doubled the size of their holding by the time the Partnership closed in 2014, when the position was worth $1.2 billion. Today, those shares would cost you around $9 billion. For decades, consensus that Amazon is overpriced has been too reliant on misleading heuristics. The cost of missing out has been immense.
 
 Today’s lofty valuations of tech companies lead us to reflect on Sleep’s now-clear observations, which at the time were contrarian views. At Montaka we strive to find high quality businesses with similar long-term advantages, including some that employ Sleep’s “scale economics shared” model. We understand the cost of missing out on today’s 2004 Costco or Amazon far outweighs the cost of overpaying for a traditionally “expensive” business. Fortunately, we avoid such heuristics through independent analysis and a deep understanding of the qualitative aspects of industries that make them attractive on a decade-plus view.
+
+
+

@@ -2,12 +2,14 @@
 
 
 [[Quality of life]]
+[[Tim Ferriss' Rules]]
 [[Improve your environment]]
 [[Choose your Role Models]]
 [[Be aware of the rules of life]]
 [[Marketing through Authenticity]]
 [[Compound your Goodwill]]
 [[Have a MasterMind Group]]
+[[The Art of Learning]]
 
 > If I have a goal for the next 10 years, how can I get there in 6 months? 
 -Peter Thiel

@@ -1,14 +1,14 @@
 ### by Graham Duncan
 
-Over the last decade, I’ve interviewed and assessed more than 5,000 investment managers. One of the most important things I’ve learned in that process is what separates the great investors from the rest. The great ones view investing as a game, and they know exactly what game they’re playing. It brings to mind an observation from the philosopher Kwame Anthony Appiah:
+Over the last decade, I've interviewed and assessed more than 5,000 investment managers. One of the most important things I've learned in that process is what separates the great investors from the rest. The great ones view investing as a game, and they know exactly what game they’re playing. It brings to mind an observation from the philosopher Kwame Anthony Appiah:
 
 > In life the challenge is not so much to figure out how best to play the game; the challenge is to figure out what game you’re playing.
 
-One great portfolio manager I know told the story of being driven somewhere by an analyst on a rainy night when a truck swerved and almost ran them off the road. “Why is stuff like this always happening to me?” the analyst instinctually responded. But to the portfolio manager, that response reflected a terrible mindset, whether on the road or in the market: a sense that the world is acting on you as opposed to your acting on the world. It is a mindset that is hard to change. But from what I’ve seen, great investors don’t have it. Instead, they’ve come to understand which factors in the market they can control and which factors they cannot.
+One great portfolio manager I know told the story of being driven somewhere by an analyst on a rainy night when a truck swerved and almost ran them off the road. “Why is stuff like this always happening to me?” the analyst instinctually responded. But to the portfolio manager, that response reflected a terrible mindset, whether on the road or in the market: a sense that the world is acting on you as opposed to your acting on the world. It is a mindset that is hard to change. But from what I've seen, great investors don’t have it. Instead, they've come to understand which factors in the market they can control and which factors they cannot.
 
-One way to relocate your locus of control is to frame investing (and even life more generally) as a game. This allows you to experience luck as luck, to separate the hand you drew from the playing of that hand. As David Milch, the creator of the HBO show Deadwood, put it, he realized late in life that “it’s the way you learn to play the cards you’ve been dealt, rather than the hand itself, that determines the worth of your participation in the game.”
+One way to relocate your locus of control is to frame investing (and even life more generally) as a game. This allows you to experience luck as luck, to separate the hand you drew from the playing of that hand. As David Milch, the creator of the HBO show Deadwood, put it, he realized late in life that “it’s the way you learn to play the cards you've been dealt, rather than the hand itself, that determines the worth of your participation in the game.”
 
-For investors, I’ve come to think of five levels of the game:
+For investors, I've come to think of five levels of the game:
 
 1. Apprentice — learning the game
 
