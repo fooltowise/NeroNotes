@@ -72,7 +72,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nick Sleep and Qais Zackaria.md",
+            "file": "Made In America - Sam Walton.md",
             "mode": "source",
             "backlinks": true
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nick Sleep and Qais Zackaria.md",
+                "file": "Made In America - Sam Walton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nick Sleep and Qais Zackaria.md"
+                "file": "Made In America - Sam Walton.md"
               }
             }
           }
@@ -192,6 +192,8 @@
   },
   "active": "bfbc97958eccfdd0",
   "lastOpenFiles": [
+    "Made In America - Sam Walton.md",
+    "Scale Economics Shared Businesses.md",
     "Nick Sleep and Qais Zackaria.md",
     "Great Investors.md",
     "Nick Sleep on Why Culture eats Strategy.md",
@@ -199,8 +201,6 @@
     "Costco Annual Letter 2020.md",
     "Costco Annual Letters.md",
     "Costco Annual Letter 2019.md",
-    "Zen and the Art of Motorcyle Maintenance.md",
-    "Costco Annual Letter 2018.md",
-    "Costco Annual Letter 2016.md"
+    "Zen and the Art of Motorcyle Maintenance.md"
   ]
 }
