@@ -1,0 +1,38 @@
+# The Locker Room Culture
+
+See also [[Corporate Culture]]
+
+The attitude of the builders and sellers of these new things may be akin to what Charlie Munger called the "*Locker Room Culture*". This is an attitude whereby the players just have to win, and they are not too squeamish about the means. And if winning, for some, meant securing a bigger bonus than others, then, in the case of the mortgage market, any way to get people to buy expensive paper was just fine, and to hell with the consequences. This is a proud, manipulative, point-scoring orientation that manifests itself in all walks of life, but may be especially evident on Wall Street, although some salesmen, sportsmen, chief executives, politicians, warlords and hedge fund types are notably not exempt. It is perhaps the dominant, get-ahead mindset of our times and it is inherently focused on vivid, short-term outputs. Sales targets and profit margins achieved through cutting corners may be inherently worthless in the end, but they can dazzle for a while, and that is their value to the locker room set.
+
+
+If we are honest, we have all been tricked by the unscrupulous salesman and his short-term promises. It is, perhaps, part of growing up. Zak and I have certainly responded, with order sheet and pen at the ready, to firms that have explicitly promised revenue and margins targets, without really considering how those targets were to be earned or whether they were sustainable. Oh dear! One-nil to the locker room set. In the end though, the sin and folly of the locker room culture, with its win at any costs attitude, does huge damage to us all.
+
+A great deal has been penned on why the locker room mindset exists in listed businesses. However, it is interesting that the commentary has, to date, been almost deferential towards shareholders, who are cast more as victims of scandals rather than sowers of their own misfortune. We would argue a contrary view: if the shareholder base of a listed firm is dominated by, say, mutual funds that, in turn, are seeking short term performance, then that too will be what they will seek in their investments. An odd pact may, therefore, develop between the immediate business imperatives of the sales-force-controlled mutual fund and, say, the consumer goods company with earnings to hit. Both parties will care for short term outputs and will take from the long-term to meet their needs. All parties will invariably be in denial that this is the case, at least to their clients but, we ask, how are the incentives aligned? We would argue that not only do companies get the investors they deserve, but investors also get the companies they deserve.
+
+Schlock begets schlock, as it were.
+
+Operating inside the bubble, it is hard for many participants to see this. the author Upton Sinclair, commenting on the attitude of businessmen and almost one hundred years to the day before the current credit crisis, had it about right, "*It is difficult to get a man to understand something when his salary (or bonus) depends on his not understanding it*". So, the mindset is prevalent because it pays in the short term. but this does not make it the right thing to do, nor does it make it profitable over the long-term.
+
+
+## Doing what is right rather than what plays well
+
+Zak and I far prefer a different approach. We would argue that locker room behavior is more likely to be spotted by patient, generalist investors deploying common sense, as it helps to be outside the bubble to see the bubble. It may also aid one's thinking if the investor is prepared to make a meaningful, long term investment as this breaks the in-out, get-rich-quick spell of the salesman (and, let's face it, the salesman in one's own head!). Our anti-locker room disposition was echoed by the founder of one of Nomad's investee firms, who, in a private meeting, put it as follows: 
+
+>*If you want to be successful, and we do, then you have to be willing to be misunderstood, and do things that do not seem sensible to most people.*
+
+For example, "*If you (employees) come into the office in the morning thinking how you are going to beat number one, two or three in the industry*" - how many times have we heard companies articulate that view? - "*then, our firm is the wrong place for you. We start with the customer and work backwards.*" Oh, sweet nectar! He continued that rather than set your standards by what others do, the firm benefited from a "*divine discontent*" with the status quo, which kept colleagues on their toes and the firm improving, irrespective of what the competition were doing. In other words, his company had an internal compass with true north pointing to what was right for the customer.
+
+This orientation strikes us as the antithesis of the locker room set.
+
+## Character as a way of reducing reinvestment risk
+
+Judging by our hit rate with companies interviewed, Zak and I would guesstimate that fewer than five percent of publicly listed firms do what they think is right, rather than what they think plays well with the outside world (media, Wall Street, investors). Even so, the vast majority of Nomad's firms do what is right long term. But I suspect we have a predilection for such people. Which brings us on to an important characteristic of Nomad today that we hope will affect results for years to come.
+
+There are, broadly, two ways to behave as an investor. First, buy something cheap in anticipation of a rise in price, sell at a profit, and repeat. Almost everybody does this to some extent. And for some fund managers it requires, depending upon the number of shares on a portfolio and the time they are held, perhaps many hundred decisions a year. Alternatively, the second way to invest is to bey shares in a great business at a reasonable price and let the business grow. This appears to require just one decision (to buy the shares) but, in reality, it requires daily decisions not to sell the shares as well! Almost no one does this, in part because it requires patience - and the locker room set does not do patience - but also because inactivity is the enemy of high fees.
+
+
+Regardless of how it may appear, Zak and I are drifting toward inactivity, at least as judged by our industry. As we have set out in earlier letters, in part this is because we realize through vicarious, and not so vicarious (!), experience that we do not know that much. We certainly do not have an opinion on many hundred shares, at least, not an opinion in which we would invest money. Second, we have learned or, rather, come to appreciate, that the character of a firm - call it the ability to resist locker room temptation - is far more important than first we realized. This is an important insight. In the long run it may be all that matters. And note, 
+
+Nomad is overwhelmingly invested in businesses of great character.
+
+Third, if our firms can successfully grow, and we can resist the temptation to fiddle, then we can meaningfully reduce the reinvestment risk embedded in lots of share buying and selling. Finally, great businesses have been "on sale" and were, in our opinion, the investment opportunity of the credit crisis period. When we wrote to you a year ago, we said, "*It may not feel like it but for a long term investor this is the best of times not the worst... Take heart and look for the horizon.*" Today we have a portfolio of exceptional, iconoclastic businesses that we could own for many years. This is investment heaven.

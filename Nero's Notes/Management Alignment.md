@@ -1,6 +1,6 @@
 # Management Alignment
 
-See [[Corporate Management]], [[Superpower of Incentives]], [[Reward and Punishement Super-response Tendency]]
+See [[Corporate Management]], [[Superpower of Incentives]], [[Reward and Punishment Super-response Tendency]]
 
 In our book, alignment means being a partner in both directions, not just on the upside. Many 'Alignment' plans flunk this basic test, being artful forms of 'Head I win, tails you lose.'
 

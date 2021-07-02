@@ -104,7 +104,7 @@ Man's - often wrong but generally useful - psychological tendencies are quite nu
 
 With this introductory instruction from ants, magicians, and the grand general principle of social psychology, I will next simply number and list psychology based tendencies that, while generally useful, often mislead. Discussion of errors from each tendency will come later, together with description of some antidotes to errors, followed by some general discussion. Here are the tendencies:
 
-1. [[Reward and Punishement Super-response Tendency]]
+1. [[Reward and Punishment Super-response Tendency]]
 2. [[Liking - Loving Tendency]]
 3. [[Disliking - Hating Tendency]]
 4. [[Doubt Avoidance Tendency]]

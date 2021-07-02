@@ -1,4 +1,4 @@
-
+# Consequences of Network Theory
 The [[Network Theory and Scale]] has direct implications on scaling systems and beings. 
 
 ### Fractal behavior:

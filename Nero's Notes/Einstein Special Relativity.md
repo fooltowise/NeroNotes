@@ -19,8 +19,8 @@ $$ m = \frac {m_0}{\sqrt{1 - \frac{u^2}{c^2}   }} $$  where m0 is the mass at re
 
 ## Consequences of Special relativity
 
-With Einstein's and Lorentz' equations, we get some unintuitive results:
-- When a referential S' is moving at a velocity u along x axis from another referential S, lengths along x are compressed in S': If an object has a lengt L in S, it will have a length 
+With Einstein's and Lorentz' equations, we get some non-intuitive results:
+- When a referential S' is moving at a velocity u along x axis from another referential S, lengths along x are compressed in S': If an object has a length L in S, it will have a length 
  $$\frac {L}{\sqrt{1 - \frac{u^2}{c^2}   }}$$ in S'
 - In such a referential, time is slower: If an observer Joe in S is watching somebody else (Moe) located  in S', everything that Moe will do will look slower to Joe (but Moe will not be aware of it).
 - Finally, if two events are simultaneous in S', they won't be necessarily be simultaneous in S. For instance, imagine two clocks in a spaceship S' moving at a velocity u from S. One clock is at the front of the spaceship and another at the rear. Although the clocks may be synchronous for an observer inside the spaceship, they won't be at all for an observer in S: **There is failure of simultaneity**

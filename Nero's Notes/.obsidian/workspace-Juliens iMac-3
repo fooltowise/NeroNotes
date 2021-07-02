@@ -39,9 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nick Sleep and Qais Zackaria.md",
-                "mode": "source",
-                "backlinks": true
+                "file": "Journal/2021-06-25.md",
+                "mode": "source"
               }
             }
           }
@@ -99,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "destination",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nick Sleep and Qais Zackaria.md",
+                "file": "Journal/2021-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nick Sleep and Qais Zackaria.md"
+                "file": "Journal/2021-06-25.md"
               }
             }
           }
@@ -180,15 +179,15 @@
   },
   "active": "cd7356e82c7663d8",
   "lastOpenFiles": [
+    "Journal/2021-06-25.md",
+    "Skill stack.md",
+    "2021 Resolutions.md",
     "Nick Sleep and Qais Zackaria.md",
-    "The Everything Store.md",
+    "Nick Sleep on Scale Economics Shared.md",
+    "Reward and Punishement Super-response Tendency.md",
+    "Journal/2021-06-24.md",
+    "Made In America - Sam Walton.md",
     "Scale Economics Shared Businesses.md",
-    "The Nature of Comparative Advantages.md",
-    "The Locker Room Culture.md",
-    "Shifting operating outflows to other sections.md",
-    "Einstein Special Relativity.md",
-    "Scale Economics Shared.md",
-    "Arrays.md",
-    "Industry Structure.md"
+    "Great Investors.md"
   ]
 }

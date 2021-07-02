@@ -1,7 +1,7 @@
 # How to do what you love
 
 #PaulGraham 
-## by Paul Graham
+## by [[Paul Graham]]
 
 To do something well you have to like it. That idea is not exactly novel. We've got it down to four words: "Do what you love." But it's not enough just to tell people that. Doing what you love is complicated.
 

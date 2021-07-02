@@ -18,4 +18,4 @@
 
 ### Shifting operating cash outflows off the statement of cash flows
 
-- Ex: in 2011 Diageo funded its UK pension plan scheme  with GBP535 million of whiskey, avoiding to use precious cash flows.  As the whiskey ages, its value would increase, improving the funded status of the plan. 
+- Ex: in 2011 Diageo funded its UK pension plan scheme  with £535 million of whiskey, avoiding to use precious cash flows.  As the whiskey ages, its value would increase, improving the funded status of the plan. 

@@ -1,0 +1,12 @@
+# Mistakes
+The analytical mistake in both case (buying Conseco and selling Stagecoach) was to have a static view of a firm formed at the time of purchase, which failed to evolve as the facts changed. 
+
+This error was reinforced by misjudgments such as denial (the facts have changed) and ego (we can't be wrong). There was also an over-reliance on price to value ratio type analysis, which can encourage a tighter range of outcomes than occurs in reality. And what did we learn in Investing 101 from Lord Keynes: "*better to be generally right than precisely wrong*"! At the time we were making these errors we would have held Keynes' quote as true. One has to be so careful; sometimes these mistakes are very insidious. Keynes' dying words were reported to be "*I should have had more champagne*". No doubt he is right on both accounts.
+
+Destination analysis is consciously central to how we analyze
+businesses these days. It helps us ask better questions  and get to a firm's DNA. What we learnt at Conseco may well have kept us out of the US banks last year, and what we learnt at Stagecoach has helped us continue to own Amazon. These two benefits have been a combined gain in the order of $60m during 2007 to investors in Nomad. the math behind this assumption is a little finger-in-the-air and is unadjusted for subscriptions post mistakes, but it is directionally correct and implies that a large proportion of Nomad's performance in 2007 came from the lessons learnt from mistakes in 2003 and 2004. Think of it as a return on prior year losses. 
+
+
+
+
+Let's invert for a moment: when we think of our investee companies, the firms which we would quite happily own with no word from them for years are those businesses in which we have the highest confidence of reaching a favorable destination: they are the firms we think we know will work. They are also the largest holdings in Nomad. It is the less certain businesses about which we are more insecure that appear to demand more regular attention. If there is demand for our holdings list, is that what our clients are sub-consciously asking? A bit of handholding please because the trust is lacking? And what does that say of the monthly reporting that passes for industry norm? Thank you for helping us avoid that mistake. Our six-monthly writing may be as irrational as monthly reporting, but at what frequency does letter writing become rational? Presumably when one has something meaningful to say. Gosh, that is not very often! 

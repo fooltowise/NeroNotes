@@ -1,5 +1,5 @@
 # How to Think for yourself
-### by Paul Graham
+### by [[Paul Graham]]
 
 November 2020
 

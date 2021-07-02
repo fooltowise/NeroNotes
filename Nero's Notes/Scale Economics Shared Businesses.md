@@ -12,5 +12,8 @@
 
 
 
-## Walmart (in some measure)
+## Walmart 
 [[Made In America - Sam Walton]]
+
+## Amazon
+[[The Everything Store]]

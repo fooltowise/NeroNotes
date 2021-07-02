@@ -2,7 +2,7 @@
 
 ## From Munger
 
-- [[Reward and Punishement Super-response Tendency]]
+- [[Reward and Punishment Super-response Tendency]]
 - [[Liking - Loving Tendency]]
 - [[Disliking - Hating Tendency]]
 - [[Doubt Avoidance Tendency]]

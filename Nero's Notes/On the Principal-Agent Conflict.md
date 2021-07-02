@@ -1,0 +1,16 @@
+# On the Principal-Agent Conflict
+
+
+What I am describing is one aspect of the principal agent conflict, that is, the interests of you, the principals, are different from ours, your manager, the agent. There are two ways to approach this situation:
+1. Maximize the conflict for the sake of maximizing short-term agent revenues (standard industry practice)
+2. Set about minimizing the difference through behaving and thinking like principals.
+
+Zak and I have followed the second path. I know we are agents by virtue of the Nomad performance fee and perhaps that is the lot of young men with mortgages and families. But I do not think it is our natural disposition. There comes a point when turbo-charging is counter-productive and there will come a day when we will be able to waive the performance fee. Before you start rubbing your hands, it's not around the corner, no really, it isn't! But we mention this in writing now so that hopefully you will remind us of it in years to come and hold us to account! Our motivation is to do a good job. If we do that then the mortgages will take care of themselves.
+
+Which brings me to the subject of the existing performance fee. Eagle-eyed investors will not have failed but notice the near 200 basis point difference between gross and net performance this year, reflecting the performance fee earned. We are in this position because performance for all investors is in excess of 6% per annum compounded. But given historic performance, that may be the case for a very long time.
+
+Indeed, we are so far ahead of the hurdle that if the Partnership now earned pass-book rates of return, say 5% per annum, we would continue to "earn" 20% performance fees (1% of assets) for thirty years, that is, until the hurdle caught up with actual results. During those thirty years, which would see me through to retirement, we would have added no value over the money market rates you can earn yourself, but we would still have been paid a "performance fee". We are only in this position because we have done so well, and one could argue that contractually we have earned the right by dint of performance, but just look at the conflicts!
+
+Given the incentives, we should buy treasuries, and to keep us on our toes, you should rightly withdraw your investment and immediately reinvest to rest the base line. That's not the relationship we want. Now, we are not going to buy treasuries (check your other managers for those!) and to your great credit, no one has tried to game the system through withdrawing and reinvesting, and we would be mortified if you did. And given the way both investors and your manager appear to think and behave, I may be guilty of fixing a problem that does not exist.
+
+But even so, and at the risk of a belt and braces approach, I would like to propose that from this year the performance fee be amended so that the high-water mark also compounds at 6% per annum, and I will write to you shortly to ask approval for that amendment to the prospectus. That way each new year has a hurdle of 6%, and the hypothetical pass-book return goes unrewarded. No one has criticized the status-quo. But I simply do not want to earn a "performance fee" if future returns are below 6% each year, that is not what we were about, and I want to be able to shave in peace in the morning!
