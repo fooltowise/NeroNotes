@@ -5,9 +5,9 @@
  
  
  ## Costco - Price Club
- - [[Sol Price - Retail Revolutionary and Social Innovator]]
- - [[Costco Annual Letters]]
- - [[Costco Analysis Deck - Business Model]]
+ See [[Costco]]
+ 
+ 
 
 
 
@@ -16,4 +16,6 @@
 [[Made In America - Sam Walton]]
 
 ## Amazon
-[[The Everything Store]]
+See [[Amazon]]
+
+

@@ -16,4 +16,4 @@ We ask companies with poor economics why they want to grow. And senior managemen
 
 The "super high-quality thinkers" are our best guess of those firms whose shareholders could abdicate their right to trade stock (allocate capital themselves)  sure in the knowledge that their capital will be well allocated for years to come within the businesses. 
 
-This list is a group of wonderful, honestly run compounding machines. We call this the "terminal portfolio". This is where we want to go. The question is, why is this list not the same as the current Nomad portfolio
+This list is a group of wonderful, honestly run compounding machines. We call this the "terminal portfolio". This is where we want to go. The question is, why is this list not the same as the current Nomad portfolio?
