@@ -13,7 +13,8 @@
 
 
 ## Walmart 
-[[Made In America - Sam Walton]]
+See [[Walmart]]
+
 
 ## Amazon
 See [[Amazon]]

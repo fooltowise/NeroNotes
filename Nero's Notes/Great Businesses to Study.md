@@ -3,10 +3,10 @@
 ### What to Do:
 - Berkshire Hathaway
 - Amazon
-- Costco
+- [[Costco]]
 - Nike 
 - Visa
-- Walmart
+- [[Walmart]]
 - Apple
 - JP Morgan
 - Disney
