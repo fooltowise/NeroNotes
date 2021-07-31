@@ -55,6 +55,17 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "a29375f330229050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Equity Investing Handbook.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -110,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kahn",
+                "query": "cable",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Negotiation One Sheet.md",
+                "file": "The Equity Investing Handbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Negotiation One Sheet.md",
+                "file": "The Equity Investing Handbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Negotiation One Sheet.md"
+                "file": "The Equity Investing Handbook.md"
               }
             }
           }
@@ -233,17 +244,17 @@
     "width": 182.4687042236328,
     "collapsed": true
   },
-  "active": "46417561d67412b4",
+  "active": "a29375f330229050",
   "lastOpenFiles": [
+    "The Equity Investing Handbook.md",
+    "Untitled.md",
     "The Negotiation One Sheet.md",
     "Never Split the difference.md",
     "Great Businesses I'd like to own.md",
     "Judges Analysis By Gorilla.md",
-    "Untitled.md",
     "Journal/2021-07-25.md",
     "How to Overcome your fear of failure with the Bucky Method.md",
     "Conflict Resolution.md",
-    "2021 Resolutions.md",
-    "Invent And Wander.md"
+    "2021 Resolutions.md"
   ]
 }
