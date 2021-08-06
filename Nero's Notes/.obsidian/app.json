@@ -1,4 +1,5 @@
 {
+  "obsidianCss": false,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "useMarkdownLinks": false,
@@ -478,7 +479,9 @@
     "Incongruence",
     "Magness",
     "strategize",
-    "telcos"
+    "telcos",
+    "cumulation",
+    "fractally"
   ],
   "vimMode": false,
   "foldHeading": true,

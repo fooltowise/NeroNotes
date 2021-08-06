@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fundamental Theorem of Investing.md",
-                "mode": "preview",
+                "file": "Technology - What it is and how it evolves.md",
+                "mode": "source",
                 "backlinks": true
               }
             }
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Equity Investing Handbook.md",
+                "file": "Journal/2021-08-05.md",
                 "mode": "source"
               }
             }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Equity Investing Handbook.md",
+                "file": "Technology - What it is and how it evolves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Equity Investing Handbook.md",
+                "file": "Technology - What it is and how it evolves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Equity Investing Handbook.md"
+                "file": "Technology - What it is and how it evolves.md"
               }
             }
           }
@@ -244,17 +244,17 @@
     "width": 182.4687042236328,
     "collapsed": true
   },
-  "active": "a29375f330229050",
+  "active": "cd7356e82c7663d8",
   "lastOpenFiles": [
-    "The Equity Investing Handbook.md",
     "Untitled.md",
+    "The Fundamental Theorem of Investing.md",
+    "Big Ideas of the Big Disciplines - Learning Plan.md",
+    "Journal/2021-08-05.md",
+    "Journal/2021-08-04.md",
+    "Journal/2021-07-31.md",
+    "The Equity Investing Handbook.md",
     "The Negotiation One Sheet.md",
     "Never Split the difference.md",
-    "Great Businesses I'd like to own.md",
-    "Judges Analysis By Gorilla.md",
-    "Journal/2021-07-25.md",
-    "How to Overcome your fear of failure with the Bucky Method.md",
-    "Conflict Resolution.md",
-    "2021 Resolutions.md"
+    "Great Businesses I'd like to own.md"
   ]
 }
