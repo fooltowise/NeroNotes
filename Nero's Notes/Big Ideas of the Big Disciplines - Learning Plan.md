@@ -6,7 +6,7 @@
 - Metaphors we live by, Lakoff
 - Consilience, E.O Wilson
 - Super Thinking, Gabriel Weinberg
-- The Model Thinker, Scott Page
+
 
 ## Complex Adaptive Systems
 - The Economy as a Complex Evolving System, Santa Fe Institute
@@ -20,7 +20,6 @@
 ## Economics
 - Principle of microeconomics, Mankiw
 - The Economy as a Complex Evolving System, Santa Fe Institute
-- Technology, what it is and how it evolves, W. Brian Arthur
 - Understanding Michael Porter, Joan Magretta
 - Books by Clayton Christensen
 - Books by Thomas Sowell
@@ -55,8 +54,7 @@
 - [[Great Businesses to Study]]
 
 ## Interacting with People
-- [[How to Win Friends and Influence People]], Dale Carnegie
-- Never Split the difference, Chris Voss
+
 - Getting to Yes, Fisher
 
 

@@ -1,1 +1,5 @@
-{"folder":"Journal","autorun":true,"template":"Templates/Journal Template"}
+{
+  "folder": "Journal",
+  "autorun": false,
+  "template": "Templates/Journal Template"
+}

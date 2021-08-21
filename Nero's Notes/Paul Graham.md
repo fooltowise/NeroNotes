@@ -7,3 +7,4 @@
 [[How to Write Usefully]]
 [[What you cant say]]
 [[Haters]]
+[[Life is Short]]

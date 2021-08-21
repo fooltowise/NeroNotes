@@ -1,3 +1,6 @@
+# The Investing Playing Field
+
+
 ### by Graham Duncan
 
 Over the last decade, I've interviewed and assessed more than 5,000 investment managers. One of the most important things I've learned in that process is what separates the great investors from the rest. The great ones view investing as a game, and they know exactly what game they’re playing. It brings to mind an observation from the philosopher Kwame Anthony Appiah:
