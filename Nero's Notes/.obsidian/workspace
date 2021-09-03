@@ -39,8 +39,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret Sauce.md",
-                "mode": "preview"
+                "file": "How I think about equity investment returns.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "e2d1457a11d0c27b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principles for a good  life.md",
+                "mode": "source"
               }
             }
           },
@@ -139,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5107650756836
+    "width": 301.5107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "e936182a993d01d8",
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret Sauce.md",
+                "file": "How I think about equity investment returns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret Sauce.md",
+                "file": "How I think about equity investment returns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret Sauce.md"
+                "file": "How I think about equity investment returns.md"
               }
             }
           }
@@ -233,15 +245,15 @@
   },
   "active": "cd7356e82c7663d8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "The Mathematics of Returns.md",
+    "Top 5 Personal Values.md",
+    "Principles for a good  life.md",
     "Secret Sauce.md",
     "The Investing Playing Field.md",
     "The Force That Shapes Your Life.md",
     "Need to Improve Your Relations with Others - Start with Getting Human Nature Right.md",
     "Four Types of Luck.md",
-    "Focus on what endures time.md",
-    "Designing your life.md",
-    "Brian Bares tips on creating an investment business.md",
-    "Belief Systems - The Power to Create and the Power to Destroy.md",
-    "Journal/2021-08-05.md"
+    "Focus on what endures time.md"
   ]
 }

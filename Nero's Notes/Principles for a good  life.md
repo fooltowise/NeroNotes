@@ -1,3 +1,5 @@
+# Principles for a good life
+
 - Focus on what is really important. 
 - Say no to everything else.
 - Find your role models.
