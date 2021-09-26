@@ -47,3 +47,27 @@
 	-  When to sell
 
 
+
+
+
+
+---
+## Fool To Wise Content:
+- Capital Cycle
+- Competitive Advantages:
+	- Brands
+	- Low cost - Economies of scale
+	- Low cost - Scale Economics Shared
+	- Switching costs
+	- Network Effects
+	- Aggregators
+	- Agency
+	- Culture
+	- Industry structure
+
+-Capital allocation
+- the false denomination of active investing
+- the perils of quoted assets:
+	- Anthony Deden's dry cleaner
+	- Buffett's farm
+	- Nick Sleep's liquidity error vs analysis error
