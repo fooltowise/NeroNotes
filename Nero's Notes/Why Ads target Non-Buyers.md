@@ -1,0 +1,9 @@
+# Why Ads also target Non-Buyers
+
+See also [[Ads dont work that way]]
+
+If lifestyle ads work entirely by Pavlovian training, then it would never make sense to advertise to an audience that's unable or unlikely to buy the product. Brands would try to target their ads as narrowly as possible to their purchasing demographic. Why pay to reach a million viewers if only 10'000 of them can afford your product? But if lifestyle ads work by the third-person effect, then there will be some products for which it makes good business sense to target a wider audience, one that includes both buyers and non-buyers.
+
+One reason to target non-buyers is to create envy. As Miller argues, this is the case for many luxury products. "Most BMW ads," he says, "are not really aimed so much at potential BMW buyers as they are at potential BMW coveters." When BMW advertises during popular TV shows or in mass-circulation magazines, only a small fraction of the audience can actually afford a BMW. But the goal is to reinforce for non-buyers the idea that BMW is a luxury brand. To accomplish all this, BMW needs to advertise in media whose audience includes both rich and poor alike, so that the rich can see that the poor are being trained to appreciate BMW as a status symbol.
+
+Naturally this feels manipulative, and it is. But the same tactics can be used for more honorable purposes as well. The U.S. Marine Corps, for example, advertises itself as a place to build strength and character. In doing so, it's not advertising only to potential recruits; it's also reminding civilians that the people who serve in the Marines have strength and character. This helps to ensure that when soldiers come home, they'll be respected by their communities, offered jobs by employers, and so forth.

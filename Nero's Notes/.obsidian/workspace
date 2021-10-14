@@ -50,8 +50,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laughter.md",
-                "mode": "source"
+                "file": "Yen Liow - The Game within the Game.md",
+                "mode": "source",
+                "backlinks": true
               }
             }
           },
@@ -120,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "legacy",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laughter.md",
+                "file": "Yen Liow - The Game within the Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laughter.md",
+                "file": "Yen Liow - The Game within the Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laughter.md"
+                "file": "Yen Liow - The Game within the Game.md"
               }
             }
           }
@@ -245,15 +246,15 @@
   },
   "active": "38da52337d63d7a2",
   "lastOpenFiles": [
+    "Yen Liow - The Game within the Game.md",
+    "Yen Liow.md",
     "Untitled.md",
-    "Who wants to play the status game.md",
-    "The Equity Investing Handbook.md",
-    "Two modes of investment idea generation.md",
-    "Sources of investment edge.md",
-    "How to build a moat around an investment process.md",
-    "Brian Bares tips on creating an investment business.md",
-    "Munger on How to be Happy, Get Rich, and Other Advice.md",
-    "Teaching by example.md",
-    "The Investing Playing Field.md"
+    "How to compute Return on Incremental Capital.md",
+    "Return on Capital.md",
+    "Returns on Incremental Capital.md",
+    "Studying Serial Acquirers.md",
+    "Mergers and Acquisitions.md",
+    "Laughter.md",
+    "Ads dont work that way.md"
   ]
 }
