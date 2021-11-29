@@ -137,7 +137,7 @@ Professional CEO’s are often reluctant to disappoint Wall Street expectations 
 
 _“If you owned a business all by yourself, you wouldn’t care at all about maximising reported numbers.”_  **Tom Russo**
 
-_“Our favourite and most frequent acquisitions are the businesses that we buy from_ **_founders_**_. When a_ **_founder_** _invests the better part of a lifetime building a business, a_ **_long-term orientation_** _tends to permeate all aspects of the enterprise: employee selection and development, establishing and building symbiotic customer relationships, and evolving sophisticated product suites.”_ **Mark Leonard**
+_“Our favourite and most frequent acquisitions are the businesses that we buy from_ **_founders_**_. When a_ **_founder_** _invests the better part of a lifetime building a business, a_ **_long-term orientation_** _tends to permeate all aspects of the enterprise: employee selection and development, establishing and building symbiotic customer relationships, and evolving sophisticated product suites.”_ **[[Mark Leonard]]**
 
 _“At best, family control can be an elegant solution to the agency problem._ **_Families are better able to withstand short-term profit fluctuations_** _and to invest for the_ **_long term benefit_** _of themselves and outside shareholders.”_ **Marathon Asset Management**
 

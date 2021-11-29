@@ -76,15 +76,15 @@ As a) average deal sizes grow and b) the amount of annual cash flow that must be
 
 Oversimplification can be dangerous and reducing any group of companies, especially across industries, to a few metrics is usually not very helpful. However, there are two powerful metrics that, taken together, can tell us a lot about most serial acquirers. Those metrics are **(1) cumulative spend on M&A over a multi-year period, and (2) RoIC + ½ organic revenue growth**. That’s what’s plotted in the chart above, for a number of high-quality serial acquirers.
 
-> **Note:** We’ll save you the behind-the-scenes modelling. The reason we use ½ organic growth is that we’re trying to approximate deal level IRRs: i.e. day 1 FCF yield + growth post acquisition. ROIC is slightly upwards biased - historical book value reflects acquisitions made years ago, and as long as subsidiaries have decent organic growth at healthy ROTIC, this will lead to a natural increase in a company’s ROIC over time. Thus, we make an arbitrary downward adjustment in org growth to compensate. It’s not meant to be scientifically precise, just a rough proxy. (But one of us, being slightly more puritan than the other, feels better using this than simply using the Mark Leonard yardstick of ROIC + OrgGr)
+> **Note:** We’ll save you the behind-the-scenes modelling. The reason we use ½ organic growth is that we’re trying to approximate deal level IRRs: i.e. day 1 FCF yield + growth post acquisition. ROIC is slightly upwards biased - historical book value reflects acquisitions made years ago, and as long as subsidiaries have decent organic growth at healthy ROTIC, this will lead to a natural increase in a company’s ROIC over time. Thus, we make an arbitrary downward adjustment in org growth to compensate. It’s not meant to be scientifically precise, just a rough proxy. (But one of us, being slightly more puritan than the other, feels better using this than simply using the [[Mark Leonard]] yardstick of ROIC + OrgGr)
 
-‘RoIC + organic revenue growth’ is, of course, the metric that Mark Leonard at Constellation Software chose for incentive compensation.[2](https://exploringcontext.substack.com/p/studying-serial-acquirers#footnote-2) And his Keep Your Capital (KYC) initiative, which forces operating groups to retain a portion of their cash flow, was a way to turn up the pressure on his lieutenants to work harder to figure out a way to defy the law of diminishing return to M&A.  (Instead of just sending the cash back to HQ ). 
+‘RoIC + organic revenue growth’ is, of course, the metric that [[Mark Leonard]] at Constellation Software chose for incentive compensation.[2](https://exploringcontext.substack.com/p/studying-serial-acquirers#footnote-2) And his Keep Your Capital (KYC) initiative, which forces operating groups to retain a portion of their cash flow, was a way to turn up the pressure on his lieutenants to work harder to figure out a way to defy the law of diminishing return to M&A.  (Instead of just sending the cash back to HQ ). 
 
 **The biggest roadblock to defying the law of diminishing returns to M&A is that most serial acquirers, particularly platforms and accumulators, do not sufficiently scale the human capital involved in M&A and the structures and processes guiding them – as they get larger.** 
 
 Inevitably, this lack of investment in human capital creates a bottleneck, leading them to scale by doing larger deals to move the needle rather than doing more deals. Very few serial acquirers end up scaling to more than 10 deals a year as they grow in size. The chart below shows the same serial acquirers by how many deals they do in a year (y-axis), and what the average deal size has been in millions of USD (bubble size). 
 
-This chart, together with the previous chart, encapsulates why Mark Leonard (CSU) is the GOAT.
+This chart, together with the previous chart, encapsulates why [[Mark Leonard]] ([[CSU]]) is the GOAT.
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca6dd02c-5a7d-48cc-a39a-b0747f8fc0ab_658x444.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca6dd02c-5a7d-48cc-a39a-b0747f8fc0ab_658x444.png)
 
@@ -94,7 +94,7 @@ More (good) deals? Very hard to do. **It requires a learning organization where 
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F94ffa185-759c-49bf-bab6-6e9462a9c124_579x357.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F94ffa185-759c-49bf-bab6-6e9462a9c124_579x357.png)
 
-It’s worthwhile disaggregating this by serial acquirer type. Let’s exclude CSU below because it’s an outlier that’s going to skew the numbers. 
+It’s worthwhile disaggregating this by serial acquirer type. Let’s exclude [[CSU]] below because it’s an outlier that’s going to skew the numbers. 
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c723aa-5e51-484f-a9ab-e574af2e7b1b_1329x802.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c723aa-5e51-484f-a9ab-e574af2e7b1b_1329x802.png)
 
@@ -142,7 +142,7 @@ As any investor knows, capital allocation based on a lot of qualitative analysis
 
 **While buying small private companies is one of the few places globally where “cheap multiple” value-investing is still working these days**, things have definitely gotten tougher. As per one accumulator CEO we spoke to recently, whereas 7-10 years ago you could just show up to an auction and buy decent companies at good prices, now you have to massively expand your funnel and work three times as hard to get that same deal volume done. 
 
-We see it personally. If you talk to business brokers or reach out directly to some small businesses – you’re probably the 10th guy calling them in the last year alone, especially in major cities. Thanks to public successes like CSU and Brent Beshore, every third business school grad with access to a tiny amount of capital wants to buy a VMS or a local services company. (Us included!) 
+We see it personally. If you talk to business brokers or reach out directly to some small businesses – you’re probably the 10th guy calling them in the last year alone, especially in major cities. Thanks to public successes like [[CSU]] and Brent Beshore, every third business school grad with access to a tiny amount of capital wants to buy a VMS or a local services company. (Us included!) 
 
 The competitive pressure for an accumulator to build up the M&A team, put processes in place, and develop best practices around target discovery, relationship management, due diligence, valuation, integration, and ongoing monitoring, has gone way up. Being excellent at all of the above is a hard, slow and deliberate process – it takes many years to reap the seeds you sow.
 
@@ -154,7 +154,7 @@ _Constellation Software_
 
 Constellation Software is the Michael Jordan of serial acquirers. (In this case, Thomson Newspapers was likely the Wilt Chamberlain - we may eventually write up a study of Thomson)
 
-CSU has a lot of the characteristics of an accumulator but completely defies accumulator base rates. It’s a combination of best execution meeting an ideal industry (VMS) to roll up. 
+[[CSU]] has a lot of the characteristics of an accumulator but completely defies accumulator base rates. It’s a combination of best execution meeting an ideal industry (VMS) to roll up. 
 
 Here’s what makes VMS unique:
 
@@ -169,7 +169,7 @@ Constellation still has to train its internal capital allocators. There’s no w
 
 Other serial acquirers, like Halma, have to learn about the intricacies of crawler cameras deployed in inspection of UK water companies’ pipes one month, followed by precision radiometric and photometric systems for light testing, calibration and measurement the next. They face difficult hurdles in scaling up. 
 
-If, like CSU, a firm closes 100 deals a year rather than 5 (especially if the 100 are mostly all individually pretty small), the law of large numbers also smooths out a lot of dispersion of outcomes among the individual transactions. Individual outcomes will vary widely from the base rates, but all transactions are individually immaterial and in aggregate will get very close to the base rates.
+If, like [[CSU]], a firm closes 100 deals a year rather than 5 (especially if the 100 are mostly all individually pretty small), the law of large numbers also smooths out a lot of dispersion of outcomes among the individual transactions. Individual outcomes will vary widely from the base rates, but all transactions are individually immaterial and in aggregate will get very close to the base rates.
 
 **What to look for**
 
@@ -199,4 +199,4 @@ For large platforms or accumulators, like a Roper or Danaher, it’s probably mo
     
 -   An accumulator that is thoughtfully scaling their M&A infrastructure and processes is extremely valuable.
     
-    -   CSU is the GOAT !
+    -   [[CSU]] is the GOAT !

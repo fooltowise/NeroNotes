@@ -9,3 +9,5 @@ Choose your role model and emulate him as much as possible. In everything you do
 - Warren Buffett
 - Yen Liow
 - Mohnish Pabrai
+- Benjamin Franklin
+- Epictetus

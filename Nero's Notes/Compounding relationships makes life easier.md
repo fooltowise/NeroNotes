@@ -1,3 +1,6 @@
+# Compounding relationships makes life easier
+
+
 **Nivi:** Earlier, we talked about compound interest, but we didn’t dig into it much.
 
 **Naval:** Relationships offer a good example of compound interest. Once you’ve been in a good relationship with somebody for a while—whether it’s business or romantic—life gets a lot easier because you know that person’s got your back. You don’t have to keep questioning.

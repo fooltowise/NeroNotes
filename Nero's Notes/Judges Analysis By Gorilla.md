@@ -112,7 +112,7 @@ Succession
 
 You can simplistically think of Judges main value proposition to founders as offering the most flexible succession plan but with the trade-off of receiving a modestly lower price. Judges in turn accepts the succession risk, but diversifies it across multiple subsidiaries and always has a backup plan. The succession plan typically involves the founder staying on for a few more years or a co-founder or senior employee taking sole leadership. Judges does not handcuff founders to commit to staying post-close, knowing that even if they do, their mindset may change once ownership changes hands. Earn-outs if they are put in place are often just 1 year.
 
-The COO is the insurance plan. While Judges only has one "operating group", the COO's role reminds me of something Mark Leonard wrote in his 2012 letter.
+The COO is the insurance plan. While Judges only has one "operating group", the COO's role reminds me of something [[Mark Leonard]] wrote in his 2012 letter.
 
 > _We currently manage our 125 independent business units through 5 Operating Groups. The Operating Groups have accounting, acquisition, and IT functions, and varying degrees of HR, tax, shared R&D and legal capabilities. **They also have a number of relatively senior staff who can be parachuted into large new acquisitions or troubled situations. The Operating Groups serve extremely valuable functions as coaches, capital deployers, occasional recruiters and “single point of management failure” insurance.**_
 

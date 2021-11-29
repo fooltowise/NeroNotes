@@ -10,6 +10,8 @@
 [[Compound your Goodwill]]
 [[Have a MasterMind Group]]
 [[The Art of Learning]]
+[[Choosing Important Problems]]
+
 
 > If I have a goal for the next 10 years, how can I get there in 6 months? 
 -Peter Thiel

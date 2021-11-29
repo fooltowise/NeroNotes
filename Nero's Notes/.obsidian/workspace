@@ -8,19 +8,6 @@
         "type": "split",
         "children": [
           {
-            "id": "6167a5de2d947551",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021 Resolutions.md",
-                "mode": "preview"
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "5e5b94f4181f03eb",
             "type": "leaf",
             "pinned": true,
@@ -34,54 +21,29 @@
             }
           },
           {
-            "id": "cd7356e82c7663d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Who wants to play the status game.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "38da52337d63d7a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yen Liow - The Game within the Game.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
             "id": "46417561d67412b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Negotiation One Sheet.md",
+                "file": "CSU Q1 2007 Letter to Shareholders.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "b1fe0ce24160fbfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harris Podcast with Mark Leonard.md",
                 "mode": "source"
               }
             }
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "9c96a59d06eed169",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Big Ideas of the Big Disciplines - Learning Plan.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
       },
       {
         "id": "08d7725a65055775",
@@ -121,21 +83,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "legacy",
+                "query": "Leonard",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "146ef9528a092b1b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -163,20 +117,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdaaa9352e2bea9f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "d3d3a1b16b278489",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yen Liow - The Game within the Game.md",
+                "file": "Harris Podcast with Mark Leonard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,28 +134,12 @@
             }
           },
           {
-            "id": "86c18888f83b075b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "982747727bc83372",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5b3f9c2efc1325b8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yen Liow - The Game within the Game.md",
+                "file": "Harris Podcast with Mark Leonard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,29 +162,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yen Liow - The Game within the Game.md"
+                "file": "Harris Podcast with Mark Leonard.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 182.4687042236328,
+    "width": 604,
     "collapsed": true
   },
-  "active": "38da52337d63d7a2",
+  "active": "b1fe0ce24160fbfa",
   "lastOpenFiles": [
-    "Yen Liow - The Game within the Game.md",
-    "Yen Liow.md",
-    "Untitled.md",
-    "How to compute Return on Incremental Capital.md",
-    "Return on Capital.md",
-    "Returns on Incremental Capital.md",
-    "Studying Serial Acquirers.md",
-    "Mergers and Acquisitions.md",
-    "Laughter.md",
-    "Ads dont work that way.md"
+    "Harris Podcast with Mark Leonard.md",
+    "Mark Leonard.md",
+    "Top 5 Personal Values.md",
+    "CSU.md",
+    "Omd Ventures on Mark Leonard.md",
+    "LibertyRPF on CSU.md",
+    "Constellation Software and Organisation Design.md",
+    "Creator Stories Podcast about Mark Leonard.md",
+    "Mark Leonard's Operating Manual.md",
+    "The 10th Man Investment Thesis on CSU.md"
   ]
 }
