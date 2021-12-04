@@ -14,6 +14,7 @@
 ## Analysts Write ups
 
 [[The 10th Man Investment Thesis on CSU]]
+[[Constellation Software's Culture]]
 
 ## Analyses by Liberty RPF
 [[LibertyRPF on CSU]]
@@ -21,6 +22,10 @@
 ## Other articles
 
 [[Constellation Software and Organisation Design]]
+[[Savneet Singh - What did you learn about Constellation Software]]
+[[Top Acquirer Spotlight Podcast - Constellation Software]]
+[[A Canadian Berkshire Hathaway is quietly outperforming the FAANG stocks]]
+[[Beyond the Echo - Gabe Czegledy, Software Opportunities in the Resource Sector]]
 
 
 

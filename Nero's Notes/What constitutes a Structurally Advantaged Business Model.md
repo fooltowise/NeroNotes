@@ -129,3 +129,5 @@ Companies like Shopify, Stripe, Twilio, GoDaddy, and Plaid are all ecosystem ena
 Peter Drucker said that the purpose of a business is to create and keep a customer. In essence, the embedded value of a business lies in the difference between the cost to serve a customer and the value delivered to a customer. Advantaged models are adept at allocating resources to deliver sustainable value.
 
 I hope the above taxonomy of SABMs covers most of the valuable waterfront, and that a great business model can be benchmarked against the degree to which it fits one, or, more likely, many, of the nine categories outlined.
+
+See also [[Competitive Advantage]]

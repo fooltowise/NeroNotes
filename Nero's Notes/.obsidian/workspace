@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harris Podcast with Mark Leonard.md",
+                "file": "Constellation Software's Culture.md",
                 "mode": "source"
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harris Podcast with Mark Leonard.md",
+                "file": "Constellation Software's Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harris Podcast with Mark Leonard.md",
+                "file": "Constellation Software's Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harris Podcast with Mark Leonard.md"
+                "file": "Constellation Software's Culture.md"
               }
             }
           }
@@ -175,15 +175,15 @@
   },
   "active": "b1fe0ce24160fbfa",
   "lastOpenFiles": [
-    "Harris Podcast with Mark Leonard.md",
-    "Mark Leonard.md",
-    "A duel of capital allocators.md",
-    "Top 5 Personal Values.md",
+    "Constellation Software's Culture.md",
+    "Guy Spier.md",
     "CSU.md",
-    "Omd Ventures on Mark Leonard.md",
-    "LibertyRPF on CSU.md",
-    "Constellation Software and Organisation Design.md",
-    "Creator Stories Podcast about Mark Leonard.md",
-    "Mark Leonard's Operating Manual.md"
+    "What constitutes a Structurally Advantaged Business Model.md",
+    "Beyond the Echo - Gabe Czegledy, Software Opportunities in the Resource Sector.md",
+    "A Canadian Berkshire Hathaway is quietly outperforming the FAANG stocks.md",
+    "Top Acquirer Spotlight Podcast - Constellation Software.md",
+    "Savneet Singh - What did you learn about Constellation Software.md",
+    "Mark Leonard.md",
+    "Constellation Software Elusive CEO.md"
   ]
 }

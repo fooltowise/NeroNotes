@@ -119,7 +119,7 @@ But Steve had made some money from his previous venture that got sold out, so he
 
 There is one other thing that is probably relevant to your audience and that is that at OMERS, the person in charge of the group that invested in Constellation was someone I knew from business school. And so frequently you'll find that your acquaintances, your network are important, and he knew me really well. And I knew him really well. We trusted each other and liked each other. Now that worked out great except that at some stage he became aware of some problems inside of OMERS and tried to get them sourced and that put him politically in a difficult position and he ended up leaving. And the people who ended up working with him were not a trusted relationship, the senior people, and so that's the reason why we sought another large investor. 
 
-So you can have a good relationship with a single person inside of a large institution, whether it'd be a customer or a supplier, or in this case a provider of capital, and if you lose this single point of contact, you really can be in a difficult position. So one of the things I did was diversifying our sources of capital and managed to get TD Capital in, as a rather major shareholder, private equity shareholder. 
+So you can have a good relationship with a single person inside of a large institution, whether it'd be a customer or a supplier, or in this case a provider of capital, and if you lose this single point of contact, you really can be in a difficult position. So one of the things I did was diversifying our sources of capital and managed to get TD Capital (now Birch Hill) in, as a rather major shareholder, private equity shareholder. 
 
 **Jeff Bender :** So if you look back on sort of first partnering with OMERS, did you think you would have done it if you didn't have the trusted relationship with the first individual you had met at business school?
 
@@ -139,9 +139,9 @@ You know when you hire from the outside into senior roles, I think we have aroun
 
 You took Constellation public in 2006. Why take the company public? 
 
-**Mark Leonard :** The capital we had raised in 95 didn't really have a ticking clock on it because it was from a pension fund. But the capital we raised from Berkshill (TD Capital) definitely had a ticking clock on it. Their fund was a ten year fund - or at least I assume it was, most of the venture funds were. And so I knew I had to find them an exit at one stage. What tends to happen with private equity firms is that if you don't find them an exit, they'll find themselves an exit. And that usually involves whistling in some high bankers to dress you up for sale and then running an auction. 
+**Mark Leonard :** The capital we had raised in 95 didn't really have a ticking clock on it because it was from a pension fund. But the capital we raised from Birch Hill (TD Capital) definitely had a ticking clock on it. Their fund was a ten year fund - or at least I assume it was, most of the venture funds were. And so I knew I had to find them an exit at one stage. What tends to happen with private equity firms is that if you don't find them an exit, they'll find themselves an exit. And that usually involves whistling in some high bankers to dress you up for sale and then running an auction. 
 
-So going public was one of the routes to get an exit and so we explored it and executed it. It wasn't particularly tough, we had a reasonable story to tell, we weren't raising a lot of capital. I guess the only peculiarity was that the capital we did raise, we raised by selling shares on behalf of owners and Berkshill. 
+So going public was one of the routes to get an exit and so we explored it and executed it. It wasn't particularly tough, we had a reasonable story to tell, we weren't raising a lot of capital. I guess the only peculiarity was that the capital we did raise, we raised by selling shares on behalf of owners and Birch Hill. 
 
 **Jeff Bender :** Yeah Constellation did not raise any equity itself, it was just for the exit of shareholders. 
 
