@@ -1,0 +1,35 @@
+# [[CSU]] Q4 2007 Letter to Shareholders
+
+## TO OUR SHAREHOLDERS 
+
+Net Revenue growth in Q4 2007 was 24% compared with the same period last year. This was a welcome increase after three consecutive quarters of sub-20% growth. While acquisitions played a huge part in our Net Revenue improvement, Organic growth also improved to 3% for the quarter. As you can see in the Table on the next page, Organic Net Revenue growth bottomed out in Q1 2007, and has been gradually increasing since then. During the quarter, the Organic growth varied dramatically between our private sector (-2%) and public sector (+7%) segments. 
+
+The conditions for our housing, building products, and construction related software businesses were the worst that we have experienced since we entered these markets. We see no imminent turnaround in view. While these businesses aren’t making as much money as during the prior year, they won customers at the expense of their competitors during 2007, and are bolstering their portfolio of add-on products. We continue to be confident in their long-term prospects. 
+
+Our public sector segment had a great quarter, with 28% Net Revenue Growth (of which 7% was Organic), and a handsome return on Invested Capital (25%). The public sector segment now constitutes approximately two thirds of our invested capital and revenues. 
+
+Net Maintenance revenue was a record $37.8 million during the quarter, up 28% from the comparable period in 2006. We have the preliminary data in from our annual attrition survey, and we were pleased that over half of the growth in Maintenance revenue was Organic last year. The details of the attrition survey will be in our annual report.
+
+EBITA and EBITDA were down slightly in Q4 vs Q3. Despite that, they both saw significant growth (29% and 26% respectively) vs the same period last year. EBITA margin as a percentage of Net Revenues dropped to 16% in Q4 vs 19% in Q3. Factoring in how our bonus plan works, I believe that a 15% EBITA margin is a more realistic objective if we are generating 20% plus Net Revenue growth. 
+
+Our favourite single metric for measuring our corporate performance is the sum of ROIC and Organic Net Revenue Growth (“ROIC+OGr”). For Q4, ROIC+OGr was 25%. 
+
+Inserted below is a table of Constellation’s performance metrics. We’ve modified one of the metrics slightly – Tangible Net Assets / Net Revenues. Upon reflection, we decided that non-coupon carrying holdbacks (a form of acquisition financing even though they carry no explicit coupon) and Future Income Tax Assets (an intangible by any other name) were not appropriate to include in the Tangible Net Assets calculation. The table uses the new formula for all of the prior periods. While our performance with Tangible Net Assets continued to be acceptable, we could have done a better job of managing cash (which is excluded from the TNA / Net Revenues ratio) during the quarter. We believe that we had an excess of approximately $10 million of float in our operating entities during Q4. We have modified some incentives and encouraged the operating groups to send more of their cash to head office. 
+
+One of the areas where generally accepted accounting principles (“GAAP”) do a poor job of reflecting economic reality, is with goodwill and intangibles accounting. As managers we are at least partly to blame in that we tend to ignore these “expenses”, focusing on EBITA or EBITDA or “Adjusted” Net Income (which excludes Amortisation). The implicit assumption when you ignore Amortisation, is that the economic life of the asset is perpetual. In many instances (for our business) that assumption is correct. We are constantly “renovating” our software, adding to and replacing portions of it, and we provide the maintained product to our clients under perpetual support programs that we generally term “Software for Life”. Some of our products (and markets) won’t be as durable, and will gradually start to lose economic viability. I don’t think GAAP comes anywhere close to reflecting this spectrum and timing of outcomes. We do, however, have a couple of tools that we use in-house that can highlight the businesses that are aging vs. those that continue to be revitalised. One crude indicator is a quarterly IRR calculation that we do on all acquisitions that we completed since 2004. IRR by its very nature requires forecasts, and hence is going to have subjectivity. Nevertheless, we try to beat the unwarranted optimism out of the forecasts, and as time passes, we can increasingly cross-reference history with forecasts. Right now, we only have one of those acquisitions (purchase price $1.2 million) that shows a less than 10% after tax IRR on the original investment, and one other (purchase price <$1 million), with an IRR between 10% and 20% after tax. All others exceed a 20% IRR. 
+
+The other mechanism that we use to potentially spot the “aging” assets is attrition. As I mentioned before we do a detailed review of attrition each year in the annual report, and in the upcoming one, we’ll try to give you some more comfort regarding the robustness of our portfolio of intangible economic assets. I have no easy fix for GAAP, but we will try to highlight “impairments” as they become apparent, even if they have already been written off for GAAP purposes.
+
+![[CSU Q4 2007.png]]
+
+Recently there was a report of a massive (>30%) short position in our shares. Initially I was more amused than annoyed, thinking that an error had been made in the short report that would soon be corrected. Nevertheless, I touched base with our major shareholders, who told me that they knew nothing of such a short, and I did some math – soon determining that the reported short position exceeded the number of shares that had traded in our entire history as a public company. We probed some more, and found out that the short was reportedly due to a large off-exchange trade that failed to complete. We still are not to the bottom of the issue, but will provide a press release when we have more information. 
+
+On a more positive note, we are about to pay an $0.18 per share dividend, a 20% increase from the $0.15 per share paid last year. 
+
+The employee stock purchases for the Bonus program will commence in April. The anticipated volume of purchases will be approximately the same ($4.4 million) as last year, and may extend over several months. When we took Constellation public we communicated management’s 5 year performance objectives for the company: i.e. to exceed 20% average annual Net Revenue and EBITDA growth per share for the period January 1, 2006 to December 31, 2010. During 2007, Net Revenues grew 16%, after having grown 27% in the prior year. 2007 saw wonderful but unsustainable EBITDA growth of 33%, after a terrific 31% growth year in 2006. With the first two years of the five year objectives under our belt, we continue to believe that the 5 year objectives are going to be challenging, but achievable. 
+
+Mark Leonard 
+
+President 
+
+March 5, 2008

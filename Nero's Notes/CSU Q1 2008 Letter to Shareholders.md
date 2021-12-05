@@ -1,0 +1,27 @@
+# [[CSU]] Q1 2008 Letter to Shareholders
+
+## TO OUR SHAREHOLDERS 
+
+Q1 2008 benefited from a very weak comparable Q1 in 2007. Revenue increased 32%, Organic Net Revenue growth was 6%, Net Maintenance growth was 34%, and Adjusted Net Income growth was 62%. On a sequential basis (Q4 2007 vs Q1 2008) growth was more modest but still encouraging (revenue increased 11% and Adjusted Net Income increased 19%). Please note that we have changed the definition of Adjusted Net Income (see MD&A) in a way that has reduced the Adjusted Net Income for this quarter by $1.3 million vs what it would have been using the former definition. We believe the current definition provides a closer approximation of after tax cash profits.
+
+Organic growth continued to improve despite deteriorating performance in our building related verticals. This was the fourth consecutive quarter of improving Organic Net Revenue growth. A table containing our quarterly Performance Metrics is appended. Our favourite single metric for measuring shareholder returns combines profitability and growth (ROIC + Organic Net Revenue growth). The combined metric was 32% (annualised) in Q1, a very handsome return for a business with such a low Tangible Net Asset (“TNA”) requirement. TNA/Net Revenue remained stable at -58% (-57% in Q1 of 2007). We were disappointed that we did not see more improvement in this metric, despite considerable efforts throughout the year. Building related verticals are exhibiting longer receivables, and some long-dated receivables that came along with recent acquisitions (against which we have provisions in the acquisition agreements, should they prove uncollectable) are the primary culprits. 
+
+We completed 3 acquisitions in Q1, but only a modest ($2.7 million) amount of capital was invested. Shortly after the end of the quarter, 3 further acquisitions were made for a total net cash investment of $11.4 million. This continues to be one of the best acquisition markets that we have seen in many years. In 2007 we signed 50% more Non Disclosure Agreements than we signed in 2006. These resulted in a 52% increase in the value of Letters of Intent that we issued, and a 65% increase in the value of the Letters of Intent that were signed back to us. 2008 promises to be an equally busy year. As you may have seen in our recent press release, we have increased our revolving line of credit to $105 million, so that we are in a position to take advantage of attractive acquisition opportunities when they are available. 
+
+I am often asked why Constellation takes minority interests in other public software companies. The answer is simple (value!), but it can be complicated by our investment horizon and by our requirement that the company have competent ownership. 
+
+Constellation’s objective is to be a perpetual owner of inherently attractive software businesses. Part of a perpetual owner’s job, is to make sure that energetic, intelligent and ethical general managers (“GM”) are running their businesses and that the GM’s are incented to enhance shareholder value over the very long term. It is trivial for an experienced GM to run a software company to generate high profitability and shrinking revenues. Far more challenging, is generating reasonable short term profits while continuing to grow revenues, in an industry where investment cycles often exceed 10 years. Understanding a GM’s performance as they make these long term trade-offs is the most difficult part of a perpetual owner’s job. 
+
+We have bought more than 70 private software businesses outright. On ten occasions, however, we have also participated in the purchase of significant minority positions in public software businesses. Usually these minority interests were purchased for less than their intrinsic value, and for far less per share than we would have had to pay for the entire business. While these purchases tend to be at the “value” end of our investment spectrum, they often carry incremental risk because we lack access to information concerning the long term trade-offs that the businesses are making. Even excellent managers of public companies are initially uncomfortable allowing us to join their boards to get access to this information, suspecting us of dire motives or a short-term orientation. We have the same objective when we buy a piece of a business as when we buy 100%, i.e. we want to be a great perpetual owner of an inherently attractive asset. If we are allowed to join a public company’s board, we offer to sign an agreement that will limit our ability to make an unsolicited take-over bid. This allows existing long-term shareholders of our public investees to continue to enjoy the benefits of ownership. For shareholders with similar objectives to ours, we believe that we are an exceptional co-investor.
+
+When boards reject our request for representation, we may resort to “shareholder democracy”, i.e. we may approach other shareholders to request that they support our quest for a board seat. Only as a last resort will we make an unsolicited bid for a company. 
+
+Our financial objective is to generate in excess of 20% average annual revenue and EBITDA growth per share for the period January 1, 2006 through December 31, 2010. We continue to believe that these objectives are attainable. 
+
+May 7th, 2008 
+
+Mark Leonard
+President 
+Constellation Software Inc.
+
+![[CSU Q1 2008.png]]

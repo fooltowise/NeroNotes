@@ -9,7 +9,22 @@
 ## [[Mark Leonard]]'s Letters to Shareholders
 
 [[CSU Q1 2007 Letter to Shareholders]]
-
+[[CSU Q2 2007 Letter to Shareholders]]
+[[CSU Q3 2007 Letter to Shareholders]]
+[[CSU Q4 2007 Letter to Shareholders]]
+[[CSU Q1 2008 Letter to Shareholders]]
+[[CSU Q2 2008 Letter to Shareholders]]
+[[CSU Q3 2008 Letter to Shareholders]]
+[[CSU Q4 2008 Letter to Shareholders]]
+[[CSU Q1 2009 Letter to Shareholders]]
+[[CSU 2009 Letter to Shareholders]]
+[[CSU 2010 Letter to Shareholders]]
+[[CSU 2011 Letter to Shareholders]]
+[[ CSU 2012 Letter to Shareholders]]
+[[CSU 2013 Letter to Shareholders]]
+[[CSU 2014 Letter to Shareholders]]
+[[CSU 2015  Letter to Shareholders]]
+[[CSU 2016 Letter to Shareholders]]
 
 ## Analysts Write ups
 
