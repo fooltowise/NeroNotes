@@ -25,8 +25,20 @@
 [[CSU 2014 Letter to Shareholders]]
 [[CSU 2015  Letter to Shareholders]]
 [[CSU 2016 Letter to Shareholders]]
+[[CSU 2017 Letter to Shareholders]]
+[[CSU 2021 Letter to Shareholders]]
 
-## Analysts Write ups
+## Shareholders Q&A
+[[CSU Q&A April 2018]]
+[[CSU Q&A May 2018]]
+[[CSU Q&A June 2018]]
+[[CSU Q&A July 2018]]
+[[CSU Q&A August 2018]]
+[[CSU Q&A September 2018]]
+
+
+
+## Analysts Write-ups
 
 [[The 10th Man Investment Thesis on CSU]]
 [[Constellation Software's Culture]]

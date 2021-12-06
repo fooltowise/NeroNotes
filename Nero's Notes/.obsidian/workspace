@@ -30,17 +30,6 @@
                 "mode": "preview"
               }
             }
-          },
-          {
-            "id": "b1fe0ce24160fbfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSU 2016 Letter to Shareholders.md",
-                "mode": "source"
-              }
-            }
           }
         ],
         "direction": "horizontal"
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSU 2016 Letter to Shareholders.md",
+                "file": "CSU Q1 2007 Letter to Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSU 2016 Letter to Shareholders.md",
+                "file": "CSU Q1 2007 Letter to Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSU 2016 Letter to Shareholders.md"
+                "file": "CSU Q1 2007 Letter to Shareholders.md"
               }
             }
           }
@@ -173,17 +162,17 @@
     "width": 604,
     "collapsed": true
   },
-  "active": "b1fe0ce24160fbfa",
+  "active": "46417561d67412b4",
   "lastOpenFiles": [
-    "CSU 2016 Letter to Shareholders.md",
-    "CSU.md",
-    "CSU 2015  Letter to Shareholders.md",
-    "CSU 2014 Letter to Shareholders.md",
-    "CSU 2013 Letter to Shareholders.md",
-    "CSU 2012 Letter to Shareholders.md",
-    "CSU 2011 Letter to Shareholders.md",
-    "CSU 2010 Letter to Shareholders.md",
-    "CSU 2009 Letter to Shareholders.md",
-    "CSU Q1 2009 Letter to Shareholders.md"
+    "CSU Q1 2007 Letter to Shareholders.md",
+    "Journal/2021-08-18.md",
+    "Journal/2021-07-31.md",
+    "Journal/2021-06-30.md",
+    "Journal/2021-08-04.md",
+    "Journal/2021-06-29.md",
+    "Journal/2021-05-29.md",
+    "Journal/2021-05-19.md",
+    "Journal/2021-05-23.md",
+    "Journal/2021-05-30.md"
   ]
 }
