@@ -26,8 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSU Q1 2007 Letter to Shareholders.md",
+                "file": "CSU Annual Meeting 2021 Transcript.md",
                 "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "3e1f8520c0ccf3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mark Leonard.md",
+                "mode": "source"
               }
             }
           }
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSU Q1 2007 Letter to Shareholders.md",
+                "file": "CSU Annual Meeting 2021 Transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSU Q1 2007 Letter to Shareholders.md",
+                "file": "CSU Annual Meeting 2021 Transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSU Q1 2007 Letter to Shareholders.md"
+                "file": "CSU Annual Meeting 2021 Transcript.md"
               }
             }
           }
@@ -164,15 +175,15 @@
   },
   "active": "46417561d67412b4",
   "lastOpenFiles": [
-    "CSU Q1 2007 Letter to Shareholders.md",
-    "Journal/2021-08-18.md",
-    "Journal/2021-07-31.md",
-    "Journal/2021-06-30.md",
-    "Journal/2021-08-04.md",
-    "Journal/2021-06-29.md",
-    "Journal/2021-05-29.md",
-    "Journal/2021-05-19.md",
-    "Journal/2021-05-23.md",
-    "Journal/2021-05-30.md"
+    "CSU Annual Meeting 2021 Transcript.md",
+    "CSU.md",
+    "LibertyRPF on CSU.md",
+    "Mark Leonard.md",
+    "Mark Leonard's Operating Manual.md",
+    "CSU Annual Meeting 2020 Transcript.md",
+    "CSU Annual Meeting 2019 Transcript.md",
+    "CSU Q&A September 2021.md",
+    "CSU Q&A August 2020.md",
+    "CSU Note to Shareholder, non-IFRS Measure.md"
   ]
 }
