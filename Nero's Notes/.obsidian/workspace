@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSU Annual Meeting 2021 Transcript.md",
+                "file": "Mark Leonard's Operating Manual.md",
                 "mode": "preview"
               }
             }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Leonard",
+                "query": "\"25 million\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5107650756836,
-    "collapsed": true
+    "width": 301.5107650756836
   },
   "right": {
     "id": "e936182a993d01d8",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSU Annual Meeting 2021 Transcript.md",
+                "file": "Mark Leonard's Operating Manual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSU Annual Meeting 2021 Transcript.md",
+                "file": "Mark Leonard's Operating Manual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSU Annual Meeting 2021 Transcript.md"
+                "file": "Mark Leonard's Operating Manual.md"
               }
             }
           }
@@ -175,15 +174,15 @@
   },
   "active": "46417561d67412b4",
   "lastOpenFiles": [
-    "CSU Annual Meeting 2021 Transcript.md",
-    "CSU.md",
-    "LibertyRPF on CSU.md",
-    "Mark Leonard.md",
     "Mark Leonard's Operating Manual.md",
-    "CSU Annual Meeting 2020 Transcript.md",
-    "CSU Annual Meeting 2019 Transcript.md",
-    "CSU Q&A September 2021.md",
-    "CSU Q&A August 2020.md",
-    "CSU Note to Shareholder, non-IFRS Measure.md"
+    "Harris Podcast with Mark Leonard.md",
+    "Constellation Software Elusive CEO.md",
+    "Creator Stories Podcast about Mark Leonard.md",
+    "CSU.md",
+    "When the brain thinks logarithnically.md",
+    "The 10th Man Investment Thesis on CSU.md",
+    "CSU Annual Meeting 2021 Transcript.md",
+    "LibertyRPF on CSU.md",
+    "Mark Leonard.md"
   ]
 }
