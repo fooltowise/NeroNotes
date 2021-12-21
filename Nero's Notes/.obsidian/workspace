@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mark Leonard's Operating Manual.md",
-                "mode": "preview"
+                "file": "Writing is Networking for Introverts.md",
+                "mode": "source"
               }
             }
           },
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"25 million\"",
+                "query": "introver",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5107650756836
+    "width": 301.5107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "e936182a993d01d8",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mark Leonard's Operating Manual.md",
+                "file": "Writing is Networking for Introverts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mark Leonard's Operating Manual.md",
+                "file": "Writing is Networking for Introverts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mark Leonard's Operating Manual.md"
+                "file": "Writing is Networking for Introverts.md"
               }
             }
           }
@@ -174,6 +175,8 @@
   },
   "active": "46417561d67412b4",
   "lastOpenFiles": [
+    "Writing is Networking for Introverts.md",
+    "The Fundamental Theorem of Investing.md",
     "Mark Leonard's Operating Manual.md",
     "Harris Podcast with Mark Leonard.md",
     "Constellation Software Elusive CEO.md",
@@ -181,8 +184,6 @@
     "CSU.md",
     "When the brain thinks logarithnically.md",
     "The 10th Man Investment Thesis on CSU.md",
-    "CSU Annual Meeting 2021 Transcript.md",
-    "LibertyRPF on CSU.md",
-    "Mark Leonard.md"
+    "CSU Annual Meeting 2021 Transcript.md"
   ]
 }
