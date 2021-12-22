@@ -497,9 +497,12 @@
     "hoc",
     "HPCs",
     "Danaher",
-    "Topicus"
+    "Topicus",
+    "armless"
   ],
   "vimMode": false,
   "foldHeading": true,
-  "communityPluginSortOrder": "release"
+  "communityPluginSortOrder": "release",
+  "legacyEditor": false,
+  "livePreview": true
 }
