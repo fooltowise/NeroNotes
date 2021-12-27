@@ -1,10 +1,9 @@
 [
-  "obsidian-mind-map",
-  "obsidian-reading-time",
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
   "url-into-selection",
   "darlal-switcher-plus",
-  "table-editor-obsidian",
-  "obsidian-advanced-appearance",
-  "obsidian-excalidraw-plugin",
-  "maximise-active-pane-obsidian"
+  "obsidian-reading-time",
+  "maximise-active-pane-obsidian",
+  "sliding-panes-obsidian"
 ]

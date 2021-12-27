@@ -16,7 +16,7 @@ Best topics:
 [[Circle of Control]]
 [[Peace is in staying the course]]
 [[Our Choices]]
-[[Stroic Morning Ritual]]
+[[Stoic Morning Ritual]]
 [[Greek and Roman Stoics]]
 [[The power of Memento Mori]]
 

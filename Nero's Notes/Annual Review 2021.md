@@ -2,39 +2,37 @@
 
 ## BEST MEMORIES
 
-Best Surprise:
+Best Surprise: ?
 
-Best Meal:
+Best Meal: Classic burger at the *Bite*
 
-Coolest New Experience:
+Coolest New Experience: The view from my new apartment
 
-Favorite Weekend:
+Favorite Weekend: When my parents came visiting in September
 
-Favorite First Meeting:
+Favorite First Meeting: ?
 
-Favorite New City:
+Favorite New City: Luzern
 
-Favorite Sports Moment:
+Favorite Sports Moment: France vs New Zealand, Autumn rugby test matches
 
-Favorite New Walk:
+Favorite New Walk: Entlisberg
 
-Favorite New Friend:
+Favorite New Friend: Marco Gösteli
 
-Favorite Tour:
+Favorite Tour: Hiking on Entlisberg
 
-Favorite Day:
+Favorite Day:  ?
 
-Most Intense Week:
+Most Intense Week: Moving to Leimbachstrasse 215
 
-Best Sex:
+Favorite Artist: Sibelius
 
-Favorite Artist:
+Favorite Song: Hungarian Rhapsody number 2, Franz Liszt
 
-Favorite Song:
+Favorite Concert: No concert this year
 
-Favorite Concert:
-
-Favorite Quote:
+Favorite Quote: *A man who procrastinates in his choosing will inevitably have his choice made for him by circumstance* - Hunter S . Thompson
 
 ## REVIEW
 

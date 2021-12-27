@@ -11,3 +11,4 @@ Choose your role model and emulate him as much as possible. In everything you do
 - Mohnish Pabrai
 - Benjamin Franklin
 - Epictetus
+- Jonny Wilkinson

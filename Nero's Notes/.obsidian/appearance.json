@@ -1,6 +1,7 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "translucency": false,
   "enabledCssSnippets": [],
-  "baseFontSize": 18
+  "baseFontSize": 22,
+  "cssTheme": "Harmonic"
 }

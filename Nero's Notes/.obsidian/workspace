@@ -1,92 +1,99 @@
 {
   "main": {
-    "id": "82604c8dc7a1f7e1",
+    "id": "314cf0941ee3ba57",
     "type": "split",
     "children": [
       {
-        "id": "f03ba46e2e227aeb",
-        "type": "split",
-        "children": [
-          {
-            "id": "5e5b94f4181f03eb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skill stack.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "46417561d67412b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Work.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "662ced3e2368422d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity Tricks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e1f8520c0ccf3cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mark Leonard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "08d7725a65055775",
+        "id": "5d08c550f9fc3f69",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Fundamental Theorem of Investing.md",
-            "mode": "preview",
+            "file": "Jonny Wilkinson on High Performance.md",
+            "mode": "source",
+            "backlinks": true,
             "source": false
-          },
-          "pinned": true
+          }
+        }
+      },
+      {
+        "id": "2d95f47b2aed61d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Principles for a good  life.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1fd7eed7022cf75c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Life Canvas.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7ff5e98213dc556c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nick Sleep and Qais Zackaria.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6dc5d8e77f51afbe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lessons from Mohnish Pabrai.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "131a2fd364a21532",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Master Something.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1da5e5823d2794b1",
+    "id": "948ebec722a1195f",
     "type": "split",
     "children": [
       {
-        "id": "4a6151c631c1b4bf",
+        "id": "0a5057d8093717d2",
         "type": "tabs",
         "children": [
           {
-            "id": "dfa0582138570165",
+            "id": "c2e7cf0a077907da",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -94,13 +101,13 @@
             }
           },
           {
-            "id": "b7dbb4ba6a9c6d17",
+            "id": "9a1ca5d613f1d359",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "productivity",
-                "matchingCase": true,
+                "query": "sivers",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -109,7 +116,7 @@
             }
           },
           {
-            "id": "c8f10e9851f2f799",
+            "id": "b3ac0681d63569a8",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -121,48 +128,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5107650756836,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "e936182a993d01d8",
+    "id": "7fa4233b9d1c9536",
     "type": "split",
     "children": [
       {
-        "id": "10b7a1565eedc07b",
+        "id": "a940348c0ad49159",
         "type": "tabs",
         "children": [
           {
-            "id": "d3d3a1b16b278489",
+            "id": "2a348df52ff44a47",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity Tricks.md",
+                "file": "Life Canvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5b3f9c2efc1325b8",
+            "id": "a412d7db8f2d8b25",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity Tricks.md",
+                "file": "Life Canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "961048f1a730e22d",
+            "id": "2a6d6cc2cb65e9dd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -173,12 +179,12 @@
             }
           },
           {
-            "id": "491c250394295d43",
+            "id": "69304216c4573e7b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity Tricks.md"
+                "file": "Life Canvas.md"
               }
             }
           }
@@ -186,20 +192,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 604,
+    "width": 300,
     "collapsed": true
   },
-  "active": "662ced3e2368422d",
+  "active": "1fd7eed7022cf75c",
   "lastOpenFiles": [
-    "Productivity Tricks.md",
-    "Deep Work.md",
-    "Signaling in the workplace.md",
-    "On the tranquility of mind.md",
-    "Goodhart's Law.md",
-    "Annual Review 2021.md",
-    "Writing is Networking for Introverts.md",
-    "The Fundamental Theorem of Investing.md",
-    "Mark Leonard's Operating Manual.md",
-    "Harris Podcast with Mark Leonard.md"
+    "Life Canvas.md",
+    "Jonny Wilkinson on High Performance.md",
+    "Choose your Role Models.md",
+    "Principles for a good  life.md",
+    "Master Something.md",
+    "Lessons from Mohnish Pabrai.md",
+    "Nick Sleep and Qais Zackaria.md",
+    "Pursue Pain.md",
+    "Quality of life.md",
+    "Thinking Via The Index.md"
   ]
 }
