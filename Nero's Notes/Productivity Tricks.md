@@ -3,7 +3,7 @@
 ## by Tim Ferriss
 
 Most "superheroes" are nothing of the sort. They're weird, neurotic creatures who do big things DESPITE lots of self-defeating habits and self-talk. 
-Personally, I suck at efficiency (doing things quickly). To compensate and cope, here's my 8-step process for maximizing efficacy (doing the right things).
+Personally, I suck at efficiency (doing things quickly). To compensate and cope, here's my 8-step process for maximising efficacy (doing the right things).
 
 1. Wake up at least one hour before you have to be at a computer screen. Email is the mind-killer.
 2. Make a cup of tea (I like pu-erh) and sit down with a pen/pencil and paper.
@@ -16,7 +16,7 @@ Personally, I suck at efficiency (doing things quickly). To compensate and cope,
 
 Congratulations! That's it.
 
-This is the only way I can create big outcomes despite my never-ending impulse to procrastinate, nap, and otherwise fritter away days will bull-shit. If I have 10 important things to do in a day, it's 100% certain *nothing important*  will get done that day. One the other hand, I can usually handle one must-do item and block out my lesser behaviors for 2 to 3 hours a day.
+This is the only way I can create big outcomes despite my never-ending impulse to procrastinate, nap, and otherwise fritter away days will bull-shit. If I have 10 important things to do in a day, it's 100% certain *nothing important*  will get done that day. One the other hand, I can usually handle one must-do item and block out my lesser behaviours for 2 to 3 hours a day.
 
 It doesn't take much to seem superhuman and appear "successful" to nearly everyone around you. In fact, you just need one rule: "**What you do** is more important than **how you do** everything else, and doing something well does not make it important".
 

@@ -43,6 +43,19 @@
         }
       },
       {
+        "id": "6feb797499fa7d1a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quality of life.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
         "id": "7ff5e98213dc556c",
         "type": "leaf",
         "state": {
@@ -74,7 +87,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Master Something.md",
+            "file": "Characteristics of  Flow.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b15c72a14cda4393",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Designing your life.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -144,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life Canvas.md",
+                "file": "Designing your life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life Canvas.md",
+                "file": "Designing your life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life Canvas.md"
+                "file": "Designing your life.md"
               }
             }
           }
@@ -195,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1fd7eed7022cf75c",
+  "active": "b15c72a14cda4393",
   "lastOpenFiles": [
+    "Designing your life.md",
     "Life Canvas.md",
+    "Productivity Tricks.md",
+    "Engagement - Flow.md",
+    "Characteristics of  Flow.md",
     "Jonny Wilkinson on High Performance.md",
-    "Choose your Role Models.md",
-    "Principles for a good  life.md",
+    "Inflating reported cash flow.md",
     "Master Something.md",
-    "Lessons from Mohnish Pabrai.md",
-    "Nick Sleep and Qais Zackaria.md",
-    "Pursue Pain.md",
     "Quality of life.md",
-    "Thinking Via The Index.md"
+    "Derek Sivers.md"
   ]
 }
