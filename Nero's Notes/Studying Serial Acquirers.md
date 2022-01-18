@@ -4,7 +4,7 @@ See also [[Mergers and Acquisitions]], [[The art of the Roll-Up]]
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6350c24-7fe7-4158-a80e-cd3682722621_569x777.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6350c24-7fe7-4158-a80e-cd3682722621_569x777.png)
 
-Scott Management wrote a foundational piece about serial acquirers. 
+Scott Management wrote a foundational piece about [[Serial Acquirers]]. 
 
 [http://scottlp.com/letters.html#Acquirers](http://scottlp.com/letters.html#Acquirers) 
 
@@ -33,7 +33,7 @@ Investors’ growing love affair with compounders over the last several years me
 
 Step one was to recognize that there are a lot of special platforms and accumulators out there, step two will be to understand which ones are best positioning themselves to scale long-term and are worth paying up for today. Scaling - deploying more cash flow for longer at high returns on incremental capital - is key.  
 
-**Some more thoughts on why (good) serial acquirers are special**
+## Some more thoughts on why (good) serial acquirers are special
 
 The allure of investing in a serial acquirer is the tendency of such companies to reinvest all or most of their free cash flow for a very long time at high rates of return. It’s as simple as that. 
 
@@ -98,9 +98,9 @@ It’s worthwhile disaggregating this by serial acquirer type. Let’s exclude [
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c723aa-5e51-484f-a9ab-e574af2e7b1b_1329x802.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c723aa-5e51-484f-a9ab-e574af2e7b1b_1329x802.png)
 
-**Scaling of Serial Acquirers**
+## Scaling of Serial Acquirers
 
-_Roll-ups_
+### Roll-ups
 
 Roll-ups play in a narrower circle of competence than platforms and accumulators. SiteOne focuses on rolling up landscaping products distributors, Waste Connections on waste management services etc. They’re in a singular, large TAM that’s likely far bigger than any one of the many individual TAMs that platforms and accumulators are after. This means they don’t have to expand their circle of competence much whereas platforms and accumulators grow up in a tougher environment, constantly having to expand their circle of competence to create a new TAM for themselves.
 
@@ -120,7 +120,7 @@ After 15-20 years of very accretive purchases of independent dialysis clinics, D
 
 Once the market share of the top 1-5 consolidators gets high in their lucrative home market – and we’re talking about market share relative to companies you \*want\* to acquire, not the kind of low quality firms Terminix is buying – it’s probably time to move on unless you’re very sure that the new market is really, really good. And often you won’t find out conclusively for quite a while whether it’s really as good as management claims it to be. 
 
-_Platforms_
+### Platforms
 
 Platforms are a decent compromise. It’s kind of like TAM expansion at a reasonable price, or TEARP (that really doesn’t roll off the tongue…). You make a larger platform acquisition, allowing you to deploy a lot of capital in one shot, then tack on a bunch of bolt-ons subsequently to drive the average RoIC back up. If you’re opportunistic with the platform acquisitions and don’t pay an arm and a leg to get into new TAMs, it can truly be the best of both worlds. 
 
@@ -132,7 +132,7 @@ Diploma used to fall into this category…‘used to’ because the CEO and CFO,
 
 The thing to look out for with platform serial acquirers then is (a) the extent to which they have proven themselves to be opportunistic in the purchase of additional platforms in the past, and (b) their flexibility **as well as embedded organizational trust in delegating the bolt-on M&A further down the organization without the head honcho insisting on being a major bottleneck**.
 
-_Accumulators_
+### Accumulators
 
 Accumulators have a very low TAM constraint as they go after niche markets in a broad set of industries. Obviously if your criterion is high quality niche business and you’re not after integration or synergies, the world’s your oyster. 
 
@@ -171,7 +171,7 @@ Other serial acquirers, like Halma, have to learn about the intricacies of crawl
 
 If, like [[CSU]], a firm closes 100 deals a year rather than 5 (especially if the 100 are mostly all individually pretty small), the law of large numbers also smooths out a lot of dispersion of outcomes among the individual transactions. Individual outcomes will vary widely from the base rates, but all transactions are individually immaterial and in aggregate will get very close to the base rates.
 
-**What to look for**
+## What to look for
 
 _Roll-ups_
 

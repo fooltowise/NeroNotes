@@ -95,12 +95,51 @@
         }
       },
       {
-        "id": "b15c72a14cda4393",
+        "id": "1b8e0a798f1e1ef9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Serial Acquirers.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "17878f9d440c3e66",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Practice Makes Perfect.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fa7e9dc82314caa8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Designing your life.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b15c72a14cda4393",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Speed Matters.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -132,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sivers",
+                "query": "centralized",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7fa4233b9d1c9536",
@@ -170,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Designing your life.md",
+                "file": "Practice Makes Perfect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Designing your life.md",
+                "file": "Practice Makes Perfect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Designing your life.md"
+                "file": "Practice Makes Perfect.md"
               }
             }
           }
@@ -221,17 +261,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b15c72a14cda4393",
+  "active": "17878f9d440c3e66",
   "lastOpenFiles": [
-    "Designing your life.md",
-    "Life Canvas.md",
-    "Productivity Tricks.md",
-    "Engagement - Flow.md",
-    "Characteristics of  Flow.md",
-    "Jonny Wilkinson on High Performance.md",
-    "Inflating reported cash flow.md",
-    "Master Something.md",
-    "Quality of life.md",
-    "Derek Sivers.md"
+    "Practice Makes Perfect.md",
+    "Demesne Investments.md",
+    "Once Upon a Time in Sweden.md",
+    "The Disguises of Short-Termism.md",
+    "A Study in Decentralization.md",
+    "Battle of the sexes.md",
+    "Selfish Gene.md",
+    "Mental Models from Biology.md",
+    "Sex.md",
+    "Evolution - Adaptation and the Red Queen Effect.md"
   ]
 }

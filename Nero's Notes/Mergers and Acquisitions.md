@@ -9,6 +9,8 @@ Consolidation of fragmented industries is often an appealing rationale for growt
 - [[Bolt-on acquisitions]]
 - [[Leveraging network benefits]]
 - [[The art of the Roll-Up]]
+- [[Studying Serial Acquirers]]
+- [[Serial Acquirers]]
 
 
 
