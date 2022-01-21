@@ -113,8 +113,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Practice Makes Perfect.md",
-            "mode": "source",
+            "file": "A Taxonomy of Holdcos.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practice Makes Perfect.md",
+                "file": "A Taxonomy of Holdcos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practice Makes Perfect.md",
+                "file": "A Taxonomy of Holdcos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practice Makes Perfect.md"
+                "file": "A Taxonomy of Holdcos.md"
               }
             }
           }
@@ -263,15 +263,15 @@
   },
   "active": "17878f9d440c3e66",
   "lastOpenFiles": [
-    "Practice Makes Perfect.md",
+    "A Taxonomy of Holdcos.md",
     "Demesne Investments.md",
+    "The 1960s Conglomerate Boom.md",
+    "Ladder-Climbing and Owner Operators.md",
+    "Practice Makes Perfect.md",
     "Once Upon a Time in Sweden.md",
     "The Disguises of Short-Termism.md",
     "A Study in Decentralization.md",
     "Battle of the sexes.md",
-    "Selfish Gene.md",
-    "Mental Models from Biology.md",
-    "Sex.md",
-    "Evolution - Adaptation and the Red Queen Effect.md"
+    "Selfish Gene.md"
   ]
 }
