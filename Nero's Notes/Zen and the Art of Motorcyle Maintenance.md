@@ -4,6 +4,10 @@
 One of the favorite books of [[Lessons from Nick Sleep and Qais Zakaria| Nick Sleep]]
 
 
+> It can be at a level as simple as sharpening a kitchen knife or sewing a dress, or mending a broken chair, the underlying problems are the same. In  each case there is a beautiful way of doing it, and an ugly way of doing it. And in arriving at the high-quality beautiful way of doing it, both an ability to see what looks good, and an ability to understand the underlying methods to arrive at that good are needed.
+
+
+
 
 ### Summary of Quality:
 

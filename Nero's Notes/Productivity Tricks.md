@@ -8,7 +8,7 @@ Personally, I suck at efficiency (doing things quickly). To compensate and cope,
 1. Wake up at least one hour before you have to be at a computer screen. Email is the mind-killer.
 2. Make a cup of tea (I like pu-erh) and sit down with a pen/pencil and paper.
 3. Write down the 3 to 5 things - and no more - that are making you the most anxious and uncomfortable. They're often things that have been punted from one day's to-do list to the next, to the next, to the next, and so on. Most important usually equals most uncomfortable, with some chance of rejection or conflict.
-4. For each item, ask yourself: "**If this were the only thing I accomplished today, would I be satisfied with my day? "ill moving this forward make all the other to-dos unimportant or easier to knock off later? Put another way: What, if done, will make all of the rest easier or irrelevant?**"
+4. For each item, ask yourself: "**If this were the only thing I accomplished today, would I be satisfied with my day? "Will moving this forward make all the other to-dos unimportant or easier to knock off later? Put another way: What, if done, will make all of the rest easier or irrelevant?**"
 5. Look only at the items you've answered "yes" to for at least one of these questions.
 6. Block out at 2 to 3 hours to focus on ONE of them for today. Let the rest of the urgent but less important stuff slide. It will still be there tomorrow.
 7. TO BE CLEAR: Block out at 2 to 3 HOURS to focus on ONE of them for today. This is ONE BLOCK OF TIME. Cobbling together 10 minutes here and there to add up to 120 minutes does not work. No phone calls or social media allowed.

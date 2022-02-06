@@ -22,6 +22,7 @@
 - [[Writing is Networking for Introverts]]
 - Aim high, but reward yourself for small incremental improvements, especially when they repeat every day.
 - Tim Ferriss - [[Productivity Tricks]]
+- [[Yen Liow]] - Choose your game. If you want to do truly extraordinary in your life, play unfair games. Only play when the odds are heavily in your favor.
 
 
 

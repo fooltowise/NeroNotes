@@ -7,4 +7,4 @@ Robert Hagstrom wrote a wonderful book on worldly wisdom entitled *Investing: Th
 It is clear that Munger loves to learn. *He actually has fun when he is learning, and that makes the worldly wisdom investing process enjoyable for him.* This is important because many people do not find investing enjoyable, especially when compared to gambling, which science has shown can generate pleasure via chemicals (e.g, dopamine) even though it is an activity with a negative net present value. ***What Munger has done is created a system - worldly wisdom - that allows him to generate the same chemicals rewards in an activity that has a positive net present value. When you learn something new, your brain gives itself a chemical reward, which motivates you to do the work necessary to be a successful investor.*** If you do this work and adopt a worldly wisdom mindset, Munger believes you will create an investing edge over other investors.
 
 
-How can I create the [[Atomic Habits| habits]] so that my brain generates dopamine when I learn or anticipate learning?
+How can I create the [[Atomic Habits |habits]] so that my brain generates dopamine when I learn or anticipate learning?
