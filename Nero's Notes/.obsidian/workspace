@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Talent Management.md",
+            "file": "Culture is an output, not an input.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -74,7 +74,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lessons from the Titans.md",
+            "file": "Conclusion from Lessons from the Titans.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talent Management.md",
+                "file": "Conclusion from Lessons from the Titans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talent Management.md",
+                "file": "Conclusion from Lessons from the Titans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talent Management.md"
+                "file": "Conclusion from Lessons from the Titans.md"
               }
             }
           }
@@ -222,17 +222,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1fd7eed7022cf75c",
+  "active": "6dc5d8e77f51afbe",
   "lastOpenFiles": [
-    "Talent Management.md",
+    "Conclusion from Lessons from the Titans.md",
     "Lessons from the Titans.md",
+    "Risk Management.md",
+    "Benchmarking for Success.md",
+    "Capital allocation, Compounding, and the need for reinvention.md",
+    "Culture is an output, not an input.md",
+    "Talent Management.md",
     "Disruption Gets Too Much Attention.md",
     "The Importance of Business Systems.md",
-    "Lessons from Mohnish Pabrai.md",
-    "The Ultimate Compounding Machine - Your Mind - Yen Liow.md",
-    "Zen and the Art of Motorcyle Maintenance.md",
-    "Serial Acquirers.md",
-    "Harris Podcast with Mark Leonard.md",
-    "Omd Ventures on Mark Leonard.md"
+    "Lessons from Mohnish Pabrai.md"
   ]
 }

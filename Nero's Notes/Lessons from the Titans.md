@@ -33,3 +33,16 @@
 
 
 ![[Talent Management]]
+
+
+![[Culture is an output, not an input]]
+
+![[Capital allocation, Compounding, and the need for reinvention]]
+
+
+![[Benchmarking for Success]]
+
+
+![[Risk Management]]
+
+![[Conclusion from Lessons from the Titans]]

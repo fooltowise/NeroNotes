@@ -1,0 +1,16 @@
+# Culture is an Output, not an Input
+
+See also [[Corporate Culture]]
+
+
+Culture is another notion we find many companies fixating on, but they often misunderstand what it represents and how to develop and sustain it. We've asked hundreds of executives to comment on their culture, and almost every time the answers were aspirational (didn't match current reality) or, worse, made up of feel-good vagaries such as "customer-centric", "excellence", "ethical", or "inclusive" - qualities that are often tough to measure and more often than not do not match up with our observations. Whatever the leaders of these companies were doing, they weren't seriously promoting a real culture.
+
+Culture isn't something you can force or even actively promote using just words. It's purely a result of the concrete directions and examples you give to people. It's usually driven by whatever the leaders focus on, their actions and the incentives set around the organizational deliverables. Leaders can't impose a culture through just words, but if they embrace a system, use it consistently with their direct reports, and broadcast it to the organization, then eventually you get a culture pretty close to whatever that system encourages. The more consistent the message and the longer the duration of the effort, the stronger the culture. Culture and loyalty tend to go hand in hand. If bad behavior is stamped out and employees feel safe and empowered, that helps to define the very base level of the culture. If performance is fairly rewarded, that helps to define the more positive component of the culture. Bother serve to underpin a culture with loyalty as an important by-product. We recently saw a viral post on LinkedIn that relates to this theme. It simply stated, "Millenials don't leave companies, they leave bad managers." Not sure who wrote this, but it sure seems accurate. And while culture take a long time to develop, it can be lost in a nanosecond.
+
+For example, if leaders don't embrace a clear system, then they're likely to adopt the flavor of the day. And the distraction of a constantly changing message alone can allow bad managers to flourish. As the struggling CEO of GE, Jeff Immelt described the company differently in nearly every annual report letter he wrote over his long tenure. Could the company really change so much over those years, or was he just superficially chasing hot ideas? In the process of fixating on whatever was popular, GE managers, and by extension the employees, lost focus.
+
+Part of the problem with the longstanding emphasis on culture is that analysts, journalists, investors, employees, and executives use it as an explanation for successes. But does culture drive performance, or does performance drives the perception of culture? We can't think of a failed company that at one point didn't describe its culture in glowing terms. GE and WeWork are good recent examples, with risk taking described as "entrepreneurial". They used powerful adjectives to make investors and other stakeholders think that their companies had some sort of special powers. But look behind the curtain, and you'll see that those cultures weren't much of anything real. It is important that Amazon and Facebook, among others in the tech world, don't fall into this trap. It is a slippery slope. Just ask Boeing alumni; they lived that reality.
+
+
+
+
