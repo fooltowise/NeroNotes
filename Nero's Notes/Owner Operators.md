@@ -4,7 +4,7 @@ If you’ve ever founded your own business, you’ll know how important they bec
 
 I’m sure you’ve heard the saying, ‘_no one works as hard as the owner_’, and this is largely true. No one does. Where other managers and employees might come and go over time, it’s the founder who is there, quite often seven days a week, plugging away at their enterprise, steering and guiding and leading it towards success. And its this commitment to the cause that often leads to remarkable levels of performance.
 
-We’ve covered a lot of different successful businesses in the Investment Masters Class over the last few years: **Aldi, Home Depot, Walmart, Copart, Charles Schwab** and **McDonald’s** to name but a few. And interestingly, one of the most striking features of these businesses has been the fact that ninety percent of them have been run by **Founders**.
+We’ve covered a lot of different successful businesses in the Investment Masters Class over the last few years: **Aldi, Home Depot, Walmart, Copart ([[CPRT]]), Charles Schwab** and **McDonald’s** to name but a few. And interestingly, one of the most striking features of these businesses has been the fact that ninety percent of them have been run by **Founders**.
 
 You may have also noticed yourself that many of the investors considered ‘_Masters_’ have quite literally filled their portfolios with companies run by either **founders, families or major shareholders who act like such**; **Berkshire, Nomad, Giverny, Baillie Gifford, Marathon** and **Gardner Russo** are some that come to mind.
 

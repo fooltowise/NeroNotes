@@ -13,7 +13,7 @@
 
 
 ## Walmart 
-See [[Walmart]]
+See  Walmart [[WMT]]
 
 
 ## Amazon

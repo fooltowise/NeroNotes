@@ -3,7 +3,7 @@
 
 ## Principles
 - [[Lessons from Mohnish Pabrai | Mohnish Pabrai]]: Clone what works
-- [[Nick Sleep and Qais Zackaria | Nick Sleep]]: When something is worth doing, it's worth doing well.
+- [[Nick Sleep and Qais Zakaria | Nick Sleep]]: When something is worth doing, it's worth doing well.
 - Daniel Gilbert: We are very bad at predicting what will make us happy. Two consequences:
 	-  It is much easier (and better) to remove unhappiness than to actively seek things that make us happy
 	- When something looks interesting/potentially fulfilling, contact someone who is already in that position to figure out how his day-to-day life looks like.

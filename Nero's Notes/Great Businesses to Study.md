@@ -6,7 +6,7 @@
 - [[Costco]]
 - Nike 
 - Visa
-- [[Walmart]]
+- Walmart  [[WMT]]
 - Apple
 - JP Morgan
 - Disney
@@ -23,4 +23,4 @@
 - PanAm
 
 
-See also [[Great Businesses I'd like to own]]
+See also [[Great Businesses I'd like to own]] and [[Best Businesses in the world to Study]]

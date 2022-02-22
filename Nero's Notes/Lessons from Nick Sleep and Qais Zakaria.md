@@ -9,7 +9,7 @@
 
 - For example, they wanted to know, *Is this company strengthening its relationship with customers by providing superior products, low prices, and efficient service? Is the CEO allocating capital in a rational way that will enhance the company's long term value? Is the company underpaying its employees, mistreating its suppliers, violating its customers' trust, or engaging in any other shortsighted behavior that could jeopardize its eventual greatness?*
 
-- Sleep and Zakaria began to wonder what characteristics account for the success of companies with unusually long shelf life, and they would reach the revelatory conclusion that one business model may be ore powerful than all the rest. Their term for it is *scale economics shared*.
+- Sleep and Zakaria began to wonder what characteristics account for the success of companies with unusually long shelf life, and they would reach the revelatory conclusion that one business model may be more powerful than all the rest. Their term for it is *scale economics shared*.
 
 
 ### Five lessons with a long shelf life:

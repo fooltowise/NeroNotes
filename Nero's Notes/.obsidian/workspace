@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5d08c550f9fc3f69",
+        "id": "7634ce7045541f36",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jonny Wilkinson on High Performance.md",
+            "file": "Scale Economics Shared Businesses.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "2d95f47b2aed61d6",
+        "id": "b9b21291697853b4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Principles for a good  life.md",
+            "file": "My Investing Strategy.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -35,73 +35,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Culture is an output, not an input.md",
+            "file": "WMT.md",
             "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "11c98bb658152375",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Productivity Tricks.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7ff5e98213dc556c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Nick Sleep and Qais Zackaria.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6dc5d8e77f51afbe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conclusion from Lessons from the Titans.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "fa7e9dc82314caa8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zen and the Art of Motorcyle Maintenance.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b15c72a14cda4393",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Ultimate Compounding Machine - Your Mind - Yen Liow.md",
-            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -132,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "walmart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fa4233b9d1c9536",
@@ -171,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conclusion from Lessons from the Titans.md",
+                "file": "Scale Economics Shared Businesses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conclusion from Lessons from the Titans.md",
+                "file": "Scale Economics Shared Businesses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conclusion from Lessons from the Titans.md"
+                "file": "Scale Economics Shared Businesses.md"
               }
             }
           }
@@ -222,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6dc5d8e77f51afbe",
+  "active": "7634ce7045541f36",
   "lastOpenFiles": [
-    "Conclusion from Lessons from the Titans.md",
-    "Lessons from the Titans.md",
-    "Risk Management.md",
-    "Benchmarking for Success.md",
-    "Capital allocation, Compounding, and the need for reinvention.md",
-    "Culture is an output, not an input.md",
-    "Talent Management.md",
-    "Disruption Gets Too Much Attention.md",
-    "The Importance of Business Systems.md",
-    "Lessons from Mohnish Pabrai.md"
+    "Scale Economics Shared Businesses.md",
+    "Walmart.md",
+    "WMT.md",
+    "Great Businesses to Study.md",
+    "Thinking Via The Index.md",
+    "Best Businesses in the world to Study.md",
+    "Nick Sleep and Qais Zakaria.md",
+    "My Investing Strategy.md",
+    "Patience.md",
+    "The Equity Yield Curve.md"
   ]
 }

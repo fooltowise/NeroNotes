@@ -12,4 +12,4 @@ A good heuristic: Anything effortlessly digested means that your are reading for
 The key lesson is that, in the pursuit of wisdom, we must read much more of what has endured over time (such as history or biographies) than what is ephemeral (such as daily news, social media trends, and the like). Andrew  Ross said: "The smallest bookstore still contains more ideas of worth than have been presented in the entire history of television."
 
 
-See also [[Nick Sleep and Qais Zackaria]]'s Wisdom on information with a long shelf-life.
+See also [[Nick Sleep and Qais Zakaria]]'s Wisdom on information with a long shelf-life.

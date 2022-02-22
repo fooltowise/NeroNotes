@@ -57,7 +57,7 @@
 - [[Priming and Contamination]]
 - [[Scope Insensitivity Bias]]
 - [[Endowment Effect]]
-- [[When the brain thinks logarithnically]]
+- [[When the brain thinks logarithmically]]
 - [[Pain reducing psychological denial]]
 - [[Ideology]]
 - [[Envy]]

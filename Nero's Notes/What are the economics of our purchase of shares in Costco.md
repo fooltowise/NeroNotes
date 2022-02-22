@@ -1,6 +1,6 @@
 # What are the economics of our purchase of shares in Costco?
 
-See [[Nick Sleep and Qais Zackaria]], [[Costco Annual Letters]], [[Costco Analysis Deck - Business Model]]
+See [[Nick Sleep and Qais Zakaria]], [[Costco Annual Letters]], [[Costco Analysis Deck - Business Model]]
 
 *Taken from the Nomad letter to shareholders, year ended December 31st, 2004*
 

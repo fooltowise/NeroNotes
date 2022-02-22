@@ -2,7 +2,7 @@
 
 ## Constellation Software, Inc
 
-**Chairman : ** [[Mark Leonard]]
+**Chairman :** [[Mark Leonard]]
 
 ## Annual Meetings
 [[CSU Annual Meeting 2019 Transcript]]
@@ -63,6 +63,7 @@
 [[Top Acquirer Spotlight Podcast - Constellation Software]]
 [[A Canadian Berkshire Hathaway is quietly outperforming the FAANG stocks]]
 [[Beyond the Echo - Gabe Czegledy, Software Opportunities in the Resource Sector]]
+[[M&A Podcast with Jeff Bender]]
 
 
 
