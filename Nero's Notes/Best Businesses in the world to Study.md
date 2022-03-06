@@ -23,7 +23,7 @@ See also [[Great Businesses I'd like to own]]
 | Heico ([[HEI]])              | Offering low priced but high value products to your customer         |
 | Copart ([[CPRT]])            | Creating both physical and digital moats                             |
 | Cintas ([[CTAS]])            | Boring can be beautiful                                              |
-| Danaher ([[DHR]])            | Process and culture                                                  |
+| [[Danaher]] (DHR)            | Process and culture                                                  |
 | Roper ([[ROP]])              | Process and culture                                                  |
 | NVR ([[NVR]])                | Differentiated business model                                        |
 | Pool Corp ([[POOL]])         | Efficient roll-up strategy in a niche                                |

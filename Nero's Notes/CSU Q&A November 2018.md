@@ -30,11 +30,11 @@ Mark L.
 
 **Question**
 
-Have you ever thought about creating a "business system" just like Danaher (which is the lead reference in that field). I know CSI does a lot of benchmarking and fosters best practices among its BUs and Operating Groups, creating a kind of "decentralized business system" spread through the organization. However, at the same time, I think there are also benefits with a more formal and standardized approach. Have you ever had this discussion at the board level?
+Have you ever thought about creating a "business system" just like [[Danaher]] (which is the lead reference in that field). I know CSI does a lot of benchmarking and fosters best practices among its BUs and Operating Groups, creating a kind of "decentralized business system" spread through the organization. However, at the same time, I think there are also benefits with a more formal and standardized approach. Have you ever had this discussion at the board level?
 
 **Response**
 
-In the [[CSU 2015  Letter to Shareholders]] I discussed a CSI study of high performance conglomerates ("HPCs"). Several HPCs, including Danaher, had extensive and codified operating methodologies. I don't doubt that their technique works for the right kind of organization.
+In the [[CSU 2015  Letter to Shareholders]] I discussed a CSI study of high performance conglomerates ("HPCs"). Several HPCs, including [[Danaher]], had extensive and codified operating methodologies. I don't doubt that their technique works for the right kind of organization.
 
 We do some of the things that the operationally focused HPCs do: CSI benchmarks its business units and we share best practices. We usually caveat these practices with phrases like "if you do this, then historically there's been a Y% probability that Z will happen", and "this seems to have worked amongst X% of our performing businesses". Because we have hundreds of similar VMS businesses, my sense is that we are most statistical and less dogmatic about our best practices than the operationally focused HPCs. I also have the sense that our best practices are more granular that those found in the HPCs. Instead of championing broad processes like lean six sigma or the Pareto principle and applying them  to a relatively small group of businesses competing in different industries, we are more likely to test a very specific hypothesis with an observational study of several hundred CSI VMS acquisitions. If the hypothesis is correct, it may lead to the development of a best practice. Whether the hypothesis proves correct or not, the observational study nearly always leads to a flurry of new hypotheses to test.
 

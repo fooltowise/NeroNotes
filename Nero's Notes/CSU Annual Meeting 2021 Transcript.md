@@ -550,7 +550,7 @@ Interesting. Well, the large stuff has obviously been time consuming over the la
 
 Unknown Executive
 
-All right. I can't wait to hear more about it when it's official. On still on the large investment train, what -- have you tied any of those lessons you've studied from high-performance conglomerates into how you approach large investments? This person brought up an example of TransDigm's recent acquisition of Esterline which required putting in an entire management team to share best practices. So what do you think that you have to pay higher purchase multiples as well as...
+All right. I can't wait to hear more about it when it's official. On still on the large investment train, what -- have you tied any of those lessons you've studied from high-performance conglomerates into how you approach large investments? This person brought up an example of [[TransDigm]]'s recent acquisition of Esterline which required putting in an entire management team to share best practices. So what do you think that you have to pay higher purchase multiples as well as...
 
 Mark Leonard
 
@@ -562,11 +562,11 @@ It appears Howard has disconnected. Let me see if I can dial back out to him.
 
 Lawrence Cunningham
 
-Okay. I'll pick up where he left off. He was just asking, Mark, for large investments, what lessons are you applying from your study of high-performance conglomerates as the author gives the example of TransDigm. Apparently, in a recent acquisition, it ended up putting a whole management team down there in order to proliferate their best practices.
+Okay. I'll pick up where he left off. He was just asking, Mark, for large investments, what lessons are you applying from your study of high-performance conglomerates as the author gives the example of [[TransDigm]]. Apparently, in a recent acquisition, it ended up putting a whole management team down there in order to proliferate their best practices.
 
 Mark Leonard
 
-I mean most lessons I got from the high-performance conglomerates were depressing that over time, they generated ever lower rates of return on incremental capital deployments. And although they continue to be operationally efficient, the way they continue to generate acceptable and reasonable returns was through the use of gobs of financial leverage and TransDigm was probably the most extreme example in terms of financial leverage. And it's just a personal comfort thing that we haven't gone that route.
+I mean most lessons I got from the high-performance conglomerates were depressing that over time, they generated ever lower rates of return on incremental capital deployments. And although they continue to be operationally efficient, the way they continue to generate acceptable and reasonable returns was through the use of gobs of financial leverage and [[TransDigm]] was probably the most extreme example in terms of financial leverage. And it's just a personal comfort thing that we haven't gone that route.
 
 So what we're trying to do, what we -- where we think we have the greatest chance of successes is not large investments or investments outside of vertical market software. But it is in continuing to do lots of small and medium-sized vertical market software investments using the processes and approach that we've historically used. So obviously, we're trying to scale that. And that's absolutely our focus. Everything else is a side activity and probably doesn't generate anywhere near as good rates of return as that core activity. And I don't particularly want to distract people from the core.
 

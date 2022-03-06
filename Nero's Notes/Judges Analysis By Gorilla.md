@@ -149,7 +149,7 @@ David Cicurel founded the company and you can get a sense for his personality fr
 
 Mark Lavelle (~60 years old) – Options are worth ~£2.4m
 
-Mark Lavelle joined the company in 2017. He spent 16 years at Halma including senior positions as CEO of two operating groups and as head of M&A. I asked around and confirmed that he left Halma voluntarily. Judging by investor presentations, he seems very aligned with the "Judges Culture" which is basically "Halma-lite". Hiring a former head of M&A with CEO experience is like a small industrial small cap in the US hiring the former COO of Danaher. There is a lot of low hanging fruit to go after.
+Mark Lavelle joined the company in 2017. He spent 16 years at Halma including senior positions as CEO of two operating groups and as head of M&A. I asked around and confirmed that he left Halma voluntarily. Judging by investor presentations, he seems very aligned with the "Judges Culture" which is basically "Halma-lite". Hiring a former head of M&A with CEO experience is like a small industrial small cap in the US hiring the former COO of [[Danaher]]. There is a lot of low hanging fruit to go after.
 
 Brad Ormsby (~40 years old) – Options are worth ~£1.0m
 

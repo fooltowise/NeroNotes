@@ -12,7 +12,7 @@
 - Disney
 - LVMH
 - Domino's
-- Danaher
+- [[Danaher]]
 - National Cash Register
 - Ansys
 

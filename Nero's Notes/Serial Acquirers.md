@@ -50,11 +50,11 @@ The specialized nature of products in these industries implies that it can be ch
 
 That said, well run serial acquirers have the potential to tap into other market segments.  While this will happen at a rate of return below that which is organically achievable in an existing business, it can still represent an attractive opportunity. For this reason, one could say that adept serial acquirers have the potential to expand their addressable markets.
 
-Larry Culp, the long-time CEO of Danaher, described what he looked for in markets using criteria that are well defined, but which also allow for considerable latitude:
+Larry Culp, the long-time CEO of [[Danaher]], described what he looked for in markets using criteria that are well defined, but which also allow for considerable latitude:
 
-First,the market size should exceed $1 billion.  Second, core market growth should be at least 5%–7% and without undue cyclicality or volatility.  This excludes Rust Belt and Silicon Valley businesses for us.  Third, we look for fragmented industries with a long tail of participants that have $25–$100 million in sales, and that can be acquired for their products without necessarily needing their overheads.  Fourth, we try to avoid outstanding competitors such as Toyota or Microsoft.  Fifth, the target arena should present a good opportunity for applying the Danaher Business System so that we can leverage our Danaher skill sets.  Last, we look for tangible product-centric businesses. This rules out, for example, financial services.\[2\]
+First,the market size should exceed $1 billion.  Second, core market growth should be at least 5%–7% and without undue cyclicality or volatility.  This excludes Rust Belt and Silicon Valley businesses for us.  Third, we look for fragmented industries with a long tail of participants that have $25–$100 million in sales, and that can be acquired for their products without necessarily needing their overheads.  Fourth, we try to avoid outstanding competitors such as Toyota or Microsoft.  Fifth, the target arena should present a good opportunity for applying the [[Danaher]] Business System so that we can leverage our [[Danaher]] skill sets.  Last, we look for tangible product-centric businesses. This rules out, for example, financial services.\[2\]
 
-Some investors question whether companies such as Danaher work to shareholders’ benefit when they engage in such an acquisitive strategy. In my experience, advantaged acquirers do, in fact, create value—not through financial engineering, but through a combination of the following:
+Some investors question whether companies such as [[Danaher]] work to shareholders’ benefit when they engage in such an acquisitive strategy. In my experience, advantaged acquirers do, in fact, create value—not through financial engineering, but through a combination of the following:
 
 ·        Targeting smaller-sized companies.  Many attractive prospects are too small to be considered by financial or strategic buyers. In Addtech’s case, acquisitions have, on average, had less than $10 million in sales and roughly 20 employees.
 
@@ -158,7 +158,7 @@ Serial acquirers are an interesting hunting ground.  Often overlooked, many of 
 
 \[1\] Heico Corporation (HEI) Q3 2018 Results – Earnings Call transcript
 
-\[2\] Anand,Bharat, David Collis, and Sophie Hood. "Danaher Corporation." HBS Case 708-445, Feb. 2008.
+\[2\] Anand,Bharat, David Collis, and Sophie Hood. "[[Danaher]] Corporation." HBS Case 708-445, Feb. 2008.
 
 \[3\] Halma plc 2013 Capital Markets Day transcript
 

@@ -4,6 +4,10 @@
 
 **Chairman :** [[Mark Leonard]]
 
+
+## Subsidiaries
+- Topicus [[TOI]]
+
 ## Annual Meetings
 [[CSU Annual Meeting 2019 Transcript]]
 [[CSU Annual Meeting 2020 Transcript]]
@@ -51,7 +55,11 @@
 ## Analysts Write-ups
 
 [[The 10th Man Investment Thesis on CSU]]
-[[Constellation Software's Culture]]
+[[Constellation Software's Culture]] by Roy Lipovetzky
+
+## Interviews with Operators
+[[Constellation Software - Culture and M&A]]
+[[Constellation Software - M&A Best Practices]]
 
 ## Analyses by Liberty RPF
 [[LibertyRPF on CSU]]
