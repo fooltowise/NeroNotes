@@ -308,9 +308,9 @@ Part of what you must learn is how to handle mistakes and new facts that change 
 
 *Q: Could you talk about the thoughts that went into your decision to swap you Capital Cities stock for Disney rather than taking cash. In the media, it was reported that you mentioned thinking about the cash.*
 
-Disney's a perfectly marvelous company, but it's also very high-priced. Part of what it does is to make ordinary movies - which is not a business that attracts me at all. However, part of what Disney has is better than a great gold mine. My grandchildren - I mean, those videocassettes...
+[[Disney]]'s a perfectly marvelous company, but it's also very high-priced. Part of what it does is to make ordinary movies - which is not a business that attracts me at all. However, part of what [[Disney]] has is better than a great gold mine. My grandchildren - I mean, those videocassettes...
 
-Disney is a amazing example of [[Catalysts| Autocatalysis]]... They had all those movies in the can. They owned the copyright. And just as Coke could prosper when refrigeration came, when the videocassette was invented, Disney didn't have to invent anything or do anything except take the thing out of the can and stick it on the cassette. And every parent and grandparent wanted his descendants to sit around and watch that stuff at home on videocassette. So Disney got this enormous tailwind from life. And it was billions of dollars worth of tail wind.
+[[Disney]] is a amazing example of [[Catalysts| Autocatalysis]]... They had all those movies in the can. They owned the copyright. And just as Coke could prosper when refrigeration came, when the videocassette was invented, Disney didn't have to invent anything or do anything except take the thing out of the can and stick it on the cassette. And every parent and grandparent wanted his descendants to sit around and watch that stuff at home on videocassette. So Disney got this enormous tailwind from life. And it was billions of dollars worth of tail wind.
 
 Obviously, that's a marvelous model if you can find it. You don't have to invent anything. All you have to do is to sit there while the world carries you forward...
 

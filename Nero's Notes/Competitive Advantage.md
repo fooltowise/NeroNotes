@@ -17,7 +17,7 @@ Pricing power can come from:
 	1. [[Brands]]
 	2. Long-term customer relationships (ex: [[Agency Business Model]])
 	3.  [[Switching costs]]
-	4.  [[Intellectual Property]]: MSCI, Games Workshop
+	4.  [[Intellectual Property]]: MSCI, [[Games Workshop]]
 	5.  [[Franchising]]
 	6.  Provide a critical service or product whose cost is only a small part of the customer's total spending. Examples:
 		1. [[Rightmove business model|Rightmove]]

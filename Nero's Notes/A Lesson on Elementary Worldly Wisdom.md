@@ -395,7 +395,7 @@ And once we'd gotten over the hurdle of recognizing that a thing could be a barg
 
 And, by the way, the bulk of the billions of Berkshire Hathaway has come from the  better businesses. Much of the first $200 or $300 million came from scrambling around with our Geiger counter. But the great bulk of the money has come from the great businesses.
 
-And even some of the early money was made by being temporarily present in great businesses. Buffett Partnership, for example, owned American Express and Disney when they got pounded down.
+And even some of the early money was made by being temporarily present in great businesses. Buffett Partnership, for example, owned American Express and [[Disney]] when they got pounded down.
 
 Most investment managers are in a game where the clients expect them to know a lot about a lot of things. We didn't have any clients who could fire us at Berkshire Hathaway. So we didn't have to be governed by any such construct. And we came to this notion of finding a mispriced bet and loading up when we were very confident that we were right. So we're way less diversified. And I think our system is miles better.
 
@@ -426,7 +426,7 @@ Finding them big obviously is very hard because of the competition. So far, Berk
 
 And ideally - and we've done a lot of this - you get into a great business which also has a great manager because management matters. For example, it's made a hell of a difference to General Electric that Jack Welch came in instead of the guy who took over Westinghouse - one hell of a difference. So management matters, too.
 
-And some of it is predictable. I do not think it takes a genius to understand that Jack Welch was a more insightful person and a better manager than his peers in other companies. Nor do I think it took tremendous genius to understand that Disney had basic momentums in place that are very powerful and that Eisner and Wells were very unusual managers.
+And some of it is predictable. I do not think it takes a genius to understand that Jack Welch was a more insightful person and a better manager than his peers in other companies. Nor do I think it took tremendous genius to understand that [[Disney]] had basic momentums in place that are very powerful and that Eisner and Wells were very unusual managers.
 
 So you do get an occasional opportunity to get into a wonderful business that's being run by a wonderful manager. And, of course, that's hog heaven day. If you don't load up when you get those opportunities, it's a big mistake.
 
@@ -461,7 +461,7 @@ So there are risks. Nothing is automatic and easy. But if you can find some fair
 Within the growth stock model, there's a sub-position:
 **There are actually businesses that you will find a few times in a lifetime where any manager could raise the return enormously just by raising prices - and yet they haven't done it. So they have huge untapped pricing power that they're not using. That is the ultimate no-brainer.**
 
-That existed in Disney. It's such a unique experience to take your grandchild to Disneyland. You're not doing that often. And there are lots of people in the country. And Disney found that it could raise those prices a lot, and the attendance stayed right up.
+That existed in [[Disney]]. It's such a unique experience to take your grandchild to Disneyland. You're not doing that often. And there are lots of people in the country. And Disney found that it could raise those prices a lot, and the attendance stayed right up.
 
 So a lot of the great record of Eisner and Wells was utter brilliance but the rest came from just raising prices at Disneyland and Disneyworld and through video cassette sales of classic animated movies.
 

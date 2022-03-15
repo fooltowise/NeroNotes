@@ -39,7 +39,7 @@ Johann Rupert is the South-African CEO of Richemont SA.
 - Fashion fades, only style remains the same.
 - Coco Chanel years ago said that money is money is money. It's only the pockets that change. We've got to find those pockets.
 - **Anniversaries, birthdays and girlfriends are always going to be there.**
-- If your business model, or your intellectual property, is in ones and zeros, you're going to have issues. So luckily our intellectual property resides in atoms and it is tough to wreck.
+- If your business model, or your [[intellectual property]], is in ones and zeros, you're going to have issues. So luckily our intellectual property resides in atoms and it is tough to wreck.
 - (On brand integrity) you cannot make Ferrari's in Fiat factories.
 
 

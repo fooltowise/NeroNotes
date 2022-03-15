@@ -21,7 +21,7 @@ Given the high qualification costs, engineering R&D and upfront capex for parts,
 
 [[Transdigm]]’s value-based pricing strategy is merely making the distribution of aftermarket profits more equitable between the airframer and the parts supplier. Constellation and Topicus’ pricing strategy is capturing the value of the added modules and features to existing SaaS products.
 
-[[Transdigm]]’s core insight was the near-monopolistic position of a supplier that owns the intellectual property for parts on an out-of-production aircraft. It was the first to cut the fixed pricing agreement with the airframers and take back ownership of the aftermarket. [[Transdigm]] understood the cost, complexity, and risk for OEM’s to find a new part supplier for out-of-production platforms that customers would rather pay the asking price to get the aircraft back in operation. This is true pricing power.
+[[Transdigm]]’s core insight was the near-monopolistic position of a supplier that owns the [[intellectual property]] for parts on an out-of-production aircraft. It was the first to cut the fixed pricing agreement with the airframers and take back ownership of the aftermarket. [[Transdigm]] understood the cost, complexity, and risk for OEM’s to find a new part supplier for out-of-production platforms that customers would rather pay the asking price to get the aircraft back in operation. This is true pricing power.
 
 > _Imagine, on the systems that [[TransDigm]] participates in, Boeing having to go and requalify. The qualification cost, the development of a new supplier. All of that cost and the bigger issue that people, sometimes, overlook, the risk of failing qualification. Those barriers make it very difficult for the OEMs to walk away._
 

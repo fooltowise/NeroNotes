@@ -178,7 +178,7 @@ The biggest economic misunderstanding of my childhood was that people got rich f
 
 You get truly rich by owning things that increase rapidly in value.
 
-This can be a piece of a business, real estate, natural resource, intellectual property, or other similar things. But somehow or other, you need to own equity in something, instead of just selling your time. Time only scales linearly.
+This can be a piece of a business, real estate, natural resource, [[intellectual property]], or other similar things. But somehow or other, you need to own equity in something, instead of just selling your time. Time only scales linearly.
 
 The best way to make things that increase rapidly in value is by making things people want at scale.
 

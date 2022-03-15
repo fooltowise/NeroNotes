@@ -8,7 +8,7 @@ See also [[Great Businesses I'd like to own]]
 | Company                      | Reason to Study                                                      |
 | ---------------------------- | -------------------------------------------------------------------- |
 | Bershire Hathaway ([[BRK]])  | Longevity, Culture & Capital Allocation                              |
-| Disney ([[DIS]])             | IP, branding & marketing                                             |
+| [[Disney]]              | IP, branding & marketing                                             |
 | Walmart([[WMT]])             | Using technology early, strategic expansion, economies of scale      |
 | Costco ([[Costco \|COST]] )  | Aligning the whole business to offer the proposed customer value     |
 | Home Depot ([[HD]])          | A niche can be pretty big when served well for decades               |

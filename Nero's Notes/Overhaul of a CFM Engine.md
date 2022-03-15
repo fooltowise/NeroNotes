@@ -125,9 +125,9 @@ Yes and no. The OEMs have their own engine shops, but they certainly don’t hav
 
 It works pretty well. There are plenty of examples of MRO suppliers, either shops or component repair suppliers, who make a good living out of providing a repair service, using the officially approved manuals and procedures. Safran and GE do well out of it, too, and everyone seems to be happy.
 
-### But effectively, the OEMs are taking back ownership of the intellectual property, in a way?
+### But effectively, the OEMs are taking back ownership of the [[intellectual property]], in a way?
 
-Yes; absolutely. It’s key. They own the intellectual property and, therefore, they control who can do MRO activity and at what price.
+Yes; absolutely. It’s key. They own the [[intellectual property]] and, therefore, they control who can do MRO activity and at what price.
 
 ### Potentially, that’s going to reduce the addressable market for PMA then, as well, I assume?
 
