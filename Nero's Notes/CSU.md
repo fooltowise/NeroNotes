@@ -60,6 +60,7 @@
 ## Interviews with Operators
 [[Constellation Software - Culture and M&A]]
 [[Constellation Software - M&A Best Practices]]
+[[Constellation Software in CEE]]
 
 ## Analyses by Liberty RPF
 [[LibertyRPF on CSU]]
