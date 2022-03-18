@@ -43,46 +43,12 @@
         }
       },
       {
-        "id": "a36a17612c4ce8cb",
+        "id": "c7525efb7542981b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Visa.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0ee0e0e06f3712b4",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "6bafe21ec61d0472",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Best Businesses in the world to Study.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7f3fc53dc125a7bd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Disney.md",
+            "file": "Visa - The original Protocol Business.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -178,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Visa - The original Protocol Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Visa - The original Protocol Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Visa - The original Protocol Business.md"
+              }
             }
           }
         ]
@@ -225,8 +195,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ee0e0e06f3712b4",
+  "active": "c7525efb7542981b",
   "lastOpenFiles": [
+    "Visa - The original Protocol Business.md",
     "An Overview of Visa.md",
     "Visa.md",
     "A History of Visa.md",
@@ -235,7 +206,6 @@
     "Costco.md",
     "Costco - The Executive Membership, Gas Stations, and Selling Popchips into Costco.md",
     "Surfing.md",
-    "CPRT.md",
-    "Aldi.md"
+    "CPRT.md"
   ]
 }
