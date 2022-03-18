@@ -11,7 +11,7 @@ See [[The Fundamental Theorem of Investing]]
 - Alphabet
 - Intercontinental Hotel Group
 - Mastercard
-- Visa
+- [[Visa]]
 - Paycom Software
 - Unilever
 - Waters Corp

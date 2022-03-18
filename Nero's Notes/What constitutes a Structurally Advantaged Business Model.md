@@ -80,7 +80,7 @@ I don’t have anything new to add to what is one of the more powerful business 
 
 A scaled two-sided network, commonly referred to as a platform, is extremely powerful and typically results in a winner takes all or winner takes most share of the relevant profit pool. Once both sides are scaled, these are brilliant businesses, but the barriers to entry are typically extremely high given the ‘chicken & egg’ problem of introducing sufficient liquidity and value to the early network members.
 
-Visa and Mastercard are the textbook examples. Other scaled two-sided platforms include Google, Facebook, Auto Trader, Uber, Fiverr, Rightmove and Airbnb.
+[[Visa]] and Mastercard are the textbook examples. Other scaled two-sided platforms include Google, Facebook, Auto Trader, Uber, Fiverr, Rightmove and Airbnb.
 
 Sarah Taval has done [great work](https://sarahtavel.medium.com/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e) on platforms, and Blas Moros compiled a most helpful [summary](https://blas.com/wp-content/uploads/2016/12/On-Platforms.pdf) of the better books on this topic.
 

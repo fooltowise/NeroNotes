@@ -90,7 +90,7 @@ Thanks to David Kim a.k.a. Scuttleblurb for his amazing insights on the market i
 
 [1] There’s an interesting story why the metric system never made it to America. In 1793, Thomas Jefferson requested artefacts from France that could be used to adopt the metric system in the United States. Joseph Dombey was dispatched from France, bringing with him a standard kilogram. However, before reaching America, Dombey's ship was blown off course by a storm and captured by pirates. He died in captivity in Montserrat and the kilogram was auctioned off with the contents of his ship.
 
-[2] After Markit was founded in 2003, it attracted investment from banks such as Bank of America, Deutsche Bank, Goldman Sachs and JPMorgan. Banks have similarly helped to seed many other companies which operate at the fringes of tech and finance. These include Visa, MSCI, ICE, MarketAxess, Bloomberg and more. In fact, banks may have created more value outside their legal structures than within.
+[2] After Markit was founded in 2003, it attracted investment from banks such as Bank of America, Deutsche Bank, Goldman Sachs and JPMorgan. Banks have similarly helped to seed many other companies which operate at the fringes of tech and finance. These include [[Visa]], MSCI, ICE, MarketAxess, Bloomberg and more. In fact, banks may have created more value outside their legal structures than within.
 
 [3] A number of standardised measures trace their history to the railroads. These include railroad gauges, obviously. Also, time. And credit ratings: to help investors navigate the sector, Henry Varnum Poor published information about the financial and operational state of US railroad companies.
 

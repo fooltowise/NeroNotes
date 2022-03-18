@@ -54,7 +54,7 @@ See also [[Great Businesses I'd like to own]]
 | Booking ([[BKNG]])               | From near death to a killer acquisition to huge profits                                             |
 | Illumina ([[ILMN]])              | Growing with the field (genome sequencing)                                                          |
 | Accenture ([[ACN]])              | Helping businesses with their evolving technology needs                                             |
-| [[V]]/[[MA]]                     | Tollway for global finance                                                                          |
+| [[Visa]]/[[Mastercard]]                     | Tollway for global finance                                                                          |
 | Intuitive Surgical ([[ISRG]])    | First mover in robotic surgery and razor/razor-blades business model                                |
 | LVMH ([[LVMH]])                  | Premium branding and distribution                                                                   |
 | Chipotle ([[CMG]])               | Simple business model, well executed with a long runway ahead                                       |

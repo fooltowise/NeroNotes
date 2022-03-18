@@ -5,7 +5,7 @@
 - Amazon
 - [[Costco]]
 - Nike 
-- Visa
+- [[Visa]]
 - Walmart  [[WMT]]
 - Apple
 - JP Morgan
