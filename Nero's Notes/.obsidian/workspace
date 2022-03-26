@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thinking Via The Index.md",
-            "mode": "source",
+            "file": "Best Businesses in the world to Study.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -35,8 +35,60 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Best Businesses in the world to Study.md",
+            "file": "Visa.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1d4a697a221b0d76",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "An Overview of Visa.md",
             "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1ad13112c6bb8cc5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Domino's.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ec592ad9b57f9f20",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Domino's Pizzas - Managing UK and US franchise network.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d380c09ed25999a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wingstop - Franchise economics, chicken sourcing  and US Store growth.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -62,6 +114,19 @@
           "type": "markdown",
           "state": {
             "file": "Aldi.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "497747e14b162502",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Aldi - Bare Essentials.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -106,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Hamilton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visa - The original Protocol Business.md",
+                "file": "Aldi - Bare Essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visa - The original Protocol Business.md",
+                "file": "Aldi - Bare Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visa - The original Protocol Business.md"
+                "file": "Aldi - Bare Essentials.md"
               }
             }
           }
@@ -195,17 +260,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7525efb7542981b",
+  "active": "497747e14b162502",
   "lastOpenFiles": [
+    "Aldi - Bare Essentials.md",
     "Visa - The original Protocol Business.md",
-    "An Overview of Visa.md",
-    "Visa.md",
-    "A History of Visa.md",
-    "Best Businesses in the world to Study.md",
-    "Costco Buying Strategies and Supplier Relationships.md",
-    "Costco.md",
-    "Costco - The Executive Membership, Gas Stations, and Selling Popchips into Costco.md",
-    "Surfing.md",
-    "CPRT.md"
+    "Lessons from the Titans.md",
+    "Aldi.md",
+    "Domino's.md",
+    "Domino's Pizzas - Managing UK and US franchise network.md",
+    "Journal/2021-07-06.md",
+    "Journal/2021-06-25.md",
+    "Journal/2021-06-27.md",
+    "Journal/2021-06-29.md"
   ]
 }

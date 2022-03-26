@@ -58,7 +58,7 @@ See also [[Great Businesses I'd like to own]]
 | Intuitive Surgical ([[ISRG]])    | First mover in robotic surgery and razor/razor-blades business model                                |
 | LVMH ([[LVMH]])                  | Premium branding and distribution                                                                   |
 | Chipotle ([[CMG]])               | Simple business model, well executed with a long runway ahead                                       |
-| Dominos ([[DPZ]])                | From near failure to well-executed turnaround and excellent usage of technology                     |
+| [[Domino's]]                 | From near failure to well-executed turnaround and excellent usage of technology                     |
 | Constellation Software ([[CSU]]) | Quiet execution and an integration machine                                                          |
 | Lululemon ([[LULU]])             | Dismissed as a fad, but built a durable brand with quality products & big fanbase                   |
 | MercadoLibre ([[MELI]])          | Doing the hard things the right way to succeed in a region with high failure rate                   |

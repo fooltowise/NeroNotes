@@ -11,7 +11,7 @@
 - JP Morgan
 - Disney
 - LVMH
-- Domino's
+- [[Domino's]]
 - [[Danaher]]
 - National Cash Register
 - Ansys
