@@ -4,19 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7634ce7045541f36",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Best Businesses in the world to Study.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "b9b21291697853b4",
         "type": "leaf",
         "state": {
@@ -43,25 +30,12 @@
         }
       },
       {
-        "id": "1d4a697a221b0d76",
+        "id": "87b48103f35cfef7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "An Overview of Visa.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1ad13112c6bb8cc5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Domino's.md",
+            "file": "Fastenal.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -69,64 +43,12 @@
         }
       },
       {
-        "id": "ec592ad9b57f9f20",
+        "id": "827559b41ea04667",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Domino's Pizzas - Managing UK and US franchise network.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d380c09ed25999a8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Wingstop - Franchise economics, chicken sourcing  and US Store growth.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c7525efb7542981b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Visa - The original Protocol Business.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "398858aeff2543bc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Aldi.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "497747e14b162502",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Aldi - Bare Essentials.md",
+            "file": "Quality First Investing - Checklist.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -209,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aldi - Bare Essentials.md",
+                "file": "Quality First Investing - Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aldi - Bare Essentials.md",
+                "file": "Quality First Investing - Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aldi - Bare Essentials.md"
+                "file": "Quality First Investing - Checklist.md"
               }
             }
           }
@@ -260,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "497747e14b162502",
+  "active": "827559b41ea04667",
   "lastOpenFiles": [
-    "Aldi - Bare Essentials.md",
+    "Quality First Investing - Checklist.md",
+    "An Investing Principles Checklist.md",
+    "Fastenal - Onsite and Fast Vending Solutions.md",
+    "Fastenal.md",
+    "Best Businesses in the world to Study.md",
     "Visa - The original Protocol Business.md",
-    "Lessons from the Titans.md",
-    "Aldi.md",
-    "Domino's.md",
-    "Domino's Pizzas - Managing UK and US franchise network.md",
-    "Journal/2021-07-06.md",
-    "Journal/2021-06-25.md",
-    "Journal/2021-06-27.md",
-    "Journal/2021-06-29.md"
+    "Visa.md",
+    "Eurofins Scientific- A Food Testing Customer Perspective.md",
+    "Eurofins Scientific.md",
+    "Why we stopped making Einsteins.md"
   ]
 }

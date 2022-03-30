@@ -43,7 +43,7 @@ See also [[Great Businesses I'd like to own]]
 
 | Company                          | Reason to study                                                                                     |
 | -------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [[Amazon]] ([[AMZN]])            | Intense customer focus & strategy of internal development & turning cost centers into profits       |
+| [[Amazon]]           | Intense customer focus & strategy of internal development & turning cost centers into profits       |
 | Alphabet ([[GOOG]])              | From one product to global dominance & great acquisitions                                           |
 | Netflix ([[NFLX]])               | Multiple business model pivots beautifully executed                                                 |
 | Nvidia ([[NVDA]])                | Staying far ahead of the technology curve & CEO longevity                                           |

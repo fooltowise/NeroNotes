@@ -1,2 +1,2 @@
 # Frugal Corporate Cultures
-Frugal cultures may not sound attractive to employees, but when married to [[Decentralized Organizations| decentralized]] profit-sharing schemes, they can work wonders. Between 1987 and 2012, Fastenal provided a return of over 38'000% excluding dividends, better than any other company in its index. 
+Frugal cultures may not sound attractive to employees, but when married to [[Decentralized Organizations| decentralized]] profit-sharing schemes, they can work wonders. Between 1987 and 2012, [[Fastenal]] provided a return of over 38'000% excluding dividends, better than any other company in its index. 
