@@ -2,9 +2,7 @@
 
 ## Constellation Software, Inc
 
-**Chairman :** [[Mark Leonard]]
-
-
+**Chairman :** ![[Mark Leonard]]
 ## Subsidiaries
 - Topicus [[TOI]]
 
@@ -12,8 +10,6 @@
 [[CSU Annual Meeting 2019 Transcript]]
 [[CSU Annual Meeting 2020 Transcript]]
 [[CSU Annual Meeting 2021 Transcript]]
-
-
 ## [[Mark Leonard]]'s Letters to Shareholders
 
 [[CSU Q1 2007 Letter to Shareholders]]
@@ -49,9 +45,6 @@
 [[CSU Note to Shareholder, non-IFRS Measure]]
 [[CSU Q&A August 2020]]
 [[CSU Q&A September 2021]]
-
-
-
 ## Analysts Write-ups
 
 [[The 10th Man Investment Thesis on CSU]]
@@ -61,6 +54,7 @@
 [[Constellation Software - Culture and M&A]]
 [[Constellation Software - M&A Best Practices]]
 [[Constellation Software in CEE]]
+[[Investor Dialogue - Constellation Software]]
 
 ## Analyses by Liberty RPF
 [[LibertyRPF on CSU]]

@@ -48,8 +48,21 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quality First Investing - Checklist.md",
+            "file": "Adyen.md",
             "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "187728a3166e551b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Domino's.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -93,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hamilton",
+                "query": "CMG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quality First Investing - Checklist.md",
+                "file": "Domino's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quality First Investing - Checklist.md",
+                "file": "Domino's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quality First Investing - Checklist.md"
+                "file": "Domino's.md"
               }
             }
           }
@@ -182,17 +195,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "827559b41ea04667",
+  "active": "187728a3166e551b",
   "lastOpenFiles": [
+    "Domino's.md",
+    "CSU.md",
+    "Domino's Pizza Enterprises - Running a Domino's Store.md",
+    "Domino's Pizza Group - Master Franchising.md",
+    "CSU Q&A August 2020.md",
+    "Mark Leonard.md",
+    "Investor Dialogue - Constellation Software.md",
+    "Constellation Software and Organisation Design.md",
     "Quality First Investing - Checklist.md",
-    "An Investing Principles Checklist.md",
-    "Fastenal - Onsite and Fast Vending Solutions.md",
-    "Fastenal.md",
-    "Best Businesses in the world to Study.md",
-    "Visa - The original Protocol Business.md",
-    "Visa.md",
-    "Eurofins Scientific- A Food Testing Customer Perspective.md",
-    "Eurofins Scientific.md",
-    "Why we stopped making Einsteins.md"
+    "Adyen - Entering New Markets.md"
   ]
 }

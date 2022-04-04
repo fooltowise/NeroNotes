@@ -55,7 +55,7 @@ Jamal and I would be pleased to hear from any friendly neighborhood i‐bankers 
 
 **Question**
 
-Speaking of Mark Miller making investments, he joined the board of CMG (Computer Modeling Group), which on the surface looks like a CSI type business and potential prospective CSI acquisition. Would appreciate some color on how that went down (i.e was permission sought/granted by the board). This invites question about CSI execs serving on external boards ‐ is there a policy on this in place? Would a CSI exec being on a board nullify said company from consideration? 
+Speaking of Mark Miller making investments, he joined the board of CMG (Computer Modelling Group), which on the surface looks like a CSI type business and potential prospective CSI acquisition. Would appreciate some colour on how that went down (i.e was permission sought/granted by the board). This invites question about CSI execs serving on external boards ‐ is there a policy on this in place? Would a CSI exec being on a board nullify said company from consideration? 
 
 **MHL Response**
 
