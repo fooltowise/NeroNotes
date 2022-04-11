@@ -28,7 +28,7 @@ See also [[Great Businesses I'd like to own]]
 | NVR ([[NVR]])                | Differentiated business model                                        |
 | Pool Corp ([[POOL]])         | Efficient roll-up strategy in a niche                                |
 | Brookfield ([[BAM]])         | Smart capital allocation                                             |
-| Autozone ([[AZO]])           | Smart capital allocation in a low growth industry                    |
+| [[Autozone]]            | Smart capital allocation in a low growth industry                    |
 | Tyler Technologies ([[TYL]]) | Combination of long-term gov contracts and software can be lucrative |
 | Charles Schwab ([[SCHW]])    | Adapting to a changing regulatory landscape                          |
 | Taiwan Semi  ([[TSMC]])      | Manufacturing Muscle                                                 |

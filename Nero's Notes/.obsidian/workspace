@@ -48,7 +48,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adyen.md",
+            "file": "Best Businesses in the world to Study.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c8931a2aca27eedb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Autozone.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -56,13 +69,13 @@
         }
       },
       {
-        "id": "187728a3166e551b",
+        "id": "192be0cc4353c2ce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Domino's.md",
-            "mode": "preview",
+            "file": "Autozone - Exemplary Capital Allocation.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -106,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CMG",
+                "query": "autoz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domino's.md",
+                "file": "Autozone - Exemplary Capital Allocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domino's.md",
+                "file": "Autozone - Exemplary Capital Allocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domino's.md"
+                "file": "Autozone - Exemplary Capital Allocation.md"
               }
             }
           }
@@ -195,17 +208,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "187728a3166e551b",
+  "active": "192be0cc4353c2ce",
   "lastOpenFiles": [
+    "Autozone - Exemplary Capital Allocation.md",
+    "Autozone.md",
+    "Best Businesses in the world to Study.md",
+    "Domino's Pizza - 5,000+ Store Opportunity in China.md",
+    "ASOS, Boohoo, & Online Fashion Retail Business Models.md",
+    "Asos.md",
     "Domino's.md",
+    "Adyen.md",
     "CSU.md",
-    "Domino's Pizza Enterprises - Running a Domino's Store.md",
-    "Domino's Pizza Group - Master Franchising.md",
-    "CSU Q&A August 2020.md",
-    "Mark Leonard.md",
-    "Investor Dialogue - Constellation Software.md",
-    "Constellation Software and Organisation Design.md",
-    "Quality First Investing - Checklist.md",
-    "Adyen - Entering New Markets.md"
+    "Domino's Pizza Enterprises - Running a Domino's Store.md"
   ]
 }
