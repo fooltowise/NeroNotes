@@ -27,7 +27,7 @@ The tldr version:
 -   There are some tell-tale signs of great serial acquirers, mainly around qualitative factors: structures, processes and best practices. 
     
 
-In our opinion, the line between platforms and accumulators is a bit blurry – some companies fall in-between, like Lifco, and sometimes accumulators evolve into platforms, like Halma. We’d also add one bucket to Scott LP’s categorization. “Portfolio” serial acquirers like Charles River and Stryker, which fall between Roll-up and Platform. These companies buy other firms/technologies primarily for the revenue synergies of being able to add incremental products into their highly efficient sales organizations. 
+In our opinion, the line between platforms and accumulators is a bit blurry – some companies fall in-between, like [[Lifco]], and sometimes accumulators evolve into platforms, like Halma. We’d also add one bucket to Scott LP’s categorization. “Portfolio” serial acquirers like Charles River and Stryker, which fall between Roll-up and Platform. These companies buy other firms/technologies primarily for the revenue synergies of being able to add incremental products into their highly efficient sales organizations. 
 
 Investors’ growing love affair with compounders over the last several years means that the one aspect that’s changed since Ryan Krafft originally wrote the piece is that buying platforms and accumulators isn’t like shooting fish in a barrel anymore. The average NTM PE ratio of the companies in the above database of high performance serial acquirers was ~21X in 2016, 5 years ago. Today it is ~36X.
 
@@ -108,7 +108,7 @@ If you wanted to draw an analogy to investing in public equity markets, you’d 
 
 One of SiteOne’s 50+ acquired subsidiaries usually has intel on the next acquisition target, and quite likely recommended the acquisition target in the first place. 
 
-This is vastly different to Lifco, AddTech or Halma which are hunting for niche businesses where the details are frequently totally different from those of any existing portfolio company. Platforms and accumulators are the fundamental, bottom-up investors, having to go up the learning curve and inch outward their circle of competence for many new acquisitions. **It’s no surprise then that there are a fair number of roll-ups that manage to crack closing 20+ deals a year – pest control, waste management, and collision repair shops are a few that come to mind – whereas the best platforms and accumulators rarely stay materially above 10-12 deals a year over a multi-year period.**
+This is vastly different to [[Lifco]], AddTech or Halma which are hunting for niche businesses where the details are frequently totally different from those of any existing portfolio company. Platforms and accumulators are the fundamental, bottom-up investors, having to go up the learning curve and inch outward their circle of competence for many new acquisitions. **It’s no surprise then that there are a fair number of roll-ups that manage to crack closing 20+ deals a year – pest control, waste management, and collision repair shops are a few that come to mind – whereas the best platforms and accumulators rarely stay materially above 10-12 deals a year over a multi-year period.**
 
 So, roll-ups have an easier time scaling up M&A, and they can scale up deal volume pretty quickly… until they run into TAM constraints, at which point mediocrity will set in. This is a classic trap for investors looking through the rear-view mirror. Waste management, pest control, and towers are a few industries where multiples on new deals are getting very lofty (in other words, lower returns on incremental capital). 
 
@@ -183,7 +183,7 @@ _Platforms & Accumulators_
 
 Smaller is better. A small accumulator or platform just needs to have the basics right – a focus on asset-light businesses with recurring revenue in a GDP+ growth industry, a smart, hard-working management team with a disciplined valuation approach, a good incentive structure, a decentralized organizational model, and good oversight over the acquired businesses. If they meet these criteria and they’re small enough such that 5 deals a year add material growth, they can grow into their multiples even if they never scale above 10 deals a year. 
 
-For medium-sized platforms or accumulators, like a First Service, Halma or Lifco, you want to make sure they are seriously thinking about scaling deal volume (or intelligently adding new platforms). They need to be working on this. If that’s the case, you can still pay a full multiple and do well over the long term. 
+For medium-sized platforms or accumulators, like a First Service, Halma or [[Lifco]], you want to make sure they are seriously thinking about scaling deal volume (or intelligently adding new platforms). They need to be working on this. If that’s the case, you can still pay a full multiple and do well over the long term. 
 
 For large platforms or accumulators, like a Roper or [[Danaher]], it’s probably more a question of entry multiples. If you want to compound at 12%-15%, you have to keep in mind that at that size, mgmt probably can’t reinvest at un-levered returns much higher than 10%. So far, the equity returns have continued to be okay because the cost of debt is so low, but ROICs are no longer exceptional. 
 

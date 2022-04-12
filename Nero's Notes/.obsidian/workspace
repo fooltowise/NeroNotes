@@ -66,20 +66,17 @@
             "backlinks": true,
             "source": false
           }
-        }
+        },
+        "group": "a9e4cea57dca2e8f"
       },
       {
-        "id": "192be0cc4353c2ce",
+        "id": "9c866b9ad838001b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Autozone - Exemplary Capital Allocation.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
+          "type": "graph",
+          "state": {}
+        },
+        "group": "a9e4cea57dca2e8f"
       },
       {
         "id": "34ec55745a7aa3ef",
@@ -119,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autoz",
+                "query": "lifco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autozone - Exemplary Capital Allocation.md",
+                "file": "Best Businesses in the world to Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autozone - Exemplary Capital Allocation.md",
+                "file": "Best Businesses in the world to Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autozone - Exemplary Capital Allocation.md"
+                "file": "Best Businesses in the world to Study.md"
               }
             }
           }
@@ -208,17 +205,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "192be0cc4353c2ce",
+  "active": "827559b41ea04667",
   "lastOpenFiles": [
-    "Autozone - Exemplary Capital Allocation.md",
-    "Autozone.md",
     "Best Businesses in the world to Study.md",
-    "Domino's Pizza - 5,000+ Store Opportunity in China.md",
-    "ASOS, Boohoo, & Online Fashion Retail Business Models.md",
-    "Asos.md",
-    "Domino's.md",
-    "Adyen.md",
-    "CSU.md",
-    "Domino's Pizza Enterprises - Running a Domino's Store.md"
+    "My Investing Strategy.md",
+    "Lidl.md",
+    "Visa.md",
+    "Autozone.md",
+    "Mergers and Acquisitions.md",
+    "Studying Serial Acquirers.md",
+    "Lifco AB and Ahlberg Cameras - Portfolio Company and Post-Acquisition Review.md",
+    "Lifco.md",
+    "Ladder-Climbing and Owner Operators.md"
   ]
 }
