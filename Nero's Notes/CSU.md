@@ -55,6 +55,7 @@
 [[Constellation Software - M&A Best Practices]]
 [[Constellation Software in CEE]]
 [[Investor Dialogue - Constellation Software]]
+- [[Constellation Software, Jonas, & Portfolio Management]]
 
 ## Analyses by Liberty RPF
 [[LibertyRPF on CSU]]

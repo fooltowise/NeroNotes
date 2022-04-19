@@ -49,7 +49,46 @@
           "type": "markdown",
           "state": {
             "file": "Best Businesses in the world to Study.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a8b911feffaefe3f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dino Polska.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0ba82d984d895ec4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SVN Capital on Dino Polska.md",
             "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "95043d6779b7bc88",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Home Depot Pro, Cost Structure, & Growth Opportunities.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -61,7 +100,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Autozone.md",
+            "file": "CSU.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,11 +109,55 @@
         "group": "a9e4cea57dca2e8f"
       },
       {
+        "id": "cb5554173695af60",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Autozone.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "818ff415328c06d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Copart - Investor Dialogue.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "650e93e5b4ba793d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AutoZone - Gabelli 45th Annual Automotive Aftermarket Symposium 2021.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
         "id": "9c866b9ad838001b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CSU.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "group": "a9e4cea57dca2e8f"
       },
@@ -154,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Best Businesses in the world to Study.md",
+                "file": "SVN Capital on Dino Polska.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Best Businesses in the world to Study.md",
+                "file": "SVN Capital on Dino Polska.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Best Businesses in the world to Study.md"
+                "file": "SVN Capital on Dino Polska.md"
               }
             }
           }
@@ -205,17 +288,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "827559b41ea04667",
+  "active": "0ba82d984d895ec4",
   "lastOpenFiles": [
+    "SVN Capital on Dino Polska.md",
+    "Dino Polska.md",
+    "Home Depot.md",
     "Best Businesses in the world to Study.md",
-    "My Investing Strategy.md",
-    "Lidl.md",
-    "Visa.md",
+    "The Home Depot Pro, Cost Structure, & Growth Opportunities.md",
     "Autozone.md",
-    "Mergers and Acquisitions.md",
-    "Studying Serial Acquirers.md",
-    "Lifco AB and Ahlberg Cameras - Portfolio Company and Post-Acquisition Review.md",
-    "Lifco.md",
-    "Ladder-Climbing and Owner Operators.md"
+    "OReilly.md",
+    "OReilly Earnings Call Q4 2021.md",
+    "O'Reilly Automotive Presents at William Blair 2021.md",
+    "CPRT.md"
   ]
 }

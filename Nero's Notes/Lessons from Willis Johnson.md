@@ -95,4 +95,4 @@ Readers are advised that the material herein should be used solely for education
 
 The information contained herein does not constitute a representation by the publisher or a solicitation for the purchase or sale of securities. Our opinions and analyses are based on sources believed to be reliable and are written in good faith, but no representation or warranty, expressed or implied, is made as to their accuracy or completeness. All information contained in our newsletters, presentations or on our website should be independently verified with the companies mentioned. The editor and publisher are not responsible for errors or omissions.
 
-MCJ Capital Partners and accounts actively managed by MCJ Capital Partners have a long position in Copart (CPRT) and would benefit from overall price appreciation of the stock. At any time we may close the position without notice.
+MCJ Capital Partners and accounts actively managed by MCJ Capital Partners have a long position in Copart ([[CPRT]]) and would benefit from overall price appreciation of the stock. At any time we may close the position without notice.

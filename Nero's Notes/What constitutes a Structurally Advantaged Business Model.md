@@ -56,7 +56,7 @@ The scale efficiencies shared model continually embeds substantial latent pricin
 
 The ability to reliably re-invest free cashflow at a high ROIC is a wonderful structural advantage.
 
-McDonalds, Dollar General, Walmart, Dominos, Home Depot, Starbucks, and Chipotle are all great US examples of relatively predictable re-investment machines, which some have supercharged by developing a franchising option. Franchisers also get to leverage the growth of their franchisees.  
+McDonalds, Dollar General, Walmart, Dominos, [[Home Depot]], Starbucks, and Chipotle are all great US examples of relatively predictable re-investment machines, which some have supercharged by developing a franchising option. Franchisers also get to leverage the growth of their franchisees.  
 
 A recent European example is 3i Group plc’s investment in the non-food, discount retailer [Action](https://www.3i.com/portfolio/action/). Store investments payback in eighteen months, and notwithstanding what has been a 50x for 3i so far, Action is still growing strongly.
 

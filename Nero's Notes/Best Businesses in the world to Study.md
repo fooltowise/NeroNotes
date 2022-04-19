@@ -11,7 +11,7 @@ See also [[Great Businesses I'd like to own]]
 | [[Disney]]              | IP, branding & marketing                                             |
 | Walmart([[WMT]])             | Using technology early, strategic expansion, economies of scale      |
 | Costco ([[Costco \|COST]] )  | Aligning the whole business to offer the proposed customer value     |
-| Home Depot ([[HD]])          | A niche can be pretty big when served well for decades               |
+| [[Home Depot]]          | A niche can be pretty big when served well for decades               |
 | Tractor Supply ([[TSCO]])    | Focusing on your demographic                                         |
 | Apple ([[AAPL]])             | How they rode iPhone success to global domination                    |
 | Microsoft ([[MSFT]])         | Proving the power of software                                        |

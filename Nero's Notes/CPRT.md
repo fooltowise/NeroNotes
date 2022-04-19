@@ -9,4 +9,5 @@
 - [[Used car ecosystem]]
 - [[IAA Copart and Salvage Auctions]]
 - [[Lessons from Willis Johnson]]
+- [[Copart - Investor Dialogue]]
 - 
