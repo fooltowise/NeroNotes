@@ -105,8 +105,7 @@
             "backlinks": true,
             "source": false
           }
-        },
-        "group": "a9e4cea57dca2e8f"
+        }
       },
       {
         "id": "cb5554173695af60",
@@ -140,7 +139,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AutoZone - Gabelli 45th Annual Automotive Aftermarket Symposium 2021.md",
+            "file": "Wix.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -148,18 +147,17 @@
         }
       },
       {
-        "id": "9c866b9ad838001b",
+        "id": "e205544cfc217f5a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSU.md",
+            "file": "Wix, Squarespace and Webflow.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        },
-        "group": "a9e4cea57dca2e8f"
+        }
       },
       {
         "id": "34ec55745a7aa3ef",
@@ -199,7 +197,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lifco",
+                "query": "wix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SVN Capital on Dino Polska.md",
+                "file": "Wix, Squarespace and Webflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SVN Capital on Dino Polska.md",
+                "file": "Wix, Squarespace and Webflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SVN Capital on Dino Polska.md"
+                "file": "Wix, Squarespace and Webflow.md"
               }
             }
           }
@@ -288,17 +286,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ba82d984d895ec4",
+  "active": "e205544cfc217f5a",
   "lastOpenFiles": [
-    "SVN Capital on Dino Polska.md",
-    "Dino Polska.md",
-    "Home Depot.md",
-    "Best Businesses in the world to Study.md",
-    "The Home Depot Pro, Cost Structure, & Growth Opportunities.md",
-    "Autozone.md",
-    "OReilly.md",
-    "OReilly Earnings Call Q4 2021.md",
-    "O'Reilly Automotive Presents at William Blair 2021.md",
-    "CPRT.md"
+    "Wix, Squarespace and Webflow.md",
+    "Wix.md",
+    "Great Businesses I'd like to own.md",
+    "Leatt.md",
+    "Leatt Earnings Call Q3 2021.md",
+    "Leatt Earnings Call Q4 2021.md",
+    "AutoZone - Gabelli 45th Annual Automotive Aftermarket Symposium 2021.md",
+    "Lidl.md",
+    "CSU.md",
+    "SVN Capital on Dino Polska.md"
   ]
 }

@@ -19,7 +19,7 @@ See [[The Fundamental Theorem of Investing]]
 - Facebook
 - Microsoft
 - Etsy
-- Wix 
+- [[Wix]] 
 - Yum! brands
 - Paypal
 - Rightmove
