@@ -1,4 +1,6 @@
 # The Network Effects Bible
+See also [[The power of network effects]]
+
 
 ![The Network Effects Bible](https://cdn-dlmea.nitrocdn.com/zPRfHNIhqrsCfJfMGAXOiBAnyaHDLmzI/assets/static/optimized/rev-c78cbbd/wp-content/uploads/2019/07/Bible-OG-Image.jpg)
 

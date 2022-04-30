@@ -9,9 +9,9 @@ Last week I made wild accusation:
 
 I realize this is a controversial comment, as is anything that involves comparing someone to Buffett. And that was kind of the point, I knew some people would be ticked off by this (_sorry!)_ but I think it’s healthy to question your most closely held beliefs — like “Buffett is the best investor in the history of time” which I know many people hold.
 
-For those who don’t know, [[Mark Leonard]]  founded Constellation Software (ticker: [[CSU]]) in 1996, with the purpose of acquiring small Vertical Market Software (VMS) companies. To say the least, it has been wildly successful in its clearly-laid out strategy. VMS is the opposite of enterprise-level software, which tends to be horizontal and industry broad-based – think Salesforce or Excel. These companies exhibit characteristics of very good businesses: they are leaders in a niche market which tends to be oligopolistic, have high margins, low capital intensity, high switching cost, recurring revenues and strong free cash flow. Because most are small and there are tens of thousands of them (many of which CSU is in close contact with), it makes for an attractive rollup strategy with not too much Private Equity competition.
+For those who don’t know, [[Mark Leonard]]  founded Constellation Software (ticker: [[CSU]]) in 1996, with the purpose of acquiring small Vertical Market Software (VMS) companies. To say the least, it has been wildly successful in its clearly-laid out strategy. VMS is the opposite of enterprise-level software, which tends to be horizontal and industry broad-based – think Salesforce or Excel. These companies exhibit characteristics of very good businesses: they are leaders in a niche market which tends to be oligopolistic, have high margins, low capital intensity, high switching cost, recurring revenues and strong free cash flow. Because most are small and there are tens of thousands of them (many of which [[CSU]] is in close contact with), it makes for an attractive rollup strategy with not too much Private Equity competition.
 
-Many people read ‘serial acquirer’ and will pass on the investment without blinking. I would encourage to look twice here. CSU is not the typical acquisitive company: it pays only in cash, rarely issues debt, has never issued stock (for acquisitions nor employee compensation)[1](https://sleepwell.substack.com/p/a-duel-of-capital-allocators-and#footnote-1), is extremely focused on return on investment[2](https://sleepwell.substack.com/p/a-duel-of-capital-allocators-and#footnote-2) and most uniquely: it’s extremely decentralized in its M&A practice, which is done at the business level as opposed to HQ. This means **they’ve been able to scale up their transaction volume to ~100 per year, a number that is unheard of in a typical serial acquirer strategy.**
+Many people read ‘serial acquirer’ and will pass on the investment without blinking. I would encourage to look twice here. [[CSU]] is not the typical acquisitive company: it pays only in cash, rarely issues debt, has never issued stock (for acquisitions nor employee compensation)[1](https://sleepwell.substack.com/p/a-duel-of-capital-allocators-and#footnote-1), is extremely focused on return on investment[2](https://sleepwell.substack.com/p/a-duel-of-capital-allocators-and#footnote-2) and most uniquely: it’s extremely decentralized in its M&A practice, which is done at the business level as opposed to HQ. This means **they’ve been able to scale up their transaction volume to ~100 per year, a number that is unheard of in a typical serial acquirer strategy.**
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ec7d665-8b25-4227-868b-65addd923753_587x551.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ec7d665-8b25-4227-868b-65addd923753_587x551.png)
 
@@ -19,11 +19,11 @@ The Constellation name is appropriate to their strategy
 
 So back to my wild claim.
 
-Where did I get the idea to say this? I’ve been doing work on CSU the past few months and recently was going over some transcripts of their Annual Meeting[3](https://sleepwell.substack.com/p/a-duel-of-capital-allocators-and#footnote-3). As I was reading a section where Leonard was explaining their capital allocation process, I thought _“wow, this guy is really good, probably as good as, or even better than Buffett”_. This was nothing more than a gut reaction, not backed by anything tangible. But then I recalled that CSU stock had compounded at very high rates of returns for the first 16 years since IPO, so I asked myself **how would it compare to Berkshire’s first 16 years?**
+Where did I get the idea to say this? I’ve been doing work on [[CSU]] the past few months and recently was going over some transcripts of their Annual Meeting[3](https://sleepwell.substack.com/p/a-duel-of-capital-allocators-and#footnote-3). As I was reading a section where Leonard was explaining their capital allocation process, I thought _“wow, this guy is really good, probably as good as, or even better than Buffett”_. This was nothing more than a gut reaction, not backed by anything tangible. But then I recalled that [[CSU]] stock had compounded at very high rates of returns for the first 16 years since IPO, so I asked myself **how would it compare to Berkshire’s first 16 years?**
 
 ### The Duel: Buffett vs. Leonard
 
-I honestly had no idea what the results would look like, I remembered BRK had some really high returns in its early days, but CSU was clearly going to put up a tough fight. It was probably a close match.
+I honestly had no idea what the results would look like, I remembered BRK had some really high returns in its early days, but [[CSU]] was clearly going to put up a tough fight. It was probably a close match.
 
 But I was wrong. Here’s what it actually looked like:
 
@@ -92,7 +92,7 @@ They are available on theTIKR.com, you can also DM me your email and I’ll happ
 
 [4](https://sleepwell.substack.com/p/a-duel-of-capital-allocators-and#footnote-anchor-4)
 
-I am lazy, so I only included total price return. This means CSU total return is _even higher_ (likely approaching 140x) because it’s paid dividends along the way and spunoff an operating group (topicus.com) earlier this year (~10% of CSU market cap)
+I am lazy, so I only included total price return. This means [[CSU]] total return is _even higher_ (likely approaching 140x) because it’s paid dividends along the way and spunoff an operating group (topicus.com) earlier this year (~10% of [[CSU]] market cap)
 
 [5](https://sleepwell.substack.com/p/a-duel-of-capital-allocators-and#footnote-anchor-5)
 

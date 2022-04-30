@@ -134,7 +134,7 @@
         }
       },
       {
-        "id": "650e93e5b4ba793d",
+        "id": "34ec55745a7aa3ef",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -147,25 +147,12 @@
         }
       },
       {
-        "id": "e205544cfc217f5a",
+        "id": "c3b4eec76030bb92",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wix, Squarespace and Webflow.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "34ec55745a7aa3ef",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lidl.md",
+            "file": "Network Effects.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -197,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wix",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7fa4233b9d1c9536",
@@ -235,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wix, Squarespace and Webflow.md",
+                "file": "CSU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wix, Squarespace and Webflow.md",
+                "file": "CSU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wix, Squarespace and Webflow.md"
+                "file": "CSU.md"
               }
             }
           }
@@ -286,17 +274,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e205544cfc217f5a",
+  "active": "c8931a2aca27eedb",
   "lastOpenFiles": [
-    "Wix, Squarespace and Webflow.md",
+    "CSU.md",
+    "Network Effects.md",
+    "The power of network effects.md",
+    "Investor Dialog - Wix.md",
     "Wix.md",
+    "Lidl.md",
+    "Wix, Squarespace and Webflow.md",
     "Great Businesses I'd like to own.md",
     "Leatt.md",
-    "Leatt Earnings Call Q3 2021.md",
-    "Leatt Earnings Call Q4 2021.md",
-    "AutoZone - Gabelli 45th Annual Automotive Aftermarket Symposium 2021.md",
-    "Lidl.md",
-    "CSU.md",
-    "SVN Capital on Dino Polska.md"
+    "Leatt Earnings Call Q3 2021.md"
   ]
 }
