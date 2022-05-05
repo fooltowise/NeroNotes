@@ -14,7 +14,7 @@ See also [[Great Businesses I'd like to own]]
 | [[Home Depot]]          | A niche can be pretty big when served well for decades               |
 | Tractor Supply ([[TSCO]])    | Focusing on your demographic                                         |
 | Apple ([[AAPL]])             | How they rode iPhone success to global domination                    |
-| Microsoft ([[MSFT]])         | Proving the power of software                                        |
+| [[Microsoft]]          | Proving the power of software                                        |
 | Adobe ([[ADBE]])             | Sticky services and early adoption to cloud                          |
 | McDonald's([[MCD]])          | Offering convenience, affordability and consistency for decades      |
 | Starbucks ([[SBUX]])         | Business model innovation around an existing product                 |

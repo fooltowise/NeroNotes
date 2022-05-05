@@ -20,7 +20,7 @@ A few other comments before we delve in:
 
 **SABM #1 – Friendly Financial Leverage**
 
-Leverage, in the broadest sense, is fundamental to building anything of scale. All great business models employ some form of leverage, with scaled distribution (either physical e.g., Coke, or digital e.g., Microsoft) being especially powerful. There is however a small cohort of business that derive strength from their liabilities, i.e., from the way in which they are funded.
+Leverage, in the broadest sense, is fundamental to building anything of scale. All great business models employ some form of leverage, with scaled distribution (either physical e.g., Coke, or digital e.g., [[Microsoft]]) being especially powerful. There is however a small cohort of business that derive strength from their liabilities, i.e., from the way in which they are funded.
 
 Insurance float is the classic source of friendly financial leverage. Berkshire Hathaway, Markel Corporation, and Fairfax Financial all benefit from float as they run growing profitable insurance businesses and invest a component of their float in profitable fixed income assets, and, to a lesser degree given regulatory capital constraints, equity securities. Their success in accessing this friendly source of leverage has not gone unnoticed and many investment managers have sought (mostly unsuccessfully) to emulate the model. Running a profitable insurance business is harder than it looks, so this source of leverage is only available to those with the competence to run a profitable business in what is a commoditized industry.
 
@@ -48,7 +48,7 @@ In the US, Amazon, Walmart, Dominos, Costco, Vanguard, and Southwest Airlines ha
 
 European low-cost airlines Ryanair and Wizz Air have pursued similar strategies and in so doing have relentlessly taken market share from traditional airlines.
 
-Microsoft practices a variation of this theme through continually adding new features to its office suite without commensurate increases in price.
+[[Microsoft]] practices a variation of this theme through continually adding new features to its office suite without commensurate increases in price.
 
 The scale efficiencies shared model continually embeds substantial latent pricing power (or consumer surplus) and builds customer loyalty. It’s pretty close to a ‘win/win’ model (except perhaps for the pressure it puts on suppliers). One would be hard pressed to find many examples where maximizing consumer surplus has worked out badly.
 

@@ -460,7 +460,7 @@ Okay. I understand. And then the last question for this section is how far along
 
 Robin van Poelje
 
-Yes. This is Robin Poelje speaking in. We bought a company this week in the U.K. And we signed the LOI virtually. We did diligence. We negotiated the SBA. We had interviewed with management, but we never met the persons really physically face to face. So I think you could more or less call that one of these deals. And it was a company who wanted to divest a part of their business, and we got in contact with them, and we've done it like this. So we never went over to really see the company, never went through their offices and never met management really face to face. But we have them through Microsoft Teams and all that kind of stuff.
+Yes. This is Robin Poelje speaking in. We bought a company this week in the U.K. And we signed the LOI virtually. We did diligence. We negotiated the SBA. We had interviewed with management, but we never met the persons really physically face to face. So I think you could more or less call that one of these deals. And it was a company who wanted to divest a part of their business, and we got in contact with them, and we've done it like this. So we never went over to really see the company, never went through their offices and never met management really face to face. But we have them through [[Microsoft]] Teams and all that kind of stuff.
 
 Mark Leonard
 
@@ -960,23 +960,23 @@ I'd just try to add to that, Mark. It's Mark Miller. One of the challenges we ac
 
 Will Pan
 
-Another question for the broader group. Would you comment about scale, if any, the company gets with third-party license providers at this point, so things like Microsoft, Visual Basic or .Net, InterSystems, Oracle with Forms. Are the groups or the company as a whole becoming important customers of these platforms in aggregate?
+Another question for the broader group. Would you comment about scale, if any, the company gets with third-party license providers at this point, so things like [[Microsoft]], Visual Basic or .Net, InterSystems, Oracle with Forms. Are the groups or the company as a whole becoming important customers of these platforms in aggregate?
 
 Mark Leonard
 
-I guess, Mark, you led a little delegation that went out to visit Microsoft about a year and a bit ago?
+I guess, Mark, you led a little delegation that went out to visit [[Microsoft]] about a year and a bit ago?
 
 Mark Miller
 
-Yes, we did. We actually took 100 people out to visit Microsoft, and it was actually a pretty interesting session because we rarely do that. Well, we do get our heads of R&D together, I'd say, at once a year, usually at sort of a summit. But it's pretty interesting meetings because every head of R&D really has their own platform, their own product that they've been developing over time and there's some of them are common tools, some are not common tools. And so it's pretty interesting to get together and just sit and listen to what Microsoft had to say. So we though, still leave that decision up to each of our development leaders. We don't go and suggest, hey, we think you should follow this path. We just try to allow them to sort of connect with each other and see what each other is doing. If any, they think they can learn from each other. So there is really no encouragement to follow one path or the other. Because as soon as we do that, we will then own the responsibility as to what that path is, and that's a big job to take on. I wouldn't want to be the one recommending which platforms we should use for dozens or hundreds of business units across the world that are all in different situations, with different customer bases, with different needs, some with many, many users, some that are tools that are used by few users and makes for an interesting discussion at the meeting, which is the best route to follow.
+Yes, we did. We actually took 100 people out to visit [[Microsoft]], and it was actually a pretty interesting session because we rarely do that. Well, we do get our heads of R&D together, I'd say, at once a year, usually at sort of a summit. But it's pretty interesting meetings because every head of R&D really has their own platform, their own product that they've been developing over time and there's some of them are common tools, some are not common tools. And so it's pretty interesting to get together and just sit and listen to what [[Microsoft]] had to say. So we though, still leave that decision up to each of our development leaders. We don't go and suggest, hey, we think you should follow this path. We just try to allow them to sort of connect with each other and see what each other is doing. If any, they think they can learn from each other. So there is really no encouragement to follow one path or the other. Because as soon as we do that, we will then own the responsibility as to what that path is, and that's a big job to take on. I wouldn't want to be the one recommending which platforms we should use for dozens or hundreds of business units across the world that are all in different situations, with different customer bases, with different needs, some with many, many users, some that are tools that are used by few users and makes for an interesting discussion at the meeting, which is the best route to follow.
 
 Will Pan
 
-So you're able to get -- wrangle a group together to go visit Microsoft. Has anybody found that by putting a lot of these businesses together in a portfolio, you unlock a different level of interaction with platforms. For instance, sometimes, acquisitions are built on various platforms that are end-of-life, certain versions of Oracle Forms, VB6, for instance. If you acquire many of those, does that change your relationship with the platform vendor at all?
+So you're able to get -- wrangle a group together to go visit [[Microsoft]]. Has anybody found that by putting a lot of these businesses together in a portfolio, you unlock a different level of interaction with platforms. For instance, sometimes, acquisitions are built on various platforms that are end-of-life, certain versions of Oracle Forms, VB6, for instance. If you acquire many of those, does that change your relationship with the platform vendor at all?
 
 Mark Miller
 
-I could -- Mark, just speaking from a Volaris perspective, it really hasn't. In fact, it can be frustrating for a Microsoft to deal with us because they really have to work with each one of our businesses. And so they tend to like to work with our larger businesses with inside of the world of Volaris, but I'd pass it on to maybe some of the other operating group managers have some comments on that and I've had some ability to leverage it. But at least we can pick up a phone and get them to go visit someone or talk to someone if they need some help. So we can get some high-quality help if we need it from the platform vendors.
+I could -- Mark, just speaking from a Volaris perspective, it really hasn't. In fact, it can be frustrating for a [[Microsoft]] to deal with us because they really have to work with each one of our businesses. And so they tend to like to work with our larger businesses with inside of the world of Volaris, but I'd pass it on to maybe some of the other operating group managers have some comments on that and I've had some ability to leverage it. But at least we can pick up a phone and get them to go visit someone or talk to someone if they need some help. So we can get some high-quality help if we need it from the platform vendors.
 
 Will Pan
 

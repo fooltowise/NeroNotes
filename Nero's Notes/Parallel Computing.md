@@ -56,7 +56,7 @@ A semaphore is a very powerful synchronization construct. Conceptually, a semaph
  - Start with an algorithm that locks aggressively and is easily seen to be correct. Then add back concurrency, while ensuring the critical parts are locked.
  - When analyzing parallel code, assume a worst-case thread scheduler. In particular, it may choose to schedule the same thread repeatedly, it may alternate between two threads, it may starve a thread, etc.
  - Try to work at a higher level of abstraction. In particular, know the concurrency libraries - don't implement your own **semaphores, thread pools, deferred execution**, etc. (You should know how these features are implemented, and implement them if asked to).
-- In a Microsoft, Google or Amazon interview, it's not terribly common to be asked to implement an algorithm with threads (unless you are working in a team for which this is a particularly important skill). It is, however, relatively common for interviewers at any company to assess your general understanding of threads, particularly your understanding of deadlocks.
+- In a [[Microsoft]], Google or Amazon interview, it's not terribly common to be asked to implement an algorithm with threads (unless you are working in a team for which this is a particularly important skill). It is, however, relatively common for interviewers at any company to assess your general understanding of threads, particularly your understanding of deadlocks.
 
 ## Threads in Java
 

@@ -1,5 +1,5 @@
 # The wit and wisdom of Johann Rupert
-Johann Rupert is the South-African CEO of Richemont SA.
+[[Johann Rupert]] is the South-African CEO of Richemont SA.
 
 ### On Management
 - The danger sign is always when a manager does not understand the business that he or she is in.

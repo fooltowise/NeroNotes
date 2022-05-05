@@ -150,7 +150,7 @@ There are many ways to get to the tipping point but ultimately it is the point a
 
 **Paying up for Launch**: It's sometimes smart to get the market quickly by paying up for density. **Coca-Cola** did this best with coupons - handing out free coupons to everyone to redeem at the store (resulting in lots of stores stocking Coca-Cola). **Visa** also did this by mailing out credit cards to attract merchants (resulting in the new Visa card being accepted at hundreds of stores).
 
-**Partnering:** Piggybacking off an install base can leapfrog adoption and be a smart way to hit scale quickly. The best example in history of this is **Microsoft/IBM**. MS-DOS was custom built for IBM and got the immediate scale to attract the most developers, which then went on to attract users and then PC makers. MSFT went on to capture 80% market share for operating systems.
+**Partnering:** Piggybacking off an install base can leapfrog adoption and be a smart way to hit scale quickly. The best example in history of this is **[[Microsoft]]/IBM**. MS-DOS was custom built for IBM and got the immediate scale to attract the most developers, which then went on to attract users and then PC makers. MSFT went on to capture 80% market share for operating systems.
 
 **Competitive advantage of Network Effect businesses**
 

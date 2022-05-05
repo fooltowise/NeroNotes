@@ -31,7 +31,7 @@ There's an important lesson here: Once wrongdoers get rich, they get enormous po
 
 It would be easy to fix the problem: the right way is to say we're not going to pay off all these little claims.
 
-### The Government's lawsuit against Microsoft
+### The Government's lawsuit against [[Microsoft]]
 [April 2000] Someone whose salary is paid by US taxpayers is happy to dramatically weaken the one place where we're winning big?
 
-Every business tries to turn this year's success into next year's greater success. It's hard for me to see why Microsoft is sinful to do this. If it's a sin, then I hope all of Berkshire Hathaway's subsidiaries are sinners.
+Every business tries to turn this year's success into next year's greater success. It's hard for me to see why [[Microsoft]] is sinful to do this. If it's a sin, then I hope all of Berkshire Hathaway's subsidiaries are sinners.

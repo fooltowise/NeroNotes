@@ -3,11 +3,11 @@
 [Source](https://www.forbes.com/sites/carminegallo/2020/11/01/watch-bill-gates-give-brilliant-30-second-answers-to-common-job-interview-questions/?sh=18a2c0677e40)
 
 
-Bill Gates has hired thousands of people at Microsoft and the Bill & Melinda Gates Foundation. He knows what to look for in job candidates. 
+Bill Gates has hired thousands of people at [[Microsoft]] and the Bill & Melinda Gates Foundation. He knows what to look for in job candidates. 
 
 How would Gates handle a job interview if the tables were turned? 
 
-During an interview for his new YouTube series called State of Inspiration, NBA star Stephen Curry asked Gates to play the role of a junior software engineer interviewing for a job at Microsoft. 
+During an interview for his new YouTube series called State of Inspiration, NBA star Stephen Curry asked Gates to play the role of a junior software engineer interviewing for a job at [[Microsoft]]. 
 
 Gates’s succinct answers to common job interview questions provide valuable lessons for college graduates or young professionals interviewing for jobs in almost any field. 
 
@@ -46,7 +46,7 @@ In a 30-second answer, Gates is very clear about his strengths and where he fits
 
 You’ll note that Gates does call attention to a weakness nor does he offer a trite response such as “I’m a perfectionist.” Instead he simply addresses the roles that he is not fit for. The rest of the answer is a full-throated argument for how he would improve a team. 
 
-In his book, Hit Refresh, Microsoft CEO Satya Nadella said that he and Gates look for people who are passionate about learning. A ‘learn-it-all’ is more desirable than a ‘know-it-all.’ 
+In his book, Hit Refresh, [[Microsoft]] CEO Satya Nadella said that he and Gates look for people who are passionate about learning. A ‘learn-it-all’ is more desirable than a ‘know-it-all.’ 
 
 Gates reminds the interviewer that he’s a constant learner by saying he loves to read about the industry and to learn from past mistakes.
 
@@ -60,6 +60,6 @@ Although choosing stock options in lieu of a larger salary is a highly personal 
 
 Gates also gives himself leverage in any salary discussion when he says, “I hear other companies are paying a lot.” It reminds the interviewer that this job candidate is in high demand, but treat him fairly and he’ll be a team player. 
 
-A potential job candidate can easily conduct a search and discover that Microsoft looks for people who are passionate about technology, exhibit a strong desire to learn, and have a spirit of entrepreneurship. Gates’s answers demonstrated all three qualities. 
+A potential job candidate can easily conduct a search and discover that [[Microsoft]] looks for people who are passionate about technology, exhibit a strong desire to learn, and have a spirit of entrepreneurship. Gates’s answers demonstrated all three qualities. 
 
 Look and sound confident in your next job interview by practicing soundbites to typical questions. Watching Bill Gates acting as a job candidate is a good place to start.

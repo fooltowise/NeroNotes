@@ -39,7 +39,7 @@ See [[The Fundamental Theorem of Investing]]
 	- **Customer captivity**
 		- Habit e.g Coke, Pepsi - more relevant for regular small pocket purchases
 	- **High switching costs**
-		- Network effect e.g. Microsoft Windows, Office
+		- Network effect e.g. [[Microsoft]] Windows, Office
 		- Risk of change/switch e.g. flavors and fragrances
 		- Switching that requires money, time and effort
 		- Deep entrenchment with customer - planning, logistical software integrated

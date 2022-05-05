@@ -45,7 +45,7 @@ A major competitive risk is that we, as a consumer, always expect the most beaut
 
 Yes, it is. So how do you find a way to still make it innovative and put new languages next to them? Going forward, how can you make sure that you still keep adding value to your customers? The worst thing you can do is to rewrite your own software, which is already good. That is a big challenge. That is one specific internal aspect.
 
-The external aspect is, of course, which software is still truly vertical market software, from the software that you offer? We have had Google, Microsoft and other more horizontal software, that are taking parts of the services that you have been providing. As an example, the GP needs to know the times and dates when people are going to their office, for a 10-minute appointment. Google can also help you with that. The calendar functionality that you had in your vertical market software suddenly has a competitor.
+The external aspect is, of course, which software is still truly vertical market software, from the software that you offer? We have had Google, [[Microsoft]] and other more horizontal software, that are taking parts of the services that you have been providing. As an example, the GP needs to know the times and dates when people are going to their office, for a 10-minute appointment. Google can also help you with that. The calendar functionality that you had in your vertical market software suddenly has a competitor.
 
 Then the question is, how big is your vertical market software and is it still truly into the customer’s DNA? If it is not, then there is an opportunity that it will be run over by companies like Google. That is always the challenge that you have to be aware of.
 

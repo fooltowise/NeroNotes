@@ -132,7 +132,7 @@ And they think it's expanding faster than ever. It sounds because it's easier an
 
 **Colin Keeley:** \[00:15:11\] Ah, that's a good question. I actually didn't look at what they do. It looks like one is a conglomerate as well. And one. There's like point of sale terminals, which  I think verticals market software, like it could be billion dollar companies, but you could also, if you stumble into horizontal, you could get things that grow much faster, but then you also have more downside.
 
-There is like Google or Microsoft or whoever would find that market appealing and come after you. So maybe less durable, but higher upside, which has always balanced between vertical and horizontal approaches.
+There is like Google or [[Microsoft]] or whoever would find that market appealing and come after you. So maybe less durable, but higher upside, which has always balanced between vertical and horizontal approaches.
 
 **Brent Sanders:** \[00:15:45\] I wonder how their technology works at, like you, you buy up all these companies. And one thing we're already seeing just with one company in, in looking at, seconds and thirds is it's different stacks and it's different philosophies. Yeah, there, there are standards that we want to accept, but everybody's, every business is an indifferent spot and has a different sort of tech landscape.
 
@@ -190,7 +190,7 @@ Business models that make it very effective and he has stolen everything he can 
 
 **Colin Keeley:** \[00:22:19\] I'm a little undecided on the whole horizontal versus vertical. So you could go the VMs route. So vertical market software you're kept on the upside, but then you're also kept on the downside. So no one's gonna enter the marina software market when there's a dominant player and people just, aren't going to switch that easily.
 
-Similarly with government. Government software, but then if you do, you can do horizontal businesses. And I think the upside is much greater, but then potentially is a bit of a discussion on how low the downside is. If you have  Microsoft or Google coming into your space. So could do that.
+Similarly with government. Government software, but then if you do, you can do horizontal businesses. And I think the upside is much greater, but then potentially is a bit of a discussion on how low the downside is. If you have  [[Microsoft]] or Google coming into your space. So could do that.
 
 And that's like mix of venture capital and private equity. It's like venture equity or something. When you have that maybe greater upside. And so that is something I think we have to think about if it's immediately cut as we talk with software companies, if they don't have a specific niche, like if they're too broad, too horizontal, do we just immediately cut them as like a first filter and stay with VMs going forward?
 

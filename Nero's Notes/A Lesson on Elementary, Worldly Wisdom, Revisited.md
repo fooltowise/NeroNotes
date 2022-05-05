@@ -62,7 +62,7 @@ Even today, there's a company called International Flavors and Fragrances. It's 
 
 *(Continuing the Coca-Cola case study, Charlie explains how our understanding of graphic depictions of mathematical ideas are rooted in biology.)*
 
-My friend, Dr. Nat Myhrvold, who's the chief technology officer at Microsoft, is bothered by this. He's a PhD physicist and knows a lot of math. And it disturbs him that biology could create a neural apparatus that could do automatic differential equations at fast speed - and, yet, everywhere he looks, people are total klutzes at dealing with ordinary probabilities and ordinary numbers.
+My friend, Dr. Nat Myhrvold, who's the chief technology officer at [[Microsoft]], is bothered by this. He's a PhD physicist and knows a lot of math. And it disturbs him that biology could create a neural apparatus that could do automatic differential equations at fast speed - and, yet, everywhere he looks, people are total klutzes at dealing with ordinary probabilities and ordinary numbers.
 
 By the way, I think Myhrvold is wrong to be amazed by that. The so-called fitness landscape of our ancestors forced them to know how to throw spears, run around, turn corners, and have you long before they had to think correctly like Myhrvold. So I don't think he should be so surprised. However, the difference is so extreme that I can understand how he finds it incongruous.
 

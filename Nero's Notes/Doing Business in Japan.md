@@ -164,7 +164,7 @@ The economics implied by this arrangement make Japan relatively more hospitable 
 
 Maintaining a team of reps to do client visits (who can, quite literally, often drink their way through a $2k entertaining-prospects budget on a monthly basis… in a single evening if you don’t discourage that) costs quite a bit of money, but once you get into average contract values in the several hundred thousand to several million region (dollars), it works out to the ~20% that US enterprise sales operations expect, and the same factors that made adopting you difficult now makes it very difficult for competitors to steal your accounts.
 
-Japan is a gigantic market for software, and the number two market worldwide for a lot of US firms. Prominent examples include Oracle, Salesforce, Microsoft (IIRC), etc etc.
+Japan is a gigantic market for software, and the number two market worldwide for a lot of US firms. Prominent examples include Oracle, Salesforce, [[Microsoft]] (IIRC), etc etc.
 
 Penetrating the Japanese market virtually requires either a local office (in Tokyo, because you’ll want to have in-person visits with your customers and, if they’re large Japanese corporations, odds are they are in Tokyo) or an arrangement with a Japanese distributor. In general, relationships between vendor, distributor, and ultimate customer can be fraught. If you’re coming to Japan, think long and hard about the distributor decision, as cutting them out of the loop is seen as unseemly behavior, but keeping them in the loop if they’re inefficient virtually dooms your chances here.
 

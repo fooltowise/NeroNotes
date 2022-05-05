@@ -1,6 +1,6 @@
 # Why is No One Doing a Good Job?
 
-Among the best performing stocks of the 1990s were EMC, Dell, PMC Sierra and Microsoft. These were the cheapest stocks a decade ago, but no value investor owned them. But then again, none of the large growth investors (excluding insiders) owned the shares all the way through the decade either. Why is this? Why weren't value investors, those who claim to be good at pricing a business, invested in Dell in 1990? Why is no one doing a really good job?
+Among the best performing stocks of the 1990s were EMC, Dell, PMC Sierra and [[Microsoft]]. These were the cheapest stocks a decade ago, but no value investor owned them. But then again, none of the large growth investors (excluding insiders) owned the shares all the way through the decade either. Why is this? Why weren't value investors, those who claim to be good at pricing a business, invested in Dell in 1990? Why is no one doing a really good job?
 
 No, we weren't invested in Dell either. Worse still, we weren't looking. Although Dell was not expensive at the time, I am sure we would have concluded that its probability of failure over the next decade would have been high, or at least high enough to stop us owning the shares. A study by Michael Goldstein at Empirical Research, a research boutique, claims that the probability of growth stock failure (company growth slowing) is as high as four in five over five years and nine out of ten over ten years. And in the case of Dell, we would have been wrong.
 

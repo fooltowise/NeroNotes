@@ -5,6 +5,6 @@
 - [[Visa - The original Protocol Business]]
 
 ### Competitors
--[[Mastercard]]
+- [[Mastercard]]
 - [[Adyen]]
 - 

@@ -257,7 +257,7 @@ Then there's another model from microeconomics that I find very interesting. Whe
 
 And when these new businesses come in, there are huge advantages for the early birds. And when you're an early bird, there's a model that I call "[[Surfing]]" - when a surfer gets up and catches the wave and just stays there, he can go a long, long time. But if he gets off the wave, he becomes mired in shallows.
 
-But people get long runs when they're right on the edge of the wave, whether it's Microsoft or Intel or all kinds of people, including National Cash Register in the early days.
+But people get long runs when they're right on the edge of the wave, whether it's [[Microsoft]] or Intel or all kinds of people, including National Cash Register in the early days.
 
 The cash register was one of the great contributions to civilization. It's a wonderful story. Patterson was a small retail merchant who didn't make any money. One day, somebody sold him a crude cash register, which he put into his retail operation. And it instantly changed from losing money to earning a profit because it made it so much harder for the employees to steal.
 
