@@ -1,12 +1,12 @@
-# [[CSU]] Annual Meeting 2021 Transcript
+# [[Constellation Software]] Annual Meeting 2021 Transcript
 
-### Constellation Software Inc. - Shareholder/Analyst Call
+### [[Constellation Software]] Inc. - Shareholder/Analyst Call
 
 #### 06/05/21
 
 Operator
 
-Hello, and welcome to the Annual Meeting of Stockholders of Constellation Software Inc. Annual General Meeting 2021. Please note that today's meeting is being recorded.
+Hello, and welcome to the Annual Meeting of Stockholders of [[Constellation Software]] Inc. Annual General Meeting 2021. Please note that today's meeting is being recorded.
 
 During the meeting, we will have a question-and-answer session. You can submit a written question at any time by clicking on the message icon at the top of your screen. Please note that your registered name will be announced along with your question during the Q&A session. Following the formal portion of the meeting, guests will not be able to submit questions. \[Operator Instructions\]
 
@@ -14,7 +14,7 @@ It is now my pleasure to turn today's meeting over to Mark Dennison. The floor i
 
 Mark Dennison
 
-Thank you, and good morning. I'm Mark Dennison. I'm the General Counsel and the Corporate Secretary for Constellation Software. Mark Leonard, Constellation's President, has asked me to act as the Chairman of this Annual Meeting.
+Thank you, and good morning. I'm Mark Dennison. I'm the General Counsel and the Corporate Secretary for [[Constellation Software]]. Mark Leonard, Constellation's President, has asked me to act as the Chairman of this Annual Meeting.
 
 Jamal Baksh will act as secretary of the meeting. I ask Shirley Tom and Amanda Castellano of Computershare to act as scrutineers and to compute the votes of any polls taken at the meeting.
 
@@ -172,7 +172,7 @@ The third category is larger investments and investments beyond vertical market 
 
 The fourth one on Topicus, TSS, also a new event, the merger of Topicus and TSS and then the subsequent spin and the ensuing -- we've got a whole quarter of performance now. I know you had a conference call on the quarter yesterday and got some questions answered, but it's a topic of some significant interest to stockholders. So that will be our fourth segment.
 
-And then the fifth one, a return to some more familiar terrain around corporate culture, operations and management.
+And then the fifth one, a return to some more familiar terrain around [[corporate culture]], operations and management.
 
 And the final segment, the last segment, turns a little bit toward you, about our shareholder base, what we like about shareholders, public perceptions of Constellation and then the topic of ESG, environmental, social and governance.
 
@@ -1228,7 +1228,7 @@ I take a perverse joy in keeping it retro and thinking of reducing it to maybe m
 
 Lawrence Cunningham
 
-At least it's not the simplest in the -- the simplest corp website in the world. That distinction belongs to Berkshire Hathaway.
+At least it's not the simplest in the -- the simplest corp website in the world. That distinction belongs to [[Berkshire Hathaway]].
 
 Well, slightly more seriously, here's a question. I promised earlier that we'd have a question about Constellation's name recognition and so on in our conversation with Jeff Bender about the recognition of Harris across Québec. This question is about recognition of Constellation in the United States.
 

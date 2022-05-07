@@ -1,7 +1,7 @@
 # Great Businesses I'd like to own
 See [[The Fundamental Theorem of Investing]]
 
-- Constellation Software Inc
+- [[Constellation Software]] Inc
 - MSCI
 - Moody's
 - Standard and Poors Global Inc

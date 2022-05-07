@@ -179,7 +179,7 @@ I guess anyone could come up with a narrative. For all we know, the big guy at G
 
 I don't know either. I do know that IAA just patented a new app for their tower community which was pretty interesting. They made an Uber-type app for towers, so any of the towers could go on it and submit their information, get vetted, then be part of the IAA ecosystem. I believe that they're not just using it as a proprietary product, but they're letting it go out on the market as a revenue stream, which I think is smart. It's smart because not only are they going to build a revenue stream that's not reliant on the physical business at their locations, but it also gets their name in front of anybody who's going somewhere else. If you have to click on the IAA tower app to get a vehicle to Copart, you're still subconsciously looking at IAA. So I think it's brilliant that they did that and were smart enough to let the masses use it.
 
-### What do you think about, in general, the culture at IAA? You mentioned that they’re technically savvy. Do you have anything to add about the corporate culture, if it was different at all from Copart?
+### What do you think about, in general, the culture at IAA? You mentioned that they’re technically savvy. Do you have anything to add about the [[corporate culture]], if it was different at all from Copart?
 
 From what I hear from Copart, it’s a little scrappier there. There's a little less process as far as working there and getting things done. It's just scrappier. From my perspective, IAA was pretty professional, and it did things well and clean, maybe were sometimes a little slower to the dance but still definitely made an impact. Can you hold on one second?
 

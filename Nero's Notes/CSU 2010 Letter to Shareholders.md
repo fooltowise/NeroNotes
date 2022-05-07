@@ -1,4 +1,4 @@
-# [[CSU]] 2010 Letter to Shareholders
+# [[Constellation Software]] 2010 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS
 On April 4th, Constellation’s board announced that it was undertaking a review of the strategic alternatives for the company, with the objective of enhancing shareholder value. In your shoes, I’d interpret that as meaning that the company is likely to be sold. In the ~40% appreciation of CSI’s stock since January 2011, we have presumably seen the market reflecting some of that takeover premium. 
@@ -26,4 +26,4 @@ In 2010 our Revenue per Share and Cash Flow from Operating Activities (“CFOA�
 We will be hosting the annual general meeting on Thursday May 5th. Many of our Directors and Officers and a number of our General Managers will be in attendance. We look forward to talking about our business and answering your questions. I hope to see you there. 
 
 Mark Leonard, May 2, 2011 
-President, Constellation Software Inc.
+President, [[Constellation Software]] Inc.

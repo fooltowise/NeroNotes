@@ -1,7 +1,11 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "translucency": false,
   "enabledCssSnippets": [],
-  "baseFontSize": 28,
   "cssTheme": "Harmonic"
+  "baseFontSize": 30,
+  "cssTheme": "Minimal",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
 }

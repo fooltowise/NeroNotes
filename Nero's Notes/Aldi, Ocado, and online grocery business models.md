@@ -78,9 +78,9 @@ These products are on sale for between two and four weeks. They are launched at 
 
 It is in this area that Aldi and Lidl see, with very attractive eyes, the option for online. Today, it is possible to buy a latest specification laptop, it is possible to buy quite a high specification cycle, business clothes, such as shirts and suits, and all at a pretty good quality, for a very good price. I can also see them thinking about – and they’re already doing it in some countries – fridge freezers, garden sheds and wheelbarrows. Things that would be really quite difficult to get in and out of a food store, both from the customers’ and the supply chain point of view. All of those things become possible if you have an online business.
 
-### It’s funny, because you called it the in and out, because that’s also what Costco call their treasure hunt experience; they do the same thing. Do you see these two businesses converging, online, where they can almost buy the same products, with the same scale, from similar suppliers?
+### It’s funny, because you called it the in and out, because that’s also what [[Costco]] call their treasure hunt experience; they do the same thing. Do you see these two businesses converging, online, where they can almost buy the same products, with the same scale, from similar suppliers?
 
-I think, if you look at the US and Australia, they already are. I’m absolutely sure that Costco are recording, each week, what Aldi is selling and expecting something similar the following year and thinking about how to compete and vice versa. This area of online looks really very attractive to the discounters.
+I think, if you look at the US and Australia, they already are. I’m absolutely sure that [[Costco]] are recording, each week, what Aldi is selling and expecting something similar the following year and thinking about how to compete and vice versa. This area of online looks really very attractive to the discounters.
 
 ### These in and out SKUs or products, are they typically overstock from manufacturers or suppliers or are they just seasonals?
 
@@ -182,7 +182,7 @@ Secondly, a supermarket that is set up to receive things direct from suppliers t
 
 There are times when delivery drivers for Aldi, bring the product to the store and actually put the product on the sales floor, ready for the consumer to buy; it’s that efficient. You couldn’t do that in a warehouse and you’d never even seen the product.
 
-### How would you look at a higher in and out mix online impacting inventory turns, for the likes of Aldi and Costco?
+### How would you look at a higher in and out mix online impacting inventory turns, for the likes of Aldi and [[Costco]]?
 
 You need to understand that this in and out business is also a very mathematical and well-organized business. When you are selling 50 different items every week, in the stores, you need to be clearing the product in order to have the space to receive the next lot. Therefore, the intelligence that goes into ensuring that that space is there and the quantities are right is quite phenomenal. If it wasn’t, it would just become a system where the product is overloaded in the store. From time to time, that does happen with individual products but, generally, it’s a well-oiled machine.
 
@@ -192,7 +192,7 @@ It’s the same process with the online. For example, in Austria and Germany rec
 
 Yes; cross-dock means exactly that. It is checked and it’s on its way to the consumer.
 
-### That would also explain why Costco are focusing a lot, right now, on the bulkier items online.
+### That would also explain why [[Costco]] are focusing a lot, right now, on the bulkier items online.
 
 Yes, because that is simply something you cannot do in the store. They don’t actually want you not to come to the store; they want that additional sale, because you know you need someone to deliver it for you.
 
@@ -208,7 +208,7 @@ I think that’s probably less attractive to them. If some element of Covid stic
 
 These things also have costs to them because you can’t put bananas in the same container as frozen food; you need a multi-temperature way to serve the consumer. I think it’s possible, but I don’t believe it’s on the agenda. They would much rather stick to items where they are getting additional sales. I could see, in a fully mature business, where you believe you have put the right number of stores into a country and any more is just going to cause cannibalization, then it might be considered, if the consumer is prepared to pay some additional cost for the services of either click and collect or delivery.
 
-### Let’s say, looking forward over the next 10 years, some of the big questions around Costco and the grocery discounters are really around how the consumers are changing. In 10 years’ time, how do you see the relevance of Costco or Aldi’s discounter model changing?
+### Let’s say, looking forward over the next 10 years, some of the big questions around [[Costco]] and the grocery discounters are really around how the consumers are changing. In 10 years’ time, how do you see the relevance of [[Costco]] or Aldi’s discounter model changing?
 
 I think it’s too resilient and strong. When you sell things which are good and are the same quality as the market is looking for, and you sell them cheaper than anybody else, you’ve got yourself a market. I can’t believe that that mantra will change in the future. If anybody argues to me, what about better quality, the discounters can always increase their quality if they believe that is what the consumers want. They’ve always focused on what the best seller is. If the best seller is suddenly a new level of quality, then they will simply change to that. They are very flexible from that point of view.
 
@@ -242,7 +242,7 @@ I don’t know the exact figures but I know that, in the supermarket business, a
 
 It’s very attractive. I’ll tell you what Ocado is – as it was for Morrisons, when they tied up – it’s a fast fix option. These guys know how to do it; they know all the very latest technology. They’ve got a tried and trusted method, so away they go. You do the deal, you pay the money and the next day, you’ve got access to all of this operational technology. That is the offer that Ocado has.
 
-When Kroger did the deal with Ocado, it was perfect timing for Kroger, because it really fast forwarded in a way that they could see what Walmart was doing and how much money Walmart was investing in that area of business. Of course, they could see what Amazon was doing. For them, it was a strategically intelligent move. Today, I think there are other options, particularly if you thought about it five years ago and you were working on launching something today.
+When Kroger did the deal with Ocado, it was perfect timing for Kroger, because it really fast forwarded in a way that they could see what [[Walmart]] was doing and how much money [[Walmart]] was investing in that area of business. Of course, they could see what Amazon was doing. For them, it was a strategically intelligent move. Today, I think there are other options, particularly if you thought about it five years ago and you were working on launching something today.
 
 I’m hugely respectful of Ocado’s business; they’ve done a brilliant job. So many other businesses tried it and just didn’t get anywhere because they ran out of money. These guys not only had the ability to deliver what they said they would do, but they were also very clever in how they got access to cash and they’ve spent a lot; they’ve spent a lot of money on the facilities and the assets that they have today.
 

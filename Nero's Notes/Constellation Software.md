@@ -1,6 +1,4 @@
-# CSU
-
-## Constellation Software, Inc
+# Constellation Software, Inc
 
 **Chairman :** ![[Mark Leonard]]
 ## Subsidiaries

@@ -1,6 +1,6 @@
-# Top Acquirer Spotlight Podcast - Constellation Software
+# Top Acquirer Spotlight Podcast - [[Constellation Software]]
 
-## Interview with Mark Miller, COO of [[CSU]]
+## Interview with Mark Miller, COO of [[Constellation Software]]
 
 
 I've been fortunate enough to be around since the inception of Constellation. I was actually part of the first acquisition Constellation did, a company called Trapeze, back in 1995, we did very specific niche software for the transit industry, helping schedules, platforms, and help figure out how you should train drivers running the bus systems. So i came out from kind of both sides, startup CEO and Constellation, which was really an interesting transition for me because, if you're running a software company, you tend to be all about "Let's take care of customers, build new products and build our business over time", but one thing you tend not to do a lot is acquisitions. 

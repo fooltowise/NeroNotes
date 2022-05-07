@@ -4,7 +4,7 @@ _Disclaimer: This interview is for informational purposes only and should not be
 
 ### Scott, can you provide a short introduction to your background, please.
 
-My name is Scott McLeod. I've been a 40-year restauranteur. I've worked with a number of different brands over the decades. I spent over 30 years with Domino’s Pizza in the US and the UK. My most recent position was for Wingstop, a growing company here in the US and is in the UK. I oversaw the franchising and corporate models for the US. I retired a couple of years ago; I've been consulting and overseeing a couple of trusts, and I'm on a couple of boards.
+My name is Scott McLeod. I've been a 40-year restauranteur. I've worked with a number of different brands over the decades. I spent over 30 years with Domino’s Pizza in the US and the UK. My most recent position was for [[Wingstop]], a growing company here in the US and is in the UK. I oversaw the franchising and corporate models for the US. I retired a couple of years ago; I've been consulting and overseeing a couple of trusts, and I'm on a couple of boards.
 
 ### Can you compare the master franchise business versus the US independent franchise model?
 
@@ -288,7 +288,7 @@ That's a good question. I think they've overcome some of their own challenges. S
 
 These companies are very focused on market share growth right now, and less about profitability. They’ve just come up with new concepts, such as the staged commission fees that we're charging based upon whether you are taking the lead package or the secondary package. They're growing and developing and they still haven't gotten to a mature model. They’re strictly about market share growth and trying to get as many people on board as possible and learning their own system. Do I think they’re here to stay? Absolutely, I do. I do think there will be some leveling off, some pressures they haven't anticipated, some drop off. You see it, these companies are being acquired by the big guys. There will be a point where there aren’t as many players out there.
 
-### If you were running a restaurant brand today, Wingstop, Domino’s, how do you think they have to navigate this change in the competitive landscape over the next five years?
+### If you were running a restaurant brand today, [[Wingstop]], Domino’s, how do you think they have to navigate this change in the competitive landscape over the next five years?
 
 You’ve got companies like Domino’s that have integrated delivery. The stores are designed for delivery.
 

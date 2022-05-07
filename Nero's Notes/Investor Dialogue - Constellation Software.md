@@ -1,4 +1,4 @@
-# Investor Dialogue: [[CSU|Constellation Software]]
+# Investor Dialogue: [[Constellation Software|Constellation Software]]
 by #InPractise 
 
 Disclaimer: This interview is for informational purposes only and should not be relied upon as a basis for investment decisions. In Practise is an independent publisher and all opinions expressed by guests are solely their own opinions and do not reflect the opinion of In Practise.
@@ -161,7 +161,7 @@ That’s why Buffett will talk about this dynamic all the time. It’s only in t
 
 Their culture will evolve over time, to actually opt out of those types of dynamics, where it’s people who are trying to optimize for a three-year outcome and not a five or seven year outcome.
 
-Analyst 6: I haven’t heard many anecdotes of situations where the seller said, I could have got the same price from somebody else, but I will sell it to you because you are a permanent home. I’ve heard several anecdotes of the opposite of this good home impression of Constellation. For example, I will not talk to Constellation Software. They call every second week, but I will not talk to them. That’s interesting; why not? Because I heard stories from other software companies and they took away many employees and so on. Those anecdotes are more the opposite of a good home, in terms of keeping all the staff there. They are often seen as quite ruthless and quite harsh, in terms of quickly going in and ripping out people and taking down costs.
+Analyst 6: I haven’t heard many anecdotes of situations where the seller said, I could have got the same price from somebody else, but I will sell it to you because you are a permanent home. I’ve heard several anecdotes of the opposite of this good home impression of Constellation. For example, I will not talk to [[Constellation Software]]. They call every second week, but I will not talk to them. That’s interesting; why not? Because I heard stories from other software companies and they took away many employees and so on. Those anecdotes are more the opposite of a good home, in terms of keeping all the staff there. They are often seen as quite ruthless and quite harsh, in terms of quickly going in and ripping out people and taking down costs.
 
 Analyst 2: This is the tension; they have to back it up to keep that reputation as an acquirer. That’s the hardest part.
 

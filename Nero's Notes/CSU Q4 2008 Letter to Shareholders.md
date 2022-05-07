@@ -1,4 +1,4 @@
-# [[CSU]] Q4 2008 Letter to Shareholders
+# [[Constellation Software]] Q4 2008 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS 
 
@@ -25,6 +25,6 @@ Organic Net Revenue growth (“OGr”) came in at a 0% for Q4 2008, and 5% for 2
 I continue to be in the fortunate position of being able to commend the performance of all of our Operating Groups. I have confidence that their managers will protect the interests of our customers, shareholders and employees despite the distressing economic environment. 
 
 Mark Leonard, March 4th, 2009 
-President, Constellation Software Inc.
+President, [[Constellation Software]] Inc.
 
 ![[CSU Q4 2008.png]]

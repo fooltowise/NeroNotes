@@ -11,7 +11,7 @@ Black-Scholes works for short-term options, but if it's a long-term option and y
 
 Black-Scholes is a know-nothing system. If you know nothing about value - only price - then Black-Scholes is a pretty good guess at what a ninety-day option might be worth. But the minute you get into longer periods of time, it's crazy to get into Black-Scholes.
 
-For example, at Costco we issued stock options with strike prices of $30 and $60, and Black Scholes valued the $60 ones higher. This is insane.
+For example, at [[Costco]] we issued stock options with strike prices of $30 and $60, and Black Scholes valued the $60 ones higher. This is insane.
 
 ### Accounting for stock options
 The theory that options have no cost has contributed to a lot of excesses, which is bad for the country because corporate compensation is perceived as unfair.

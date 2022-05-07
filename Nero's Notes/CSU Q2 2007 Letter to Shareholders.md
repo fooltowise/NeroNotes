@@ -1,4 +1,4 @@
-# [[CSU]] Q2 2007 Letter to Shareholders
+# [[Constellation Software]] Q2 2007 Letter to Shareholders
 
 
 Q2 saw an improvement in our revenue growth rate: Organic Net Revenue growth in Q2 compared to the same period last year, recovered to 0.5%, and acquisitions accounted for the remaining 15% of year over year Net Revenue growth. Our home-building and building products related businesses experienced Organic Net Revenue declines. A turnaround in their growth prospects is not yet evident. Organic Net Revenue growth in a number of our other businesses more than offset those declines. 

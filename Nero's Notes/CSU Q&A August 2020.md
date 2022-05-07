@@ -1,4 +1,4 @@
-# [[CSU]] Shareholders Q&A, August 2020
+# [[Constellation Software]] Shareholders Q&A, August 2020
 
 **Question**
 

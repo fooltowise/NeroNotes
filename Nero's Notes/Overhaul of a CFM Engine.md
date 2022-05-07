@@ -141,7 +141,7 @@ If I were in their shoes, I would. There is a certain category of parts which ar
 
 Yes.
 
-### One interesting discussion there is around those PMA suppliers, such as Heico([[HEI]]), is just the pricing architecture for the parts. Clearly, any PMA part is going to be cheaper than the OEM; that’s the offering and the position of the product. How transparent is the pricing, for operators or the MRO network, of those PMA parts? Does the airline have a great idea, understand and accept the actual pricing of the PMA parts?
+### One interesting discussion there is around those PMA suppliers, such as [[Heico]]]], is just the pricing architecture for the parts. Clearly, any PMA part is going to be cheaper than the OEM; that’s the offering and the position of the product. How transparent is the pricing, for operators or the MRO network, of those PMA parts? Does the airline have a great idea, understand and accept the actual pricing of the PMA parts?
 
 The market price of a PMA part falls between two prices. It has to be cheaper than the OEM part but there comes a point when the airline is not prepared to take a PMA part and they would prefer to take a good second-hand part, a good used part. As you get towards the good used part, it is at that point you start thinking as to whether it is worth a PMA part or not. It is a bit variable but, typically, people are not prepared to pay more than about 50% for a good used part, compared to a new part. PMA parts are going to have to be somewhere around there, or a little cheaper.
 

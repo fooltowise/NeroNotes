@@ -1,9 +1,9 @@
 # Intelligent Fanatics
 
 
-> Our final advantage is the hard-to-replicate culture that permeates Berkshire. And in business, culture counts. Warren Buffett, 2010 Berkshire Hathaway letter to shareholders.
+> Our final advantage is the hard-to-replicate culture that permeates Berkshire. And in business, culture counts. Warren Buffett, 2010 [[Berkshire Hathaway]] letter to shareholders.
 
-Companies that can harness the full potential of human capital can build nimble, sustainable operations that are hard to duplicate. In 1992, John Kotter did a comparative study of twenty-two corporations in various industries. He wanted to see whether corporate culture had any impact on the financial performance of a company compared to its peers. It did.
+Companies that can harness the full potential of human capital can build nimble, sustainable operations that are hard to duplicate. In 1992, John Kotter did a comparative study of twenty-two corporations in various industries. He wanted to see whether [[corporate culture]] had any impact on the financial performance of a company compared to its peers. It did.
 
 Of the twenty-two firms in the study, twelve had exceptional performance in relation to industry peers. Over the period from 1977 to 1988, the outstanding firms grew their share price an average of 400% to 500%, compared to their peers' 100% returns, and their underlying return on invested capital averaged 11.13%, compared to their peers' 7.73%. Interviews with industry experts, insiders and financial analysts indicated that the only thing that separated the outstanding companies from their peers was the quality and adaptability of their [[Corporate Culture]].
 

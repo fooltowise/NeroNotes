@@ -1,10 +1,10 @@
-# [[CSU]] 2015  Letter to Shareholders
+# [[Constellation Software]] 2015  Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS
 
 Each quarter we try to study an admirable company and discuss it with our Operating Group managers and board members. We focus on high performance conglomerates that have demonstrated at least a decade of superior shareholder returns. We started by studying those that have generated superior returns for multiple decades. That narrowed the field a lot, so we are beginning to let some single decade performers slip into the candidate pool. I’ll refer to the conglomerates that we’ve studied to date as the “HPCs” in this letter. If you have any suggestions for the candidate pool, please send them along. 
 
-Constellation Software Inc. (“CSI”) is just entering its third decade. We study the HPCs because they help us understand what CSI does well, where we might improve, and what alternatives we could pursue. Keep in mind that we are comparing CSI to a group of wonderful companies. Over the last decade, if you had held an equally weighted portfolio of the shares of the HPCs, you would have more than doubled the performance of the S&P 500. 
+[[Constellation Software]] Inc. (“CSI”) is just entering its third decade. We study the HPCs because they help us understand what CSI does well, where we might improve, and what alternatives we could pursue. Keep in mind that we are comparing CSI to a group of wonderful companies. Over the last decade, if you had held an equally weighted portfolio of the shares of the HPCs, you would have more than doubled the performance of the S&P 500. 
 
 We reviewed one of our perennial favourite HPCs this quarter, Jack Henry and Associates, Inc. (“JKHY”). The company’s values are those to which we aspire and their multi-decade performance is remarkable. Their shares have outperformed the S&P 500 Index by 11%, 9% and 10% per annum over the last 30, 20 and 10 years, respectively. Best of all, JKHY is in the vertical market software business like CSI, so there are sector-specific lessons in their history from which we can draw.
 
@@ -169,4 +169,4 @@ We will be hosting the AGM on Thursday, April 28th . Many of our Directors and O
 
 Mark Leonard, April 26 th , 2016 
 
-President, Constellation Software Inc.
+President, [[Constellation Software]] Inc.

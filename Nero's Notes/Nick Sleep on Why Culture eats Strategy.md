@@ -31,23 +31,23 @@ The Greek poet [Archilochus](https://www.npr.org/2019/07/08/739502013/the-fox-an
 
 Nomad hunted for companies with durable competitive advantages. Businesses that did many little things well were more robust. No doubt [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Antifragile) would agree. 
 
-Costco, a staple of Nomad’s portfolio, is a good example. The company does not benefit from cheap real estate or low wages (they made a point to pay above industry averages). Instead, Nomad’s 2010 mid-year report notes:
+[[Costco]], a staple of Nomad’s portfolio, is a good example. The company does not benefit from cheap real estate or low wages (they made a point to pay above industry averages). Instead, Nomad’s 2010 mid-year report notes:
 
 > _The firm’s advantage starts with 147,000 employees at 566 warehouses making multiple daily decisions regarding U$68bn worth of annual costs. It’s thousands of people caring about thousands of things a little more, perhaps, than may occur at other retailers._
 
-This aggregation of marginal gains compounded, translating into low prices for customers, which kept them coming back for more. Costco’s culture was a durable advantage, driving superior financial results. Its sales per square foot of retailing space were four times higher than a run-of-the-mill supermarket. 
+This aggregation of marginal gains compounded, translating into low prices for customers, which kept them coming back for more. [[Costco]]’s culture was a durable advantage, driving superior financial results. Its sales per square foot of retailing space were four times higher than a run-of-the-mill supermarket. 
 
 ### The Perfect Model - Scale Economics Shared
 
 See [[Scale Economics Shared]]
 
-Costco is also an example of scale economics shared, a business model that Nomad invested heavily in. As a firm grows, scale savings are given back to the customer through lower prices. This turns size into an asset. Customers reciprocate by buying more which increases scale and allows for further price reductions. The result: a flywheel. While most companies pursue scale efficiencies, few share them with customers. Nomad invested in firms that did like Air Asia, Amazon, and Costco. 
+[[Costco]] is also an example of scale economics shared, a business model that Nomad invested heavily in. As a firm grows, scale savings are given back to the customer through lower prices. This turns size into an asset. Customers reciprocate by buying more which increases scale and allows for further price reductions. The result: a flywheel. While most companies pursue scale efficiencies, few share them with customers. Nomad invested in firms that did like Air Asia, Amazon, and [[Costco]]. 
 
-To measure a company’s moat, Nomad created the robustness ratio framework. This compares the amount of money consumers save to the amount of money that shareholders earn. For Costco, the ratio was about 5:1 meaning that Costco shoppers saved $5 for every $1 of earnings retained by the company. Nomad invested in companies with high ratios, believing that low prices drove loyalty and repeat purchase behavior, creating profitable long-term relationships (see: Amazon Prime).
+To measure a company’s moat, Nomad created the robustness ratio framework. This compares the amount of money consumers save to the amount of money that shareholders earn. For [[Costco]], the ratio was about 5:1 meaning that [[Costco]] shoppers saved $5 for every $1 of earnings retained by the company. Nomad invested in companies with high ratios, believing that low prices drove loyalty and repeat purchase behavior, creating profitable long-term relationships (see: Amazon Prime).
 
 ### Frugality - Counting Pennies
 
-Nomad also valued frugality. In their 2010 mid-year letter, Nick and Zak regale with glee that someone at Amazon took the initiative to remove light bulbs from vending machines, saving the company $20,000 per year. While they detested frivolous spending, the duo cheered on investments that would drive long-term customer loyalty at the expense of near-term profitability, like price reductions (Amazon and Costco), brand marketing (Estee Lauder), or building out a fulfillment network (Amazon). Because of their [long time horizon](https://kjlabuz.substack.com/p/59-time-and-patience-part-2), Nomad could stomach volatility in stock and financial performance that short-term holders couldn't.
+Nomad also valued frugality. In their 2010 mid-year letter, Nick and Zak regale with glee that someone at Amazon took the initiative to remove light bulbs from vending machines, saving the company $20,000 per year. While they detested frivolous spending, the duo cheered on investments that would drive long-term customer loyalty at the expense of near-term profitability, like price reductions (Amazon and [[Costco]]), brand marketing (Estee Lauder), or building out a fulfillment network (Amazon). Because of their [long time horizon](https://kjlabuz.substack.com/p/59-time-and-patience-part-2), Nomad could stomach volatility in stock and financial performance that short-term holders couldn't.
 
 Companies that took pride in doing the small things right also tended to get the big things right. The duo wrote in their 2012 annual letter that:
 
@@ -71,8 +71,8 @@ If you’re interested in wading deeper into [Nomad’s letters](https://b-ok.as
     
 -   **2008 Annual Letter**. _“Incentives. Incentives. Incentives.”_ Good discussion of scale economics shared.
     
--   **2005 Interim Letter**. _“Measuring the Moat.”_ An overview of the robustness ratio framework looking at Costco and GEICO. 
+-   **2005 Interim Letter**. _“Measuring the Moat.”_ An overview of the robustness ratio framework looking at [[Costco]] and GEICO. 
     
--   **2004 Annual Letter**. “_Deconstructing the Business Case for Costco Wholesale._” Costco investment thesis. 
+-   **2004 Annual Letter**. “_Deconstructing the Business Case for [[Costco]] Wholesale._” [[Costco]] investment thesis. 
     
 

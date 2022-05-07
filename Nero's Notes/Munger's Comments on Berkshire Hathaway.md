@@ -1,4 +1,4 @@
-# Munger's Comments on Berkshire Hathaway
+# Munger's Comments on [[Berkshire Hathaway]]
 
 ### Berkshire is a hell of a business
 We're like the hedgehog that only knows one big thing: if you can generate float (cash from insurance premiums that Berkshire can invest before claims must be paid) at three percent and invest it in businesses that generate thirteen percent, that's a pretty good business.
@@ -12,17 +12,17 @@ Berkshire's past record has been almost ridiculous. If Berkshire had used even h
 
 ### Berkshire's future outlook
 One of the smartest things a person can do is dampen investment expectations, especially with Berkshire. That would be mature and responsible. I like our model, and we should do nicely.
-The future will be harder for Berkshire Hathaway for two reasons:
+The future will be harder for [[Berkshire Hathaway]] for two reasons:
 1. We're so big. It limits our investment options to more competitive areas that are examined by very smart people like Alice Schroeder (the insurance analyst from Paine Webber and then Morgan Stanley, who was sitting in the audience).
 2. The current climate offers prospects in common stocks over the next fifteen to twenty years that are way less than we've experience over the past fifteen to twenty years. Read Warren's *Fortune* article - I totally agree with it ("Mr Buffett on the stock market, 11/22/99")
 
-Berkshire Hathaway's value will be higher in twenty years, but it is certain that the annual rate of percentage growth will be much lower. But this is not a tragedy. We're content. Berkshire Hathaway and Wesco will accumulate cash every year, and we have a structure that gives us enormous flexibility. While we're too big to buy the stock of a small company, we have the advantage of having entire companies offered to us. Something has always turned up for us. I'm not discouraged, but I don't think your money here is going to do anything like what you're use to.
+[[Berkshire Hathaway]]'s value will be higher in twenty years, but it is certain that the annual rate of percentage growth will be much lower. But this is not a tragedy. We're content. [[Berkshire Hathaway]] and Wesco will accumulate cash every year, and we have a structure that gives us enormous flexibility. While we're too big to buy the stock of a small company, we have the advantage of having entire companies offered to us. Something has always turned up for us. I'm not discouraged, but I don't think your money here is going to do anything like what you're use to.
 
 It's a finite and very competitive world. All large aggregations of capital eventually find it hell on earth to grow and thus find a lower rate of return.
 
 Personally, I think Berkshire will be a lot bigger and stronger than it is. Whether the stock will be a good investment from today's price is another question. The one thing we've always guaranteed is that the future will be a lot worse than the past. The future returns of Berkshire and Wesco won't be as good in the future as they have been in the past. This is true of all large, successful companies. The only difference is that we'll tell you.
 
-### Berkshire Hathaway's culture
+### [[Berkshire Hathaway]]'s culture
 Our culture is very old-fashioned, like Ben Franklin's or Andrew Carnegie's. Can you imagine Carnegie hiring consultants? It's amazing how well this approach still works. A lot of the businesses we buy are kind of cranky and old-fashioned like us.
 For many of our shareholders, our stock is all they own, and we're acutely aware of that. Our culture of conservatism runs very deep.
 This is an amazingly sound place. We are more disaster-resistant than most other places. We haven't pushed it as hard as other people would have pushed it.
@@ -78,7 +78,7 @@ Growing float at a sizable rate a low cost is almost impossible - but we intend 
 
 Lumpy results and being willing to write less insurance business if market conditions are unfavorable... that is one of our advantages as an insurer - we don't give a damn about lumpy results. Every one else is trying to please Wall Street. This is not a small advantage. Nobody else does it, but to me not worrying about trying to please Wall Street is obviously the only way to go. A lot about Berkshire is like this. Being controlling owners is key - it would be hard for a committee to make these kinds of decisions.
 
-### Berkshire Hathaway repurchasing shares
+### [[Berkshire Hathaway]] repurchasing shares
 
 In the past, when Berkshire has gotten cheap, we've found other even cheaper stocks to buy. I'd always prefer this. It's no fun to have the company so lacking in repute that we can make money for some shareholders by buying out others.
 
@@ -86,7 +86,7 @@ In the past, when Berkshire has gotten cheap, we've found other even cheaper sto
 I think the notion that liquidity of tradable common stock is a great contributor to capitalism is mostly twaddle. The liquidity gives us these crazy booms, so it has as many problems as virtues.
 Berkshire trades at $50 million of stock per day, so very few people will have a problem selling it. But we're trying to create more people who have the problem of owning stock worth so much that liquidity is an issue.
 
-### Why don't more companies and investors copy Berkshire Hathaway?
+### Why don't more companies and investors copy [[Berkshire Hathaway]]?
 It's a good question. Our approach has worked for us. Look at the fun we, our managers, and our shareholders are having. More people should copy us. It's not difficult, but it looks difficult because it's unconventional -  it isn't the way things are normally done. We have low overhead, don't have quarterly goals or budgets or a standard personnel system, and our investing is much more concentrated than is the average. It's simple and common sense.
 
 I was recently speaking with Jack McDonald, who teaches a course on investing rooted in our principles at Stanford Business School. He said it's lonely - like he's the Maytag repairman.

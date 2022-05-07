@@ -4,7 +4,7 @@
  
  
  
- ## Costco - Price Club
+ ## [[Costco]] - Price Club
  See [[Costco]]
  
  
@@ -12,8 +12,8 @@
 
 
 
-## Walmart 
-See  Walmart [[WMT]]
+## [[Walmart]] 
+See  [[Walmart]] [[Walmart]]
 
 
 ## Amazon

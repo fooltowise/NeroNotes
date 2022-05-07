@@ -16,7 +16,7 @@ _Full disclaimer: I’m currently a CSU shareholder, and have recently increased
 
 #### Introduction to CSU
 
-Mark Leonard started Constellation Software (CSU) in 1995. Since then, he’s been on a 25-year acquisition bender of vertical market software (VMS) companies. Today, CSU is a collection of independently managed VMS businesses across dozens of verticals: hospitality, education, healthcare, banking, marine management, libraries, transportation, publishing, utilities, logistics, construction, retail… and the list goes on. Exhibit A shows where they operate, how they classify revenue, and who they serve. In total, I estimate that CSU owns 500 VMS businesses that collectively serve hundreds of thousands of businesses and public sector customers.
+Mark Leonard started [[Constellation Software]] (CSU) in 1995. Since then, he’s been on a 25-year acquisition bender of vertical market software (VMS) companies. Today, CSU is a collection of independently managed VMS businesses across dozens of verticals: hospitality, education, healthcare, banking, marine management, libraries, transportation, publishing, utilities, logistics, construction, retail… and the list goes on. Exhibit A shows where they operate, how they classify revenue, and who they serve. In total, I estimate that CSU owns 500 VMS businesses that collectively serve hundreds of thousands of businesses and public sector customers.
 
 ![Exhibit A](https://images.squarespace-cdn.com/content/v1/5dc7690506a5ea221df14e11/1613340339875-ELXH4UTXWQ7WUCGAXV9N/1.PNG?format=2500w)
 
@@ -161,7 +161,7 @@ Although difficult to prove without a large data set, I suspect CSU pays slightl
 
 One reason that they get better returns on M&A is that they try to avoid competitive bidding processes. They identify and source deals directly through a growing network of BUs, but more importantly, they have a reputation as being a great owner of VMS businesses. Entrepreneurs looking to sell their business have a long list of reasons to approach CSU before any other buyer, most of which are rooted in a culture that fosters personal and professional growth, provides autonomy, embraces meritocracy, and pays for performance.
 
-I think it was Peter Drucker that first said “_culture eats strategy for breakfast_”, and corporate culture is clearly a CSU advantage. Mark once wrote:
+I think it was Peter Drucker that first said “_culture eats strategy for breakfast_”, and [[corporate culture]] is clearly a CSU advantage. Mark once wrote:
 
 “_My motivation is to help create a company where worthy people succeed. Whether they join us with an acquisition or are hired from the outside, I want to support and_ **_encourage employees who work hard, treat others well, continuously learn, and share best practices_**_._ **_I try to make sure that sycophants, spin-doctors, and mercenaries don’t survive in Constellation’s senior ranks_**_. Harder, but not impossible, is helping identify and remove hidebound managers who rely upon habit and folklore to run their businesses rather than rational enquiry and experimentation._ **_Constellation is as close to a meritocracy as I have experienced. I hope it will continue to provide an environment where entrepreneurs and corporate refugees can invest their lives and their capital and thrive._**”
 

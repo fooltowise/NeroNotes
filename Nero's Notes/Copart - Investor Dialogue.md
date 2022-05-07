@@ -55,7 +55,7 @@ Analyst 1: A lot of cars get totaled here due to flood damage, for example, but 
 
 ### I’m just thinking from the OEM point of view, it seems as if they are looking to take more control over the vehicle itself and the parts. Could that impact the way that these cars are then resold and rebuilt and, effectively, the unit volume of Copart?
 
-Analyst 4: Unless it goes to something to how it is on an aircraft, where making any changes or putting any parts in there have to be approved by a regulatory agency, like an FAA, then you have a thing like a HEICO, where you are having to go through this whole regulatory process for PMA parts. I think it’s very different if you are taking a vehicle and you are taking parts from it and applying it to a similar vehicle that it still works on; there is no FAA for that.
+Analyst 4: Unless it goes to something to how it is on an aircraft, where making any changes or putting any parts in there have to be approved by a regulatory agency, like an FAA, then you have a thing like a [[HEICO]], where you are having to go through this whole regulatory process for PMA parts. I think it’s very different if you are taking a vehicle and you are taking parts from it and applying it to a similar vehicle that it still works on; there is no FAA for that.
 
 ### There is still a huge car parc, as well, I guess?
 

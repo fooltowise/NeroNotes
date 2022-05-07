@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7692e65d7e4eff06",
+        "id": "59c5b12b003f86ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSU.md",
-            "mode": "source",
+            "file": "Wingstop - The Domino's of Chicken Wings.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "microsoft",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSU.md",
+                "file": "Wingstop - The Domino's of Chicken Wings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSU.md",
+                "file": "Wingstop - The Domino's of Chicken Wings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,28 +120,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSU.md"
+                "file": "Wingstop - The Domino's of Chicken Wings.md"
               }
             }
+          },
+          {
+            "id": "b10ae69f9274a52f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "7692e65d7e4eff06",
+  "active": "59c5b12b003f86ba",
   "lastOpenFiles": [
-    "CSU.md",
-    "Network Effects.md",
-    "Wix.md",
-    "Copart - Investor Dialogue.md",
-    "Autozone.md",
-    "IWC versus Rolex & Cartier - Brand Marketing.md",
-    "Acast, Spotify and the Podcast world.md",
-    "Acast.md",
-    "Microsoft.md",
-    "Don't forget Microsoft.md"
+    "Wingstop - The Domino's of Chicken Wings.md",
+    "Wingstop.md",
+    "Wingstop - Franchise economics, chicken sourcing  and US Store growth.md",
+    "Young Hamilton on Wingstop.md",
+    "Corporate Culture.md",
+    "eXp World.md",
+    "Exp International Holdings.md",
+    "My highest Conviction Stock Idea, by Sean Iddings.md",
+    "Intelligent Fanatics.md",
+    "eXp World, RE/MAX, & US Real Estate Brokerage.md"
   ]
 }

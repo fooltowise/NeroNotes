@@ -35,7 +35,7 @@ There are at least three modern choices:
 
 1 - The foundation can both dispense with its consultants and reduce its investment turnover as it changes to indexed investment in equities.
 
-2 - The foundation can follow the example of Berkshire Hathaway, and thus get total annual croupier costs below one-tenth of one percent of principal per annum, by investing with virtually total passivity in a very few much-admired domestic corporations. And there is no reason why some outside advice can't be used in this process. All the fee payer has to do is suitably control the high talent in investment counseling organizations so that the servant becomes the useful tool of its master, instead of serving itself under the perverse incentives of a sort of Mad Hatter's Tea Party.
+2 - The foundation can follow the example of [[Berkshire Hathaway]], and thus get total annual croupier costs below one-tenth of one percent of principal per annum, by investing with virtually total passivity in a very few much-admired domestic corporations. And there is no reason why some outside advice can't be used in this process. All the fee payer has to do is suitably control the high talent in investment counseling organizations so that the servant becomes the useful tool of its master, instead of serving itself under the perverse incentives of a sort of Mad Hatter's Tea Party.
 
 3 - The foundation can supplement unleveraged investment in marketable equities with investment in limited partnerships that do some combination of the following; unleveraged investment in high-tech corporations in their infancy; leveraged investments in corporate buy-outs; leveraged relative value trades in equities; and leveraged convergence trades and other exotic trades in all kinds of securities and derivatives.
 
@@ -49,7 +49,7 @@ The second consideration is increasing competition for LBO candidates. For insta
 
 In short, in the LBO field, there is a buried covariance with marketable equities - toward disaster in generally bad business conditions - and competition is now extreme.
 
-Given the limitations, I can say no more about limited partnerships, one of which I once ran. This leaves for extensive discussion only foundation choice (2), more imitation of the investment practices of Berkshire Hathaway in maintaining marketable equity portfolios with virtually zero turnover and with only a very few stocks chosen. This brings us to the question of how much investment diversification is desirable in foundations.
+Given the limitations, I can say no more about limited partnerships, one of which I once ran. This leaves for extensive discussion only foundation choice (2), more imitation of the investment practices of [[Berkshire Hathaway]] in maintaining marketable equity portfolios with virtually zero turnover and with only a very few stocks chosen. This brings us to the question of how much investment diversification is desirable in foundations.
 
 I have more than skepticism regarding the orthodox view that huge diversification is a must for those wise enough so that indexation is not the logical mode for equity investment. I think the orthodox view is grossly mistaken.
 
@@ -65,7 +65,7 @@ Regarding this divergent history, I wish to say that I agree with Peter Drucker 
 
 To conclude, I will make one controversial prediction and one controversial argument. 
 
-The controversial prediction is that, if some of you make your investment style more like Berkshire Hathaway's, in a long-term retrospect, you will be unlikely to have cause for regret, even if you can't get Warren Buffett to work for nothing. Instead, Berkshire will have cause for regret as it faces more intelligent investment competition. But Berkshire won't actually regret any disadvantage from your enlightenment. We only want what success we can get despite encouraging others share our general views about reality.
+The controversial prediction is that, if some of you make your investment style more like [[Berkshire Hathaway]]'s, in a long-term retrospect, you will be unlikely to have cause for regret, even if you can't get Warren Buffett to work for nothing. Instead, Berkshire will have cause for regret as it faces more intelligent investment competition. But Berkshire won't actually regret any disadvantage from your enlightenment. We only want what success we can get despite encouraging others share our general views about reality.
 
 My controversial argument is an additional consideration weighing against the complex, high-cost investment modalities becoming ever more popular at foundations. Even if, contrary to my suspicions, such modalities should turn out to work pretty well, most of the money-making activity would exacerbate the current, harmful trend in which ever more of the nation's ethical young brainpower is attracted into lucrative money management and its attendant modern frictions, as distinguished from work providing much more value to others. Money management does not create the right examples. Early Charlie Munger is a horrible career model for the young because not enough was delivered to civilization in return for what was wrested from capitalism. And other similar career models are even worse.
 

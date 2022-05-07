@@ -1,4 +1,4 @@
-# [[CSU]] Shareholders Q&A, November 2018
+# [[Constellation Software]] Shareholders Q&A, November 2018
 
 **Question** What about the business model causes license revenue to be flat to down in normal course?  If it doesn’t  grow, please help us understand why not?
 

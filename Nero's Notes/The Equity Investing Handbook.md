@@ -34,13 +34,13 @@
 	-  Margin of safety
 	-  Mostly qualitative factors:
 		-  Competitive advantage
-		-  Management/corporate culture
+		-  Management/[[corporate culture]]
 		-  growth opportunities
 -  Qualitative analysis
 	-  Sources of moats
 	-  Capital Allocation
 	-  Growth
-	-  Corporate Culture
+	-  [[Corporate Culture]]
 -  Portfolio Management
 	-  Diversification
 	-  Opportunity Cost

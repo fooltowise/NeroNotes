@@ -20,31 +20,31 @@ It’s simple to calculate ROIC: some use earnings (or some measure of bottom li
 
 But however we precisely measure ROIC, it usually only tells us the rate of return the company is generating on capital that has already been invested (sometimes many years ago). Obviously, a company that produces high returns on capital is a good business, but what we want to know is how much money the company can generate going forward on future capital investments. The first step in determining this is to look at the rate of return the company has generated on incremental investments recently.
 
-One very rough, back-of-the-envelope way to think about the return on incremental capital investments is to look at the amount of capital the business has added over a period of time, and compare that to the amount of the incremental growth of earnings. Last year Walmart earned $14.7 billion of net income on roughly $111 billion debt and equity capital, or about a 13% return on capital. Not bad, but what do we really want to know if we were thinking about investing in Walmart?
+One very rough, back-of-the-envelope way to think about the return on incremental capital investments is to look at the amount of capital the business has added over a period of time, and compare that to the amount of the incremental growth of earnings. Last year [[Walmart]] earned $14.7 billion of net income on roughly $111 billion debt and equity capital, or about a 13% return on capital. Not bad, but what do we really want to know if we were thinking about investing in [[Walmart]]?
 
-Let’s imagine we were looking at Walmart as a possible investment 10 years ago. At that point in time, we would have wanted to make three general conclusions (leaving valuation aside for a moment):
+Let’s imagine we were looking at [[Walmart]] as a possible investment 10 years ago. At that point in time, we would have wanted to make three general conclusions (leaving valuation aside for a moment):
 
--   How much cash Walmart would produce going forward?
+-   How much cash [[Walmart]] would produce going forward?
 -   How much of it would we see in the form of dividends or buybacks?
 -   Of the portion we didn’t receive, what rate of return would the company get by keeping it and reinvesting it?
 
-Our estimates to these questions would help us determine what Walmart’s future earning power would look like. So let’s look and see how Walmart did in the last 10 years.
+Our estimates to these questions would help us determine what [[Walmart]]’s future earning power would look like. So let’s look and see how [[Walmart]] did in the last 10 years.
 
-In 2006, Walmart earned $11.2 billion on roughly $76 billion of capital, or around 15%.
+In 2006, [[Walmart]] earned $11.2 billion on roughly $76 billion of capital, or around 15%.
 
-In the subsequent 10 years, the company invested roughly $35 billion of additional debt and equity capital (Walmart’s total capital grew to $111 billion in 2016 from $76b in 2006).
+In the subsequent 10 years, the company invested roughly $35 billion of additional debt and equity capital ([[Walmart]]’s total capital grew to $111 billion in 2016 from $76b in 2006).
 
-Using that incremental $35 billion they were able to grow earnings by about $3.5 billion (earnings grew from $11.2 billion in 2006 to around $14.7 billion in 2016). So in the past 10 years, Walmart has seen a rather mediocre return of about 10% on the capital that it has invested during that time.
+Using that incremental $35 billion they were able to grow earnings by about $3.5 billion (earnings grew from $11.2 billion in 2006 to around $14.7 billion in 2016). So in the past 10 years, [[Walmart]] has seen a rather mediocre return of about 10% on the capital that it has invested during that time.
 
-_Note: I’m simply defining total capital invested as the sum of the debt (including capitalized leases) and equity capital less the goodwill (so I’m estimating the tangible capital Walmart is operating with). I’ve previously referenced Joel Greenblatt’s book where he uses a different formula (working capital + net fixed assets), but this is just using a different route to arrive at the same basic figure for tangible capital._
+_Note: I’m simply defining total capital invested as the sum of the debt (including capitalized leases) and equity capital less the goodwill (so I’m estimating the tangible capital [[Walmart]] is operating with). I’ve previously referenced Joel Greenblatt’s book where he uses a different formula (working capital + net fixed assets), but this is just using a different route to arrive at the same basic figure for tangible capital._
 
 _There are numerous ways to calculate both the numerator and denominator in the ROIC calculation, but for now, stay out of the weeds and just focus on the concept: how much cash can be generated from a given amount of capital that is invested in the business? That’s really what any business owner would want to know before making any decision to spend money._
 
 **_Reinvestment Rate_**
 
-We can also look at the last 10 years and see that Walmart has reinvested roughly 23% of its earnings back in the business (the balance has been primarily used for buybacks and dividends). How do I arrive at this estimate? I simply used the amount of incremental capital that Walmart has invested over the past 10 years ($35 billion) and divide it by the total earnings that Walmart has generated during that period (about $148 billion of cumulative earnings).
+We can also look at the last 10 years and see that [[Walmart]] has reinvested roughly 23% of its earnings back in the business (the balance has been primarily used for buybacks and dividends). How do I arrive at this estimate? I simply used the amount of incremental capital that [[Walmart]] has invested over the past 10 years ($35 billion) and divide it by the total earnings that [[Walmart]] has generated during that period (about $148 billion of cumulative earnings).
 
-An even quicker glance could simply be to look at the retained earnings on the balance sheet in 2016 ($90 billion) and compare it to the retained earnings Walmart had in 2006 ($49 billion), and arrive at a similar reinvestment rate: basically, Walmart is retaining roughly $0.25 of every $1 it earns and reinvesting it back into the business. The other $0.75 is being used for buybacks and dividends.
+An even quicker glance could simply be to look at the retained earnings on the balance sheet in 2016 ($90 billion) and compare it to the retained earnings [[Walmart]] had in 2006 ($49 billion), and arrive at a similar reinvestment rate: basically, [[Walmart]] is retaining roughly $0.25 of every $1 it earns and reinvesting it back into the business. The other $0.75 is being used for buybacks and dividends.
 
 [As I’ve mentioned before](https://sabercapitalmgt.com/tag/roic/), a company will see its intrinsic value will compound at a rate that roughly equals the product of its ROIC and its reinvestment rate (leaving aside capital allocation, which can increase or decrease value per share as well).
 
@@ -52,13 +52,13 @@ An even quicker glance could simply be to look at the retained earnings on the b
 
 There are other factors that can create higher earnings (pricing power is one big example), but this simple formula is helpful to keep in mind as a rough measure of a firm’s compounding ability.
 
-So if Walmart can retain 25% of its capital and reinvest that capital at a 10% return, we’d expect the value of the company to grow at a rate of around 2.5% per year (10% x 25%). Stockholders will likely see higher per-share returns than that because of dividends and buybacks, but the total value of the enterprise will likely compound at roughly that rate. And over time, the change in value of the stock price tends to mirror the change in value of the enterprise plus any value added from capital allocation decisions.
+So if [[Walmart]] can retain 25% of its capital and reinvest that capital at a 10% return, we’d expect the value of the company to grow at a rate of around 2.5% per year (10% x 25%). Stockholders will likely see higher per-share returns than that because of dividends and buybacks, but the total value of the enterprise will likely compound at roughly that rate. And over time, the change in value of the stock price tends to mirror the change in value of the enterprise plus any value added from capital allocation decisions.
 
 Here is a table that summarizes the numbers I outlined above:
 
 [![WMT ROIC](https://sabercapitalmgt.com/wp-content/uploads/2016/06/WMT-ROIC.jpg)](https://sabercapitalmgt.com/calculating-the-return-on-incremental-capital-investments/wmt-roic/)
 
-Not surprisingly, Walmart’s stock price is only about 45% higher (not including dividends) than it was 10 years ago. So unless you are banking on an increase in P/E ratios, you’re unlikely to achieve a great result buying a business that can only invest a quarter of its earnings at a 10% return.
+Not surprisingly, [[Walmart]]’s stock price is only about 45% higher (not including dividends) than it was 10 years ago. So unless you are banking on an increase in P/E ratios, you’re unlikely to achieve a great result buying a business that can only invest a quarter of its earnings at a 10% return.
 
 _**Chipotle—A High Return on Capital Business**_
 
@@ -89,9 +89,9 @@ What you really want to know is this: At the end of the year, the company will h
 -   How much can the company reinvest into the business?, and,
 -   What the return will be on that investment?
 
-If Walmart makes $16 billion, they might spend $4 billion on building out new stores. How much additional cash flow will come from that $4 billion investment?
+If [[Walmart]] makes $16 billion, they might spend $4 billion on building out new stores. How much additional cash flow will come from that $4 billion investment?
 
-Obviously, Walmart getting a 10% return on a quarter of its earnings is not nearly as attractive as Chipotle getting a 35% return on half of its earnings. The latter is going to create much more value than the former.
+Obviously, [[Walmart]] getting a 10% return on a quarter of its earnings is not nearly as attractive as Chipotle getting a 35% return on half of its earnings. The latter is going to create much more value than the former.
 
 This is a really rough measure of how to think about return on capital, but it’s generally how I think about it.
 

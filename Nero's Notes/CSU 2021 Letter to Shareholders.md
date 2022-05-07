@@ -1,4 +1,4 @@
-# [[CSU]] 2021 Letter to Shareholders
+# [[Constellation Software]] 2021 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS
 
@@ -31,5 +31,5 @@ In parallel with our established and growing small and mid-sized VMS practise an
 We are seeking attractive returns, a sustainable advantage, and the ability to deploy large amounts of capital outside of VMS. That will require highly contrarian thinking and is likely to be uncomfortable in the early going. Hopefully, we have built enough credibility to warrant your patience as we explore new and under-appreciated sectors. 
 
 Mark Leonard,
-President, Constellation Software, Inc.
+President, [[Constellation Software]], Inc.
 February 15, 2021

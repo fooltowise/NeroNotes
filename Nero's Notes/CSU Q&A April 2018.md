@@ -1,4 +1,4 @@
-# [[CSU]] Shareholders Q&A, April 2018
+# [[Constellation Software]] Shareholders Q&A, April 2018
 
 ## SELECTED INVESTOR QUESTIONS RECEIVED THROUGH APRIL 19, 2018 
 

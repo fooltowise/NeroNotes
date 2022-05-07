@@ -1,4 +1,4 @@
-# [[CSU]] Q3 2008 Letter to Shareholders
+# [[Constellation Software]] Q3 2008 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS 
 
@@ -14,5 +14,5 @@ Because of the uncertainty in credit and equity markets, there are some great VM
 Having bought the Maximus assets and 16 other businesses this year, combined with our purchases of publicly traded shares of VMS companies and the pending takeover offer for Gladstone plc, we have deployed and committed approximately $94 million of capital. While we have also had record cash flows and profits, these commitments have largely tapped out our existing line of credit. I am leery about using short term financing for acquisitions, so we are exploring financing options: Either we slow down the pace of acquisitions and live within our cash flow from operations, or we raise long term financing, whether that be equity or debt flavoured. The capital markets are volatile right now, so I wouldn’t hazard a bet as to whether we will find the right investors. If we do, you can expect our acquisition pace in 2009 to continue… if not, it will slow. Irrespective of our acquisition prospects, I continue to be optimistic that our long term performance will be attractive. 
 
 Mark Leonard, November 6th, 2008 
-President, Constellation Software Inc.
+President, [[Constellation Software]] Inc.
 

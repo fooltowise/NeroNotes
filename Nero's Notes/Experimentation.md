@@ -1,4 +1,4 @@
-# Experiments in Corporate Culture
+# Experiments in [[Corporate Culture]]
 
 An adaptive culture is necessary to transform a company with the changes of an evolving market. The larger a company becomes, the more difficult it is to innovate and keep up with smaller, more nimble competitors. Intelligent fanatics and their employees are unstoppable in their pursuit of staying ahead of the curve. They test out many ideas, like a scientist experimenting to find the next breakthrough. In the words of the head of Amazon Web Services, Andy Jassy, "We think of these investments  as planting seeds for very large trees that will be fruitful over time."
 

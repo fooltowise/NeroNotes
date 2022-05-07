@@ -1,4 +1,4 @@
-# [[CSU]] Q1 2009 Letter to Shareholders
+# [[Constellation Software]] Q1 2009 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS 
 
@@ -28,6 +28,6 @@ I look forward to seeing those of you who are able to attend our Annual General 
 
 Mark Leonard, May 6th, 2009 
 
-President, Constellation Software Inc.
+President, [[Constellation Software]] Inc.
 
 ![[CSU Q1 2009.png]]

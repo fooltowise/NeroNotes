@@ -1,4 +1,4 @@
-# [[CSU]] 2011 Letter to Shareholders
+# [[Constellation Software]] 2011 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS 
 
@@ -59,4 +59,4 @@ I’ve always tried to avoid having CSI’s shares trade at too high a price. Ma
 We will be hosting the annual general meeting on Thursday May 3rd. Many of our Directors and Officers and a number of our senior managers will be in attendance. We look forward to talking about our business and answering your questions. With our increasingly broad institutional and retail ownership, I'm hoping for a record turnout. I hope to see you there. 
 
 Mark Leonard,  May 2nd 2012 
-President, Constellation Software Inc.
+President, [[Constellation Software]] Inc.

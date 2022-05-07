@@ -8,13 +8,13 @@ Source : https://www.youtube.com/watch?v=Ra88FgR8v2A€
 
 **Colin Keeley:** \[00:00:05\] we are two guys buying and building wonderful internet companies.
 
-**Brent Sanders:** \[00:00:08\] Yes, indeed. And we've been talking a fair amount on these episodes about ,  constellation software ([[CSU]]). So it's this dude named Mark Leonard who started constellation software and they're into what are called. These vertical markets versus horizontal. Like maybe you could explain the difference there, my understanding is what we're going after.
+**Brent Sanders:** \[00:00:08\] Yes, indeed. And we've been talking a fair amount on these episodes about ,  [[Constellation Software]]. So it's this dude named Mark Leonard who started [[constellation software]] and they're into what are called. These vertical markets versus horizontal. Like maybe you could explain the difference there, my understanding is what we're going after.
 
 We have been looking at and businesses that are like super specific, like invoicing software or  CRMs for bowling, alleys, whatever it is, something that's very specific that in my mind, the big advantage is like, You get a customer and it's really hard for them to turn out or I shouldn't phrase it that way.
 
 There's very little churn because it's so specific and you're one of three or two players in a specific space. So we've, I've been learning a little bit more about constellation, but I think you just shared some of your notes. You've been going super deep on, on intelligent gathering around it. What's the thinking, first off around this company, like what, what has attracted you to it?
 
-**Colin Keeley:** \[00:01:07\] So he is one of the best deployer of capital ever. So a little bit of background on Mark Leonard just to begin. So he's the billionaire founder of Constellation Software. Which is a conglomerate of 500 plus of these vertical market software companies. And so this all started. So I have been taking notes on this for like years and it's easy in Roam to tag them all.
+**Colin Keeley:** \[00:01:07\] So he is one of the best deployer of capital ever. So a little bit of background on Mark Leonard just to begin. So he's the billionaire founder of [[Constellation Software]]. Which is a conglomerate of 500 plus of these vertical market software companies. And so this all started. So I have been taking notes on this for like years and it's easy in Roam to tag them all.
 
 And then I just started organizing them and I've been working on this post, which I just finally made it. For, years and it was always in draft form. And I finally cleaned up all my messy words and made it open, but so he is super duper private. So he had a bad experience with the press a long time ago where it sounds like someone took his words, like out of context.
 

@@ -7,7 +7,7 @@ As I said in my [2014 writeup on Xpel](https://seekingalpha.com/article/2676825-
 
 > Few companies come around during an investors’ lifetime that have a probable chance of changing one’s life if enough capital is allocated to it. These companies have a rare combination of extremely high economics, are run by high quality, incentivized owner-operators, have defensible characteristics, high consistent growth with potential to continue high growth, and are trading at a fair price.
 
-I know. I’m slow. It’s been 7 years since finding my last high-conviction idea. eXp World Holdings (EXPI) is my next.
+I know. I’m slow. It’s been 7 years since finding my last high-conviction idea. [[eXp World]] (EXPI) is my next.
 
 No, EXPI is not a microcap company anymore. I looked at it when it was posted on MicroCapClub in 2017 and passed (palm in face). No, it’s not hugely illiquid anymore. It’s market cap is in the $ billions.
 
@@ -167,9 +167,9 @@ According to the FTC, a pyramid scheme “compels individuals who wish to join t
 
 Yes, eXp compels individuals who wish to join to make a $149 start up fee. Afterwards, eXp compels agents to pay $85/ month to use their platform. But does that mean they are a pyramid scheme?
 
-I mean Costco compels individuals who wish to join to make a $60 or $120 payment (which is paid yearly). Is Costco a pyramid scheme?
+I mean [[Costco]] compels individuals who wish to join to make a $60 or $120 payment (which is paid yearly). Is [[Costco]] a pyramid scheme?
 
-No. That membership fee subsidizes Costco’s pricing. The fee incentivizes members to be repeat customers. There is value in that payment.
+No. That membership fee subsidizes [[Costco]]’s pricing. The fee incentivizes members to be repeat customers. There is value in that payment.
 
 There is value in EXPI’s payment as well. One has access to kvCORE CRM, which normally costs individual agents $300-499/month. Website creation is included. Automated call/text/email is included. And an extraordinary amount of educational content is available 24/7, unlike brick and mortar brokerages.
 

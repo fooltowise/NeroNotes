@@ -60,7 +60,7 @@ I started in 2005.
 
 ### Right at the peak of the housing boom, so at that time you had increasing traffic in the stores and they were still building many new stores. When you have a growth opportunity, you have to lay the new stores out, even if it hurts transactions in the near term because you have to get the right locations. I am curious how busy the stores were across the country at that point and how much traffic were they handling? Were they growing their store count quickly because the existing stores were at full capacity or was there simply that much opportunity that they were still in a position to increase traffic levels inside stores while adding new stores?
 
-My background was with Walmart prior to Home Depot. I was with Home Depot until January 2012 but my profile shows I left in 2011. The stores felt like they were so busy, but it was so boring because they were not busy. I was used to doing $3 million a week per site, and these stores were only doing $300,000; literally 10% of the volume of a Walmart. When I had Home Depot people tell me we were so busy, I would tell them we were only running two registers and had 16 we could still open.
+My background was with [[Walmart]] prior to Home Depot. I was with Home Depot until January 2012 but my profile shows I left in 2011. The stores felt like they were so busy, but it was so boring because they were not busy. I was used to doing $3 million a week per site, and these stores were only doing $300,000; literally 10% of the volume of a [[Walmart]]. When I had Home Depot people tell me we were so busy, I would tell them we were only running two registers and had 16 we could still open.
 
 During my tenure there, my district was tapped to innovate with self check-outs, as a test for the company. We installed them and everybody could not believe we were putting self check-outs in a Home Depot. Customers were already used to seeing it in all the other big boxes, so they were the least of our worries. We took the labor we saved on the front end and put them out on the sales floor to wait on customers. It quickly became a win:win and they ended up adopting self check-out in the whole company. Even though I had those three states, they gave me a second district in Northern Michigan, some of which had high volume.
 
@@ -80,7 +80,7 @@ Any live plants or product that Home Depot or Lowe's sell in lawn and garden is 
 
 They will continue to leverage that pay per scan model. They will do the same thing with a mulch supplier where they will not pay them until it is actually sold through the register; it may be sitting on that inventory for three or four months for free. It is a nasty way of to do it, but no big box now pays for their live goods; it has all become pay per scan.
 
-At Dollar General and Walmart, all the greeting cards which are 70% to 90% margin are never paid for until they go through the register. That also eliminates all the loss because if the customer steals it instead of paying for the greeting card, there is no loss to the company.
+At Dollar General and [[Walmart]], all the greeting cards which are 70% to 90% margin are never paid for until they go through the register. That also eliminates all the loss because if the customer steals it instead of paying for the greeting card, there is no loss to the company.
 
 ### You gave two examples of that happening; I understand that live plants are perishable but for which other categories does that situation occur?
 

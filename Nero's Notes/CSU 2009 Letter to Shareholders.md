@@ -1,4 +1,4 @@
-# [[CSU]] 2009 Letter to Shareholders
+# [[Constellation Software]] 2009 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS 
 
@@ -50,4 +50,4 @@ As in previous years, we will be hosting the annual general meeting in early May
 
 
 Mark Leonard, March 25, 2010 
-President, Constellation Software Inc.
+President, [[Constellation Software]] Inc.

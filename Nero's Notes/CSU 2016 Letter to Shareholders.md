@@ -1,10 +1,10 @@
-# [[CSU]] 2016 Letter to Shareholders
+# [[Constellation Software]] 2016 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS
 
 Last year I used our study of high-performance conglomerates (“HPC’s”) as a framework for this letter. One of the findings from studying the HPC’s was that they followed a multi-decade pattern, with extraordinary returns in asset-light businesses in their early days, followed by a period of attractively priced acquisitions to which they applied their increasingly refined operating practices. Eventually, they drifted towards paying higher multiples for larger acquisitions as the HPC’s became very large. The high acquisition prices led to declining pre-tax, pre-interest returns on Total Capital. While the average return on Total Capital for the HPC’s still exceeds that of the S&P 500, it is much closer to that benchmark now than it was fifteen years ago.
 
-In the last couple of years, a number of journalists and analysts have hinted that the Constellation Software Inc. (“CSI”) historical performance is too good to be true. They frequently conclude, in the best case, that our performance will revert to the mean. Reversion towards the mean is consistent with what we found for all the HPC’s, so I don’t disagree with their observation. Our goal, however, is to have our return on Total Capital revert to the mean as slowly as possible, while still deploying most of the Free Cash Flow (“FCF”) that we generate.
+In the last couple of years, a number of journalists and analysts have hinted that the [[Constellation Software]] Inc. (“CSI”) historical performance is too good to be true. They frequently conclude, in the best case, that our performance will revert to the mean. Reversion towards the mean is consistent with what we found for all the HPC’s, so I don’t disagree with their observation. Our goal, however, is to have our return on Total Capital revert to the mean as slowly as possible, while still deploying most of the Free Cash Flow (“FCF”) that we generate.
 
 ![[CSU 2016 1.png]]
 
@@ -119,5 +119,5 @@ I hope all of our shareholders will join me in thanking our thirteen thousand em
 
 Mark Leonard, 
 President
-Constellation Software Inc. 
+[[Constellation Software]] Inc. 
 April 25th, 2017

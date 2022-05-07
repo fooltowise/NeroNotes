@@ -151,7 +151,7 @@ And these advantages of scale are so great, for example, that when Jack Welch ca
 
 That was a very tough-minded thing to do, but I think it was a very correct decision if you're thinking about maximizing shareholder wealth. And I don't think it's a bad thing to do for a civilization either, because I think that General Electric is stronger for having Jack Welch there.
 
-And there are also disadvantages of scale. For example, we - by which I mean Berkshire Hathaway - are the largest shareholder in Capital Cities/ABC. And we had trade publications there that got murdered - where our competitors beat us. And the way they beat us was by going to a narrower specialization.
+And there are also disadvantages of scale. For example, we - by which I mean [[Berkshire Hathaway]] - are the largest shareholder in Capital Cities/ABC. And we had trade publications there that got murdered - where our competitors beat us. And the way they beat us was by going to a narrower specialization.
 
 We'd have a travel magazine for business travel. So somebody would create one which was addressed solely at corporate travel departments. Like an ecosystem, you're getting a narrower and narrower specialization.
 
@@ -267,7 +267,7 @@ And he "surfed". He got the best distribution system, the biggest collection of 
 
 And, of course, that's exactly what an investor should be looking for. In a long life, you can expect to profit heavily from at least a few of those opportunities if you develop the wisdom and will to seize them. At any rate, "surfing" is a very powerful model.
 
-However, Berkshire Hathaway, by and large, doesn't invest in these people that are "surfing" on complicated things. After all, we're cranky and idiosyncratic - as you may have noticed.
+However, [[Berkshire Hathaway]], by and large, doesn't invest in these people that are "surfing" on complicated things. After all, we're cranky and idiosyncratic - as you may have noticed.
 
 And Warren and I don't feel like we have any great advantage in the high-tech sector. In fact, we feel like we're at a big disadvantage in trying to understand the nature of technical developments in software, computer chips, or what have you. So we tend to avoid that stuff, based on our personal inadequacies.
 
@@ -287,7 +287,7 @@ I don't want to get into emerging markets, bond arbitrage, and so forth. I'm tal
 
 The first question is, "What is the nature of the stock market?" And that gets you directly to this efficient market theory that got to be the rage - a total rage - long after I graduated from law school.
 
-And it's rather interesting because one of the greatest economists of the world is a substantial shareholder in Berkshire Hathaway and has been from the very early days after Buffett was in control. His textbook always taught that the stock market was perfectly efficient and that nobody could beat it. But his own money went into Berkshire and made him wealthy. So, like Pascal in his famous wager, he hedged his bet.
+And it's rather interesting because one of the greatest economists of the world is a substantial shareholder in [[Berkshire Hathaway]] and has been from the very early days after Buffett was in control. His textbook always taught that the stock market was perfectly efficient and that nobody could beat it. But his own money went into Berkshire and made him wealthy. So, like Pascal in his famous wager, he hedged his bet.
 
 Is the stock market so efficient that people can't beat it? Well, the efficient market theory is obviously roughly right - meaning that markets are quite efficient and it's quite hard for anybody to beat the market by significant margins as a stock picker by just being intelligent and working in a disciplined way.
 
@@ -327,7 +327,7 @@ That is a very simple concept. And to me it's obviously right - based on my expe
 
 And yet, in investment management, practically nobody operates that way. We operate that way - I'm talking about Buffett and Munger. And we're not alone in the world. But a huge majority of people have some other crazy construct in their heads. And instead of waiting for a near cinch and loading up, they apparently ascribe to the theory that if they work a little harder or hire more business school students, they'll come to know everything about everything all the time. To me, that's totally insane.
 
-How many insights do you need? Well, I'd argue that you don't need many in a lifetime. If you look at Berkshire Hathaway and all of its accumulated billions, the top ten insights account for most of it. And that's with a very brilliant man - Warren's a lot more able than I am and very disciplined - devoting his lifetime to it. I don't mean to say that he's only had ten insights. I'm just saying that most of the money came from ten insights.
+How many insights do you need? Well, I'd argue that you don't need many in a lifetime. If you look at [[Berkshire Hathaway]] and all of its accumulated billions, the top ten insights account for most of it. And that's with a very brilliant man - Warren's a lot more able than I am and very disciplined - devoting his lifetime to it. I don't mean to say that he's only had ten insights. I'm just saying that most of the money came from ten insights.
 
 So you can get very remarkable investment results if you think more like a winning pari-mutuel player. Just think of it as a heavy odds against game full of bullshit and craziness with an occasional mispriced something or other. And you're probably not going to be smart enough to find thousands in a lifetime. And when you get  a few, you really load up. It's just that simple.
 
@@ -343,7 +343,7 @@ I think the reason why we got into such idiocy in investment management is best 
 
 Investment managers are in the position of that fishing tackle salesman. They're like the guy who was selling salt to the guy who already had too much salt. And as long as the guy would buy salt, why, they'll sell salt. But that isn't what ordinarily works for the buyer of investment advice.
 
-If you invested Berkshire Hathaway - style, it would be hard to get paid as an investment manager as well as they're currently paid - because you'd be holding a block of Wal-Mart and a block of Coca-Cola and a block of something else. You'd be sitting on your ass. And the client would be getting rich. And, after a while, the client would think, "Why am I paying this guy half-a-percent a year on my wonderful passive holdings?"
+If you invested [[Berkshire Hathaway]] - style, it would be hard to get paid as an investment manager as well as they're currently paid - because you'd be holding a block of Wal-Mart and a block of Coca-Cola and a block of something else. You'd be sitting on your ass. And the client would be getting rich. And, after a while, the client would think, "Why am I paying this guy half-a-percent a year on my wonderful passive holdings?"
 
 So what makes sense for the investor is different from what makes sense for the manager. **And, as usual in human affairs, what determines the behavior are incentives for the decision maker, and getting the incentives right is a very, very important lesson.**
 
@@ -393,11 +393,11 @@ And so having started out as Grahamites - which, by the way, worked fine - we gr
 
 And once we'd gotten over the hurdle of recognizing that a thing could be a bargain based on quantitative measures that would have horrified Graham, we started thinking about better businesses.
 
-And, by the way, the bulk of the billions of Berkshire Hathaway has come from the  better businesses. Much of the first $200 or $300 million came from scrambling around with our Geiger counter. But the great bulk of the money has come from the great businesses.
+And, by the way, the bulk of the billions of [[Berkshire Hathaway]] has come from the  better businesses. Much of the first $200 or $300 million came from scrambling around with our Geiger counter. But the great bulk of the money has come from the great businesses.
 
 And even some of the early money was made by being temporarily present in great businesses. Buffett Partnership, for example, owned American Express and [[Disney]] when they got pounded down.
 
-Most investment managers are in a game where the clients expect them to know a lot about a lot of things. We didn't have any clients who could fire us at Berkshire Hathaway. So we didn't have to be governed by any such construct. And we came to this notion of finding a mispriced bet and loading up when we were very confident that we were right. So we're way less diversified. And I think our system is miles better.
+Most investment managers are in a game where the clients expect them to know a lot about a lot of things. We didn't have any clients who could fire us at [[Berkshire Hathaway]]. So we didn't have to be governed by any such construct. And we came to this notion of finding a mispriced bet and loading up when we were very confident that we were right. So we're way less diversified. And I think our system is miles better.
 
 However, in all fairness, I don't think a lot of money managers could successfully sell their services if they used our system. But if you're investing for forty years in some pension fund, what difference does it make if the path from start to finish is a little more bumpy or a little different than everybody else's so long as it's going to work out well in the end? So what if there's a little extra volatility.
 
@@ -420,7 +420,7 @@ So the trick is getting into better businesses. And that involves all of these a
 **How do you get into these great companies? One method is what I'd call the method of finding them small - get'em when they're little. For example, buy Wal-Mart when Sam Walton first goes public and so forth. And a lot of people try to do just that. And it's a very beguiling idea. If I were a young man, I might actually go into it.**
 
 
-But it doesn't work for Berkshire Hathaway anymore because we've got too much money. We can't find anything that fits our size parameter that way. Besides, we're set in our ways. But I regard finding them small as a perfectly intelligent approach for somebody to try with discipline. It's just not something that I've done.
+But it doesn't work for [[Berkshire Hathaway]] anymore because we've got too much money. We can't find anything that fits our size parameter that way. Besides, we're set in our ways. But I regard finding them small as a perfectly intelligent approach for somebody to try with discipline. It's just not something that I've done.
 
 Finding them big obviously is very hard because of the competition. So far, Berkshire's managed to do it. But can we continue to do it? What's the next Coca-Cola investment for us? Well, the answer to that is I don't know. I think it gets harder for us all the time.
 
@@ -465,7 +465,7 @@ That existed in [[Disney]]. It's such a unique experience to take your grandchil
 
 So a lot of the great record of Eisner and Wells was utter brilliance but the rest came from just raising prices at Disneyland and Disneyworld and through video cassette sales of classic animated movies.
 
-At Berkshire Hathaway, Warren and I raised the prices of See's Candy a little faster than others might have. And, of course, we invested in Coca-Cola - which had some untapped pricing power. And it also had brilliant management. So a Goizueta and Keough could do much more than raise prices. It was perfect.
+At [[Berkshire Hathaway]], Warren and I raised the prices of See's Candy a little faster than others might have. And, of course, we invested in Coca-Cola - which had some untapped pricing power. And it also had brilliant management. So a Goizueta and Keough could do much more than raise prices. It was perfect.
 
 You will get a few opportunities to profit from finding underpricing. There are actually people out there who don't price everything as high as the market will easily stand. And once you figure that out, it's like finding money in the street - if you have the courage of your convictions.
 

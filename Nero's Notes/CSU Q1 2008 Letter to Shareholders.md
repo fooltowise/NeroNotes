@@ -1,4 +1,4 @@
-# [[CSU]] Q1 2008 Letter to Shareholders
+# [[Constellation Software]] Q1 2008 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS 
 
@@ -22,6 +22,6 @@ May 7th, 2008
 
 Mark Leonard
 President 
-Constellation Software Inc.
+[[Constellation Software]] Inc.
 
 ![[CSU Q1 2008.png]]

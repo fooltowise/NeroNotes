@@ -1,8 +1,8 @@
-# [[CSU]] 2014 Letter to Shareholders
+# [[Constellation Software]] 2014 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS 
 
-Table 1 contains non-IFRS metrics for Constellation Software Inc. (“CSI”). The definitions for these metrics appear in the Glossary at the end of this document. Unless otherwise indicated, all dollar amounts are expressed in millions of U.S. dollars. Several of the statements included below constitute forward looking statements and should not be read as guarantees of future results. See “Forward Looking Statements”.
+Table 1 contains non-IFRS metrics for [[Constellation Software]] Inc. (“CSI”). The definitions for these metrics appear in the Glossary at the end of this document. Unless otherwise indicated, all dollar amounts are expressed in millions of U.S. dollars. Several of the statements included below constitute forward looking statements and should not be read as guarantees of future results. See “Forward Looking Statements”.
 
 ![[CSU 2014 1.png]]
 
@@ -66,4 +66,4 @@ If you ask me about “hierarchical bullies” at our Annual General Meeting, I�
 We will be hosting the annual general meeting on Thursday, April 30th. Many of our Directors and Officers and a number of our employee shareholders will be in attendance. We look forward to talking about our business and answering your questions. We hope to see you there.
 
 Mark Leonard, April 6 th , 2015
-President, Constellation Software Inc.
+President, [[Constellation Software]] Inc.

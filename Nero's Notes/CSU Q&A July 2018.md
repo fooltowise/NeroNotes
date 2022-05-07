@@ -1,4 +1,4 @@
-# [[CSU]] Shareholders Q&A, July 2018
+# [[Constellation Software]] Shareholders Q&A, July 2018
 
 **Question** 
 Since key employees are under the obligation to buy CSI shares when they receive a bonus and given the expanding stock price multiple, what measures, if any, have you put in place to maintain employee retention? 
@@ -12,7 +12,7 @@ Mark L.
 
 **Questions**
 1. How do you ignore what the street, media, investors, say about CS and in some cases, yourself? How do you avoid bias (or can you)? Maybe it is just because I am young and inexperienced, but I find it hard to tune out all the noise. 
-2.  How do you set incentives for your team, especially management? To retain talent, sustain a good corporate culture and avoid diluting your human capital. 
+2.  How do you set incentives for your team, especially management? To retain talent, sustain a good [[corporate culture]] and avoid diluting your human capital. 
 
 **Response**
 
@@ -37,9 +37,9 @@ I love the Merton quote that “Science is organized skepticism”. Science has 
 
 One way to tune out noise is by focusing narrowly. With a tight enough focus, you avoid distraction and rapidly develop the ability to separate signal from noise (within that particular specialty). Value investors refer to this as a circle of competence. At CSI we became vertical market software specialists long before VMS was an accepted term. If you develop a circle of competence while learning how to discover, defend and use IFTODH, you will be a very rare commodity. Youth will flip from being a liability to an asset. 
 
-*"How do you set incentives for your team … to retain talent, sustain a good corporate culture…"*
+*"How do you set incentives for your team … to retain talent, sustain a good [[corporate culture]]…"*
 
-Incentives need to be approximately right and perceived as fair. Once people think you are in the ballpark with incentives, it is a bunch of other things like corporate culture that keep the stars and their teams around. By culture, I'm referring to mutual respect, shared values and beliefs, trust, the joy of learning and mastering and sharing. You can't mandate that stuff. It slowly seeps into the coffee and becomes the accepted way that things are done. A bad boss can stamp out a good culture in no time. 
+Incentives need to be approximately right and perceived as fair. Once people think you are in the ballpark with incentives, it is a bunch of other things like [[corporate culture]] that keep the stars and their teams around. By culture, I'm referring to mutual respect, shared values and beliefs, trust, the joy of learning and mastering and sharing. You can't mandate that stuff. It slowly seeps into the coffee and becomes the accepted way that things are done. A bad boss can stamp out a good culture in no time. 
 
 For the 6 Operating Group ("OG") managers we have a formulaic incentive plan based on their respective OG revenues (net of third party costs) revenue growth (combined organic and acquired), and profitability (a return on capital measure).
 

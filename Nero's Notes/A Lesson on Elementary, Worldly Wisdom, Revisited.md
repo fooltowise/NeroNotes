@@ -5,15 +5,15 @@
 
 What I'm going to try today is to extend the remarks I made two years ago at the USC Business School. You were assigned a transcript of my [[A Lesson on Elementary Worldly Wisdom| USC Talk]]. And there's nothing I said then that I wouldn't repeat today. But I want to amplify what I said then.
 
-It's perfectly clear... that if Warren Buffett had never learned anything new after graduating from Columbia Business School, Berkshire would be a pale shadow of its present self. Warren would have gotten rich - because what he learned from Ben Graham at Columbia was enough to make anybody rich. But he wouldn't have the kind of enterprise Berkshire Hathaway is if he hadn't kept learning.
+It's perfectly clear... that if Warren Buffett had never learned anything new after graduating from Columbia Business School, Berkshire would be a pale shadow of its present self. Warren would have gotten rich - because what he learned from Ben Graham at Columbia was enough to make anybody rich. But he wouldn't have the kind of enterprise [[Berkshire Hathaway]] is if he hadn't kept learning.
 
 How do you get worldly wisdom? What system do you use to rise into the tiny top percentage of the world in terms of having sort of an elementary practical wisdom?
 
 I've long believed that a certain system - which almost any intelligent person can learn - works way better than the systems that most people use. As I said at the USC School, what you need is a latticework of mental models in your head. And you hang your actual experience and you vicarious experience (that you get from reading and so forth) on this latticework of powerful models. And, with that system, things gradually get to fit together in a way that enhances cognition.
 
-Your assigned reading for today included the latest annual letters from Jack Welch and Warren Buffett relating to General Electric and Berkshire Hathaway, respectively. Jack Welch has a PhD in engineering. And Warren plainly could have gotten a PhD in any field he wanted to pursue. And both gentlemen are inveterate teachers.
+Your assigned reading for today included the latest annual letters from Jack Welch and Warren Buffett relating to General Electric and [[Berkshire Hathaway]], respectively. Jack Welch has a PhD in engineering. And Warren plainly could have gotten a PhD in any field he wanted to pursue. And both gentlemen are inveterate teachers.
 
-Worldly wisdom is quite academic when you get right down to it. Look at what General Electric has achieved - and, for that matter, what Berkshire Hathaway has achieved.
+Worldly wisdom is quite academic when you get right down to it. Look at what General Electric has achieved - and, for that matter, what [[Berkshire Hathaway]] has achieved.
 
 Of course, Warren had a professor/mentor - Ben Graham - for whom he had a great affection. Graham was so academic that when he graduated from Columbia, three different academic departments invited him into their PhD programs and asked him to start teaching immediately as part of the PhD program: those three departments being literature, Greek and Latin classics, and mathematics.
 
@@ -254,7 +254,7 @@ Well, certainly when we do make a decision, we think that we have an insight adv
 
 It doesn't help us merely for favorable odds to exist. They have to be in a place where we can recognize them. So it takes a mispriced opportunity that we're smart enough to recognize. And that combination doesn't occur often.
 
-But it doesn't have to. If you wait for the big opportunity and have the courage and vigor to grasp it firmly when it arrives, how many do you need? For example, take the top ten business investments Berkshire Hathaway's ever made. We would be very rich if we'd never done anything else - in two lifetimes.
+But it doesn't have to. If you wait for the big opportunity and have the courage and vigor to grasp it firmly when it arrives, how many do you need? For example, take the top ten business investments [[Berkshire Hathaway]]'s ever made. We would be very rich if we'd never done anything else - in two lifetimes.
 
 So, once again, we don't have any system for giving you perfect investment judgment on all subjects at all times. That would be ridiculous. I'm just trying to give you a method you can use to sift reality to obtain an occasional opportunity for rational reaction.
 
@@ -268,7 +268,7 @@ Mostly about the terrible mistakes it causes you to make.
 
 *For example, someone here earlier this year from Intel talked about problems that occurred with their Pentium chip. One of the most difficult things for them to do was to realize they'd been going about it the wrong way and turn course. And it's very difficult to do that in a complex structure. How do you foster that?*
 
-Intel and its ilk create a coherent culture where teams solve difficult problems on the cutting edge of science. That's radically different from Berkshire Hathaway. Berkshire is a holding company. We've decentralized all the power except for natural headquarters- type capital allocation.
+Intel and its ilk create a coherent culture where teams solve difficult problems on the cutting edge of science. That's radically different from [[Berkshire Hathaway]]. Berkshire is a holding company. We've decentralized all the power except for natural headquarters- type capital allocation.
 
 By and large, we've chosen people we admire enormously to have the power beneath us. It's easy for us to get along with them on average because we love and admire them. And they create the culture for whatever invention and reality recognition is going on in their businesses. And included in that reality recognition is the recognition that previous conclusions were incorrect.
 
@@ -276,7 +276,7 @@ But we're a totally different kind of company. It's not at all clear to me that 
 
 However, both Warren and I are very good at changing our prior conclusions. We work at developing that facility because, without it, disaster often comes.
 
-*Q: Would you talk a little bit about your seeming predilection away from investing in high technology stocks - on your own part and the part of Berkshire Hathaway. One of the things I've found eye-opening and a little surprising is how the difficulties of running a low-tech business and those of running a high-tech business aren't all that different.*
+*Q: Would you talk a little bit about your seeming predilection away from investing in high technology stocks - on your own part and the part of [[Berkshire Hathaway]]. One of the things I've found eye-opening and a little surprising is how the difficulties of running a low-tech business and those of running a high-tech business aren't all that different.*
 
 They're all hard. But why should it be easy to get rich? In a competitive world, shouldn't it be impossible for there to be an easy way for everybody to get rich? Of course, they're all hard.
 
@@ -350,7 +350,7 @@ And we deal with them in a variety of ways. However, we haven't been part of it 
 
 Well, I'd be amazed if the capitalized value of all American businesses weren't considerably higher twenty five years from now. And if people continue to trade with one another and shuffle these pieces of paper around, then money management may continue to be a marvelous business for the managers. But except for what might be called our own money, we're really not in it.
 
-*Q: I was interested in the evolution of your investment strategy from when you first began - using the Ben Graham model - to the Berkshire Hathaway model. Would you recommend that model to a beginning investor - i.e, dumping most of it or all of it into one opportunity we think is a great one and leaving ti there for decades? Or is that strategy really for a more mature investor?*
+*Q: I was interested in the evolution of your investment strategy from when you first began - using the Ben Graham model - to the [[Berkshire Hathaway]] model. Would you recommend that model to a beginning investor - i.e, dumping most of it or all of it into one opportunity we think is a great one and leaving ti there for decades? Or is that strategy really for a more mature investor?*
 
 Each person has to play the game given his own marginal utility considerations and in a way that takes into account his own psychology. If losses are going to make you miserable - and some losses are inevitable - you might be wise to utilize a very conservative pattern of investment and saving all your life. So you have to adapt your strategy to your own nature and your own talents. I don't think there's a one-size-fits-all investment strategy that I can give you.
 
@@ -621,7 +621,7 @@ There's a lot of simple stuff that many of you are quite capable of learning. An
 
 *Q: Are you, in effect, fulfilling your responsibility to share your wisdom that you've acquired over the years?*
 
-Sure. Look at Berkshire Hathaway. I call it the ultimate didactic enterprise. Warren's never going to spend any money. He's going to give it all back to society. He's just building a platform so people will listen to his notions. Needless to say, they're very good notions. And the platform's not so bad either. But you could argue that Warren and I are academics in our own way.
+Sure. Look at [[Berkshire Hathaway]]. I call it the ultimate didactic enterprise. Warren's never going to spend any money. He's going to give it all back to society. He's just building a platform so people will listen to his notions. Needless to say, they're very good notions. And the platform's not so bad either. But you could argue that Warren and I are academics in our own way.
 
 *Q: Most of what you've said is very compelling. And your quest for knowledge and, therefore, command of the human condition and money are all laudable goals*
 

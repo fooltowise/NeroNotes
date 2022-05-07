@@ -1,12 +1,12 @@
-# [[CSU]] Annual Meeting 2020 Transcript
+# [[Constellation Software]] Annual Meeting 2020 Transcript
 
-### Constellation Software Inc. - Shareholder/Analyst Call
+### [[Constellation Software]] Inc. - Shareholder/Analyst Call
 
 #### 08/05/20
 
 Operator
 
-Ladies and gentlemen, thank you for standing by, and welcome to the Constellation Software conference call. \[Operator Instructions\]
+Ladies and gentlemen, thank you for standing by, and welcome to the [[Constellation Software]] conference call. \[Operator Instructions\]
 
 I would now like to hand the conference over to your speaker, Mr. Mark Leonard. Please go ahead, sir.
 
@@ -18,7 +18,7 @@ We've got the general managers of our business units, along with our CFO and Chi
 
 Mark Dennison
 
-Thanks, Mark. Good morning. I'm Mark Dennison. I'm the General Counsel of Constellation Software. As you've just heard, Mark Leonard has asked me to act as the Chairman of the Annual Meeting today. Jamal Baksh will act as Secretary of the meeting. I ask Rebecca Liu and Bryce Docherty of Computershare to act as scrutineers and compute the votes of any polls taken at the meeting.
+Thanks, Mark. Good morning. I'm Mark Dennison. I'm the General Counsel of [[Constellation Software]]. As you've just heard, Mark Leonard has asked me to act as the Chairman of the Annual Meeting today. Jamal Baksh will act as Secretary of the meeting. I ask Rebecca Liu and Bryce Docherty of Computershare to act as scrutineers and compute the votes of any polls taken at the meeting.
 
 I would like to start by acknowledging the extraordinary circumstances being faced around the world as a result of the rapidly evolving global COVID-19 public health emergency. It is as a result of the pandemic that we are conducting today's meeting virtually via live webcast. Since the meeting is being held virtually, we want to outline a few logistical items regarding the conduct of the meeting. Questions can be submitted by any meeting attendee using the instant messaging service of the virtual interface. When asking a question, please indicate your name, which entity you represent, if any, and if applicable, confirm if you are a registered shareholder or a duly appointed proxy holder. For each question we answer, you will summarize the question and read out loud the name of the person who asked such question, and if applicable, the entity such person represents.
 
@@ -478,7 +478,7 @@ We're going to move into Part 2 or Section 2, which we call investments and capi
 
 Just so you know, we've got nearly 600 people connected to the call. And we've got 15 questions that have come in through the queue. And just let me pick a few of those as they relate to the acquisition process.
 
-First, I don't know if we can answer this, but the question comes from \[ Gabriel \] \[indiscernible\] and her question is -- his question is how many acquisitions has Constellation Software closed in 2020, broken down between pre and post lockdowns?
+First, I don't know if we can answer this, but the question comes from \[ Gabriel \] \[indiscernible\] and her question is -- his question is how many acquisitions has [[Constellation Software]] closed in 2020, broken down between pre and post lockdowns?
 
 Bernie, can we answer that question or?
 
@@ -1396,7 +1396,7 @@ Anybody else?
 
 Lawrence Cunningham
 
-Here's a final -- I think we want to make this the final question here. This is from Michael Gielkens from Vimco Luxembourg, who says, Constellation software has been dubbed the "Berkshire Hathaway of the software world." To what extent do you deem this comparison accurate? And what are the most important differences and similarities?
+Here's a final -- I think we want to make this the final question here. This is from Michael Gielkens from Vimco Luxembourg, who says, [[Constellation software]] has been dubbed the "[[Berkshire Hathaway]] of the software world." To what extent do you deem this comparison accurate? And what are the most important differences and similarities?
 
 Mark Leonard
 
@@ -1408,7 +1408,7 @@ Lawrence Cunningham
 
 Well, I think as far as similarities, I think a culture focused on patient disciplined capital allocation is a similarity. A difference is, obviously, that this is our focused organization and vertical markets up. We're pretty much willingness to maybe invest beyond it. But Berkshire covers the waterfront. This is a very focused operation. And as you say, I think the sharing of best practices and so on.
 
-And I guess, back to similarities, I mean, I think the culture of long-term, owner-oriented, shareholder-oriented, focused on returns on invested capital, I think, is probably what leads people to say that if they do, the Constellation is the Berkshire Hathaway of software. So -- and since I'm a big fan of both companies, I really like the comparison.
+And I guess, back to similarities, I mean, I think the culture of long-term, owner-oriented, shareholder-oriented, focused on returns on invested capital, I think, is probably what leads people to say that if they do, the Constellation is the [[Berkshire Hathaway]] of software. So -- and since I'm a big fan of both companies, I really like the comparison.
 
 Mark Leonard
 
@@ -1424,7 +1424,7 @@ I think, Larry, you have to say goodbye. Mark just dropped the note. So Mark's d
 
 Lawrence Cunningham
 
-Well, then. I will step in into this technological breach. Delighted to see that we didn't have any technological problems. There are 1 or 2 people, I guess, who had some password trouble, but most people were able to join and listen, and we appreciate it very much. And so into the technological breach, I will declare that the 2020 meeting of Constellation software shareholders is hereby adjourned. Thank you all very much.
+Well, then. I will step in into this technological breach. Delighted to see that we didn't have any technological problems. There are 1 or 2 people, I guess, who had some password trouble, but most people were able to join and listen, and we appreciate it very much. And so into the technological breach, I will declare that the 2020 meeting of [[Constellation software]] shareholders is hereby adjourned. Thank you all very much.
 
 Jeff Bender
 

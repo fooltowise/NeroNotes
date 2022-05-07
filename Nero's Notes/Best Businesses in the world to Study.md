@@ -7,10 +7,10 @@ See also [[Great Businesses I'd like to own]]
 
 | Company                      | Reason to Study                                                      |
 | ---------------------------- | -------------------------------------------------------------------- |
-| Bershire Hathaway ([[BRK]])  | Longevity, Culture & Capital Allocation                              |
+| [[Berkshire Hathaway]]   | Longevity, Culture & Capital Allocation                              |
 | [[Disney]]              | IP, branding & marketing                                             |
-| Walmart([[WMT]])             | Using technology early, strategic expansion, economies of scale      |
-| Costco ([[Costco \|COST]] )  | Aligning the whole business to offer the proposed customer value     |
+| [[Walmart]]             | Using technology early, strategic expansion, economies of scale      |
+|  [[Costco]]   | Aligning the whole business to offer the proposed customer value     |
 | [[Home Depot]]          | A niche can be pretty big when served well for decades               |
 | Tractor Supply ([[TSCO]])    | Focusing on your demographic                                         |
 | Apple ([[AAPL]])             | How they rode iPhone success to global domination                    |
@@ -20,7 +20,7 @@ See also [[Great Businesses I'd like to own]]
 | Starbucks ([[SBUX]])         | Business model innovation around an existing product                 |
 | Nike ([[NKE]])               | Branding, endorsement and quality                                    |
 | United Health ([[UNH]])      | Adapting to changing regulatory landscape                            |
-| Heico ([[HEI]])              | Offering low priced but high value products to your customer         |
+| [[Heico]]              | Offering low priced but high value products to your customer         |
 | Copart ([[CPRT]])            | Creating both physical and digital moats                             |
 | Cintas ([[CTAS]])            | Boring can be beautiful                                              |
 | [[Danaher]] (DHR)            | Process and culture                                                  |
@@ -59,7 +59,7 @@ See also [[Great Businesses I'd like to own]]
 | LVMH ([[LVMH]])                  | Premium branding and distribution                                                                   |
 | Chipotle ([[CMG]])               | Simple business model, well executed with a long runway ahead                                       |
 | [[Domino's]]                 | From near failure to well-executed turnaround and excellent usage of technology                     |
-| Constellation Software ([[CSU]]) | Quiet execution and an integration machine                                                          |
+| [[Constellation Software]] | Quiet execution and an integration machine                                                          |
 | Lululemon ([[LULU]])             | Dismissed as a fad, but built a durable brand with quality products & big fanbase                   |
 | MercadoLibre ([[MELI]])          | Doing the hard things the right way to succeed in a region with high failure rate                   |
 | [[MSCI]]/[[SPGI]]                | Being the data provider to wealthy clients can be lucrative                                         |

@@ -8,7 +8,7 @@ There are many companies that do the right thing when their backs are against th
 
 Good capital allocation takes many forms and does not necessarily require a firm to grow. The Partnership's successful investment in StageCoach has been due to the firm's shrink strategy, not its growth, although that may come in time. 
 
-At National Indemnity (an insurance subsidiary of Berkshire Hathaway), the firm's ability to write insurance only when pricing is good and stand back when pricing is poor, even if revenues decline by 80% and remain depressed for many years, is a wonderful example of capital discipline and good capital allocation. After all, why grow if returns are going to be poor?
+At National Indemnity (an insurance subsidiary of [[Berkshire Hathaway]]), the firm's ability to write insurance only when pricing is good and stand back when pricing is poor, even if revenues decline by 80% and remain depressed for many years, is a wonderful example of capital discipline and good capital allocation. After all, why grow if returns are going to be poor?
 
 However, surprisingly few companies have the strength to just sit it out, or shrink, as the pressure to grow is often overwhelming. The clamor comes from inside the company (reinforced by poorly constructed incentive compensation), Wall Street promoters and short-term shareholders.  When faced with this barrage, the voice of the long-term shareholder often goes unheard. 
 

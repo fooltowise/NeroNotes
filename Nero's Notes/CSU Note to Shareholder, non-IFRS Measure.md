@@ -1,4 +1,4 @@
-# [[CSU]] NOTE TO SHAREHOLDERS REGARDING OUR REPLACEMENT NON-IFRS MEASURE
+# [[Constellation Software]] NOTE TO SHAREHOLDERS REGARDING OUR REPLACEMENT NON-IFRS MEASURE
 
 In my last Letter to Shareholders dated April 20, 2018, I wrote about the pros and cons of using the growth in Adjusted net income (“ANI”) per share versus cash flow from operations ("CFO") per share as indicators of the increase in CSI's economic value. Neither metric is ideal.
 

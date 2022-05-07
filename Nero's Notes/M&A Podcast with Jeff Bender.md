@@ -6,7 +6,7 @@ I'm your host, Kison Patel, CEO, and Founder of M&A Science and Dealroom. Joinin
 
 ### **Can we kick things off Jeff with a little bit about your background and M&A experience?** 
 
-Absolutely. I've been with Harris and Constellation ([[CSU]]). I use those sort of two interchangeably, for actually, believe it or not, over 20 years. I looked at the calendar I was like, wow. It has actually been a long time. 
+Absolutely. I've been with Harris and [[Constellation Software]]. I use those sort of two interchangeably, for actually, believe it or not, over 20 years. I looked at the calendar I was like, wow. It has actually been a long time. 
 
 I joined Harris as its Director of Finance after starting my working career at one of the big accounting firms. So I'm a CPA, my background.
 

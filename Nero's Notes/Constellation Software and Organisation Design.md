@@ -1,15 +1,15 @@
-# Constellation Software and Organisation Design
+# [[Constellation Software]] and Organisation Design
 
 
 To start off this post, name who the person in this photo is.
 
-[![Mark Leonard (Constellation Software) Operating Manual — Colin Keeley](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc6f7c5c-c48e-463e-b647-7a2ea929184a_1280x720.jpeg "Mark Leonard (Constellation Software) Operating Manual — Colin Keeley")](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc6f7c5c-c48e-463e-b647-7a2ea929184a_1280x720.jpeg)
+[![Mark Leonard (Constellation Software) Operating Manual — Colin Keeley](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc6f7c5c-c48e-463e-b647-7a2ea929184a_1280x720.jpeg "Mark Leonard ([[Constellation Software]]) Operating Manual — Colin Keeley")](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc6f7c5c-c48e-463e-b647-7a2ea929184a_1280x720.jpeg)
 
-Did you figure it out? I’m sure some of you didn’t know that he founded and runs a $40B public company called Constellation Software. The CEO is notoriously media and publicity shy. If you [Google](https://www.google.com/search?q=mark+leonard+constellation+software+photo&rlz=1C5CHFA_enUS873US873&sxsrf=ALeKk001CXd3CRgu8GVg7omFDEyfQSV9ag%3A1626784497352&ei=8cL2YOPwFOGr5NoPuqassAk&oq=mark+&gs_lcp=Cgdnd3Mtd2l6EAMYADIECCMQJzIECCMQJzIECCMQJzIECAAQQzIECAAQQzIECC4QQzIICC4QsQMQgwEyBAgAEEMyBwguELEDEEMyCgguEIcCELEDEBQ6BwgjELADECc6BwgAEEcQsAM6BwgAELADEEM6BQgAEJECOgsILhCxAxDHARCjAjoFCAAQsQM6CAgAELEDEIMBOgoILhDHARCjAhBDOg0ILhCxAxDHARCjAhBDOgoIABCxAxCDARBDOhAILhCHAhCxAxDHARCjAhAUSgQIQRgAUKQQWLcUYKsdaANwAngAgAF3iAG2BJIBAzQuMpgBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz) Mark Leonard’s name, you literally get two photos in images and that’s it.
+Did you figure it out? I’m sure some of you didn’t know that he founded and runs a $40B public company called [[Constellation Software]]. The CEO is notoriously media and publicity shy. If you [Google](https://www.google.com/search?q=mark+leonard+constellation+software+photo&rlz=1C5CHFA_enUS873US873&sxsrf=ALeKk001CXd3CRgu8GVg7omFDEyfQSV9ag%3A1626784497352&ei=8cL2YOPwFOGr5NoPuqassAk&oq=mark+&gs_lcp=Cgdnd3Mtd2l6EAMYADIECCMQJzIECCMQJzIECCMQJzIECAAQQzIECAAQQzIECC4QQzIICC4QsQMQgwEyBAgAEEMyBwguELEDEEMyCgguEIcCELEDEBQ6BwgjELADECc6BwgAEEcQsAM6BwgAELADEEM6BQgAEJECOgsILhCxAxDHARCjAjoFCAAQsQM6CAgAELEDEIMBOgoILhDHARCjAhBDOg0ILhCxAxDHARCjAhBDOgoIABCxAxCDARBDOhAILhCHAhCxAxDHARCjAhAUSgQIQRgAUKQQWLcUYKsdaANwAngAgAF3iAG2BJIBAzQuMpgBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz) Mark Leonard’s name, you literally get two photos in images and that’s it.
 
 Yet he is one of the most impactful investors in enterprise software.
 
-Constellation Software is a conglomerate of vertical market software businesses. Think real estate software, travel software, boating software, and even stuff like country club software. The more niche the area, the more likely Constellation is actively looking at the company as an acquisition target.
+[[Constellation Software]] is a conglomerate of vertical market software businesses. Think real estate software, travel software, boating software, and even stuff like country club software. The more niche the area, the more likely Constellation is actively looking at the company as an acquisition target.
 
 How successful can a company be buying boating software companies? Well peep the 10-year stock chart below.
 

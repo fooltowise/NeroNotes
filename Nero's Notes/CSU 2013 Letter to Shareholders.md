@@ -1,8 +1,8 @@
-# [[CSU]] 2013 Letter to Shareholders
+# [[Constellation Software]] 2013 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS
 
-In Table 1, we've updated the Constellation Software Inc. (“CSI”) metrics with the 2013 results. We’ve shortened up the period presented to 10 years. A long term review is worthwhile, but CSI is a much larger business than it was 10 years ago, so it is easy to question the relevance of the older data. The definitions of Adjusted net income (“ANI”), Average Invested Capital, ROIC, Net Revenue and Maintenance Revenue appear in the Glossary at the end of this document. Unless otherwise indicated, all dollar amounts are expressed in U.S. dollars. Several of the statements included below constitute forward looking statements and should not be read as guarantees of future results. See “Forward Looking Statements”.
+In Table 1, we've updated the [[Constellation Software]] Inc. (“CSI”) metrics with the 2013 results. We’ve shortened up the period presented to 10 years. A long term review is worthwhile, but CSI is a much larger business than it was 10 years ago, so it is easy to question the relevance of the older data. The definitions of Adjusted net income (“ANI”), Average Invested Capital, ROIC, Net Revenue and Maintenance Revenue appear in the Glossary at the end of this document. Unless otherwise indicated, all dollar amounts are expressed in U.S. dollars. Several of the statements included below constitute forward looking statements and should not be read as guarantees of future results. See “Forward Looking Statements”.
 
 ![[CSU 2013 1.png]]
 
@@ -70,4 +70,4 @@ Finishing on a quite different note: I'm happy if I "find" one good book to reco
 We will be hosting the annual general meeting on Thursday May 1st. Many of our Directors and Officers and a number of our employees will be in attendance. We look forward to talking about our business and answering your questions. We hope to see you there - perhaps with a camera. 
 
 Mark Leonard, April 30th, 2014 
-President, Constellation Software Inc.
+President, [[Constellation Software]] Inc.

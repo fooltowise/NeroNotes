@@ -1,4 +1,4 @@
-# How to kill Corporate Culture
+# How to kill [[Corporate Culture]]
 
 
 Mark Brooks: “There are five ways to kill your culture: 

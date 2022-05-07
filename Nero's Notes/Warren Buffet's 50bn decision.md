@@ -27,4 +27,4 @@ When I formed that partnership, we had dinner, the seven of them plus me—I’m
 
 I did no solicitation, but more checks began coming from people I didn’t know. Back in New York, Graham-Newman was being liquidated. There was a college president up in Vermont, Homer Dodge, who had been invested with Graham, and he asked, “Ben, what should I do with my money?” Ben said, “Well, there’s this kid who used to work for me.…” So Dodge drove out to Omaha, to this rented house I lived in. I was 25, looked about 17, and acted like 12. He said, “What are you doing?” I said, “Here’s what I’m doing with my family, and I’ll do it with you.”
 
-Although I had no idea, age 25 was a turning point. I was changing my life, setting up something that would turn into a fairly good-size partnership called Berkshire Hathaway. I wasn’t scared. I was doing something I liked, and I’m still doing it.
+Although I had no idea, age 25 was a turning point. I was changing my life, setting up something that would turn into a fairly good-size partnership called [[Berkshire Hathaway]]. I wasn’t scared. I was doing something I liked, and I’m still doing it.

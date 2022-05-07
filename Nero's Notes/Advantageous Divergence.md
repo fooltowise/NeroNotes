@@ -91,7 +91,7 @@ What others think are the characteristics which make you an anomaly, eccentric o
 
 > The less prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs.
 
-– Warren Buffett, Berkshire Hathaway 2017 Shareholder Letter
+– Warren Buffett, [[Berkshire Hathaway]] 2017 Shareholder Letter
 
 > “Why don’t more people copy you?” It’s a good question. Our approach has worked for us. It’s not difficult, but it looks difficult because it’s unconventional – it isn’t the way things are normally done. It’s simple and common sense.
 

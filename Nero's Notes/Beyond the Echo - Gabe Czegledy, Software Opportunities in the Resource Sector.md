@@ -1,6 +1,6 @@
 # Beyond the Echo - Gabe Czegledy, Software Opportunities in the Resource Sector
 
-**Interviewer :** We are on Collisions Beyond the Echo, welcome to Mr Gabe Czegledy, calling from Toronto. Gabe, you and I met probably a couple of months ago now, we have been working to get this thing going, you are introduced to me as CEO and portfolio manager at Vela Software International, which is an operating group of Constellation Software ([[CSU]]). So that's a big mouthful. So maybe I'll turn it over to you and you can maybe fill in the blanks for us a little bit.
+**Interviewer :** We are on Collisions Beyond the Echo, welcome to Mr Gabe Czegledy, calling from Toronto. Gabe, you and I met probably a couple of months ago now, we have been working to get this thing going, you are introduced to me as CEO and portfolio manager at Vela Software International, which is an operating group of [[Constellation Software]]. So that's a big mouthful. So maybe I'll turn it over to you and you can maybe fill in the blanks for us a little bit.
 
 **Gabe Czegledy :** OK, good morning. So this is my fourth chapter in my working career. So maybe I'll introduce a little bit of background, how I got here and how we're talking today. What I'd like to do is to tie it to Calgary. So my background is I am an electrical engineer, I started with automation control for a company called Honeywell, always based in Toronto. I did quite well with that business, I was a product manager. What that involved was some global leading-edge projects with the outdoor companies in Alberta. So with St Crud, with S.O Coal Lake, Shell Peas River, those projects. I was a product manager for leading edge, at one point St Crud had the largest automation control in the world, and in office between those customers and the development groups in Phoenix, Arizona, for Honeywell.
 
@@ -12,7 +12,7 @@ So I ran the eastern operations for them, which was mostly downstream, refining,
 
 I started employee number 1 in a new kind of space, and when i left them in 2016 there were 200 people doing work for OBG and Bruce Power. I always had kind of a bend towards entrepreneurial-typed activities, throughout my career, so that was during my chapter at Colt Engineering and Worley Parsons. As part of that I also did M&A work and I bought two service businesses for Worley Parsons, one in Vancouver, one in Fredericktown, and I kind of liked that. This was quite interesting. 
 
-So if you recall back then, this was the last time the price of oil crashed, we all said "Ok, that was interesting, now let's go and do something different." I met [[Mark Leonard]], the founder of Constellation Software, and occasionally he would hire sort of industry-knowledgeable, seasoned individuals that help to deploy capital in new areas that they are not familiar with. And that was kind of the basis for me joining Constellation. My area of expertise is obviously the resource and energy markets, both through mission control and the engineering that we did with Worley Parsons.
+So if you recall back then, this was the last time the price of oil crashed, we all said "Ok, that was interesting, now let's go and do something different." I met [[Mark Leonard]], the founder of [[Constellation Software]], and occasionally he would hire sort of industry-knowledgeable, seasoned individuals that help to deploy capital in new areas that they are not familiar with. And that was kind of the basis for me joining Constellation. My area of expertise is obviously the resource and energy markets, both through mission control and the engineering that we did with Worley Parsons.
 
 So that was how I started and it's been four and a half years, I started with a sheet of blank paper, and in the last four years I have acquired ten companies.
 
@@ -30,7 +30,7 @@ So that was how I started and it's been four and a half years, I started with a 
 
 **Interviewer :** Out of the ten in your portfolio, how many of them are in Alberta?
 
-**Gabe Czegledy :** Two, right now. Two are headquartered in Calgary. In my portfolio we have four that do business in Alberta. And then Constellation has three others that are headquartered in Calgary. It's an interesting model, it's completely decentralized, as part of the model we don't advocate for the corporate entity, Constellation Software. We don't advertize, we don't brand it, therefore most people have never heard of it.
+**Gabe Czegledy :** Two, right now. Two are headquartered in Calgary. In my portfolio we have four that do business in Alberta. And then Constellation has three others that are headquartered in Calgary. It's an interesting model, it's completely decentralized, as part of the model we don't advocate for the corporate entity, [[Constellation Software]]. We don't advertize, we don't brand it, therefore most people have never heard of it.
 
 **Interviewer :** Which I imagine can be a challenge when you ring them up on the phone and say to a couple of businesses, and they say "Sorry, who are you again?" I can imagine that happens from time to time.
 

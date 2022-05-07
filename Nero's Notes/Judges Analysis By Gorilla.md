@@ -153,7 +153,7 @@ Mark Lavelle joined the company in 2017. He spent 16 years at Halma including se
 
 Brad Ormsby (~40 years old) – Options are worth ~£1.0m
 
-Brad Ormsby joined in 2015. Prior to that, he had 3 years’ experience as CFO including taking a company public and 6 years’ experience as controller of a public investment firm focused on technology. Beyond his CFO role, Brad helps with M&A. Judging by investor presentations, he seems aligned in terms of corporate culture and likley capable of becoming the CEO given the role is about sustaining the culture and leading capital allocation.
+Brad Ormsby joined in 2015. Prior to that, he had 3 years’ experience as CFO including taking a company public and 6 years’ experience as controller of a public investment firm focused on technology. Beyond his CFO role, Brad helps with M&A. Judging by investor presentations, he seems aligned in terms of [[corporate culture]] and likley capable of becoming the CEO given the role is about sustaining the culture and leading capital allocation.
 
 Shares of Judges are AIM rather than LSE listed. There is an interesting quirk with being AIM listed. In the UK, the inheritance tax is 40% on assets above a £375,000 but AIM-listed shares are exempt from inheritance tax as long as shares are held for at least 2 years. Should this rule stay in place (could change), it is in management's strong interest to hold onto shares and pass the business on to very capable managers, given the significant inheritance tax benefits.
 

@@ -1,5 +1,5 @@
-# Constellation Software in CEE
-**Gustaf:** _Hey Marcin! Great to catch up. I'm excited to combine my interest in Constellation Software and the CEE region with this interview. And, while you don't have Mark Leonard's beard – just yet – I do get a Leonard vibe from your background._  
+# [[Constellation Software]] in CEE
+**Gustaf:** _Hey Marcin! Great to catch up. I'm excited to combine my interest in [[Constellation Software]] and the CEE region with this interview. And, while you don't have Mark Leonard's beard – just yet – I do get a Leonard vibe from your background._  
 
 ![](https://assets-global.website-files.com/5f9040753e1a568ed9abb979/6231b40c8fd106aaec774f90_Namnl%C3%B6s%20design-4.png)
 
@@ -7,7 +7,7 @@ _Marcin Szelag & Mark Leonard_
 
 _You were a VC and noticed that quality firms were being passed on because of TAM limitations. But you saw an opportunity to fund these niche firms over the long term._
 
-_Why don't you tell us a little about yourself and what made you start_ [_Orbit_](https://www.orbitsoftwaregroup.com/) _with Constellation Software ([[CSU]])?_
+_Why don't you tell us a little about yourself and what made you start_ [_Orbit_](https://www.orbitsoftwaregroup.com/) _with [[Constellation Software]]?_
 
 **Marcin:** Gustaf, first of all I would like to thank you for giving me the opportunity to share my thesis for software acquisitions in CEE. I think this is the first time I will be publicly sharing my thoughts on the topic - which makes it even more exciting to discuss.
 
@@ -29,7 +29,7 @@ Early 2021 I reviewed my performance as a VC, and I asked myself some hard quest
 
 This built-up frustration led me to the founding thesis of Orbit. **I knew that CEE was full of great Vertical Market Software (VMS) companies, with nobody to fund or acquire them. It seemed like an excellent opportunity to start a buyout firm.**
 
-The last dot to connect was Constellation Software (CSI). Over the years, my portfolio would receive inbound interest from various CSI operating groups. I didn’t pay that much attention to it until I got approached by a recruiter searching for a portfolio manager for one of the CSI operating groups. This is how I got introduced to Scotty Saklad at Jonas Software. As time passed and I learned more about the CSI operating model, I got more interested in the opportunity to work together with Scott.
+The last dot to connect was [[Constellation Software]] (CSI). Over the years, my portfolio would receive inbound interest from various CSI operating groups. I didn’t pay that much attention to it until I got approached by a recruiter searching for a portfolio manager for one of the CSI operating groups. This is how I got introduced to Scotty Saklad at Jonas Software. As time passed and I learned more about the CSI operating model, I got more interested in the opportunity to work together with Scott.
 
 
 

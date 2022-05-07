@@ -1,7 +1,7 @@
-# LibertyRPF on [[CSU]]
+# LibertyRPF on [[Constellation Software]]
 
 
-### Constellation Software’s Topicus Spin-Out Details - September 2020
+### [[Constellation Software]]’s Topicus Spin-Out Details - September 2020
 
 The [prospectus for the spin out TSS+Topicus](https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/preliminary_prospectus---filing-copy---september-21-2020.pdf) is out. I won’t go over the whole thing here, but there are a few highlights.
 
@@ -41,7 +41,7 @@ I wrote about the Topicus spin-out (which is basically TSS + Topicus) [in editio
 
 > If the Condition Precedent is satisfied, the record date for Constellation shareholders entitled to receive the **Conditional Dividend is October 28, 2020** (the “Record Date”), and **the payment date will be determined and announced once the Condition Precedent is satisfied**.
 
-### Constellation Software’s Volaris Creates Modaxo (Future Spin-Out?) - October 2020
+### [[Constellation Software]]’s Volaris Creates Modaxo (Future Spin-Out?) - October 2020
 
 Volaris’ transportation businesses (which formed around the original Trapeze acquisition, where CSI COO and Volaris CEO Mark Miller was the founder, iirc) are changing their identity to Modaxo.
 
@@ -69,7 +69,7 @@ Mark Leonard had [said at the 2020 AGM](https://twitter.com/pearnick/status/1318
 
 h/t [@Pearnick](https://twitter.com/pearnick/status/1318575194944999427?s=20)
 
-### Constellation Software: Volaris Creates Lumine Group for its Communications & Media Businesses - October 2020
+### [[Constellation Software]]: Volaris Creates Lumine Group for its Communications & Media Businesses - October 2020
 
 First Volaris created Modaxo (see [edition #41](https://libertyrpf.substack.com/p/41-constellation-softwares-modaxo)) for their transportation assets, and now they’re creating a new identity for the comms & media stuff…
 
@@ -79,13 +79,13 @@ Is this just some Spring cleaning to refocus some sub-groups and give them more 
 > 
 > **Since 2013, Lumine has built a global portfolio of complementary communications and media software businesses, completing 16 acquisitions with employees in over 30 countries**. The portfolio encompasses a global network of customers, including tier-1 operators across the world.
 > 
-> “Lumine brings together a combination of innovative technology, great talent, and industry expertise under a single banner,” says Mark Miller, CEO of Volaris Group, and COO of Constellation Software. “The Lumine team will continue our legacy in this space, deploying Volaris best-practices and our winning buy-and-hold-forever formula.” ([Source](https://www.globenewswire.com/news-release/2020/10/27/2115052/0/en/Volaris-Group-Introduces-Lumine-Group-to-Focus-on-Communications-Media-Business.html))
+> “Lumine brings together a combination of innovative technology, great talent, and industry expertise under a single banner,” says Mark Miller, CEO of Volaris Group, and COO of [[Constellation Software]]. “The Lumine team will continue our legacy in this space, deploying Volaris best-practices and our winning buy-and-hold-forever formula.” ([Source](https://www.globenewswire.com/news-release/2020/10/27/2115052/0/en/Volaris-Group-Introduces-Lumine-Group-to-Focus-on-Communications-Media-Business.html))
 
 The [Lumine site](https://www.luminegroup.com/our-companies) has a nice timeline showing all the acquisitions they’ve made over time (near the bottom of the page).
 
 
 
-### Constellation Software Q3 - November 2020
+### [[Constellation Software]] Q3 - November 2020
 
 [![Image](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1c58451-18b0-42bc-9d55-de5420c4cff5_1370x736.jpeg "Image")](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1c58451-18b0-42bc-9d55-de5420c4cff5_1370x736.jpeg)
 
@@ -114,11 +114,11 @@ They still expect the Topicus acquisition to close “in 2020”, which will the
 
 [I wrote about Topicus a bit in edition #29](https://libertyrpf.substack.com/p/29-constellation-softwares-topicus).
 
-### Constellation Software’s Topicus Acquisition & TSS Spin Back on Calendar - December 2020
+### [[Constellation Software]]’s Topicus Acquisition & TSS Spin Back on Calendar - December 2020
 
 After a hiatus for unknown reasons, we’re back to our regular programs:
 
-> Constellation Software, acting through its TSS operating group and its subsidiary TPCS Holding B.V., **entered into a binding agreement with IJssel B.V. to purchase 100% of the shares of Topicus.com** B.V., a Netherlands-based diversified vertical market software provider. In connection with the anticipated closing of the acquisition and the subsequent public listing of the subordinate voting shares of Topicus.com Inc., **TSS will be spun out of Constellation and will operate together with Topicus as a separate publicly traded company**.
+> [[Constellation Software]], acting through its TSS operating group and its subsidiary TPCS Holding B.V., **entered into a binding agreement with IJssel B.V. to purchase 100% of the shares of Topicus.com** B.V., a Netherlands-based diversified vertical market software provider. In connection with the anticipated closing of the acquisition and the subsequent public listing of the subordinate voting shares of Topicus.com Inc., **TSS will be spun out of Constellation and will operate together with Topicus as a separate publicly traded company**.
 > 
 > Constellation also announced today that it has resolved to **pay a special dividend pursuant to which all common shareholders of record on December 28, 2020** will be entitled to receive, by way of a dividend-in-kind, **1.859817814 subordinate voting shares of Topicus.com Inc. for each common share of Constellation** held. The payment date for the Dividend is expected to be on or **about January 4, 2021**. [...]
 > 
@@ -137,7 +137,7 @@ The [prospectus is here](https://topicus-platform.s3.eu-central-1.amazonaws.com/
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b0f174f-564a-45da-854a-b6e19bb301f6_2176x546.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b0f174f-564a-45da-854a-b6e19bb301f6_2176x546.png)
 
 
-### Constellation Software Q4 - February 2021
+### [[Constellation Software]] Q4 - February 2021
 
 Just a few highlights (you can see the [whole report](https://bit.ly/3u1iSlB) and [press release](https://bit.ly/3pmHykI) for more):
 
@@ -186,7 +186,7 @@ They broke out organic growth by segment and ex-TSS, which shows how good TSS ha
 If you want even more, you can see the [income statement ex-TSS here.](https://twitter.com/LibertyRPF/status/1360359814258454528)
 
 
-### TSS M&A Pre-and-Post Acquisition by Constellation Software  - February 2021
+### TSS M&A Pre-and-Post Acquisition by [[Constellation Software]]  - February 2021
 
 
 $CSU.to acquired TSS - now $TOI.to - from the Strikwerda family office in 2013. TSS was already set up to be a serial acquirer of VMS businesses, but that CSU Midas touch really kicked things into sixth gear. From 1-2 deals/year to almost 20 by 2020. Speaks volumes about process
@@ -195,7 +195,7 @@ $CSU.to acquired TSS - now $TOI.to - from the Strikwerda family office in 2013. 
 
 
 
-### Constellation Software 2017 Annual Meeting - February 2021
+### [[Constellation Software]] 2017 Annual Meeting - February 2021
 
 Friend-of-the-show [MBB](https://twitter.com/LockStockBarrl/status/1386992937989443593) was reminiscing about the 2017 Constellation AGM (where she and I first met — note that she has the lowest cost basis on CSU of anyone I know that doesn’t have “Leonard” as a last name).
 
@@ -206,9 +206,9 @@ Well well well. It just so happens that I have one. What a great moment that was
 [![Image](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2a7d12fe-682a-4580-95f5-0df2bc297adc_1457x1271.jpeg "Image")](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2a7d12fe-682a-4580-95f5-0df2bc297adc_1457x1271.jpeg)
 
 
-### ‘Constellation Software & Org Design’ - July 2021 
+### ‘[[Constellation Software]] & Org Design’ - July 2021 
 
-Friend-of-the-show and supporter (💚 🥃) [Shomik Ghosh has a great post](https://shomik.substack.com/p/constellation-software-and-org-design) that looks at Constellation Software’s organization structure, and how that gives it various competitive advantages:
+Friend-of-the-show and supporter (💚 🥃) [Shomik Ghosh has a great post](https://shomik.substack.com/p/constellation-software-and-org-design) that looks at [[Constellation Software]]’s organization structure, and how that gives it various competitive advantages:
 
 > I believe CSU’s competitive moat is driven by org design.
 > 
@@ -228,11 +228,11 @@ ie. A standalone VMS may have great economics, but it likely can’t re-invest m
 
 ### Topicus & Vela Software Acquire Together (60/40) - August 2021
 
-> CGG has entered into an agreement with Topicus and Vela Software [part of Constellation Software], for the sale of CGG’s GeoSoftware business [...]
+> CGG has entered into an agreement with Topicus and Vela Software [part of [[Constellation Software]]], for the sale of CGG’s GeoSoftware business [...]
 > 
 > The Geosoftware business will be owned jointly by Topicus and Vela, with Topicus owning 60% and Vela 40%.
 
-Not really so strange when you think about it, especially considering that different groups and business units are sometimes competing for deals, but I don’t remember seeing this kind of joint-acquisition between operating groups of Constellation Software happening before.
+Not really so strange when you think about it, especially considering that different groups and business units are sometimes competing for deals, but I don’t remember seeing this kind of joint-acquisition between operating groups of [[Constellation Software]] happening before.
 
 Maybe I just missed it, or am not remembering it, which is certainly possible after 600 acquisitions…
 
@@ -243,7 +243,7 @@ But now that Topicus is officially spun-out and more independent (than the alrea
 
 
 
-### Resilient Business, Constellation Software Edition - August 2021
+### Resilient Business, [[Constellation Software]] Edition - August 2021
 
 [![Image](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4fa2c728-05c8-4385-a118-9098bd539b60_1706x390.png "Image")](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4fa2c728-05c8-4385-a118-9098bd539b60_1706x390.png)
 
@@ -253,7 +253,7 @@ Through the pandemic, maintenance/recurring revenue (where most of the value is 
 
 
 
-### Constellation Software Shareholder Q&A - September 2021
+### [[Constellation Software]] Shareholder Q&A - September 2021
 
 It had been a while since CSI published one of these.
 
@@ -266,7 +266,7 @@ There’s some interesting stuff, and as always, Mark Leonard has a way with wor
 > This largely dodges your question about management attributes. I despair of answers that are some version of "intelligent, energetic, ethical". **I know some great business builders who didn't win the genetic lottery in the intelligence category but compensated with hard work and determination. Energy can be poorly channeled. Ethics seem to get pretty plastic under enough carrot and stick stress. I'd rather use a track record of consistently happy and loyal customers and employees to judge a team. That strikes me as a far better predictor of future performance than psychometric questionnaires or dowsing for cultural fit.**
 
 
-### Constellation Software Q3 - November 2021
+### [[Constellation Software]] Q3 - November 2021
 
 *drumroll*
 
@@ -304,7 +304,7 @@ Wow. They’re going to end the year with the biggest capital deployment in thei
 [![Image](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F189e3f6a-87a0-449c-957a-6e113582f0fc_1934x500.jpeg "Image")](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F189e3f6a-87a0-449c-957a-6e113582f0fc_1934x500.jpeg)
 
 
-Friend-of-the-show [Sleepwell Cap](https://twitter.com/SleepwellCap/status/1463599796690853894) posted the above excerpt from the transcript of Constellation Software’s 2021 AGM.
+Friend-of-the-show [Sleepwell Cap](https://twitter.com/SleepwellCap/status/1463599796690853894) posted the above excerpt from the transcript of [[Constellation Software]]’s 2021 AGM.
 
 I think it’s a good reminder to make sure to keep the main thing the main thing.
 
@@ -314,11 +314,11 @@ For example, some companies with huge growth prospects may prematurely focus on 
 
 The permutations are endless, and the only way to pull the right levers to optimize things is to keep your focus on the right thing, the end goal, and not some indirect KPIs that may be leading you in the wrong direction.
 
-### Constellation Software Launches $200m VMS Venture Fund, Topicus CEO to be GP, Robin from TSS Takes Over Topicus CEO Role
+### [[Constellation Software]] Launches $200m VMS Venture Fund, Topicus CEO to be GP, Robin from TSS Takes Over Topicus CEO Role
 
 _You know it’s a big announcement when there’s almost too many things for a single headline…_
 
-> Constellation Software announced the **creation of a two hundred-million-dollar venture capital fund (“VMS Ventures”).  The Fund will provide financing for start-up and rapidly growing vertical market software businesses, most of which will have been either incubated or identified by a sponsoring Constellation business unit.**
+> [[Constellation Software]] announced the **creation of a two hundred-million-dollar venture capital fund (“VMS Ventures”).  The Fund will provide financing for start-up and rapidly growing vertical market software businesses, most of which will have been either incubated or identified by a sponsoring Constellation business unit.**
 > 
 > While Constellation regularly invests in dozens of small initiatives and will continue to do so, VMS Ventures will invest in larger initiatives and take a different approach:
 > 
@@ -365,11 +365,11 @@ They’re still hungry, still trying to improve their game! No complacency at CS
 
 
 
-### Mark Leonard’s 2021 Shareholder Letter 💫 (Constellation Software)
+### Mark Leonard’s 2021 Shareholder Letter 💫 ([[Constellation Software]])
 
 When I saw that there was a new letter, the first one since 2017, it felt a bit like a mix of Xmas and a sighting of Halley’s Comet:
 
--   [Constellation Software Inc. 2021 President's Letter](https://www.csisoftware.com/docs/default-source/press-releases/letter-to-shareholders---february-15-2021.pdf)
+-   [[[Constellation Software]] Inc. 2021 President's Letter](https://www.csisoftware.com/docs/default-source/press-releases/letter-to-shareholders---february-15-2021.pdf)
     
 
 It’s not totally out of the blue because the past few AGMs already touched on these themes and showed that management was thinking about these things, but it’s still surprising to see this type of course-change in our world of incrementalism, half-measures, and people afraid to change their minds.

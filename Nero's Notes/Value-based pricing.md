@@ -3,7 +3,7 @@
 by #InPractise 
 See [[TOI|Topicus]], [[Transdigm|Transdigm]]
 
-Constellation Software and [[Transdigm]] have many similarities from the outside looking in: decentralised org structure, fragmented end markets, a core M&A roll up strategy, great capital allocators at the helm, etc. After spending some time researching both companies, one key strategy that both follow religiously is **value-based pricing.**
+[[Constellation Software]] and [[Transdigm]] have many similarities from the outside looking in: decentralised org structure, fragmented end markets, a core M&A roll up strategy, great capital allocators at the helm, etc. After spending some time researching both companies, one key strategy that both follow religiously is **value-based pricing.**
 
 Value-based pricing is as it sounds: price products based on the value you provide, not the cost of the product. The first insight from [our interview with a Former Managing Director at TSS](https://inpractise.com/articles/topicus-pharmapartners-and-vms-value-based-pricing) was how VMS founders perpetually underprice their products:
 

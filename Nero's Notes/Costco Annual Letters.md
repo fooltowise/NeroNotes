@@ -1,4 +1,4 @@
-# Costco Annual Letters
+# [[Costco]] Annual Letters
 - [[Costco Annual Letter 1998]]
 - [[Costco Annual Letter 1999]]
 - [[Costco Annual Letter 2000]]

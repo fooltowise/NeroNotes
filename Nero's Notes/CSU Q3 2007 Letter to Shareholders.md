@@ -1,4 +1,4 @@
-# [[CSU]] Q3 2007 Letter to Shareholders
+# [[Constellation Software]] Q3 2007 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS
 

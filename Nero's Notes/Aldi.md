@@ -18,4 +18,4 @@
 - [[Lidl]]
 - [[Dino Polska]]
 - [[Costco]]
-- [[WMT]]
+- [[Walmart]]

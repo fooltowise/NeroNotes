@@ -2,11 +2,11 @@
 
 Dino Polska (WSE: DNP; “Dino”; Market Cap. – PLN 34.2 billion; ~ 3.8 PLN / USD) is the latest addition to SVN Capital’s portfolio. In April 2017, Dino, a Polish food retailer founded in 1999, was listed on the Warsaw Stock Exchange in Poland. Since then, it has generated a 747% (CAGR: 63%) return for its shareholders.
 
-As I started learning more about Dino, I was reminded of Walmart and its strategy of growing in small-town America. Sam Walton, in his autobiography _Made in America_, wrote, “Helen Walton laid down the law – ‘Sam, we’ve been married for two years and we’ve moved six times. Now, I’ll go with you any place you want so long as you don’t ask me to live in a big city. Ten thousand people is enough for me.’ So, any town with a population of over 10,000 was off-limits to the Waltons.”
+As I started learning more about Dino, I was reminded of [[Walmart]] and its strategy of growing in small-town America. Sam Walton, in his autobiography _Made in America_, wrote, “Helen Walton laid down the law – ‘Sam, we’ve been married for two years and we’ve moved six times. Now, I’ll go with you any place you want so long as you don’t ask me to live in a big city. Ten thousand people is enough for me.’ So, any town with a population of over 10,000 was off-limits to the Waltons.”
 
 Later in the book, Sam says, “We never planned on actually going into the cities. What we did instead was build our stores in a ring around the city—pretty far out—and wait for the growth to come to us.”
 
-Tomasz Biernacki, the 47-year-old founder of Dino, seems to be following Walmart’s early example, setting up his stores in small-town Poland.
+Tomasz Biernacki, the 47-year-old founder of Dino, seems to be following [[Walmart]]’s early example, setting up his stores in small-town Poland.
 
 In this report, I will review Dino Polska by asking the four main questions:
 

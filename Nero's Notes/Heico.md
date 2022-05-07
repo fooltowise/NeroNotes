@@ -1,5 +1,5 @@
 
-# Heico (HEI)
+# Heico 
 - [[Heico, a compounding beast]]
 - [[Young Hamilton on Heico]]
 - [[Forbes on the Mendelsons and Heico]]

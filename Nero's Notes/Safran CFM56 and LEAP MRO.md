@@ -49,7 +49,7 @@ On the PMA DER side it’s a different aspect. Those repairs are FAA approved. T
 
 As they are applying this license strategy, yes. The aspect of PMA, even DER, is very limited. It has already been limited and I don’t think it will be a big market in future.
 
-### Is there also a different approach to PMA in the US and Europe, with HEICO?
+### Is there also a different approach to PMA in the US and Europe, with [[HEICO]]?
 
 Correct, there is a difference.
 
@@ -215,7 +215,7 @@ It is the same way as it’s going with the CFM. The only difference there is th
 
 It’s a little bit more complicated to exchange between them so that makes it positive on the OEM side to sell new material because they have to buy according to their specific needs for their configuration.
 
-### Which parts are most likely to be PMA? It’s obviously not going to be the LLPs or the core or rotating parts. Where do you see the opportunity to grow PMA, if you’re HEICO?
+### Which parts are most likely to be PMA? It’s obviously not going to be the LLPs or the core or rotating parts. Where do you see the opportunity to grow PMA, if you’re [[HEICO]]?
 
 In the past, there were people that started to build some blades on PMA basis , but that’s never been a big success. So yes, indeed there were some other PMA parts becoming available. That could be gears in the gearbox, some brackets on the QEC side but not really that high value material has been impacted on that I would say. Most of the time, PMAs are minor and less critical material and tends to be static material, so non-rotating.
 

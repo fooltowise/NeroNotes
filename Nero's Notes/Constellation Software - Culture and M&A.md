@@ -1,4 +1,4 @@
-# Constellation Software ([[CSU]]): Culture and M&A
+# [[Constellation Software]]: Culture and M&A
 
 by #InPractise
 
@@ -104,7 +104,7 @@ It's a crazy hard market and the pandemic has made it even worse. My biggest cha
 
 I've been outside for three or four years so I'm not close and none of us talk in detail about things I can talk to you about, which are public, especially now I'm on the other side, but the market will continue to renew because the discipline is so distributed now. The last shareholder meeting I physically attended was more than two years ago and if I had to take my after-tax dollars, as a retail investor, and invest in any one of those portfolios, I wouldn't need to see the IM. I'm not being cute in saying that; they are all rock stars and I'm not talking with any current agenda. I'm outside the company and talking to you as a shareholder to shareholder.
 
-Could it get weird and become a sitcom if Leonard passes and people go rogue? I don't think that will happen because it is so solid. Anyone who is at any senior level there is a career executive. It's not only the portfolio CEO leaders, it's also the portfolios leaders one tier down and the CFOs in the unit. Harvard should do a whole co-op with any investment professional at Constellation Software.
+Could it get weird and become a sitcom if Leonard passes and people go rogue? I don't think that will happen because it is so solid. Anyone who is at any senior level there is a career executive. It's not only the portfolio CEO leaders, it's also the portfolios leaders one tier down and the CFOs in the unit. Harvard should do a whole co-op with any investment professional at [[Constellation Software]].
 
 ### I'm curious if you have any opinions on Topicus as a spin-off and whether you think they might do more of that in the future or is that a unique situation because they never acquired 100% of it?
 

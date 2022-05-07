@@ -3,7 +3,7 @@
 ### Earnings Manipulation and Accounting Shenanigans
 With so much money riding on reported numbers, human nature is to manipulate them. And with so many doing it, you get Serpico effects, where everyone rationalizes that it's okay because everyone else is doing it. It is always thus.
 
-Now, it's chain letter mechanics. Because it's mixed with legitimate activities like venture capital, it looks respectable. But we're mixing respectable activity with disrespectable activity - hence my comment at the Berkshire Hathaway annual meeting about if you mix raisins with turds, you still get turds. There is nothing in accounting that can prevent unscrupulous managers from engaging in a chain-letter type fraud.
+Now, it's chain letter mechanics. Because it's mixed with legitimate activities like venture capital, it looks respectable. But we're mixing respectable activity with disrespectable activity - hence my comment at the [[Berkshire Hathaway]] annual meeting about if you mix raisins with turds, you still get turds. There is nothing in accounting that can prevent unscrupulous managers from engaging in a chain-letter type fraud.
 
 ### Spotting crooked management
 Bernie Ebbers and Ken Lay were caricatures - they were easy to spot. They were almost psychopaths. But it's much harder to spot problems at companies like Royal Dutch (Shell).

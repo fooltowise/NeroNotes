@@ -22,7 +22,7 @@ A few other comments before we delve in:
 
 Leverage, in the broadest sense, is fundamental to building anything of scale. All great business models employ some form of leverage, with scaled distribution (either physical e.g., Coke, or digital e.g., [[Microsoft]]) being especially powerful. There is however a small cohort of business that derive strength from their liabilities, i.e., from the way in which they are funded.
 
-Insurance float is the classic source of friendly financial leverage. Berkshire Hathaway, Markel Corporation, and Fairfax Financial all benefit from float as they run growing profitable insurance businesses and invest a component of their float in profitable fixed income assets, and, to a lesser degree given regulatory capital constraints, equity securities. Their success in accessing this friendly source of leverage has not gone unnoticed and many investment managers have sought (mostly unsuccessfully) to emulate the model. Running a profitable insurance business is harder than it looks, so this source of leverage is only available to those with the competence to run a profitable business in what is a commoditized industry.
+Insurance float is the classic source of friendly financial leverage. [[Berkshire Hathaway]], Markel Corporation, and Fairfax Financial all benefit from float as they run growing profitable insurance businesses and invest a component of their float in profitable fixed income assets, and, to a lesser degree given regulatory capital constraints, equity securities. Their success in accessing this friendly source of leverage has not gone unnoticed and many investment managers have sought (mostly unsuccessfully) to emulate the model. Running a profitable insurance business is harder than it looks, so this source of leverage is only available to those with the competence to run a profitable business in what is a commoditized industry.
 
 The business model of asset managers is highly leveraged to financial assets under management, provided by third parties. This external investor capital is affectionately known in the industry as OPM, i.e. Other People’s Money, and it is one of the friendliest sources of financial leverage there is. In a sense this is a type of royalty on the success/growth of others and is similar to franchisor economics.
 
@@ -44,7 +44,7 @@ Holders of scarce or unique resources also fall into the category of non-commodi
 
 Articulated by Nick Sleep as ‘[scale efficiencies shared](https://igyfoundation.org.uk/wp-content/uploads/2021/03/Full_Collection_Nomad_Letters_.pdf)’, this is one of the strongest sources of structural advantage as it is exceptionally hard to compete with. When Jeff Bezos says, ‘your margin is my opportunity’, he is not addressing the small cohort of firms that obsess about delivering extreme customer value.
 
-In the US, Amazon, Walmart, Dominos, Costco, Vanguard, and Southwest Airlines have all pursued strategies of sharing scale benefits with customers, predominantly through lower prices.
+In the US, Amazon, [[Walmart]], Dominos, [[Costco]], Vanguard, and Southwest Airlines have all pursued strategies of sharing scale benefits with customers, predominantly through lower prices.
 
 European low-cost airlines Ryanair and Wizz Air have pursued similar strategies and in so doing have relentlessly taken market share from traditional airlines.
 
@@ -56,11 +56,11 @@ The scale efficiencies shared model continually embeds substantial latent pricin
 
 The ability to reliably re-invest free cashflow at a high ROIC is a wonderful structural advantage.
 
-McDonalds, Dollar General, Walmart, Dominos, [[Home Depot]], Starbucks, and Chipotle are all great US examples of relatively predictable re-investment machines, which some have supercharged by developing a franchising option. Franchisers also get to leverage the growth of their franchisees.  
+McDonalds, Dollar General, [[Walmart]], Dominos, [[Home Depot]], Starbucks, and Chipotle are all great US examples of relatively predictable re-investment machines, which some have supercharged by developing a franchising option. Franchisers also get to leverage the growth of their franchisees.  
 
 A recent European example is 3i Group plc’s investment in the non-food, discount retailer [Action](https://www.3i.com/portfolio/action/). Store investments payback in eighteen months, and notwithstanding what has been a 50x for 3i so far, Action is still growing strongly.
 
-Companies that are very disciplined acquirers also fit the high ROIC cookie cutter categorization. Examples include Constellation Software, Roper, and DCC. Their path may be less predictable than underpenetrated retail rollouts, but their value accretion rests on a similar premise of a strong degree of repeatable re-investment at high returns.
+Companies that are very disciplined acquirers also fit the high ROIC cookie cutter categorization. Examples include [[Constellation Software]], Roper, and DCC. Their path may be less predictable than underpenetrated retail rollouts, but their value accretion rests on a similar premise of a strong degree of repeatable re-investment at high returns.
 
 **SABM # 5 – User Generated Content**
 

@@ -1,8 +1,8 @@
 # [[Mark Leonard]]'s Operating Manual
 
-### **Who is Mark Leonard? What is Constellation Software?**
+### **Who is Mark Leonard? What is [[Constellation Software]]?**
 
-Mark Leonard is the billionaire founder of Constellation Software (CSI). CSI is a Canadian software conglomerate that acquires and holds vertical market software (VMS) companies.
+Mark Leonard is the billionaire founder of [[Constellation Software]] (CSI). CSI is a Canadian software conglomerate that acquires and holds vertical market software (VMS) companies.
 
 They are a perpetual owner (they never sell) and own 500+ VMS companies at this point. They have only sold one business because they were offered a really high price in the early days. Mark regrets selling to this day.
 
@@ -52,7 +52,7 @@ Vertical market software is developed for and customized to industry-specific ne
 
 Their favorite businesses are bought directly from Founders. They naturally have the best cultures.
 
-### **What Constellation Software looks for in businesses to buy?**
+### **What [[Constellation Software]] looks for in businesses to buy?**
 
 From their website:
 
@@ -112,11 +112,11 @@ Most of their competitors would say this is well below market. Constellation is 
 -   High margin
     
 
-### **Types of businesses Constellation Software has bought/started?**
+### **Types of businesses [[Constellation Software]] has bought/started?**
 
 Government - roughly half of CSU’s revenue comes from customers in the public sector: municipalities, school boards, police departments, etc. Incentives in the public sector are notoriously absent and/or misaligned, so the impetus for a salaried government employee to lobby for a change in software vendor rarely exists.
 
-### **Why do founders sell to Constellation Software?**
+### **Why do founders sell to [[Constellation Software]]?**
 
 CSI buys VMS businesses to hold rather than sell. Without the necessity of scoring a quick mark-up like many of their private equity competitors, Constellation can manage patiently, letting the existing team helm the ship rather than intervening to aggressively cutting costs.
 
@@ -220,7 +220,7 @@ Leonard is a firm believer that autonomy produces better results and motivates e
 
 _“One of the fundamental beliefs at CSI, is that autonomy motivates people, and bureaucracy does the opposite, so we try to do as many of the important monitoring tasks with as light a touch as possible.”_
 
-For more, check out our podcast on [Mark Leonard (Constellation Software)](https://www.vernehq.com/post/mark-leonard-constellation-software-story-software-empire-builder), [Robert F. Smith (Vista Equity)](https://www.vernehq.com/post/robert-f-smith-vista-equity-partners-story-billionaire-software-pe), and [Joe Liemandt (ESW Capital)](https://www.vernehq.com/post/joe-liemandt-esw-capital-operating-manual-global-tech-sweatshop).
+For more, check out our podcast on [Mark Leonard ([[Constellation Software]])](https://www.vernehq.com/post/mark-leonard-constellation-software-story-software-empire-builder), [Robert F. Smith (Vista Equity)](https://www.vernehq.com/post/robert-f-smith-vista-equity-partners-story-billionaire-software-pe), and [Joe Liemandt (ESW Capital)](https://www.vernehq.com/post/joe-liemandt-esw-capital-operating-manual-global-tech-sweatshop).
 
 _If you know of anything I should add to this please reach out_ [_@ColinKeeley_](http://twitter.com/colinkeeley) _or Colin@ColinKeeley.com. I’ll continue updating as I learn more._
 

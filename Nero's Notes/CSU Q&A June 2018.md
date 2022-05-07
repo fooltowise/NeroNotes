@@ -1,4 +1,4 @@
-# [[CSU]] Shareholder Q&A, June 2018
+# [[Constellation Software]] Shareholder Q&A, June 2018
 
 **Question**
 

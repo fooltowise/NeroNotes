@@ -6,7 +6,7 @@ Disclaimer: This interview is for informational purposes only and should not be 
 
 ### Tell me about your background pertaining to Wix and Squarespace?
 
-I started my career in finance and private equity but I hated that. That was like my first job out of college and I fell into a consumer tech company that was just launching that got acquired by Walmart and I left a year after the Walmart acquisition and then I went to a fashion tech company to lead mobile product there, kind of accidentally. After almost two years there, I went to Squarespace and it so happened that the former Chief Marketing Officer at Jet was on the board of Squarespace.
+I started my career in finance and private equity but I hated that. That was like my first job out of college and I fell into a consumer tech company that was just launching that got acquired by [[Walmart]] and I left a year after the [[Walmart]] acquisition and then I went to a fashion tech company to lead mobile product there, kind of accidentally. After almost two years there, I went to Squarespace and it so happened that the former Chief Marketing Officer at Jet was on the board of Squarespace.
 
 She and I were getting lunch when I was still at Rent the Runway and she said she was on the board of this company. It was incredible in terms of the margins; they were just printing money but they really wanted to go public and they were having trouble getting the valuation they wanted because they were not growing as fast as they'd like to and you had these other entrants, like Wix, which was much newer and even GoDaddy, which was much larger that had comparable growth.
 

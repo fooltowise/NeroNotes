@@ -1,8 +1,8 @@
-# Constellation Software ([[CSU]]), Jonas, & Portfolio Management
+# [[Constellation Software]], Jonas, & Portfolio Management
 
 Disclaimer: This interview is for informational purposes only and should not be relied upon as a basis for investment decisions. In Practise is an independent publisher and all opinions expressed by guests are solely their own opinions and do not reflect the opinion of In Practise.
 
-### I run a hedge fund and Constellation Software is our biggest position. We have owned it for a while and hope to own it for many more years, so I'm interested in talking to people who have worked there to dig into the M&A process, how they manage portfolio companies and the culture and what it's like to work there. A good place to start would be to tell us how you got to Constellation and what you did there?
+### I run a hedge fund and [[Constellation Software]] is our biggest position. We have owned it for a while and hope to own it for many more years, so I'm interested in talking to people who have worked there to dig into the M&A process, how they manage portfolio companies and the culture and what it's like to work there. A good place to start would be to tell us how you got to Constellation and what you did there?
 
 I am an accountant by training and started at Constellation in 2006 working in the Jonas Group, who had $50 million in revenue, a couple hundred employees and four locations. There is a huge expansion by acquisition methodology at Constellation, so as we grew, we needed people to run them, so there was a lot more promotion and cross-pollination. When I started, we had 15 people in the finance team spread between Philadelphia and Toronto. As we grew, my role expanded. We had been championing a shared services model so as we grew, we incorporated much, if not all, of their accounting into our shared services teams.
 

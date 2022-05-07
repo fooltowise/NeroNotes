@@ -59,7 +59,7 @@ For example, a software company might offer a new process (e.g., virtual simulat
 
 **A common thread with most long-duration, slow-growth companies is that they have become so ‘mission critical’ to their customers that tight integration develops between producer and consumer.** R&D becomes a collaborative effort with prototypes, refinements, and tailor-made products. As a result, the producer has so much (essentially real-time) aggregate data on customer requirements, complaints, and challenges, that they are able to anticipate what the next-generation products should be, layering on new capabilities often before individual customers even fully understand their own needs. **This data-driven foresight virtually eliminates guesswork on the part of the producer, dramatically reducing the chances of being blindsided by shifting customer demands.** In this type of environment, adaptation becomes second nature.
 
-(Personal Note: This sounds exactly like vertical market software and [[CSU]].)
+(Personal Note: This sounds exactly like vertical market software and [[Constellation Software]].)
 
 Now, contrast that scenario with steep S-curve growth. Mercurial customer demands and new disruptions come fast and hard, often because companies don’t have access to meaningful, predictive data. To adapt, management teams may have to upend their entire business model. They might only have one shot to get it right – and within a relatively short time frame as well. If the company survives one round, the nature of their business leaves open the possibility they’ll have to do the same thing over and over again. Successful adaptation in this type of environment goes way beyond manager skill and skews heavily toward luck.
 

@@ -40,5 +40,13 @@
       ],
       "key": "L"
     }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
   ]
 }

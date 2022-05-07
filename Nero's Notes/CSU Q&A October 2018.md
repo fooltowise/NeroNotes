@@ -1,4 +1,4 @@
-# [[CSU]] Shareholder Q&A, October 2018
+# [[Constellation Software]] Shareholder Q&A, October 2018
 
 
 **Question **
@@ -96,11 +96,11 @@ There are a number of successful companies who count the culture they have creat
 
 **Response**
 
-Page 2 of [[CSU Q&A July 2018]] answers part of your question... at least from my perspective.  If there's a more specific corporate culture-related query, don't hesitate to end it in to the Q&A website.
+Page 2 of [[CSU Q&A July 2018]] answers part of your question... at least from my perspective.  If there's a more specific [[corporate culture]]-related query, don't hesitate to end it in to the Q&A website.
 
-I'm leery of corporate culture. The popular business press has touted it as a tool to improve corporate performance for decades. I find it a fuzzy concept (values, beliefs, and ?) and a bit threatening. Actively promoting "correct corporate culture" has vague overtones of brainwashing and the cult-like expectation of acquiescence. I won't accept a set of values and beliefs that are foisted upon me, and I would not expect others to accept them, either.
+I'm leery of [[corporate culture]]. The popular business press has touted it as a tool to improve corporate performance for decades. I find it a fuzzy concept (values, beliefs, and ?) and a bit threatening. Actively promoting "correct [[corporate culture]]" has vague overtones of brainwashing and the cult-like expectation of acquiescence. I won't accept a set of values and beliefs that are foisted upon me, and I would not expect others to accept them, either.
 
-I think we have lots of different sub-cultures and more than our share of heretics at CSI. Some of these sub-cultures will thrive, and some will fail. The cultures that are successful are likely to propagate their values and beliefs by example and by selection. With that sort of evolutionary process at play, my sense is that we don't need to be preaching corporate culture from head office.
+I think we have lots of different sub-cultures and more than our share of heretics at CSI. Some of these sub-cultures will thrive, and some will fail. The cultures that are successful are likely to propagate their values and beliefs by example and by selection. With that sort of evolutionary process at play, my sense is that we don't need to be preaching [[corporate culture]] from head office.
 
 Mark L.
 

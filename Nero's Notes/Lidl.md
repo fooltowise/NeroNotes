@@ -9,5 +9,5 @@
 ## Similar Stores
 - [[Aldi]]
 - [[Costco]]
-- [[WMT]]
+- [[Walmart]]
 - [[Dino Polska]]

@@ -3,7 +3,7 @@ See also [[Studying Serial Acquirers]]
 
 I focus on just a few business models, or frameworks, and try to understand how they work globally.  This focus sometimes helps to uncover insights that may be difficult to derive from backward-looking line items on an income statement or balance sheet, but which may be critically important down the road.
 
-When thinking about frameworks, I study companies across the world; Australia-based REA Group, for example, as a marketplace, Canada-based Constellation Software as an adept serial acquirer, or America’s Costco as a low-end disruptor.
+When thinking about frameworks, I study companies across the world; Australia-based REA Group, for example, as a marketplace, Canada-based [[Constellation Software]] as an adept serial acquirer, or America’s [[Costco]] as a low-end disruptor.
 
 However, when it comes to putting money to work, I have a preference for Europe.  I focus on companies that “do it right” when allocating capital and treating shareholders as partners.  A smart capital allocation framework can attract patient, rational shareholders that become an asset to the firm.  It’s possible to create a positive feedback loop in this regard, but precious few companies even bother to try.  Equally important, but with negative consequences, the wrong management team or shareholder base can ruin an otherwise outstanding investment opportunity. Knowledge of these qualitative aspects takes time to acquire, and Europe is where I have the most value to add in this regard.
 
@@ -32,7 +32,7 @@ Both platforms and accumulators can work.  I don’t believe there is one right
 
 For example, Assa Abloy produces many lock products with shared features, which are adapted to local market requirements.  Over five years, the company has reduced its supplier count by 28%, from roughly 9,000 to 7,000.  In contrast, much of Addtech’s business can be described as value-added distribution, with either limited production taking place internally or no real potential for common sourcing.  Thus, its subsidiaries operate in a more decentralized manner than at Assa.
 
-The key to success at each is that the customer relationship remains anchored at a low level within the organization.  Preserving entrepreneurial independence in choosing, developing, and marketing products is a crucial differentiator in both cases. Eric Mendelson, Co-President of Heico, the world’s largest independent supplier of FAA-approved aerospace parts, has underscored the importance of this type of setup:
+The key to success at each is that the customer relationship remains anchored at a low level within the organization.  Preserving entrepreneurial independence in choosing, developing, and marketing products is a crucial differentiator in both cases. Eric Mendelson, Co-President of [[Heico]], the world’s largest independent supplier of FAA-approved aerospace parts, has underscored the importance of this type of setup:
 
 I think our greatest competitive advantage is the way that we’re structured.  Instead of having one single enterprise where all the decisions end up on one desk, my desk, the decisions are made within Flight Support by roughly 25 really talented people who frankly know more about their spaces than I will ever know.  We are really grateful to have them, their dedication.  They treat those businesses like they own 100% of them. They get very emotional about their businesses, and they each have got incredible growth opportunities going forward in many, many different segments. \[1\]
 
@@ -156,7 +156,7 @@ Serial acquirers are an interesting hunting ground.  Often overlooked, many of 
 
   
 
-\[1\] Heico Corporation (HEI) Q3 2018 Results – Earnings Call transcript
+\[1\] [[Heico]] Corporation (HEI) Q3 2018 Results – Earnings Call transcript
 
 \[2\] Anand,Bharat, David Collis, and Sophie Hood. "[[Danaher]] Corporation." HBS Case 708-445, Feb. 2008.
 

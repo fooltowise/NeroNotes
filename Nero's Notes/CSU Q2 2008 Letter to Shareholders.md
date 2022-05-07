@@ -1,4 +1,4 @@
-# [[CSU]] Q2 2008 Letter to Shareholders
+# [[Constellation Software]] Q2 2008 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS
 
@@ -15,6 +15,6 @@ A table containing our quarterly Performance Metrics is appended. We have discus
 
 Mark Leonard, August 7th, 2008 
 President 
-Constellation Software Inc.
+[[Constellation Software]] Inc.
 
 ![[CSU Q2 2008.png]]

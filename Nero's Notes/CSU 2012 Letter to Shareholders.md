@@ -1,4 +1,4 @@
-# [[CSU]] 2012 Letter to Shareholders
+# [[Constellation Software]] 2012 Letter to Shareholders
 
 ## TO OUR SHAREHOLDERS 
 
@@ -84,4 +84,4 @@ Another obvious fix for our cash constraints would be to axe the dividend. The d
 We will be hosting the annual general meeting on Friday May 3rd. Many of our Directors and Officers and a number of our employees will be in attendance. We look forward to talking about our business and answering your questions. With our increasingly broad institutional and retail ownership, I'm hoping for a record turnout. We hope to see you there. 
 
 Mark Leonard, May 1st, 2013 
-President, Constellation Software Inc.
+President, [[Constellation Software]] Inc.

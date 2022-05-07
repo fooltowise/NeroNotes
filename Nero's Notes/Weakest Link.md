@@ -36,7 +36,7 @@ I am, of course, referring to access to capital markets. What kinds of businesse
 
 As we'll move ahead, you'll see how easy it is for these businesses to be brought down to their knees because capital markets have shut down their doors on their faces. You are already seeing what investment banks are going through right now as an example of weak links in a business which cannot refinance debt for even short periods.
 
-Another weak link could be over-dependence on a single customer. Many auto-ancillary companies come in this category, as do many suppliers to big retail giants like Walmart.
+Another weak link could be over-dependence on a single customer. Many auto-ancillary companies come in this category, as do many suppliers to big retail giants like [[Walmart]].
 
 Dependence on a single product is also a weak link. What id someone built a better mousetrap leaving you  exposed with the risk of going extinct?
 

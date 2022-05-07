@@ -1,12 +1,12 @@
 # Great Businesses To Study
 
 ### What to Do:
-- Berkshire Hathaway
+- [[Berkshire Hathaway]]
 - Amazon
 - [[Costco]]
 - Nike 
 - [[Visa]]
-- Walmart  [[WMT]]
+- [[Walmart]]  [[Walmart]]
 - Apple
 - JP Morgan
 - Disney

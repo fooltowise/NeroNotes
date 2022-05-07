@@ -7,7 +7,7 @@ With Nordisk dominating in Scandinavia, Novo focused overseas. Both companies gr
 
 The incidence of diabetes globally has increased rapidly in the last decade, driven by the global pandemic of obesity - now numbering more than 600 million people and forecast to continue rising. Demand for diabetes treatment will, we believe, increase more rapidly due to rising diagnosis rates; as will the continued need for better treatment and broader reach of care (fewer than 10% of afflicted people receive effective care).
 
-Novo Nordisk has benefited from these trends, growing organic revenue growth at at 12% compound annual growth rate over the past decade along with a 19% growth rate in earnings. These are tailwinds, however, because the real deep value behind the company is its sustained and successful commitment to R&D, which is part of its corporate culture.
+Novo Nordisk has benefited from these trends, growing organic revenue growth at at 12% compound annual growth rate over the past decade along with a 19% growth rate in earnings. These are tailwinds, however, because the real deep value behind the company is its sustained and successful commitment to R&D, which is part of its [[corporate culture]].
 
 Historically, the company  has led numerous industry breakthroughs, such as converting porcine into human insulin in 1982 and introducing a pen to facilitate self-dosing in 1985, and now boasts a portfolio of of modern insulin products, spanning the fast acting (prandial) basal and pre-mix categories. Recent research focuses both on improving dosing of existing treatments as well as striving for new ones. Pipeline products are abundant, including more rollouts or more effective products with faster action or more extended duration.
 
