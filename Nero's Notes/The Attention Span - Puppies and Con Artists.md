@@ -14,7 +14,7 @@ Newsletters seem to be increasingly influencing stocks (See: [Byrne Hobart’s r
 
 But what makes content high quality when generating trust? There are two traits that are staggeringly consistent across the best creators I’ve found: **they are authentic and they follow their interests**. Both sound obvious, even clichéd. Both are almost impossibly difficult in practice. You need to genuinely know who you are and what you’re truly interested in. A lot of us live out our whole lives without knowing the real answers to either of those questions.
 
-The most effective writers and content producers give their audience insight into their own mind. By being willing to be genuinely open and vulnerable online people can _understand_ them, and hence trust them more. On a long enough timeline, I believe we [can intuitively detect insincerity](https://thekcpgroup.com/resources/the-attention-span-long-weekends-and-leadership). From shaking hands, to mixing your drinks together during a toast, myriad social conventions are based on gestures of vulnerability. Being able to demonstrate weakness can be a paradoxical form of strength. Even Warren Buffett famously opens his annual letters with his biggest mistakes (whether this is _genuine_ is another discussion).
+The most effective writers and content producers give their audience insight into their own mind. By being willing to be genuinely open and vulnerable online people can _understand_ them, and hence trust them more. On a long enough timeline, I believe we [can intuitively detect insincerity](https://thekcpgroup.com/resources/the-attention-span-long-weekends-and-leadership). From shaking hands, to mixing your drinks together during a toast, myriad social conventions are based on gestures of vulnerability. Being able to demonstrate weakness can be a paradoxical form of strength. Even [[Warren Buffett]] famously opens his annual letters with his biggest mistakes (whether this is _genuine_ is another discussion).
 
 This approach can obviously be used nefariously. Several years ago my friends and I were targeted by an extremely talented con artist. The secret to her approach was to tell endless hilarious stories with the emphasis always being on her gullibility, naiveté, and vulnerability. She seemed so open and trusting, to a fault, it never occurred to us all that she was deliberately manipulating us. I didn’t give her any money, but I probably would have done so if asked.
 
@@ -40,7 +40,7 @@ The bottom line is that managements, brands, and content producers need to striv
 
 · Companies that generate content hubs. Example: Walker & Dunlop’s leadership interviews with other real estate pros. The new a16z content hub.
 
-· Company management that act as thought leaders themselves. Example: Warren Buffett, Patrick Collison, Marc Andreesen.
+· Company management that act as thought leaders themselves. Example: [[Warren Buffett]], Patrick Collison, Marc Andreesen.
 
 Please forgive me a disgustingly sentimental (some would say, cough, vulnerable), conclusion. There’s something weird about our cardiac nervous system being able to detect truth. I’ve read studies, and adamant rebuttals, that our hearts can anticipate a stimulus well in advance of our brains. **People who have _opened_ their hearts and are _following_ their hearts are the most likely to reveal truth. And truth is the highest quality information possible.**
 

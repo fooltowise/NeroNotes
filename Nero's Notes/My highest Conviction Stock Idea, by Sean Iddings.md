@@ -19,7 +19,7 @@ The opportunity exists because investors are befuddled. EXPI has grown from 1,50
 
 It’s neither.
 
-EXPI is providing, in real time, a masterclass in the superpower of incentives.
+EXPI is providing, in real time, a masterclass in the [[superpower of incentives]].
 
 I am betting that EXPI takes the lead in the disruption of the real estate industry. They attract the best agents, align them all to think like owners, and pass the savings to the consumer. The world is unequivocally better off because of EXPI.
 
@@ -54,7 +54,7 @@ That’s an insane amount of value eXp is giving. No competitors come close to g
 
 But many great things in life are often unintuitive. Incentives are one.
 
-## Superpower of Incentives
+## [[Superpower of Incentives]]
 
 Let me step back and talk about incentives. I will explain exactly why EXPI has been growing hand over fist and will continue to do so.
 
@@ -362,7 +362,7 @@ Real Brokerage is a full on EXPI copycat. They just give better splits, more sto
 
 Let me tell you why I am not worried about either. First, a copycat implies a business model is good enough to mimic. It’s a form of flattery. But clones that mindlessly emulate have no idea why they are doing what they are doing. The world is highly dynamic. Clones end up making mistake after mistake. The real deal knows the why. And they continue to make correct decisions.
 
-Just think, how many Warren Buffett clones have there been? Tons. And how many of them have succeeded at insurance? How many have succeeded at investing over decades? You get the point.
+Just think, how many [[Warren Buffett]] clones have there been? Tons. And how many of them have succeeded at insurance? How many have succeeded at investing over decades? You get the point.
 
 Glenn Sanford took Keller Williams’ model and made it better. Great artists don’t copy, they steal. They improve on the past. Sanford gets the WHY. And he is painting his own picture. He and his team have compounded gross profits at >100% per year for many years.
 

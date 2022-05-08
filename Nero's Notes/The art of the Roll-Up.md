@@ -46,7 +46,7 @@ We look for industries where the top 4 players control no more than 40% of the m
 
 ## 2) They go for boring businesses
 
-Warren Buffett will be the first to tell you that boring is often the most profitable investing.
+[[Warren Buffett]] will be the first to tell you that boring is often the most profitable investing.
 
 We like boring in roll-ups for two reasons: 1) They are easier to understand and 2) there is less competition for deal flow.
 

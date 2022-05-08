@@ -30,7 +30,7 @@ Miller adds to the mystique by not sharing Constellations Software’s employee 
 
 Mark Miller, COO of [[Constellation Software]]
 
-Miller generally takes a hands-off approach and lets the businesses [[Constellation Software]] buys do their thing because they are “their babies”. It also thinks very long term, a similar strategy to [[Berkshire Hathaway]]. Miller says he has a lot of respect for the house that Warren Buffett built. But he is humble about comparisons.
+Miller generally takes a hands-off approach and lets the businesses [[Constellation Software]] buys do their thing because they are “their babies”. It also thinks very long term, a similar strategy to [[Berkshire Hathaway]]. Miller says he has a lot of respect for the house that [[Warren Buffett]] built. But he is humble about comparisons.
 
 “I read as much as I can about them and it’s been a great business and it wouldn’t be fair for us to say we’re in their league because they’ve been doing this for a while successfully,” he said.
 

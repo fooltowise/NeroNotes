@@ -18,7 +18,7 @@ As long-term investors, we begin with the premise that a company's common stock 
 - [[Owner Operators]] and [[Intelligent Fanatics]]
 
 
-These blocks can be arranged in [[Successful Business Patterns]]. See also [[Great Businesses to Study]].
+These blocks can be arranged in [[Successful Business Patterns]]. See also [[Great Businesses to Study]] and [[Best Businesses in the world to Study]].
 
 However, these blocks can be damaged by several [[Qualitative Investing Pittfalls]]. It is important to apply inversion and avoid [[Bad Business Patterns to avoid|bad business patterns]], as well as to find the [[Weakest Link]] in the business. You don't want to [[Never lose Money| lose money]] as it compounds your portfolio in reverse.
 

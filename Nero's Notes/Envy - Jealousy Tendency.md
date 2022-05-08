@@ -8,7 +8,7 @@ Envy/Jealousy is extreme in myth, religion, and literature wherein, in account a
 
 And envy/jealousy is also extreme in modern life. For instance, university communities often go bananas when some university employee in money management, or some professor in surgery, gets annual compensation in multiples of the standard professorial salary.
 
-And in modern investment banks, law firms, etc, the envy/jealousy effects are usually more extreme than they are in university faculties. Many big law firms, fearing disorder from envy/jealousy, have long treated all senior partners alike in compensation, no matter how different their contributions to firm welfare. As I have shared the observation of life with Warren Buffett over decades, I have heard him wisely say on several occasions, "It is not greed that drives the world, but envy."
+And in modern investment banks, law firms, etc, the envy/jealousy effects are usually more extreme than they are in university faculties. Many big law firms, fearing disorder from envy/jealousy, have long treated all senior partners alike in compensation, no matter how different their contributions to firm welfare. As I have shared the observation of life with [[Warren Buffett]] over decades, I have heard him wisely say on several occasions, "It is not greed that drives the world, but envy."
 
 And, because this is roughly right, one would expect a vast coverage of envy/jealousy in psychology textbooks. But no such vast coverage existed when I read my three textbooks. Indeed, the very words "envy" and "jealousy" were often absent from indexes.
 

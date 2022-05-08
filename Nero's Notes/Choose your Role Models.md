@@ -6,7 +6,7 @@ Choose your role model and emulate him as much as possible. In everything you do
 - Charlie Munger
 - Terry Smith
 - Nick Sleep
-- Warren Buffett
+- [[Warren Buffett]]
 - Yen Liow
 - Mohnish Pabrai
 - Benjamin Franklin

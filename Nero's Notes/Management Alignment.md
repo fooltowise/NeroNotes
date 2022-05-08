@@ -4,7 +4,7 @@ See [[Corporate Management]], [[Superpower of Incentives]], [[Reward and Punishm
 
 In our book, alignment means being a partner in both directions, not just on the upside. Many 'Alignment' plans flunk this basic test, being artful forms of 'Head I win, tails you lose.'
 
-The Kiewit Company is the most successful construction company in the world and it has been for decades... and it's got a set of management principles and basically it started with Peter Kiewit arranging a compensation system so **when the company got in trouble, not only he went broke but all the people that got him in trouble went broke.** - Warren Buffett, in *All I want to know is where I'm going to die so I'll never go there*
+The Kiewit Company is the most successful construction company in the world and it has been for decades... and it's got a set of management principles and basically it started with Peter Kiewit arranging a compensation system so **when the company got in trouble, not only he went broke but all the people that got him in trouble went broke.** - [[Warren Buffett]], in *All I want to know is where I'm going to die so I'll never go there*
 
 
 

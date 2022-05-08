@@ -1,9 +1,9 @@
-# Warren Buffett's $50 bn decision
+# [[Warren Buffett]]'s $50 bn decision
 
 
-_This article, by [Warren Buffett](http://www.forbes.com/profile/warren-buffett/), as told to [Randall Lane](http://blogs.forbes.com/randalllane/), appears in the upcoming April issue of_ ForbesLife _magazine, as part of its "When I Was 25" series._
+_This article, by [[[Warren Buffett]]](http://www.forbes.com/profile/warren-buffett/), as told to [Randall Lane](http://blogs.forbes.com/randalllane/), appears in the upcoming April issue of_ ForbesLife _magazine, as part of its "When I Was 25" series._
 
-By Warren Buffett
+By [[Warren Buffett]]
 
 Benjamin Graham had been my idol ever since I read his book _The Intelligent Investor_. I had wanted to go to Columbia [Business](http://www.forbes.com/business/) School because he was a professor there, and after I got out of Columbia, returned to Omaha, and started selling securities, I didn’t forget about him. Between 1951 and 1954, I made a pest of myself, sending him frequent securities ideas. Then I got a letter back: “Next time you’re in New York, come and see me.”
 

@@ -1,5 +1,5 @@
 # How to Get Rich Without Getting Lucky
-## by Naval Ravikant
+## by [[Naval Ravikant]]
 
 Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.
 

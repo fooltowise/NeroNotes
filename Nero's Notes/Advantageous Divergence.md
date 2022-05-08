@@ -91,11 +91,11 @@ What others think are the characteristics which make you an anomaly, eccentric o
 
 > The less prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs.
 
-– Warren Buffett, [[Berkshire Hathaway]] 2017 Shareholder Letter
+– [[Warren Buffett]], [[Berkshire Hathaway]] 2017 Shareholder Letter
 
 > “Why don’t more people copy you?” It’s a good question. Our approach has worked for us. It’s not difficult, but it looks difficult because it’s unconventional – it isn’t the way things are normally done. It’s simple and common sense.
 
-– Warren Buffett, Poor Charlie’s Almanack
+– [[Warren Buffett]], Poor Charlie’s Almanack
 
 > When he [Lee Kuan Yew] took over, he was a very young man. He needed an army, he was surrounded by a bunch of Muslims that hated him. They’d spit him out. He asked all the other nations of the world to please help him get an army because the English just left and said, “Handle your own problems.” Every nation in the world refused to help him but one, and that was Israel. He said, “How am I going to take military aid surrounded by Muslims that hate me from Israel?” He finally figured it out. He accepted the aid and told everybody they were Mexicans. Well, you can see why he was so successful. He had a mantra, which doesn’t have any literary quality, but it has a lot of good sense in it. He’d say over and over again, “Figure out what works and do it.” That’s what built modern Singapore.
 
@@ -119,7 +119,7 @@ What others think are the characteristics which make you an anomaly, eccentric o
 
 > Play stupid games, win stupid prizes.
 
-– Naval Ravikant, How to Get Rich
+– [[Naval Ravikant]], How to Get Rich
 
 > Most mathematicians know one method. For example, Norbert Wiener had mastered Fourier transforms. Some mathematicians have mastered two methods and might really impress someone who knows only one of them. John von Neumann had mastered three methods: 1) A facility for the symbolic manipulation of linear operators, 2) An intuitive feeling for the logical structure of any new mathematical theory; and 3) An intuitive feeling for the combinatorial superstructure of new theories.
 

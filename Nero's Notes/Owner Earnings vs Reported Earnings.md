@@ -6,7 +6,7 @@
 > - (A) Reported Earnings, plus 
 > - (B) Depreciation, Depletion, Amortization and certain other non-cash charges, less
 >- (C) The annual averaged amount of capital expenditure for plants and equipment, etc that the business requires to fully maintain its long-term competitive position and its units volume. If the business requires additional working capital to maintain its competitive position and unit volume, the increment also should be added to (C).
-> -- Warren Buffett
+> -- [[Warren Buffett]]
 
 
 There are three reasons why reported earnings should differ from owner earnings:

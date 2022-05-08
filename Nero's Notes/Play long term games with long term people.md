@@ -15,7 +15,7 @@ Now of course that doesn’t always work because you can make so much money in o
 
 But essentially if you want to be successful, you have to work with other people. And you have to figure out who can you trust, and who can you trust over a long, long period of time, that you can just keep playing the game with them, so that compound interest, and high trust will make it easier to play the game, and will let you collect the major rewards, which are usually at the end of the cycle.
 
-So, for example, Warren Buffett has done really well as an investor in the U.S. stock market, but the biggest reason he could do that was because the U.S. stock market has been stable, and around, and didn’t get for example seized by the government during a bad administration. Or the U.S. didn’t plunge into some war. The underlying platform didn’t get destroyed. So, in his case, he was playing a long-term game. And the trust came from the U.S. stock market’s stability.
+So, for example, [[Warren Buffett]] has done really well as an investor in the U.S. stock market, but the biggest reason he could do that was because the U.S. stock market has been stable, and around, and didn’t get for example seized by the government during a bad administration. Or the U.S. didn’t plunge into some war. The underlying platform didn’t get destroyed. So, in his case, he was playing a long-term game. And the trust came from the U.S. stock market’s stability.
 
 ### When you switch industries, you’re starting over from scratch
 

@@ -48,7 +48,7 @@ If you don’t trust management, then don’t invest.
 
 _“If there is a serious question of the_ **_lack of a strong management sense of trusteeship_** _for stockholders, the investor should_ **_never seriously consider participating_** _in such an enterprise.”_ **Phil Fisher**
 
-_"We_ **_do not wish to join with managers who lack admirable qualities_**_, no matter how attractive the prospects of their business."_ **Warren Buffett**
+_"We_ **_do not wish to join with managers who lack admirable qualities_**_, no matter how attractive the prospects of their business."_ **[[Warren Buffett]]**
 
 Incentives
 ----------
@@ -84,17 +84,17 @@ Passion versus Pay
 
 The most profitable businesses tend to be those focused on delivering a customer outcome, not the most profit-orientated. Founders often bring a passion to the business absent from that of professional managers. They are building a legacy, which requires long term thinking. Buffett himself is a good example; Berkshire pays him a salary of $100,000 a year; he resides in the same house he bought in 1958. Berkshire is his canvas. In the insightful book, **Obliquity,** John Kay observed, “**_Many of the businesspeople who talk obsessively about profit are ultimately less successful in creating profit than those who profess love for their business_**_._”
 
-_“The best entrepreneurs we know don’t particularly care about the terms of their compensation packages, and some, such as Jeff Bezos and Warren Buffett have substantially and permanently waived their salaries, bonuses, or option packages. We would surmise that the_ **_founders_** _of the firms Nomad has invested in are_ **_not particularly motivated by the incremental dollar of personal wealth_**_… These people derive meaning from the challenge, identity, creativity, ethos (this list is not exhaustive) of their work, and not from the incentive packages their compensation committees have devised for them. The point is that financial incentives may be necessary, but they may also not be sufficient in themselves to bring out the best in people.”_ **Nicholas Sleep**
+_“The best entrepreneurs we know don’t particularly care about the terms of their compensation packages, and some, such as Jeff Bezos and [[Warren Buffett]] have substantially and permanently waived their salaries, bonuses, or option packages. We would surmise that the_ **_founders_** _of the firms Nomad has invested in are_ **_not particularly motivated by the incremental dollar of personal wealth_**_… These people derive meaning from the challenge, identity, creativity, ethos (this list is not exhaustive) of their work, and not from the incentive packages their compensation committees have devised for them. The point is that financial incentives may be necessary, but they may also not be sufficient in themselves to bring out the best in people.”_ **Nicholas Sleep**
 
-_“One thing that Sam Walton and Mrs. B had in common is they had a_ **_passion for the business_**_. It isn’t all about the money, at all. It was about winning._ **_Passion counts enormously_**_; you have to really be doing it because you love the results, rather than the money. When we buy businesses, we are looking for people that will not lose an ounce of_ **_passion for the business_** _even after their business is sold.”_ **Warren Buffett**
+_“One thing that Sam Walton and Mrs. B had in common is they had a_ **_passion for the business_**_. It isn’t all about the money, at all. It was about winning._ **_Passion counts enormously_**_; you have to really be doing it because you love the results, rather than the money. When we buy businesses, we are looking for people that will not lose an ounce of_ **_passion for the business_** _even after their business is sold.”_ **[[Warren Buffett]]**
 
 _“I always look to invest in a manager who has made the company his or her_ **_life’s work_**_.”_ **Robert Vinall**
 
-_“A majority of our managers are financially independent, so that_ **_they don’t go to work because they are worried about putting kids through school or putting food on the table_**_. So they have to have some reason to go to work aside from that.”_ **Warren Buffett**
+_“A majority of our managers are financially independent, so that_ **_they don’t go to work because they are worried about putting kids through school or putting food on the table_**_. So they have to have some reason to go to work aside from that.”_ **[[Warren Buffett]]**
 
 _“What matters most:_ **_passion or competence that was inborn_**_. Berkshire is full of people who have a_ **_peculiar passion for their business_**_. I would argue_ **_passion is more important than brain power_**_.”_ **Charlie Munger**
 
-_“We’ve had terrific luck with the_ **_entrepreneurs who basically love their businesses_** _the way I love Berkshire.”_ **Warren Buffett**
+_“We’ve had terrific luck with the_ **_entrepreneurs who basically love their businesses_** _the way I love Berkshire.”_ **[[Warren Buffett]]**
 
 _“I’ve spent a lot of time thinking about factors that influence the long-term success of a business, and I think firms (public or private) that are_ **_run by the founders_** _often have a huge intangible quality to them - one that is crucial to the firm’s ultimate success. This intangible quality is that_ **_the founder is often motivated by much more than money_**_. And that is a driving force that can be incredibly powerful, and incredibly valuable for the owners of those firms.”_ **John Huber**
 
@@ -152,9 +152,9 @@ _“I admire Amazon founder, Jeff Bezos. He has revolutionized the retail indust
 Summary
 -------
 
-Warren Buffett has long espoused the more attractive opportunities in the equities market than the private market. Notwithstanding, he has continued to seek out founder-led businesses for acquisition. In fact, if he had his way, he’d own more.
+[[Warren Buffett]] has long espoused the more attractive opportunities in the equities market than the private market. Notwithstanding, he has continued to seek out founder-led businesses for acquisition. In fact, if he had his way, he’d own more.
 
-_‘In the stock market, you get a chance to buy businesses at foolish prices, and that is why we end up with a lot of money in marketable securities. If we absolutely had our choice, we would own three times the number of businesses we own outright.’_ **Warren Buffett**
+_‘In the stock market, you get a chance to buy businesses at foolish prices, and that is why we end up with a lot of money in marketable securities. If we absolutely had our choice, we would own three times the number of businesses we own outright.’_ **[[Warren Buffett]]**
 
 Many of the world’s best investors have applied the benefits of his approach to public equities investing.
 

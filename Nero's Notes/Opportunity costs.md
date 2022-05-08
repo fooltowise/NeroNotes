@@ -16,7 +16,7 @@ If you take the best text in economics by Mankiw, he says intelligent people mak
 
 
 In another interview, Munger said:
- > When someone presented a company in an emerging market to Warren Buffett, Warren said: "I don't feel more comfortable buying this than I feel about adding to our position in Wells Fargo." He thinks highly of the company and the managers and the position they were in. He was using this as his opportunity cost. He was saying, "Don't talk about anything unless it's better than buying more Wells Fargo." It doesn't matter to Warren where the opportunity is. He has no preconceived idea about whether Berkshire's money ought to be in this or that. He's scanning the world trying to get his opportunity cost as high as he can so his individual decisions would be better.
+ > When someone presented a company in an emerging market to [[Warren Buffett]], Warren said: "I don't feel more comfortable buying this than I feel about adding to our position in Wells Fargo." He thinks highly of the company and the managers and the position they were in. He was using this as his opportunity cost. He was saying, "Don't talk about anything unless it's better than buying more Wells Fargo." It doesn't matter to Warren where the opportunity is. He has no preconceived idea about whether Berkshire's money ought to be in this or that. He's scanning the world trying to get his opportunity cost as high as he can so his individual decisions would be better.
 
 Munger's words have significant implications for investors. If you expect to achieve a much higher level of returns from one stock that you do not expect to achieve in the others, then why should you continue allocating capital to the rest of them? Wouldn't it make more sense to remain fully invested until a much better return opportunity appears? All too often, investors succumb to the "do something" syndrome and relax their standards for incoming investments instead of firmly maintaining a very high hurdle rate at all times. Be unreasonable.
 
@@ -24,7 +24,7 @@ Munger's words have significant implications for investors. If you expect to ach
 
 Capital is finite and always carries an opportunity cost - what you can do with the next best alternative. If your next best alternative is 1%, your opportunity cost is 1%, and if it is 10%, the cost is 10%, no matter what some formula created in academia might say. Always remember - the highest and best use of capital should always be measured by the next best possible use.
 
-> If I know I have something that yields 8% for sure, and something else came along at 7%, I'd reject it instantly. Everything is a function of opportunity cost. — Warren Buffett
+> If I know I have something that yields 8% for sure, and something else came along at 7%, I'd reject it instantly. Everything is a function of opportunity cost. — [[Warren Buffett]]
 
 During the 2014 annual meeting, Buffett and Munger explained why evaluating one's opportunity cost is the most logical way to think about cost of capital:
 

@@ -5,13 +5,13 @@
 
 What I'm going to try today is to extend the remarks I made two years ago at the USC Business School. You were assigned a transcript of my [[A Lesson on Elementary Worldly Wisdom| USC Talk]]. And there's nothing I said then that I wouldn't repeat today. But I want to amplify what I said then.
 
-It's perfectly clear... that if Warren Buffett had never learned anything new after graduating from Columbia Business School, Berkshire would be a pale shadow of its present self. Warren would have gotten rich - because what he learned from Ben Graham at Columbia was enough to make anybody rich. But he wouldn't have the kind of enterprise [[Berkshire Hathaway]] is if he hadn't kept learning.
+It's perfectly clear... that if [[Warren Buffett]] had never learned anything new after graduating from Columbia Business School, Berkshire would be a pale shadow of its present self. Warren would have gotten rich - because what he learned from Ben Graham at Columbia was enough to make anybody rich. But he wouldn't have the kind of enterprise [[Berkshire Hathaway]] is if he hadn't kept learning.
 
 How do you get worldly wisdom? What system do you use to rise into the tiny top percentage of the world in terms of having sort of an elementary practical wisdom?
 
 I've long believed that a certain system - which almost any intelligent person can learn - works way better than the systems that most people use. As I said at the USC School, what you need is a latticework of mental models in your head. And you hang your actual experience and you vicarious experience (that you get from reading and so forth) on this latticework of powerful models. And, with that system, things gradually get to fit together in a way that enhances cognition.
 
-Your assigned reading for today included the latest annual letters from Jack Welch and Warren Buffett relating to General Electric and [[Berkshire Hathaway]], respectively. Jack Welch has a PhD in engineering. And Warren plainly could have gotten a PhD in any field he wanted to pursue. And both gentlemen are inveterate teachers.
+Your assigned reading for today included the latest annual letters from Jack Welch and [[Warren Buffett]] relating to General Electric and [[Berkshire Hathaway]], respectively. Jack Welch has a PhD in engineering. And Warren plainly could have gotten a PhD in any field he wanted to pursue. And both gentlemen are inveterate teachers.
 
 Worldly wisdom is quite academic when you get right down to it. Look at what General Electric has achieved - and, for that matter, what [[Berkshire Hathaway]] has achieved.
 
@@ -110,7 +110,7 @@ Heavy ideology is one of the most extreme distorters of human cognition. Look at
 
 Ideology does some strange things and distorts cognition terribly. If you get a lot of heavy ideology young - and then you start expressing it - you are really locking your brain into a very unfortunate pattern. And you are going to distort you general cognition.
 
-That's a very interesting history if you take Warren Buffett as an example of worldly wisdom: Warren adored his father - who was a wonderful man. But Warren's father was a very heavy ideologue (right wing, it happened to be), who hung around with other very heavy ideologues (right wing, naturally).
+That's a very interesting history if you take [[Warren Buffett]] as an example of worldly wisdom: Warren adored his father - who was a wonderful man. But Warren's father was a very heavy ideologue (right wing, it happened to be), who hung around with other very heavy ideologues (right wing, naturally).
 
 Warren observed that as a kid. And he decided that ideology was dangerous - and that he was going to stay a long way away from it. And he has throughout his whole life. That has enormously helped the accuracy of his cognition.
 
@@ -290,7 +290,7 @@ Why should we want to play a competitive game in a field where we have no advant
 
 Each of you will have to figure out where your talents lie. And you'll have to use your advantages. But if you try to succeed in what you're worst at, you're going to have a very lousy career. I can almost guarantee it. To do otherwise, you'd have to buy a winning lottery ticket or get very lucky somewhere else.
 
-*Q: Warren Buffett has said that the investment Berkshire made in an airline was a good example of what not to do. What chain of thinking led to that wrong decision?*
+*Q: [[Warren Buffett]] has said that the investment Berkshire made in an airline was a good example of what not to do. What chain of thinking led to that wrong decision?*
 
 We were not buying stock in USAir on the theory that the common shareholders were certain to prosper - because the history of the airline business in terms of taking care of shareholders has been terrible. It was a preferred stock with a mandatory redemption. In effect, we were loaning  money to USAir, and we had this equity kicker.
 

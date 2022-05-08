@@ -1,6 +1,6 @@
 # Signaling and Information Asymmetry
 
-*“People who try to look smart by pointing out obvious exceptions actually signal the opposite.”* — [Naval Ravikant](https://fs.blog/naval-ravikant/)
+*“People who try to look smart by pointing out obvious exceptions actually signal the opposite.”* — [[[Naval Ravikant]]](https://fs.blog/naval-ravikant/)
 
 Signaling is necessary in situations of information asymmetry. One party in a transaction—and it may not be an economic one, simply any exchange of value—has more information than the other. [[Countersignaling]] is more appropriate when parties have symmetrical information.
 

@@ -91,7 +91,7 @@ Here’s how Ravikant [describes](https://nav.al/money-luck) luck unique to you:
 
 Capturing this kind of luck can seem impossible to envision at the start because you have to become the _best_ at something. Becoming the best at something is hard to do, but possible if you:
 
-**“Keep redefining what you do until this is true.”** - Naval Ravikant
+**“Keep redefining what you do until this is true.”** - [[Naval Ravikant]]
 
 You need to build a [Skill stack](https://www.wealest.com/articles/25-percent-rule) unique to you. See also [[Skill stack]]. The more skills you stack, the more unique your offering, and the better chance you have to become the “best” at something.
 
@@ -105,6 +105,6 @@ Doggedly pursue what interests you and build skills in those spaces. You’ll be
 
 > “You do not want to compete, you want to be a market of one.”
 
-— NAVAL RAVIKANT
+— [[NAVAL RAVIKANT]]
 
 Now, go get lucky.

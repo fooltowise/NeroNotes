@@ -1,0 +1,5 @@
+# Standing on the shoulders of giants
+
+Intelligent Fanatics had mentors, role models, and heroes that helped mold their ideologies, strategies, and belief systems. They spent ample time in person an in reading with achievers. Jim Rohn famously said that we are the average of the five people we spend the most time with. Hang out with losers and you will become a loser. Surround yourself with achievers and you will rise to their level.
+
+For example, Henry Wellcome, Dr William Worrall Mayo, and, later, Joseph Lister. Dan Leever stood on the shoulders of Tom Smith, [[Warren Buffett]], and Emerson Kampen. Peter Kiewit's favorite books were the autobiographies of Alfred Sloan and P.W. Litchfield. Intelligent fanatics learned everything they could from the greats that came before them, and we must do the same.

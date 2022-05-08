@@ -256,7 +256,7 @@ Not bad at all!
 
 And, so much for market efficiency!
 
-There is an important lesson here: Control value investors don’t worry about macro events that cause prices of great, stable, debt-free, cash rich businesses to drop to below the levels of their debt capacities. When such businesses become available at those bargain prices, they act fast. They do not allow the environment of uncertainty and fear prevailing at the time to shift their focus from what really matters — the fundamentals. They go by Warren Buffett’s advice, who famously wrote: *“Fear is a foe of the faddist, but a friend of the fundamentalist.”*
+There is an important lesson here: Control value investors don’t worry about macro events that cause prices of great, stable, debt-free, cash rich businesses to drop to below the levels of their debt capacities. When such businesses become available at those bargain prices, they act fast. They do not allow the environment of uncertainty and fear prevailing at the time to shift their focus from what really matters — the fundamentals. They go by [[Warren Buffett]]’s advice, who famously wrote: *“Fear is a foe of the faddist, but a friend of the fundamentalist.”*
 
 ## Vantage Point # 6: Modigliani & Miller, Finance Academics, Nobel Laureates
 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wingstop - The Domino's of Chicken Wings.md",
-            "mode": "preview",
+            "file": "My Investing Strategy.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wingstop - The Domino's of Chicken Wings.md",
+                "file": "My Investing Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wingstop - The Domino's of Chicken Wings.md",
+                "file": "My Investing Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wingstop - The Domino's of Chicken Wings.md"
+                "file": "My Investing Strategy.md"
               }
             }
           },
@@ -132,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,15 +141,15 @@
   },
   "active": "59c5b12b003f86ba",
   "lastOpenFiles": [
-    "Wingstop - The Domino's of Chicken Wings.md",
-    "Wingstop.md",
-    "Wingstop - Franchise economics, chicken sourcing  and US Store growth.md",
-    "Young Hamilton on Wingstop.md",
-    "Corporate Culture.md",
-    "eXp World.md",
-    "Exp International Holdings.md",
-    "My highest Conviction Stock Idea, by Sean Iddings.md",
-    "Intelligent Fanatics.md",
-    "eXp World, RE/MAX, & US Real Estate Brokerage.md"
+    "My Investing Strategy.md",
+    "Long term investing.md",
+    "Non-zero sum.md",
+    "Redefining Margin of Safety.md",
+    "Standing on the shoulders of giants.md",
+    "Warren Buffett.md",
+    "A Study in Decentralization.md",
+    "Decentralized Organizations.md",
+    "Experimentation.md",
+    "Dominating a small market before expanding.md"
   ]
 }

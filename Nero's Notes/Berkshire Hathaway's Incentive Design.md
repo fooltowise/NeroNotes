@@ -1,8 +1,8 @@
-# How Warren Buffett Rewards Berkshire's Managers For Using Less Capital
+# How [[Warren Buffett]] Rewards Berkshire's Managers For Using Less Capital
 
 ### by Adam Mead
 
-Warren Buffett has provided lots of hints on Berkshire’s compensation arrangements with managers. At times, such as at the 1995 annual meeting (video below), he’s also discussed how a manager can be rewarded for releasing capital.
+[[Warren Buffett]] has provided lots of hints on Berkshire’s compensation arrangements with managers. At times, such as at the 1995 annual meeting (video below), he’s also discussed how a manager can be rewarded for releasing capital.
 
 A question about the mechanics of that arrangement prompted a somewhat lengthy response in the comments section and the idea to bring this wonderful group of readers into the discussion.
 

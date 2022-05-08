@@ -1,6 +1,6 @@
 # My Investing Strategy
 
-See also [[Long-Term Focus]], [[Long term investing]]
+See also [[Long term investing]]
 
 
 From what I can read, It looks like most equity analysts and institutional investors have a very short-term focus, where they try to predict what will happen to a stock within the next six months (the book *Best Practices for Equity Research Analysts* was an eye-opener. I suspected this was the case, I just didn't know it was this bad).
@@ -13,8 +13,8 @@ So how do I find those long-term compounders?
 ## Business Model
 I will need to find extremely resilient business models, with a very high return on re-invested capital. Some example are:
 
-- Be the toll bridge of the economy ([[Visa]], Mastercard, Moody's, Standard & Poor's, MSCI,...)
-- [[Scale Economics Shared]] (Amazon, [[Costco]] ...)
+- Be the toll bridge of the economy ([[Visa]], [[Mastercard]], Moody's, Standard & Poor's, MSCI,...)
+- [[Scale Economics Shared]] ([[Amazon]], [[Costco]] ...)
 - Serial acquirer with a decentralized organization and an excellent capital allocator at the helm. 
 
 ## Management
@@ -26,7 +26,24 @@ If I plan to be invested for the very-long term, **capital allocation is of utmo
 
 
 ## Stakeholders
-- What is management doing to strengthen its relationship with customers? Employees? Suppliers? 
+- What is management doing to strengthen its relationship with customers? Employees? Suppliers? Are there many [[Non-zero sum]] relationships?
+
+## [[Intelligent Fanatics]]
+
+Are people in the management seats [[Intelligent Fanatics]]? If yes, they to have common characteristics:
+- They have a [[Long-Term Focus]]
+- They understand the [[Superpower of Incentives]]
+- They have an [[Owner Operators]]'s mindset
+- They have [[Productive Paranoia]]
+- The like to do [[Experimentation]]s
+- They have [[Decentralized Organizations]]
+- They grow the talent and skills of their people
+
+In addition to these traits, we have also observed two other commonalities that deserve additional attention:
+- They [[Standing on the shoulders of giants|Stand on the shoulders of giants]]
+- They harness a maximum of [[Non-zero sum]] relationships
+
+
 
 
 

@@ -211,7 +211,7 @@ See [[The Fundamental Theorem of Investing]]
 - Is the world better off for having this company in operation?
 	- Does this company manage its business in such a way that is beneficial for the greater world?
 	- Are non-business constituents pleased to have this business in operation?
-- **Is the company operating in a non-zero sum mindset, enabling a whole ecosystem around it?**
+- **Is the company operating in a [[non-zero sum]] mindset, enabling a whole ecosystem around it?**
 - If this company discontinued operations tomorrow, would anyone notice/be bothered?
 	- What about one month from now?
 

@@ -12,7 +12,7 @@ Toll-road companies are typically oligopolies, not monopolies. While customers a
 
 ### The economics of a toll bridge
 
-> In an inflationary world, a toll bridge would be a great thing to own because you've laid out the capital costs. You built it in old dollars, and you on't have to keep replacing it. - Warren Buffett
+> In an inflationary world, a toll bridge would be a great thing to own because you've laid out the capital costs. You built it in old dollars, and you on't have to keep replacing it. - [[Warren Buffett]]
 
 
 Buffett tells us that the fundamental economics of a toll bridge are excellent. What are the reasons that make a toll bridge a very good business model?

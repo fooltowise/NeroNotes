@@ -4,7 +4,7 @@ See also [[Returns on Incremental Capital]], [[Return on Capital]], [[Importance
 
 by [John Huber](https://sabercapitalmgt.com/author/sabercapital/ "Posts by John Huber") | Jun 6, 2016 | [Education](https://sabercapitalmgt.com/category/education/), [Investment Philosophy](https://sabercapitalmgt.com/category/investment-philosophy/)
 
-_“Leaving the question of price aside, the best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return.”_ – **Warren Buffett**, 1992 Shareholder Letter
+_“Leaving the question of price aside, the best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return.”_ – **[[Warren Buffett]]**, 1992 Shareholder Letter
 
 I received a lot of feedback, comments and a few questions after [Connor Leonard’s guest post](https://sabercapitalmgt.com/importance-of-roic-reinvestment-vs-legacy-moats/) last week. Connor’s write-up was very well articulated, and deservedly received much praise. There were a few questions which we tried to ad[dress](https://www.formalgownaustralia.com/) in comments and email responses, but one comment that came up a few times was: how do you calculate the return on reinvested capital?
 

@@ -18,7 +18,7 @@ This happened more than once in the trenches in World War I, over big stretches 
 
 It is obvious that commercial trade, a fundamental cause of modern prosperity, is enormously facilitated by man's innate tendency to reciprocate favors. In trade, enlightened self-interest joining with reciprocation tendency results in constructive conduct. Daily interchange in marriage is also assisted by reciprocation tendency, without which marriage would lose much of its allure.
 
-And reciprocation tendency, insomuch as it causes good results, does not join forces only with the superpower of incentives. It also joins [[Inconsistency Avoidance Tendency]] in helping cause (1) the fulfillment of promises in marriage ceremonies, and (2) correct behavior expected from persons serving as priests, shoemakers, physicians, and all else.
+And reciprocation tendency, insomuch as it causes good results, does not join forces only with the [[superpower of incentives]]. It also joins [[Inconsistency Avoidance Tendency]] in helping cause (1) the fulfillment of promises in marriage ceremonies, and (2) correct behavior expected from persons serving as priests, shoemakers, physicians, and all else.
 
 Like other psychological tendencies, ans also man's ability to turn somersaults, reciprocate-favor tendency operates to a very considerable degree at a subconscious level. This helps make the tendency a strong force that can sometimes be used by some men to mislead others, which happens all the time.
 

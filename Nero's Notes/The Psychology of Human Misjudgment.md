@@ -74,7 +74,7 @@ But academic psychology has some very important merits alongside its defects. I 
 
 I immediately sent copies of Cialdini's book to all my children. I also gave Cialdini a share of Berkshire stock (class A)  to thank him for what he had done for me and the public. Incidentally, the sale by Cialdini of hundreds of thousands of copies of a boo about social psychology was a huge feat, considering that Cialdini didn't claim that he was going to improve your sex life or make you any money.
 
-Part of Cialdini's large book-buying audience came because, like me, it wanted to learn how to become less often tricked by salesmen and circumstances. However, as an outcome not sought by Cialdini, who is a profoundly ethical man, a huge number of his books were bought by salesmen who wanted to learn how to become more effective in misleading customers. Please remember this perverse outcome when my discussion comes to incentive-caused bias as a consequence of the superpower of incentives.
+Part of Cialdini's large book-buying audience came because, like me, it wanted to learn how to become less often tricked by salesmen and circumstances. However, as an outcome not sought by Cialdini, who is a profoundly ethical man, a huge number of his books were bought by salesmen who wanted to learn how to become more effective in misleading customers. Please remember this perverse outcome when my discussion comes to incentive-caused bias as a consequence of the [[superpower of incentives]].
 
 With the push given by Cialdini's book, I soon skimmed through three much used textbooks covering introductory psychology. I also pondered considerably while craving synthesis and taking into account all my previous training and experience. 
 
@@ -172,7 +172,7 @@ Here is a short list of examples reminding us of the great utility of elementary
 
 **Nine**: The great example of Charles Darwin as he avoided confirmation bias, which has morphed into the extreme anti-confirmation bias method of the "double-blind" studies wisely required in drug research by FDA.
 
-**Ten**: The Warren Buffett rule for open outcry auctions: Don't go.
+**Ten**: The [[Warren Buffett]] rule for open outcry auctions: Don't go.
 
 My fourth question is : What special knowledge problems lie buried in the thought system demonstrated by your list?
 

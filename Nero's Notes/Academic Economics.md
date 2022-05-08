@@ -108,7 +108,7 @@ And they taught this theory to some partner at McKinsey when he was at some scho
 
 And *Washington Post* was selling at a fifth of what an orangutan could figure was the plain value per share by just counting up the values and dividing. But he so believed what he'd been taught in graduate school that he told the *Washington Post* it shouldn't buy its own stock.
 
-Well, fortunately, they put Warren Buffett on the board, and he convinced them to buy back more than half of the outstanding stock, which enriched the remaining shareholders by much more than a billion dollar. So, there was at least one instance of a place that quickly killed a wrong academic theory.
+Well, fortunately, they put [[Warren Buffett]] on the board, and he convinced them to buy back more than half of the outstanding stock, which enriched the remaining shareholders by much more than a billion dollar. So, there was at least one instance of a place that quickly killed a wrong academic theory.
 
 It's my view that economics could avoid a lot of this trouble that comes from physics envy. I want economics to pick up the basics ethos of hard science, the full attribution habit, but not the craving for an unattainable precision that comes from physics envy. 
 

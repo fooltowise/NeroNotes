@@ -53,7 +53,7 @@ Companies that took pride in doing the small things right also tended to get the
 
 >  _Good things follow when you care about the pennies._ 
 
-### Owner Operators - Incentives, Incentives, Incentives
+### [[Owner Operators]] - Incentives, Incentives, Incentives
 
 Always keenly attuned to incentives, Nomad had a strong bias towards investing in owner operated companies. For example, in 2008 about 90% of the portfolio was invested in companies where the founder or largest shareholder ran the company. 
 

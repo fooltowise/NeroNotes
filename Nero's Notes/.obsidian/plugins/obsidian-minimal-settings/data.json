@@ -8,7 +8,7 @@
   "textFont": "Avenir",
   "editorFont": "Avenir",
   "monoFont": "Menlo,SFMono-Regular,Consolas,Roboto Mono,monospace",
-  "lineWidth": 52,
+  "lineWidth": 60,
   "lineWidthWide": 60,
   "maxWidth": 88,
   "textNormal": 20,

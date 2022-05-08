@@ -114,7 +114,7 @@ The decision to focus on growing the store base in small towns of Poland, supple
 
 Another important decision by the management team has been to NOT pay any dividend. It has said that, taking into account the quick store growth strategy, the board of the company has not paid any dividend and does not intend to for the foreseeable future. It is reinvesting all its earnings back into the business which is generating more than 20% return on capital.
 
-Warren Buffett wrote in his 1984 letter to shareholders:
+[[Warren Buffett]] wrote in his 1984 letter to shareholders:
 
 _Unrestricted earnings should be retained only when there is a reasonable prospect—backed preferably by historical evidence or, when appropriate, by a thoughtful analysis of the future—that for every dollar retained by the corporation, at least one dollar of market value will be created for owners. This will happen only if the capital retained produces incremental earnings equal to, or above, those generally available to investors._
 

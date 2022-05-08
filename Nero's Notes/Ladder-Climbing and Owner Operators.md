@@ -1,4 +1,4 @@
-# Ladder-Climbing and Owner Operators
+# Ladder-Climbing and [[Owner Operators]]
 
 ## by [[Demesne Investments]]
 
@@ -38,12 +38,12 @@ As a result, leaders in decentralized businesses are much less likely to be foun
 Longevity is the natural bedfellow of long-term thinking. Combined with the freedom to exercise their own agency, it allows leaders to cultivate deep domain expertise and, eventually, mastery in their niche. They develop personal relationships with customers and come to intimately understanding their needs. They learn how to construct a high-performance team and forge comradery through their shared highs and lows. They build up an industry network to help them identify good suppliers, new customers, and rising talent to recruit onboard. The logo on the door becomes a proud part of their identity, their reputation. In other words, they become attached at a professional, personal, and communal level to their business. Compensation is certainly still important, but these kinds of attachments are what comprise an authentic ethos of ownership, not stock options and bonuses.
 
 
-## Owner Operators
-No discussion of ownership is complete without addressing Owner Operators. An Owner Operator is a CEO (or hands-on Chairman) who is not only a skilled entrepreneur, but also owns a significant stake in the company. Usually, this person is the founder. In the minds of many investors, this is the Platonic ideal of alignment. What better incentive is there to act like an owner than to literally be one of the largest owners? Most investors tend to focus on the significance of the Owner Operator’s financial stake as their key motivating factor, but I would argue that the “softer”
+## [[Owner Operators]]
+No discussion of ownership is complete without addressing [[Owner Operators]]. An Owner Operator is a CEO (or hands-on Chairman) who is not only a skilled entrepreneur, but also owns a significant stake in the company. Usually, this person is the founder. In the minds of many investors, this is the Platonic ideal of alignment. What better incentive is there to act like an owner than to literally be one of the largest owners? Most investors tend to focus on the significance of the Owner Operator’s financial stake as their key motivating factor, but I would argue that the “softer”
 variables I discussed at the end of the previous section – affection and pride for the organization they built over a number of years – are just as important. Whatever the case, there is good evidence in support of the Owner Operator
 hypothesis.
 
-Having an Owner Operator leading a company is all well and good, but what if you could have not just one but a multitude of them? We have already discussed how a decentralized structure creates an environment that nurtures the development of authentic ownership across many independent business units. In addition to that, decentralized holding companies tend to heavily skew their acquisitions towards family and founder-led businesses. In doing so, decentralized businesses systematically import Owner Operators. As a result, the roots of ownership in a decentralized conglomerate often run far deeper than they first appear. 
+Having an Owner Operator leading a company is all well and good, but what if you could have not just one but a multitude of them? We have already discussed how a decentralized structure creates an environment that nurtures the development of authentic ownership across many independent business units. In addition to that, decentralized holding companies tend to heavily skew their acquisitions towards family and founder-led businesses. In doing so, decentralized businesses systematically import [[Owner Operators]]. As a result, the roots of ownership in a decentralized conglomerate often run far deeper than they first appear. 
 
 The bedrock principle of empowering entrepreneurs with independence and selective support naturally resonates with founders. It also addresses a common fear: that their life’s work, and a community of people they care about (be they customers or colleagues), will be cast asunder by the wrong owner. A former M&A Director at [[Constellation Software]] (discussed in my previous letter) gives strong testimony to this dynamic:
 
