@@ -7,11 +7,11 @@ See also [[Due Diligence - Investment Checklist]]
 
 ### Is the CEO passionate about the business opportunity?
 1. Does the CEO have a visionary attitude towards the business' opportunities?
-2. Does the CEO think independently and exhibit original ideas?
-3. Does the CEO have strong market insight?
-4. Has the CEO stayed in the same industry for more than a decade?
-5. Does the CEO show genuine excitement for their products?
-6. *Does the CEO serve on a significant number of outside boards?*
+3. Does the CEO think independently and exhibit original ideas?
+4. Does the CEO have strong market insight?
+5. Has the CEO stayed in the same industry for more than a decade?
+6. Does the CEO show genuine excitement for their products?
+7. *Does the CEO serve on a significant number of outside boards?*
 
 
 ### Does management appear to have strong execution capabilities?
@@ -174,6 +174,3 @@ See also [[Due Diligence - Investment Checklist]]
 
 
 
-
-
-1. 

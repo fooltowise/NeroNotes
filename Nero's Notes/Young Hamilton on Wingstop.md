@@ -1,5 +1,7 @@
 # Young Hamilton on [[Wingstop]]
 
+by [[Young Hamilton]]
+
 
 Subscribe to AGB - One analysis of a good business every three weeks.
 

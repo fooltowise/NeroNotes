@@ -17,12 +17,16 @@ I will need to find extremely resilient business models, with a very high return
 - [[Scale Economics Shared]] ([[Amazon]], [[Costco]] ...)
 - Serial acquirer with a decentralized organization and an excellent capital allocator at the helm. 
 
+
+
 ## Management
 Management will have to think extremely long term as well. As a result, the management team needs to have a big equity stake in the business to align their interest with shareholders. Family businesses are even better, they are able to suffer short-term pain to get long-term growth.
 
 Management's quality of thinking of  is very important, some landmarks are Mark Leonard, Buffett, Jeff Bezos.
 
 If I plan to be invested for the very-long term, **capital allocation is of utmost importance**. Most of my gains will come from the reinvestment of returns. I need an extremely clear picture of how management thinks about capital allocation. Some will describe it explicitly in their shareholder letters, but for others I will have to check management's history of capital allocation.
+
+Is management doing what it can to [[Paul Black on Moat Direction|widen the moat]]? What is the direction of the moat?
 
 
 ## Stakeholders
@@ -35,7 +39,7 @@ Are people in the management seats [[Intelligent Fanatics]]? If yes, they to hav
 - They understand the [[Superpower of Incentives]]
 - They have an [[Owner Operators]]'s mindset
 - They have [[Productive Paranoia]]
-- The like to do [[Experimentation]]s
+- They like to do [[Experimentation]]s
 - They have [[Decentralized Organizations]]
 - They grow the talent and skills of their people
 

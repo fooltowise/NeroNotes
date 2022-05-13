@@ -10,6 +10,19 @@
           "type": "markdown",
           "state": {
             "file": "My Investing Strategy.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4a47f4e20ad58b03",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Business Ideas.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Investing Strategy.md",
+                "file": "Business Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Investing Strategy.md",
+                "file": "Business Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Investing Strategy.md"
+                "file": "Business Ideas.md"
               }
             }
           },
@@ -139,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "59c5b12b003f86ba",
+  "active": "4a47f4e20ad58b03",
   "lastOpenFiles": [
+    "Business Ideas.md",
+    "Quality First Investing - Checklist.md",
+    "Best Businesses in the world to Study.md",
+    "Non-zero sum.md",
     "My Investing Strategy.md",
     "Long term investing.md",
-    "Non-zero sum.md",
-    "Redefining Margin of Safety.md",
-    "Standing on the shoulders of giants.md",
-    "Warren Buffett.md",
-    "A Study in Decentralization.md",
-    "Decentralized Organizations.md",
     "Experimentation.md",
-    "Dominating a small market before expanding.md"
+    "Wingstop.md",
+    "Young Hamilton on Wingstop.md",
+    "Wingstop - The Domino's of Chicken Wings.md"
   ]
 }
