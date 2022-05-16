@@ -6,6 +6,7 @@
       {
         "id": "59c5b12b003f86ba",
         "type": "leaf",
+        "dimension": 44.71803018268467,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,12 +18,13 @@
         }
       },
       {
-        "id": "4a47f4e20ad58b03",
+        "id": "7e2eafa78a9274f5",
         "type": "leaf",
+        "dimension": 55.281969817315336,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Business Ideas.md",
+            "file": "Launching a paid newsletter.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Ideas.md",
+                "file": "Launching a paid newsletter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Ideas.md",
+                "file": "Launching a paid newsletter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Ideas.md"
+                "file": "Launching a paid newsletter.md"
               }
             }
           },
@@ -152,17 +154,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a47f4e20ad58b03",
+  "active": "7e2eafa78a9274f5",
   "lastOpenFiles": [
+    "Launching a paid newsletter.md",
+    "My Investing Strategy.md",
     "Business Ideas.md",
     "Quality First Investing - Checklist.md",
     "Best Businesses in the world to Study.md",
     "Non-zero sum.md",
-    "My Investing Strategy.md",
     "Long term investing.md",
     "Experimentation.md",
     "Wingstop.md",
-    "Young Hamilton on Wingstop.md",
-    "Wingstop - The Domino's of Chicken Wings.md"
+    "Young Hamilton on Wingstop.md"
   ]
 }
