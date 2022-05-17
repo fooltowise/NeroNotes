@@ -5,7 +5,7 @@
 
 There are two big categories of competitive advantage:
 - Advantages that give you pricing power
-- Advantages that allow you to be the low cost provider
+- Advantages that allow you to be the [[Low-Cost Provider]]
 
 ### Pricing power: 
 **We want the company to be a price maker, not a price taker.**
@@ -32,7 +32,7 @@ Pricing power can come from:
 3. When the payer is not the decider (again example of the Agency business model)
 
 
-### Be the [[Low Cost Provider]]
+### Be the [[Low-Cost Provider]]
 1. [[Economies of Scale]]
 2. [[Reverse pricing power]]
 3. [[Scale Economics Shared]]

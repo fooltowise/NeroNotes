@@ -4,23 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "59c5b12b003f86ba",
-        "type": "leaf",
-        "dimension": 44.71803018268467,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "My Investing Strategy.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "7e2eafa78a9274f5",
         "type": "leaf",
-        "dimension": 55.281969817315336,
         "state": {
           "type": "markdown",
           "state": {
@@ -29,6 +14,14 @@
             "backlinks": true,
             "source": false
           }
+        }
+      },
+      {
+        "id": "464b4f8271a4bd62",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -95,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Launching a paid newsletter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Launching a paid newsletter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Launching a paid newsletter.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e2eafa78a9274f5",
+  "active": "464b4f8271a4bd62",
   "lastOpenFiles": [
+    "Low-Cost Provider.md",
+    "Costco.md",
+    "Basic-Fit, The Gym Group & Discount Gym Economics.md",
+    "Danaher.md",
+    "Danaher Business System Mindset.md",
+    "Danaher, Beckman Coulter and the DBS machine.md",
+    "Business Ideas.md",
     "Launching a paid newsletter.md",
     "My Investing Strategy.md",
-    "Business Ideas.md",
-    "Quality First Investing - Checklist.md",
-    "Best Businesses in the world to Study.md",
-    "Non-zero sum.md",
-    "Long term investing.md",
-    "Experimentation.md",
-    "Wingstop.md",
-    "Young Hamilton on Wingstop.md"
+    "Quality First Investing - Checklist.md"
   ]
 }

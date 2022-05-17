@@ -15,7 +15,7 @@ See also bit.ly/launchingpaidnewsletter
  - 50% of early subscribers came directly from just two posts
  - Mix regular posts with epic posts
  - Continued to write for another three months
- - Word of mouth works: people talking to others about it, twitter, linkedin, facebook, Google SEO
+ - Word of mouth works: people talking to others about it, twitter, Linkedin, facebook, Google SEO
  - **Create value for people, and they'll want to follow you!**
  - **Deliver consistent value to your audience!** Entertain them, or make them smarter.
 	 - Make it actionable and concrete
@@ -29,6 +29,8 @@ See also bit.ly/launchingpaidnewsletter
 3. Leverage Twitter and "Influencers"
 4. Mix regular posts with epic posts
 5. Keep at it - it builds
+
+**Another great tip from Anne-Laure Le Cunff**: Over time, Google SEO can be a great booster if you can give quality answers to genuine user questions
 
 
 ## Launching a paid newsletter
@@ -46,7 +48,7 @@ See also bit.ly/launchingpaidnewsletter
 - Uniqueness: Can readers get this elsewhere?
 - Validate: Find 3 readers who would pay
 - Feel a bit uncomfortable: go higher
-- if you can provide insights, you can charge higher
+- if you can provide insights, you can charge higher prices
 
 ### Craft your pitch
 1. Who are you again? Background

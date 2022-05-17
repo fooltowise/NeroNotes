@@ -4,19 +4,19 @@ by #InPractise
 
 ### Bruno, can you share a short introduction to your experience and role at Danaher?
 
-I was with Danaher for more than three years, particularly working for Leica Biosystems in the cancer diagnostics platform. I was responsible for logistics and distribution, across EMEA, as a regional director. I was also been a member of the global T&L Steering Committee for all OpCos.
+I was with [[Danaher]] for more than three years, particularly working for Leica Biosystems in the cancer diagnostics platform. I was responsible for logistics and distribution, across EMEA, as a regional director. I was also been a member of the global T&L Steering Committee for all OpCos.
 
 ### You were head of logistics, for Leica, but also involved in a European wide logistics team?
 
 Exactly. When it came to Leica, in those days, Leica had a sales turnover of roughly one billion, with multiple sites, from Australia to China, Singapore and plenty of sites in Europe and the US, as well as Mexico and Canada. My sphere was EMEA.
 
-### Take me back to when you first joined Danaher. When you walked into the company, what was the training process like?
+### Take me back to when you first joined [[Danaher]]. When you walked into the company, what was the training process like?
 
-The training process was pretty interesting because, normally, all the Danaher companies had some kind of immersion plan. For me, when I arrived, from day one, I was on policy deployment, as we had the idea to transform the company. My task was to bring in the related cost reductions to finance the rest. My training was pretty limited but, for sure, over the time, I needed to do some mandatory courses such as the framework in the DBS, for example, or in the PSP environment.
+The training process was pretty interesting because, normally, all the [[Danaher]] companies had some kind of immersion plan. For me, when I arrived, from day one, I was on policy deployment, as we had the idea to transform the company. My task was to bring in the related cost reductions to finance the rest. My training was pretty limited but, for sure, over the time, I needed to do some mandatory courses such as the framework in the DBS, for example, or in the PSP environment.
 
-### What really surprised you about the culture at Danaher, when you first joined?
+### What really surprised you about the culture at [[Danaher]], when you first joined?
 
-When I joined the company and also later on, what really surprised me was the fact that everything was really related to the Danaher Business System, to the DBS. The DBS is some kind of lean methodology, a bit like the one from Toyota. What really surprised me was that that this company was extremely focused on numbers and all the relevant consequences. Numbers talk. This was pretty new for me.
+When I joined the company and also later on, what really surprised me was the fact that everything was really related to the [[Danaher]] Business System, to the DBS. The DBS is some kind of lean methodology, a bit like the one from Toyota. What really surprised me was that that this company was extremely focused on numbers and all the relevant consequences. Numbers talk. This was pretty new for me.
 
 ### Why is the culture unique?
 
@@ -34,7 +34,7 @@ When you don’t hit your numbers, you need to run a problem-solving process and
 
 ### How would you describe that culture? How does it feel to be an employee?
 
-This is a very difficult one because the different companies or the different sites are, more or less, brought together. Yes, each company and each site brings in its own culture. But over the years, and as they become part of a platform or part of a Danaher company, they start to lose this culture, because they have to embrace the DBS culture. The issue is, either you embrace it, or you exit. A lot of people like it and really like to become part of DBS because it is really cool to go for improvements. But the downside is, in the same situation, you need to grow. If you are not able to grow, you have a problem with all the process improvements because then you have a lot of people left over. Then you will need to go for lay-offs.
+This is a very difficult one because the different companies or the different sites are, more or less, brought together. Yes, each company and each site brings in its own culture. But over the years, and as they become part of a platform or part of a [[Danaher]] company, they start to lose this culture, because they have to embrace the DBS culture. The issue is, either you embrace it, or you exit. A lot of people like it and really like to become part of DBS because it is really cool to go for improvements. But the downside is, in the same situation, you need to grow. If you are not able to grow, you have a problem with all the process improvements because then you have a lot of people left over. Then you will need to go for lay-offs.
 
 ### Does that create a lot of pressure for employees?
 
@@ -46,7 +46,7 @@ But I don’t think it’s so bad because you have constant improvement. It is a
 
 What I have seen so far is that they can be part of culture, as they learn the different tools, as they improve themselves. They can also do a lot of job rotations. But it is always related to results. When it comes to payment, everybody gets a bonus related to company results, on the one hand. On the other hand, people have to be developed. Every leader of every department or every manager of every department or OpCo site, needs to take care of their people and develop them, and document this in a consistent system. If they do not do it, they are really in trouble with their boss. On one side, this is pretty good but, on the other side, a lot of people don’t want to be developed. For example, a forklift driver in the warehouse, he comes here to do the job, get the money, goes home; that’s it. There is no fancy stuff. He does not want to become the new vice president of logistics. How are you going to develop people like this, or situations like that? Development was also mandatory for everyone.
 
-The next issue is that Danaher did pretty well on a survey. Once a year, they conducted an anonymous survey, consisting of 50 to 60 questions, in different categories. Every manager was measured according to the results of this anonymous survey, with the clear task to improve various things. For example, when the engagement index was not very high, you got a clear message that you needed to improve the engagement index by a certain percentage. Although this was all anonymous, they had to find ways that by the next survey, their results improved significantly. You really needed to do this otherwise you were in trouble, your boss was in trouble and it went straight up, to the president of the platform.
+The next issue is that [[Danaher]] did pretty well on a survey. Once a year, they conducted an anonymous survey, consisting of 50 to 60 questions, in different categories. Every manager was measured according to the results of this anonymous survey, with the clear task to improve various things. For example, when the engagement index was not very high, you got a clear message that you needed to improve the engagement index by a certain percentage. Although this was all anonymous, they had to find ways that by the next survey, their results improved significantly. You really needed to do this otherwise you were in trouble, your boss was in trouble and it went straight up, to the president of the platform.
 
 ### It seems a very meticulous culture, with rigorous focus on numbers, outputs and performance, it leads to this continuous improvement mentality, which drives profitability and the quality of the company? How do you view the pros and cons of the potential high pressure and stressful environment versus the performance and the output?
 
