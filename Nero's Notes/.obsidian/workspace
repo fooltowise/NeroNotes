@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2eafa78a9274f5",
+        "id": "f1ced1783dcb2498",
         "type": "leaf",
+        "dimension": 54.46428571428571,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Launching a paid newsletter.md",
+            "file": "Copywriting.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,11 +18,17 @@
         }
       },
       {
-        "id": "464b4f8271a4bd62",
+        "id": "5db131546c771fea",
         "type": "leaf",
+        "dimension": 45.535714285714285,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The Adweek Copywriting Handbook.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "copyw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Copywriting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Copywriting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Copywriting.md"
+              }
             }
           },
           {
@@ -143,17 +154,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "464b4f8271a4bd62",
+  "active": "f1ced1783dcb2498",
   "lastOpenFiles": [
-    "Low-Cost Provider.md",
-    "Costco.md",
-    "Basic-Fit, The Gym Group & Discount Gym Economics.md",
-    "Danaher.md",
-    "Danaher Business System Mindset.md",
-    "Danaher, Beckman Coulter and the DBS machine.md",
-    "Business Ideas.md",
-    "Launching a paid newsletter.md",
-    "My Investing Strategy.md",
-    "Quality First Investing - Checklist.md"
+    "Copywriting.md",
+    "The Adweek Copywriting Handbook.md",
+    "Transdigm.md",
+    "Heico, Transdigm and PMA Parts.md",
+    "Heico.md",
+    "Scarcity.md",
+    "Skill stack.md",
+    "How to Improve Skill Development.md",
+    "The Sophistication of your market.md",
+    "Breakthrough Advertising.md"
   ]
 }

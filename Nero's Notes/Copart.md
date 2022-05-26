@@ -1,4 +1,4 @@
-# CPRT (Copart)
+# Copart
 
 - [[Scuttleblurb on Copart]]
 - [[Copart - Running a salvage yard]]
@@ -10,4 +10,4 @@
 - [[IAA Copart and Salvage Auctions]]
 - [[Lessons from Willis Johnson]]
 - [[Copart - Investor Dialogue]]
-- 
+- [[Copart - Accident Rates & Auto Repair Diagnostics]]

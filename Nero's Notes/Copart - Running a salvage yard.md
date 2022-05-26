@@ -1,4 +1,4 @@
-# Copart  ([[CPRT]])- Running a Salvage Yard
+# [[Copart]] - Running a Salvage Yard
 
 by #InPractise 
 

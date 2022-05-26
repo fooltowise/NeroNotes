@@ -1,4 +1,4 @@
-# Copart ([[CPRT]]) - Investor Dialogue
+# [[Copart]] - Investor Dialogue
 
 
 by #InPractise 

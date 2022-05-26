@@ -21,7 +21,7 @@ See also [[Great Businesses I'd like to own]]
 | Nike ([[NKE]])               | Branding, endorsement and quality                                    |
 | United Health ([[UNH]])      | Adapting to changing regulatory landscape                            |
 | [[Heico]]              | Offering low priced but high value products to your customer         |
-| Copart ([[CPRT]])            | Creating both physical and digital moats                             |
+| [[Copart]]            | Creating both physical and digital moats                             |
 | Cintas ([[CTAS]])            | Boring can be beautiful                                              |
 | [[Danaher]] (DHR)            | Process and culture                                                  |
 | Roper ([[ROP]])              | Process and culture                                                  |

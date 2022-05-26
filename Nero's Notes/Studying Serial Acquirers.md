@@ -1,4 +1,4 @@
-# Studying Serial Acquirers
+# Studying [[Serial Acquirers]]
 
 See also [[Mergers and Acquisitions]], [[The art of the Roll-Up]]
 
@@ -8,11 +8,11 @@ Scott Management wrote a foundational piece about [[Serial Acquirers]]. 
 
 [http://scottlp.com/letters.html#Acquirers](http://scottlp.com/letters.html#Acquirers) 
 
-It’s easily the best one we’ve come across and does a fantastic job of defining and categorizing serial acquirers, laying out why they’re attractive, and what one should broadly be looking for. If you haven’t read it yet, we highly recommend it because we’ll be borrowing concepts from that piece. 
+It’s easily the best one we’ve come across and does a fantastic job of defining and categorizing [[serial acquirers]], laying out why they’re attractive, and what one should broadly be looking for. If you haven’t read it yet, we highly recommend it because we’ll be borrowing concepts from that piece. 
 
 The tldr version:
 
--   Serial acquirers can be bucketed into roll-ups, platforms, accumulators and hold-cos. 
+-   [[Serial acquirers]] can be bucketed into roll-ups, platforms, accumulators and hold-cos. 
     
     -   Hold-cos on one extreme hold largely unrelated businesses with no synergies (i.e. BRK or IAC)
         
@@ -24,24 +24,24 @@ The tldr version:
         
 -   Platforms and accumulators hold the most promise for long-term capital compounding
     
--   There are some tell-tale signs of great serial acquirers, mainly around qualitative factors: structures, processes and best practices. 
+-   There are some tell-tale signs of great [[serial acquirers]], mainly around qualitative factors: structures, processes and best practices. 
     
 
-In our opinion, the line between platforms and accumulators is a bit blurry – some companies fall in-between, like [[Lifco]], and sometimes accumulators evolve into platforms, like Halma. We’d also add one bucket to Scott LP’s categorization. “Portfolio” serial acquirers like Charles River and Stryker, which fall between Roll-up and Platform. These companies buy other firms/technologies primarily for the revenue synergies of being able to add incremental products into their highly efficient sales organizations. 
+In our opinion, the line between platforms and accumulators is a bit blurry – some companies fall in-between, like [[Lifco]], and sometimes accumulators evolve into platforms, like Halma. We’d also add one bucket to Scott LP’s categorization. “Portfolio” [[serial acquirers]] like Charles River and Stryker, which fall between Roll-up and Platform. These companies buy other firms/technologies primarily for the revenue synergies of being able to add incremental products into their highly efficient sales organizations. 
 
-Investors’ growing love affair with compounders over the last several years means that the one aspect that’s changed since Ryan Krafft originally wrote the piece is that buying platforms and accumulators isn’t like shooting fish in a barrel anymore. The average NTM PE ratio of the companies in the above database of high performance serial acquirers was ~21X in 2016, 5 years ago. Today it is ~36X.
+Investors’ growing love affair with compounders over the last several years means that the one aspect that’s changed since Ryan Krafft originally wrote the piece is that buying platforms and accumulators isn’t like shooting fish in a barrel anymore. The average NTM PE ratio of the companies in the above database of high performance [[serial acquirers]] was ~21X in 2016, 5 years ago. Today it is ~36X.
 
 Step one was to recognize that there are a lot of special platforms and accumulators out there, step two will be to understand which ones are best positioning themselves to scale long-term and are worth paying up for today. Scaling - deploying more cash flow for longer at high returns on incremental capital - is key.  
 
-## Some more thoughts on why (good) serial acquirers are special
+## Some more thoughts on why (good) [[serial acquirers]] are special
 
 The allure of investing in a serial acquirer is the tendency of such companies to reinvest all or most of their free cash flow for a very long time at high rates of return. It’s as simple as that. 
 
-Serial acquirers (excluding the roll-ups, which are just one business vertical across many geographies) also have the added benefit of becoming more diversified businesses over time. Therefore, a very good serial acquirer can compound at high rates of return over time and simultaneously have less idiosyncratic risk, making it easier to never sell and let the position size swell with success. [[Danaher]], Roper, Berkshire and Constellation are today a very diverse collection of earnings streams with different end markets and drivers. 
+[[Serial acquirers]] (excluding the roll-ups, which are just one business vertical across many geographies) also have the added benefit of becoming more diversified businesses over time. Therefore, a very good serial acquirer can compound at high rates of return over time and simultaneously have less idiosyncratic risk, making it easier to never sell and let the position size swell with success. [[Danaher]], Roper, Berkshire and Constellation are today a very diverse collection of earnings streams with different end markets and drivers. 
 
-Investors often look for companies that are heavy repurchasers of their own stock.  The leveraged buyback model can be really powerful (Charter, [[Autozone]], NVR) but you’re exposing yourself more to general market factors.  A buyback model can create enormous wealth over time if the company continuously trades at only a modest multiple to FCF. It works less well _going forward_ when the stock rockets upwards (like Apple tripling in the last 2 years - who’s complaining about that though...). Good serial acquirers with strong moats _in their capital allocation processes_ can generally keep chugging along regardless of broader market factors. Which again helps to keep the compounding going tax efficiently for a long time. 
+Investors often look for companies that are heavy repurchasers of their own stock.  The leveraged buyback model can be really powerful (Charter, [[Autozone]], NVR) but you’re exposing yourself more to general market factors.  A buyback model can create enormous wealth over time if the company continuously trades at only a modest multiple to FCF. It works less well _going forward_ when the stock rockets upwards (like Apple tripling in the last 2 years - who’s complaining about that though...). Good [[serial acquirers]] with strong moats _in their capital allocation processes_ can generally keep chugging along regardless of broader market factors. Which again helps to keep the compounding going tax efficiently for a long time. 
 
-An example of a perennial serial acquirer we really like is the Bergman & Beving group (B&B) in the Nordics. It has, over the decades, spawned an ecosystem of fantastic serial acquirers in Sweden and has, via the power of local knowledge spillovers[1](https://exploringcontext.substack.com/p/studying-serial-acquirers#footnote-1), single-handedly elevated the capital allocation standards in Sweden (there are lots of good serial acquirers in that country! - more to come on this soon...). 
+An example of a perennial serial acquirer we really like is the Bergman & Beving group (B&B) in the Nordics. It has, over the decades, spawned an ecosystem of fantastic [[serial acquirers]] in Sweden and has, via the power of local knowledge spillovers[1](https://exploringcontext.substack.com/p/studying-serial-acquirers#footnote-1), single-handedly elevated the capital allocation standards in Sweden (there are lots of good [[serial acquirers]] in that country! - more to come on this soon...). 
 
 Here are the facts: B&B is a trading company for technical products in the industrial space in Sweden that was founded in 1906 and listed in 1976. It began rolling up businesses in the 1970s and in 2001 split itself into 3 independent, listed entities: AddTech, Lagercrantz, and the Bergman & Beving remain-co. AddTech itself spun off AddLife in 2016 and the Bergman & Beving remain-co has since then split itself into Bergman & Beving and Momentum Group. Malone and Diller would be proud of all that action... 
 
@@ -58,7 +58,7 @@ B&B compounded at ~13% from 1989 (earliest data we have) to 2001 at which point 
 -   Y axis = ROIC + 50% of organic revenue growth
     
 
-You don’t need the help of the line of best fit in the chart to be able to tell that things go downhill as serial acquirers age and the amount of cash flow available for reinvestment gets larger. 
+You don’t need the help of the line of best fit in the chart to be able to tell that things go downhill as [[serial acquirers]] age and the amount of cash flow available for reinvestment gets larger. 
 
 The issues at hand are that 
 
@@ -74,15 +74,15 @@ As a) average deal sizes grow and b) the amount of annual cash flow that must be
 
 \-----
 
-Oversimplification can be dangerous and reducing any group of companies, especially across industries, to a few metrics is usually not very helpful. However, there are two powerful metrics that, taken together, can tell us a lot about most serial acquirers. Those metrics are **(1) cumulative spend on M&A over a multi-year period, and (2) RoIC + ½ organic revenue growth**. That’s what’s plotted in the chart above, for a number of high-quality serial acquirers.
+Oversimplification can be dangerous and reducing any group of companies, especially across industries, to a few metrics is usually not very helpful. However, there are two powerful metrics that, taken together, can tell us a lot about most [[serial acquirers]]. Those metrics are **(1) cumulative spend on M&A over a multi-year period, and (2) RoIC + ½ organic revenue growth**. That’s what’s plotted in the chart above, for a number of high-quality [[serial acquirers]].
 
 > **Note:** We’ll save you the behind-the-scenes modelling. The reason we use ½ organic growth is that we’re trying to approximate deal level IRRs: i.e. day 1 FCF yield + growth post acquisition. ROIC is slightly upwards biased - historical book value reflects acquisitions made years ago, and as long as subsidiaries have decent organic growth at healthy ROTIC, this will lead to a natural increase in a company’s ROIC over time. Thus, we make an arbitrary downward adjustment in org growth to compensate. It’s not meant to be scientifically precise, just a rough proxy. (But one of us, being slightly more puritan than the other, feels better using this than simply using the [[Mark Leonard]] yardstick of ROIC + OrgGr)
 
 ‘RoIC + organic revenue growth’ is, of course, the metric that [[Mark Leonard]] at [[Constellation Software]] chose for incentive compensation.[2](https://exploringcontext.substack.com/p/studying-serial-acquirers#footnote-2) And his Keep Your Capital (KYC) initiative, which forces operating groups to retain a portion of their cash flow, was a way to turn up the pressure on his lieutenants to work harder to figure out a way to defy the law of diminishing return to M&A.  (Instead of just sending the cash back to HQ ). 
 
-**The biggest roadblock to defying the law of diminishing returns to M&A is that most serial acquirers, particularly platforms and accumulators, do not sufficiently scale the human capital involved in M&A and the structures and processes guiding them – as they get larger.** 
+**The biggest roadblock to defying the law of diminishing returns to M&A is that most [[serial acquirers]], particularly platforms and accumulators, do not sufficiently scale the human capital involved in M&A and the structures and processes guiding them – as they get larger.** 
 
-Inevitably, this lack of investment in human capital creates a bottleneck, leading them to scale by doing larger deals to move the needle rather than doing more deals. Very few serial acquirers end up scaling to more than 10 deals a year as they grow in size. The chart below shows the same serial acquirers by how many deals they do in a year (y-axis), and what the average deal size has been in millions of USD (bubble size). 
+Inevitably, this lack of investment in human capital creates a bottleneck, leading them to scale by doing larger deals to move the needle rather than doing more deals. Very few [[serial acquirers]] end up scaling to more than 10 deals a year as they grow in size. The chart below shows the same [[serial acquirers]] by how many deals they do in a year (y-axis), and what the average deal size has been in millions of USD (bubble size). 
 
 This chart, together with the previous chart, encapsulates why [[Mark Leonard]] ([[Constellation Software]]) is the GOAT.
 
@@ -98,7 +98,7 @@ It’s worthwhile disaggregating this by serial acquirer type. Let’s exclude [
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c723aa-5e51-484f-a9ab-e574af2e7b1b_1329x802.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c723aa-5e51-484f-a9ab-e574af2e7b1b_1329x802.png)
 
-## Scaling of Serial Acquirers
+## Scaling of [[Serial Acquirers]]
 
 ### Roll-ups
 
@@ -130,7 +130,7 @@ If you find a Platform serial acquirer that’s not only good at adding new plat
 
 Diploma used to fall into this category…‘used to’ because the CEO and CFO, who did the platform deals, retired over the last several years, so we are going to have to wait a bit more to find out how good Johnny Thomson turns out to be. Halma on the other hand feels a bit like it’s snatching defeat from the jaws of victory. It has the M&A teams staffed up at the sector levels with deal flow coming up from the operating companies, but, by various accounts, top management’s quality standards are so steep and their desire for control so high such that lots of promising deals get killed off. Unless something changes there, we doubt they’re ever going to scale M&A at attractive prices. 
 
-The thing to look out for with platform serial acquirers then is (a) the extent to which they have proven themselves to be opportunistic in the purchase of additional platforms in the past, and (b) their flexibility **as well as embedded organizational trust in delegating the bolt-on M&A further down the organization without the head honcho insisting on being a major bottleneck**.
+The thing to look out for with platform [[serial acquirers]] then is (a) the extent to which they have proven themselves to be opportunistic in the purchase of additional platforms in the past, and (b) their flexibility **as well as embedded organizational trust in delegating the bolt-on M&A further down the organization without the head honcho insisting on being a major bottleneck**.
 
 ### Accumulators
 
@@ -152,7 +152,7 @@ Evaluating and monitoring accumulators’ progress in positioning themselves for
 
 _[[Constellation Software]]_
 
-[[Constellation Software]] is the Michael Jordan of serial acquirers. (In this case, Thomson Newspapers was likely the Wilt Chamberlain - we may eventually write up a study of Thomson)
+[[Constellation Software]] is the Michael Jordan of [[serial acquirers]]. (In this case, Thomson Newspapers was likely the Wilt Chamberlain - we may eventually write up a study of Thomson)
 
 [[Constellation Software]] has a lot of the characteristics of an accumulator but completely defies accumulator base rates. It’s a combination of best execution meeting an ideal industry (VMS) to roll up. 
 
@@ -167,7 +167,7 @@ Constellation has seized a vast number of VMS TAMs globally. How Constellation c
 
 Constellation still has to train its internal capital allocators. There’s no way around that. Pushing capital allocation further down the organization is not without risk, but it’s a vastly lower risk game if you are a capital allocator at Constellation. You’re buying fairly robust businesses within a category (software) you understand, guided by the base rates of hundreds of past acquisitions and a treasure trove of due diligence and deal structure best practices. It’s got some shades of a roll-up.
 
-Other serial acquirers, like Halma, have to learn about the intricacies of crawler cameras deployed in inspection of UK water companies’ pipes one month, followed by precision radiometric and photometric systems for light testing, calibration and measurement the next. They face difficult hurdles in scaling up. 
+Other [[serial acquirers]], like Halma, have to learn about the intricacies of crawler cameras deployed in inspection of UK water companies’ pipes one month, followed by precision radiometric and photometric systems for light testing, calibration and measurement the next. They face difficult hurdles in scaling up. 
 
 If, like [[Constellation Software]], a firm closes 100 deals a year rather than 5 (especially if the 100 are mostly all individually pretty small), the law of large numbers also smooths out a lot of dispersion of outcomes among the individual transactions. Individual outcomes will vary widely from the base rates, but all transactions are individually immaterial and in aggregate will get very close to the base rates.
 
@@ -189,13 +189,13 @@ For large platforms or accumulators, like a Roper or [[Danaher]], it’s probabl
 
 **Summary**
 
--   High quality serial acquirers make for fantastic investments as they can redeploy capital on your behalf for many, many years while simultaneously becoming more diversified/less risky. 
+-   High quality [[serial acquirers]] make for fantastic investments as they can redeploy capital on your behalf for many, many years while simultaneously becoming more diversified/less risky. 
     
 -   Scalability is a key criterion you need to evaluate when looking at a serial acquirer. The diminishing returns to M&A can only be delayed, not escaped, and scaling is a slow, deliberate process.
     
 -   Roll-ups, platforms and accumulators all have their own opportunities and risks to look out for as it pertains to scaling.
     
--   Investing in larger serial acquirers with a track record may provide a false sense of security. A rear-view mirror approach is often inappropriate because dis-economies of scale are real and what’s required to scale over the next 10 years probably isn’t like what was required to scale over the last 10 years. Simply put, smaller and more fragmented is generally better for all three: roll-ups, platforms and accumulators.
+-   Investing in larger [[serial acquirers]] with a track record may provide a false sense of security. A rear-view mirror approach is often inappropriate because dis-economies of scale are real and what’s required to scale over the next 10 years probably isn’t like what was required to scale over the last 10 years. Simply put, smaller and more fragmented is generally better for all three: roll-ups, platforms and accumulators.
     
 -   An accumulator that is thoughtfully scaling their M&A infrastructure and processes is extremely valuable.
     

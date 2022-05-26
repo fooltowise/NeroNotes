@@ -26,7 +26,7 @@ How to find, consume, and comprehend information and identify what’s most impo
 
 How to communicate thoughts and ideas in written form clearly and concisely. A person who is highly skilled in Writing is able to convey information to others briefly and simply, as well as use writing to persuade and influence.
 
-See [[Writing]]
+See [[Writing]], [[Copywriting]]
 
 ### Speaking
 

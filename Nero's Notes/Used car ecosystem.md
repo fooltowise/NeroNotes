@@ -2,7 +2,7 @@
 
 by #InPractise 
 
-See Also [[CPRT]], [[CVNA]]
+See Also [[Copart]], [[CVNA]]
 
 ### Joe, how would you describe the used car ecosystem?
 

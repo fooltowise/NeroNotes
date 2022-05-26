@@ -195,7 +195,7 @@ We've discovered so much about beliefs, but in order to truly take control of ou
 So right now, stop everything else you're doing and take the next ten minutes to have some fun. Begin to brainstorm all the beliefs you have, both those that empower you and disempower you: little beliefs that don't seem to matter at all and global beliefs that seem to make a big difference. Make sure you cover:
 
 - **If-then** beliefs like: "If I consistently give my all, then I will succeed", or "If I'm totally passionate with this person, then they'll leave me"
-- **Global beliefs**, like beliefs about people - "People are basically good", or "People are a pain" - beliefs about yourself, beliefs about opportunity, beliefs about time, beliefs about scarcity and abundance.
+- **Global beliefs**, like beliefs about people - "People are basically good", or "People are a pain" - beliefs about yourself, beliefs about opportunity, beliefs about time, beliefs about [[scarcity]] and abundance.
 
 Jot down as many of these as you can imagine for the next ten minutes. Please give yourself the gift of doing this right now. When you're done, I'll show you how you can strengthen your empowering beliefs and eliminate the disempowering ones. Do it right now.
 

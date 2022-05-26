@@ -2,6 +2,7 @@
 
 - [[My highest Conviction Stock Idea, by Sean Iddings]]
 - [[eXp World, RE/MAX, & US Real Estate Brokerage]]
+- [[eXp World, Keller Williams and Real Estate Brokerage Competition]]
 
 ## Factors driving EXPI's competitive advantage
 

@@ -170,7 +170,7 @@ ____
 
 [1] Corona. As Greg Rader and Caroline Zelonka have pointed out, the association between Corona and the beach isn't wholly arbitrary. Corona is a Mexican beer, originally consumed (by American tourists) primarily in beach towns — so, as Greg puts it, there is at least a "circumstantial" basis for the association. Even for other products, the emotional or lifestyle associations probably have some anchor in reality.
 
-[2] bed sheets. Caroline and Alex Hawkins point out that bed sheets are sometimes advertised, in a way that smacks of inception. See e.g. the ads for Wamsutta sheets. I'd still suggest that the scarcity of bed-sheet ads (relative to, e.g., soda ads) is largely due to the asocial nature of the product, but it seems there are exceptions.
+[2] bed sheets. Caroline and Alex Hawkins point out that bed sheets are sometimes advertised, in a way that smacks of inception. See e.g. the ads for Wamsutta sheets. I'd still suggest that the [[scarcity]] of bed-sheet ads (relative to, e.g., soda ads) is largely due to the asocial nature of the product, but it seems there are exceptions.
 
 
 See [[Common Knowledge]]

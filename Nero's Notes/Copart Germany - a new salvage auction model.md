@@ -1,4 +1,4 @@
-# Copart ([[CPRT]]) Germany - A new Salvage Auction Model
+# [[Copart]] Germany - A new Salvage Auction Model
 
 by #InPractise 
 

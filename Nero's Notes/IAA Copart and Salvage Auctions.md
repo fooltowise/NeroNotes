@@ -1,4 +1,4 @@
-# IAA, Copart ([[CPRT]]), and Salvage Auctions
+# IAA, [[Copart]], and Salvage Auctions
 by #InPractise 
 
 _Disclaimer: This interview is for informational purposes only and should not be relied upon as a basis for investment decisions. In Practise is an independent publisher and all opinions expressed by guests are solely their own opinions and do not reflect the opinion of In Practise._

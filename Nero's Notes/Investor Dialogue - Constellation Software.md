@@ -171,7 +171,7 @@ Analyst 6: What do you do? Don’t worry; I might call you for some cash in a co
 
 Analyst 6: Definitely not, no.
 
-Analyst 2: Serial acquirers are not fluffy; that’s not how that works.
+Analyst 2: [[Serial acquirers]] are not fluffy; that’s not how that works.
 
 ### Going back to my original question, from a competitive standpoint which, is that even a worry, at this point?
 
@@ -185,7 +185,7 @@ Analyst 6: That’s my question. I’m saying I would be interested in data to t
 
 Analyst 6: Probably not copied but you can take on DNA and certain elements and try to find your own way of applying it. We have a couple of investments where I think that’s exactly what they do. You don’t need to copy it 100% but you can take some elements and find your own niche.
 
-Analyst 1: Or those various Swedish serial acquirers have elements of decentralization.
+Analyst 1: Or those various Swedish [[serial acquirers]] have elements of decentralization.
 
 Analyst 5: From a tech perspective, is there data on vertical cloud penetration and the economic amortization of the assets that Constellation holds?
 
@@ -289,6 +289,6 @@ Analyst 3: That is what it has been cited at, historically.
 
 Analyst 6: Sounds about right.
 
-### I think what I’ve realized with these companies – and it’s the same with Addtech or Addlife, the Swedish serial acquirers – is that they say they’ve never sold a business. But they’ve never sold a business because they merge the shitty ones into good ones or other ones. Technically, they’ve never sold one but some do go to die, somewhere.
+### I think what I’ve realized with these companies – and it’s the same with Addtech or Addlife, the Swedish [[serial acquirers]] – is that they say they’ve never sold a business. But they’ve never sold a business because they merge the shitty ones into good ones or other ones. Technically, they’ve never sold one but some do go to die, somewhere.
 
 Analyst 2: You’ve just unlocked the secret of M&A machines.

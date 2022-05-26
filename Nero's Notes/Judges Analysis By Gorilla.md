@@ -19,7 +19,7 @@ You can learn more about the model here:
 
 [Acquisition Model | Judges Scientific](https://www.judges.uk.com/main/acquisition-model.html)
 
-The strategy has commonalities with many serial acquirers but the question is really execution. Simplistically, the strategy is:
+The strategy has commonalities with many [[serial acquirers]] but the question is really execution. Simplistically, the strategy is:
 
 -   Niche end markets favoring fragmentation rather than scale
     
@@ -240,7 +240,7 @@ Judges acquired Scientifica in 2013 from three owners who founded the company in
 
 **Projected Financials**
 
-Back of the envelope is the best way to project out serial acquirers in my view given you do not know the revenue and margin drivers in advance, but just to sense-check my forecast, below is loosely what financials would look like assuming 7% organic growth and 65% of FCF redeployed at 6x EBIT. I would expect multiples to be a little lower in the near-term and the redeployment rate to be higher longer-term.
+Back of the envelope is the best way to project out [[serial acquirers]] in my view given you do not know the revenue and margin drivers in advance, but just to sense-check my forecast, below is loosely what financials would look like assuming 7% organic growth and 65% of FCF redeployed at 6x EBIT. I would expect multiples to be a little lower in the near-term and the redeployment rate to be higher longer-term.
 
 ![](https://static.wixstatic.com/media/ded45a_094189fb347e49dfbed7df6c4cd662e5~mv2.jpg/v1/fill/w_965,h_811,al_c,q_90/ded45a_094189fb347e49dfbed7df6c4cd662e5~mv2.webp)
 
