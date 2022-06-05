@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f1ced1783dcb2498",
+        "id": "3e90af270015c83b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Safal Niveshak.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "edba9954ec705e4a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "How to Find Great Businesses, the Peter Lynch Way.md",
+            "file": "Kelly Partners Goup.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "addtech",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fa4233b9d1c9536",
@@ -93,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Find Great Businesses, the Peter Lynch Way.md",
+                "file": "Kelly Partners Goup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Find Great Businesses, the Peter Lynch Way.md",
+                "file": "Kelly Partners Goup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Find Great Businesses, the Peter Lynch Way.md"
+                "file": "Kelly Partners Goup.md"
               }
             }
           },
@@ -152,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "edba9954ec705e4a",
+  "active": "3e90af270015c83b",
   "lastOpenFiles": [
-    "How to Find Great Businesses, the Peter Lynch Way.md",
-    "Safal Niveshak.md",
-    "Topics for Newsletter.md",
-    "Best Businesses in the world to Study.md",
     "Kelly Partners Goup.md",
-    "Safal Niveshak Mastermind Copywriting.md",
-    "ROCE-Growth Matrix, and Few Potential Wealth Creators.md",
-    "The 7 Figures Newsletter Course.md",
-    "In Investing, Simple Beats Complex.md",
-    "Judges Scientific.md"
+    "William Buck & Australian Accounting Roll-Ups.md",
+    "Kelly Partners Group (KPG) & Accountancy Roll-Ups.md",
+    "Addtech.md",
+    "DiaSorin - Distribution and Pricing.md",
+    "Halma.md",
+    "Halma, Danaher, CSU & Serial Acquirer Org Structures.md",
+    "Addtech, Addlife, & Nordic Value-added Distribution.md",
+    "Addtech - The History of Bergman & Beving.md",
+    "Addtech - M&A Process and Strategy.md"
   ]
 }

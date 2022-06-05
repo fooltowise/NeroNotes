@@ -289,6 +289,6 @@ Analyst 3: That is what it has been cited at, historically.
 
 Analyst 6: Sounds about right.
 
-### I think what I’ve realized with these companies – and it’s the same with Addtech or Addlife, the Swedish [[serial acquirers]] – is that they say they’ve never sold a business. But they’ve never sold a business because they merge the shitty ones into good ones or other ones. Technically, they’ve never sold one but some do go to die, somewhere.
+### I think what I’ve realized with these companies – and it’s the same with [[Addtech]] or Addlife, the Swedish [[serial acquirers]] – is that they say they’ve never sold a business. But they’ve never sold a business because they merge the shitty ones into good ones or other ones. Technically, they’ve never sold one but some do go to die, somewhere.
 
 Analyst 2: You’ve just unlocked the secret of M&A machines.

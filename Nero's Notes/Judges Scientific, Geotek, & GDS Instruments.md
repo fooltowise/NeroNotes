@@ -4,7 +4,7 @@ by #InPractise
 
 Published on **May 31, 2022**
 
-Judges Scientific (JDG) is a UK-listed serial acquirer focused on niche scientific instrument businesses. Just as Constellation acquires vertical market software companies or Halma niche industrial engineering products, JDG specializes in UK-based design and production companies in the instrumentation business.
+Judges Scientific (JDG) is a UK-listed serial acquirer focused on niche scientific instrument businesses. Just as Constellation acquires vertical market software companies or [[Halma]] niche industrial engineering products, JDG specializes in UK-based design and production companies in the instrumentation business.
 
 In 2005, David Cicurel, JDG’s founder and current CEO, listed the company as an investment vehicle to buy stakes in small public companies and flip them to PE at a premium. Due to rapidly increasing public market valuations prior to the GFC, this original business model quickly became out of date.
 
@@ -24,7 +24,7 @@ GDS was acquired in 2012 for £7.65m, a ~6x EBIT multiple, and seems to be typic
 
 ![Source: Judges Scientific PLC](https://ip-media-assets.s3.amazonaws.com/3a4dbe93-63b0-45f7-8861-5351b684adec/Screenshot%202022-05-31%20at%2010.30.31.png "Source: Judges Scientific PLC")Source: Judges Scientific PLC
 
-Similar to Halma, most of Judge’s companies develop and design the equipment and outsource manufacturing to reduce capital intensity. Over 85% of JDG’s sales are from outside of the UK, highlighting the specific strategy of buying UK intellectual property and driving export sale growth.
+Similar to [[Halma]], most of Judge’s companies develop and design the equipment and outsource manufacturing to reduce capital intensity. Over 85% of JDG’s sales are from outside of the UK, highlighting the specific strategy of buying UK intellectual property and driving export sale growth.
 
 The major customers for instrument manufacturers are academic research institutions like universities and corporate customers. In 2017, JDG reported ~60% of revenue from universities, 30% directly from corporations, and 10% from global testing firms.
 
@@ -68,7 +68,7 @@ In 2013, Scientifica was the largest acquisition in JDG history and added 30% to
 
 This is the beauty of disciplined serial acquirers: with scale comes diversification.
 
-As long as management remains disciplined paying 6-7x EBIT, the opco diversity stabilises FCF and minimises terminal value risk. Also, JDG only has 20 operating companies. Halma or Addtech with 50-100 opcos are arguably even more robust and can overcome mistakes quicker than Judges. At the opco level, the underlying economics are similar for Halma and JDG; Halma has ~50 opcos and pays ~7.5x EBIT on average whereas JDG pays ~6x EBIT but has only 20 opcos. It's incredible to also think that CSU pays a similar price to JDG but owns over 700 VMS companies with recurring revenue.
+As long as management remains disciplined paying 6-7x EBIT, the opco diversity stabilises FCF and minimises terminal value risk. Also, JDG only has 20 operating companies. [[Halma]] or [[Addtech]] with 50-100 opcos are arguably even more robust and can overcome mistakes quicker than Judges. At the opco level, the underlying economics are similar for [[Halma]] and JDG; Halma has ~50 opcos and pays ~7.5x EBIT on average whereas JDG pays ~6x EBIT but has only 20 opcos. It's incredible to also think that CSU pays a similar price to JDG but owns over 700 VMS companies with recurring revenue.
 
 [In a previous analysis](https://inpractise.com/articles/halma-danaher-csu-and-serial-acquirer-org-structures), we compared the risk of rolling up highly-engineered industrial products, similar to HLMA and JDG, with CSU in VMS:
 

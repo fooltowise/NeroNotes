@@ -12,7 +12,7 @@ However, when it comes to putting money to work, I have a preference for Europe.
 
 Approximately one-third of the companies I follow are serial acquirers.  These firms operate businesses that have competitive advantages but lack sufficient organic reinvestment opportunities to substantially absorb the free cash flow they produce.  That said, their talented management teams are able to acquire new businesses in private markets at prices that generate higher rates of return than their firms’ cost of capital.  Consequently, instead of distributing cash directly to shareholders, they retain much of it for future acquisitions.
 
-Companies such as Addtech, a distributor of electromechanical components, Assa Abloy, the world’s leader in locks and security solutions for the commercial market, and Vitec Software, a provider of niche industry vertical software, have, together, accounted for 30% of the Partnership’s portfolio.  Given their footprint, I want to share how I sort through these companies.
+Companies such as [[Addtech]], a distributor of electromechanical components, Assa Abloy, the world’s leader in locks and security solutions for the commercial market, and Vitec Software, a provider of niche industry vertical software, have, together, accounted for 30% of the Partnership’s portfolio.  Given their footprint, I want to share how I sort through these companies.
 
 To begin with, I sub-divide the serial acquirer category into largely self-defined buckets: roll-ups, platforms, accumulators, and holding companies.  The table below briefly describes each type:
 
@@ -30,7 +30,7 @@ In my experience, two of these buckets have tended to offer better opportunities
 
 Both platforms and accumulators can work.  I don’t believe there is one right answer for the level of operational integration at a serial acquirer; approaches should and do vary based on industry landscapes.
 
-For example, Assa Abloy produces many lock products with shared features, which are adapted to local market requirements.  Over five years, the company has reduced its supplier count by 28%, from roughly 9,000 to 7,000.  In contrast, much of Addtech’s business can be described as value-added distribution, with either limited production taking place internally or no real potential for common sourcing.  Thus, its subsidiaries operate in a more decentralized manner than at Assa.
+For example, Assa Abloy produces many lock products with shared features, which are adapted to local market requirements.  Over five years, the company has reduced its supplier count by 28%, from roughly 9,000 to 7,000.  In contrast, much of [[Addtech]]’s business can be described as value-added distribution, with either limited production taking place internally or no real potential for common sourcing.  Thus, its subsidiaries operate in a more decentralized manner than at Assa.
 
 The key to success at each is that the customer relationship remains anchored at a low level within the organization.  Preserving entrepreneurial independence in choosing, developing, and marketing products is a crucial differentiator in both cases. Eric Mendelson, Co-President of [[Heico]], the world’s largest independent supplier of FAA-approved aerospace parts, has underscored the importance of this type of setup:
 
@@ -56,23 +56,23 @@ First,the market size should exceed $1 billion.  Second, core market growth sho
 
 Some investors question whether companies such as [[Danaher]] work to shareholders’ benefit when they engage in such an acquisitive strategy. In my experience, advantaged acquirers do, in fact, create value—not through financial engineering, but through a combination of the following:
 
-·        Targeting smaller-sized companies.  Many attractive prospects are too small to be considered by financial or strategic buyers. In Addtech’s case, acquisitions have, on average, had less than $10 million in sales and roughly 20 employees.
+·        Targeting smaller-sized companies.  Many attractive prospects are too small to be considered by financial or strategic buyers. In [[Addtech]]’s case, acquisitions have, on average, had less than $10 million in sales and roughly 20 employees.
 
 ·        Cultivating relationships.  Well run serial acquirers are patient and have identified targets long in advance of them being available for purchase.  Tending to possible deals in informal ways (i.e., lunches with the owners) provides an opportunity for more in-depth diligence than that which is often available in an auction process.  Moreover, it can assist in becoming the buyer of choice when the target eventually decides to sell.
 
-·        Providing investment expertise and resources.  As Halma’s Andrew Williams explains:
+·        Providing investment expertise and resources.  As [[Halma]]’s Andrew Williams explains:
 
-Senior management is often a key constraint of the privately-owned companies that we typically buy.  Halma has the expertise and an infrastructure which helps companies grow internationally.  Being part of a larger group mitigates the risk of significant investment by individual businesses.  For example, a large R&D investment,which previously has been considered too risky for a small company, is possible since the risk is manageable at a Group level.\[3\]
+Senior management is often a key constraint of the privately-owned companies that we typically buy.  [[Halma]] has the expertise and an infrastructure which helps companies grow internationally.  Being part of a larger group mitigates the risk of significant investment by individual businesses.  For example, a large R&D investment,which previously has been considered too risky for a small company, is possible since the risk is manageable at a Group level.\[3\]
 
 ·        Employing a diversified approach.  Companies with high levels of customer concentration are often considered to be too risky to acquire and operate on a stand-alone basis.  As with money management, however, investing in a portfolio of businesses reduces risk.  Many of SP Group’s deals, for example, have involved companies where a single customer accounted for more than 50% of sales.
 
-·        Taking legacy considerations into account.  Sellers sometimes ascribe greater value to seeing their business carry on as an independent subsidiary than hitting the highest bid, which affords a more amiable buyer such as Addtech an advantage over competitors.
+·        Taking legacy considerations into account.  Sellers sometimes ascribe greater value to seeing their business carry on as an independent subsidiary than hitting the highest bid, which affords a more amiable buyer such as [[Addtech]] an advantage over competitors.
 
-To appreciate the potential for serial acquirers to extend their addressable markets and profitably invest capital over decades, consider the track record of Halma, highlighted in the table below.
+To appreciate the potential for serial acquirers to extend their addressable markets and profitably invest capital over decades, consider the track record of [[Halma]], highlighted in the table below.
 
 
-![Halma M&A history](https://scottlp.com/images/halma-p-1080.png)
-![](https://scottlp.com/letters.html#Acquirersimages/halma.png)
+![[[Halma]] M&A history](https://scottlp.com/images/[[[[halma]]]]-p-1080.png)
+![](https://scottlp.com/letters.html#Acquirersimages/[[halma]].png)
 
 
 
@@ -104,9 +104,9 @@ In the case of Lagercrantz,for example, the company improved its gross margin fr
 
 ### _Future acquisitions not factored in_
 
-One quirk in the way that many analysts think about firms such as Addtech is that while they are happy to account for investments that find their way into current spending,working capital expansion, and capex, they do not consider future acquisitions.  Although this is reasonable in most cases, it seems short-sighted in those instances where, as with Addtech, acquisitions are an integral component of a firm’s capital allocation strategy.
+One quirk in the way that many analysts think about firms such as [[Addtech]] is that while they are happy to account for investments that find their way into current spending,working capital expansion, and capex, they do not consider future acquisitions.  Although this is reasonable in most cases, it seems short-sighted in those instances where, as with [[Addtech]], acquisitions are an integral component of a firm’s capital allocation strategy.
 
-In the Partnership’s January 2018 letter, I discussed how Wall Street often gives short shrift to the capital investment opportunities of adept serial acquirers and ends up underestimating the rate and duration at which free cash flow per share can grow.  Revisiting this argument, at the time that letter was written, the consensus 2020 sales estimates for Addtech and Assa Abloy were SEK 9 billion and SEK 83 billion, respectively.  Today, they are SEK 12 billion and SEK 101 billion, a 25% rise versus an aggregate 5% increase for the firms that comprise the MSCI Europe index.
+In the Partnership’s January 2018 letter, I discussed how Wall Street often gives short shrift to the capital investment opportunities of adept serial acquirers and ends up underestimating the rate and duration at which free cash flow per share can grow.  Revisiting this argument, at the time that letter was written, the consensus 2020 sales estimates for [[Addtech]] and Assa Abloy were SEK 9 billion and SEK 83 billion, respectively.  Today, they are SEK 12 billion and SEK 101 billion, a 25% rise versus an aggregate 5% increase for the firms that comprise the MSCI Europe index.
 
 When considering the potential for growth via acquisition, it is important to make assumptions on an internally-generated-cash-only basis. That is, excluding any benefit the company may receive from accessing cheap equity or debt in the primary markets. Ignoring aspects of reflexivity in a serial acquirer’s playbook leads to severe consequences if its market standing deteriorates.
 
@@ -118,13 +118,13 @@ When assessing these companies, I spend my time evaluating the thoughtfulness of
 
 Making acquisitions is easy—it’s everything that takes place before and after that presents the challenge.  To succeed through M&A, companies need to have certain foundational elements in place before a transaction takes place.  They should be able to clearly answer questions that tend to be more muddled when looking outward than when growth is being driven organically. Questions like, “What are our values?” “How would we describe our culture, our infrastructure, and our performance measurement system?” and “Who oversees due diligence, onboarding, and integration?”
 
-I recall a conversation with Johan Sjo, the former CEO of Addtech, that gave me the impression that the firm’s managers know precisely how to make an acquisition, onboard the team, integrate their systems, and run staff through training at the Addtech Academy.  As Johan explained:
+I recall a conversation with Johan Sjo, the former CEO of [[Addtech]], that gave me the impression that the firm’s managers know precisely how to make an acquisition, onboard the team, integrate their systems, and run staff through training at the [[Addtech]] Academy.  As Johan explained:
 
-The managers are looking for an “Addtech” feeling to know whether the target is a cultural fit.  They might come back from a diligence meeting with, “the company fits on product, market, culture, and ambition,but is weak on pricing and working capital.” They are explicitly trained to find these things so the team can better know what to do.  
+The managers are looking for an “[[Addtech]]” feeling to know whether the target is a cultural fit.  They might come back from a diligence meeting with, “the company fits on product, market, culture, and ambition,but is weak on pricing and working capital.” They are explicitly trained to find these things so the team can better know what to do.  
 
 A big red flag is to come back with: “The company is good at a, b, and c, but we don’t trust the owner—there’s something fishy.” If that is the case, we can start calling around to industry contacts to find out if this person is trustworthy or not. What can happen is, someone works as a salesperson, comes up and in the process, collects many supplier relationships, then leaves to start his or her own company.  If someone has done it once, that person will often do it again.  Having that fingertip feeling is vital in management’s conviction on what to buy.  
 
-When there is a cultural fit, presenting Addtech in a way that the target trusts us—that we can guarantee how they will operate as part of our group—becomes essential.
+When there is a cultural fit, presenting [[Addtech]] in a way that the target trusts us—that we can guarantee how they will operate as part of our group—becomes essential.
 
 ### Operational excellence
 
@@ -134,9 +134,9 @@ Even so, it’s constructive for executive management to marshal oversight, guid
 
 ·        A standardized control environment: Group management must be able to drill down into the financial performance of individual businesses.  Because acquirees rely on all sorts of reporting mechanisms, serial acquirers need to have well-developed systems for onboarding companies and ensuring apples-to-apples comparisons across the group.  
 
-·        Thoughtful financial targets: When selecting KPIs, it’s sensible to choose those that can be consistently used by everyone—from warehouse managers to board members—to make the right decisions.  Addtech simply uses a ratio of gross profit over working capital. This is quite practical and approximates ROTCE with respect to its business.
+·        Thoughtful financial targets: When selecting KPIs, it’s sensible to choose those that can be consistently used by everyone—from warehouse managers to board members—to make the right decisions.  [[Addtech]] simply uses a ratio of gross profit over working capital. This is quite practical and approximates ROTCE with respect to its business.
 
-·        Learning from one another: Managers benefit from talk across the group.  Addtech’s Academy offers courses for staff on sales, negotiation, and project management.  While a lot of these are available from outside consultants, its beneficial that many of these are taught by Addtech managers themselves.  Unlike outside consultants, they have credibility inside the firm which makes it hard to back away from what they teach.  In the breaks, employees gain from sharing information on customers, products, and suppliers.
+·        Learning from one another: Managers benefit from talk across the group.  [[Addtech]]’s Academy offers courses for staff on sales, negotiation, and project management.  While a lot of these are available from outside consultants, its beneficial that many of these are taught by [[Addtech]] managers themselves.  Unlike outside consultants, they have credibility inside the firm which makes it hard to back away from what they teach.  In the breaks, employees gain from sharing information on customers, products, and suppliers.
 
 Yes; this seems simple.  It utilizes the same, seemingly pedestrian processes that most firms employ. But as Johan explained, “Understanding that it is the operation of the entire system, as a system, that is required to make it work and that operating the same way for a decade also helps drive home the difficulty of executing.”  It is the aligned set of activities that contributes to the advantage, not any particular step in the process.
 
