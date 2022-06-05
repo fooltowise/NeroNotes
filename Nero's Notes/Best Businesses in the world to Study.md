@@ -56,7 +56,7 @@ See also [[Great Businesses I'd like to own]]
 | Accenture ([[ACN]])              | Helping businesses with their evolving technology needs                                             |
 | [[Visa]]/[[Mastercard]]                     | Tollway for global finance                                                                          |
 | Intuitive Surgical ([[ISRG]])    | First mover in robotic surgery and razor/razor-blades business model                                |
-| LVMH ([[LVMH]])                  | Premium branding and distribution                                                                   |
+| [[LVMH]]               | Premium branding and distribution                                                                   |
 | Chipotle ([[CMG]])               | Simple business model, well executed with a long runway ahead                                       |
 | [[Domino's]]                 | From near failure to well-executed turnaround and excellent usage of technology                     |
 | [[Constellation Software]] | Quiet execution and an integration machine                                                          |

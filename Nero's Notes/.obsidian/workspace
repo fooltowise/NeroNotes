@@ -6,11 +6,10 @@
       {
         "id": "f1ced1783dcb2498",
         "type": "leaf",
-        "dimension": 54.46428571428571,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Copywriting.md",
+            "file": "Safal Niveshak.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -18,13 +17,12 @@
         }
       },
       {
-        "id": "5db131546c771fea",
+        "id": "edba9954ec705e4a",
         "type": "leaf",
-        "dimension": 45.535714285714285,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Adweek Copywriting Handbook.md",
+            "file": "How to Find Great Businesses, the Peter Lynch Way.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -56,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copyw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Copywriting.md",
+                "file": "How to Find Great Businesses, the Peter Lynch Way.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Copywriting.md",
+                "file": "How to Find Great Businesses, the Peter Lynch Way.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Copywriting.md"
+                "file": "How to Find Great Businesses, the Peter Lynch Way.md"
               }
             }
           },
@@ -154,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f1ced1783dcb2498",
+  "active": "edba9954ec705e4a",
   "lastOpenFiles": [
-    "Copywriting.md",
-    "The Adweek Copywriting Handbook.md",
-    "Transdigm.md",
-    "Heico, Transdigm and PMA Parts.md",
-    "Heico.md",
-    "Scarcity.md",
-    "Skill stack.md",
-    "How to Improve Skill Development.md",
-    "The Sophistication of your market.md",
-    "Breakthrough Advertising.md"
+    "How to Find Great Businesses, the Peter Lynch Way.md",
+    "Safal Niveshak.md",
+    "Topics for Newsletter.md",
+    "Best Businesses in the world to Study.md",
+    "Kelly Partners Goup.md",
+    "Safal Niveshak Mastermind Copywriting.md",
+    "ROCE-Growth Matrix, and Few Potential Wealth Creators.md",
+    "The 7 Figures Newsletter Course.md",
+    "In Investing, Simple Beats Complex.md",
+    "Judges Scientific.md"
   ]
 }

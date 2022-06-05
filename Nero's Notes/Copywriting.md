@@ -1,18 +1,30 @@
 # Copywriting
 
+
+
+- [[Write like the Hustle]]
 - [[Breakthrough Advertising]]
 - [[The Boron Letters]]
-- [[Advertising Secrets of the Written Word]]
 - [[The Adweek Copywriting Handbook]]
 - [[World's Best Direct Mail Order Letters]]
 - The copywriting course: https://copywritingcourse.com/subscriptions/
 - Stephen King, *On writing*
 
 
+
+
+## Specifics:
+- Sales Page
+- [[Landing Page]]
+- [[How to do cold emails]]
+- [[Writing techniques]]
+
+
+
 ## Before starting:
 - Get the context of the sales campaign. Know the ads, landing page and even the emails that come before the sales page
 - Create a customer avatar profile
-- What kind of Authority Credentials do you have?
+- What kind of [[Authority]] Credentials do you have?
 - What is the brand origin story? People wants to buy products from brands they can relate to.
 - What is your unique selling proposition? What problem does it solve and what does it let your customer achieve?
 - Know exactly the product features and framework

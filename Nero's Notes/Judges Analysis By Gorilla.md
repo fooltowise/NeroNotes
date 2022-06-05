@@ -1,13 +1,13 @@
-# Judges Scientific PLC analysis
+# [[Judges Scientific]] PLC analysis
  ## by Gorilla Game
  
- Judges Scientific (JDG: LSE) is a serial acquirer of niche scientific instruments businesses. These instruments are used in a range of testing and measurement applications by universities (~50% of sales), R&D departments and labs. The UK is a global leader in these types of instruments and the industry is characterized by specialization and fragmentation. These businesses typically have 20%+ EBIT margins and GDP+ organic growth. These businesses also typically have sub-£1m in EBIT and have historically been acquired for 4x to 6x EBIT from retiring founders. Over the last 10 years, Judges has redeployed 2/3rd of its capital in M&A driving 29% EPS cagr and 24% returns on capital (pre-tax).
+ [[Judges Scientific]] (JDG: LSE) is a serial acquirer of niche scientific instruments businesses. These instruments are used in a range of testing and measurement applications by universities (~50% of sales), R&D departments and labs. The UK is a global leader in these types of instruments and the industry is characterized by specialization and fragmentation. These businesses typically have 20%+ EBIT margins and GDP+ organic growth. These businesses also typically have sub-£1m in EBIT and have historically been acquired for 4x to 6x EBIT from retiring founders. Over the last 10 years, Judges has redeployed 2/3rd of its capital in M&A driving 29% EPS cagr and 24% returns on capital (pre-tax).
 
 Judges has a decentralized organizational structure allowing managers to run their subsidiaries with autonomy. This model makes Judges an attractive home for sellers looking to monetize or retire who don’t want their business sold into private equity or absorbed into a strategic acquirer. Judges also provides significant support in the form of higher R&D spend, shared use capabilities, coaching, succession planning, and recruiting. Judges organizational model has similarities to Halma, albeit at far smaller scale. In fact, Judges COO who runs day-to-day operations is a 16-year Halma veteran who was formerly the CEO of Halma’s Process Safety Division and Halma’s former head of M&A.
 
 **Background**
 
-Judges Scientific was originally an investment vehicle called Judges Capital listed by David Cicurel and Alex Hambro on the AIM in 2003. Cicurel was a turnaround specialist and Hambro was a private equity executive. Judges’ initial strategy was to acquire small undervalued public companies, initiate a shake-up then encourage them to sell to private equity at a higher price. The small cap index in the UK doubled in 2003 and the strategy was no longer viable. Cicurel began looking at different types of deals, and found one that was particularly interesting. According to an interview he gave in the Daily Telegraph,
+[[Judges Scientific]] was originally an investment vehicle called Judges Capital listed by David Cicurel and Alex Hambro on the AIM in 2003. Cicurel was a turnaround specialist and Hambro was a private equity executive. Judges’ initial strategy was to acquire small undervalued public companies, initiate a shake-up then encourage them to sell to private equity at a higher price. The small cap index in the UK doubled in 2003 and the strategy was no longer viable. Cicurel began looking at different types of deals, and found one that was particularly interesting. According to an interview he gave in the Daily Telegraph,
 
 > _“It had £3m turnover and £750,000 operating profit, with 19 staff. It looked too good to be true. The owners were an engineer and a scientist, who were both looking to retire. They explained they had a dominating position in a tiny world niche and that the drivers of the business were regulation and globalization”_.
 
@@ -17,7 +17,7 @@ This business ended up being FTT, Judges first acquisition (a Halma-like busines
 
 You can learn more about the model here:
 
-[Acquisition Model | Judges Scientific](https://www.judges.uk.com/main/acquisition-model.html)
+[Acquisition Model | [[Judges Scientific]]](https://www.judges.uk.com/main/acquisition-model.html)
 
 The strategy has commonalities with many [[serial acquirers]] but the question is really execution. Simplistically, the strategy is:
 
@@ -122,7 +122,7 @@ Judges does not pursue synergies. While Judges is hands-off, most founders do no
 
 The video on Judges website interviews existing subsidiary MD's, and really emphasizes the point that Judges is a "good" buyer that won't mess with your business.
 
-[Acquisition Model | Judges Scientific](https://www.judges.uk.com/main/acquisition-model.html)
+[Acquisition Model | [[Judges Scientific]]](https://www.judges.uk.com/main/acquisition-model.html)
 
 **Organizational Structure**
 
@@ -163,7 +163,7 @@ The board is comprised of the CEO, CFO and COO and 5 independent directors, chai
 
 -   Alex Hambro (owns ~£4m in stock) is the original Chairman and still retains that position. He is a private equity executive. He worked in various PE firms, started his own. He is currently also Chairman of AIM-listed Falanx Group, a cyber security company and Non-Executive Director of Octopus Apollo, Hertsford Capital, Whitley Asset Management and Crescent Capital.
     
--   Ralph Cohen (owns £3.6m in stock) was the Finance Director of Judges Scientific plc for nearly ten years until his retirement in 2015. He held various senior executive positions within the energy and water divisions of the Paris based Vivendi group between 1981 and 2001, including eight years as Finance Director of a listed subsidiary, followed by positions as Managing Director within that group.
+-   Ralph Cohen (owns £3.6m in stock) was the Finance Director of [[Judges Scientific]] plc for nearly ten years until his retirement in 2015. He held various senior executive positions within the energy and water divisions of the Paris based Vivendi group between 1981 and 2001, including eight years as Finance Director of a listed subsidiary, followed by positions as Managing Director within that group.
     
 -   Ralph Elman (owns £4m in stock) is a former Finance Director of listed companies Paramount plc, Delyn plc and International Communication & Data plc and Finance Director of businesses within GUS plc and RR Donnelley.
     
@@ -178,7 +178,7 @@ Financial Incentives
 
 There is nothing special about compensation. Base salaries look reasonable with all executives getting paid under £200k. The annual bonus for the Executive Directors is set at 25% of base salary upon achieving annual earnings per share targets set within the annual budget. Additionally, no bonus can be achieved if earnings per share is below a historical high watermark. Share are also rewarded to executives that vest over 3 years. Shares only vest if a minimum 6% cagr in earnings has been achieved over the 3-year vesting period. Mark Lavelle’s (COO) has 64k options with a ~1,935p strike, meaning they are effectively valued at around £2.4m. Brad Ormsby’s 30k options have a 1,475p strike meaning they are effectively valued around £1m.
 
-In terms of MD compensation, Judges Scientific does not have an aggressive compensation structure like Halma, which pays up to 150% of base salary as bonuses. Rather, incentive compensation for MDs is typically around 25% of base but on a case-by-case basis. Given Judge's relatively small size, some of the Founder/MDs are more "engineering/science people" rather than "business people" so this structure makes sense. At Halma, the average subsidiary size is about 6x larger meaning the MD is more of a professional CEO.
+In terms of MD compensation, [[Judges Scientific]] does not have an aggressive compensation structure like Halma, which pays up to 150% of base salary as bonuses. Rather, incentive compensation for MDs is typically around 25% of base but on a case-by-case basis. Given Judge's relatively small size, some of the Founder/MDs are more "engineering/science people" rather than "business people" so this structure makes sense. At Halma, the average subsidiary size is about 6x larger meaning the MD is more of a professional CEO.
 
 **Financials**
 

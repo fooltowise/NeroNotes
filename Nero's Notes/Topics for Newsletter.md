@@ -1,56 +1,4 @@
-# The Equity Investing Handbook
-
-- What is investing
-- Assets/Liabilities
-- Different Classes of assets
-- The advantage of stocks
-	- Reinvestment of earnings on your behalf at book value and not book value multiple
-- Accounting
-	- Basic Accounting
-		- Balance Sheet / Income Statement / Cash Flow Statements
-		- Relevant ratios
-- What is a business? What is a stock?
-	- Operating / Investing /Financing
-- Why risk is not volatility
-- You need to recognize excellence (Read Leonard. Read Buffett)F
-- What is a good business?
-- Different styles of equity investing
-	- Indexing - Passive
-	- Active:
-		- Net Nets and co
-		- Dividend investing
-		- Cyclical investing
-		- "Value", ''Growth", "Momentum" and other factors -> correlation is not causation!
-		-  Long-term Compounders
--  Where will your returns come from?	
-	-  Look for a Lollapalooza with multiplicative effects
-	-  Efficient Market Hypothesis debunking
-	-  Over the long term, ROIC >> Multiple expansion/contraction
-	-  DCF, most of the value is found after 10 years
-	-  Inappropriateness of DCF
-	-  Opportunity cost
-	-  Why would the market not price it already?
-	-  Career risk of professional managers
-	-  Mr Market
-	-  Margin of safety
-	-  Mostly qualitative factors:
-		-  Competitive advantage
-		-  Management/[[corporate culture]]
-		-  growth opportunities
--  Qualitative analysis
-	-  Sources of moats
-	-  Capital Allocation
-	-  Growth
-	-  [[Corporate Culture]]
--  Portfolio Management
-	-  Diversification
-	-  Opportunity Cost
-	-  When to sell
-
-
-
-
-
+# Topics for Newsletter
 
 ---
 ## Idées pour Investi:
@@ -63,10 +11,26 @@
 	- Cash Flow Statement
 	- Ratios
 
+
+**Risk:**
+- Volatility is short term risk, business profitability is long term risk. Leverage is the bridge between both
+- Increase your opportunity cost
+- Risk-reward relation: more returns for volatility vs does that increase my opportunity cost? (i.e Buffett's go/no go)
+- Risk vs Uncertainty
+
+- Are you a stock owner or a renter?
+
+
+- What is a stock?
+- **Case studies: apprendre à reconnaitre l'excellence**
+- Investment vs Speculation
+- ROIC, Growth, Multiple expansion
 - Les marchés sont ils vraiment efficients
 - D'où viennent les gains en Bourse
+- Les avantages du petit porteur face aux institutions
 - Worldly wisdom through a latticework of Mental Models
 - The importance of choosing the right role models, teachers and mentors in life -> standing on the shoulders on giants
+- Le promeneur et le labrador (=> promeneur = business, labrador = stock market)
 - L'effet boule de neige se cache partout
 - Doing Science is being able to make falsifiable predictions
 - Becoming a learning machine
@@ -75,10 +39,13 @@
 - Le dilemne du prisonnier
 - L'effet de la dame de Coeur
 	- Pourquoi Buffett a stoppé le réinvestissement dans le textile
+	  
+	  
 
 - Pourquoi "Pour avoir des gains plus gros, il faut prendre plus de risque" est faux -> ergodicité
 - Volatilité= Risque? Des fois oui (ex: leverage transforme short term volatilité en risque long-terme) et sinon non.
 - Tout dans la vie est coût d'opportunité. Le but de la vie est d'augmenter son coût d'opportunité
+- Deferred Taxes: le cadeau du gouvernement...
 - Warren Buffett quotes
 - Porter's five forces
 - Capital Cycle
@@ -151,3 +118,17 @@
 	- The joys of compounding
 	- Capital returns
 	- Richer Wiser Happier
+
+
+10k Diver:
+
+- owner earnings
+- Share buybacks
+- Portfolio diversification
+- Arithmetic vs geometric thinking
+- Stock based compensation
+- Wonderful businesses at fair prices vs fair businesses at a wonderful price
+- The rule of 72
+- Earnings growth vs return on capital
+- Margin of safety when a company has loads of debt
+- Survival, Lindy vs Turkey

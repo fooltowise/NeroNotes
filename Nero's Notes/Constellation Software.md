@@ -55,7 +55,9 @@
 [[Constellation Software - M&A Best Practices]]
 [[Constellation Software in CEE]]
 [[Investor Dialogue - Constellation Software]]
-- [[Constellation Software, Jonas, & Portfolio Management]]
+[[Constellation Software, Jonas, & Portfolio Management]]
+[[Tegus Interview of Jamal Baksh]]
+
 
 ## Analyses by Liberty RPF
 [[LibertyRPF on CSU]]
