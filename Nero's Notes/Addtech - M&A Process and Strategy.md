@@ -104,7 +104,7 @@ Yes, nine times out of 10 people, stay way past their earn out period because th
 
 ### Do the private equity companies compete for acquisitions with Alcadon and Addtech?
 
-The competition has become much more fierce. Lifco, Lagercrantz and Indutrade are the typical competitors, but today there are more family offices acquiring companies with a turnover between €2 and €10 million. There are many players but the multiples do not change. It is not in anyone's interest to pay more than the usual multiples, which are similar across Europe. You rarely meet potential targets who have not been in contact with at least 10 potential acquirers, so you have to stand out.
+The competition has become much more fierce. [[Lifco]], Lagercrantz and Indutrade are the typical competitors, but today there are more family offices acquiring companies with a turnover between €2 and €10 million. There are many players but the multiples do not change. It is not in anyone's interest to pay more than the usual multiples, which are similar across Europe. You rarely meet potential targets who have not been in contact with at least 10 potential acquirers, so you have to stand out.
 
 ### How is there more demand and cheaper money but unchanged multiples?
 

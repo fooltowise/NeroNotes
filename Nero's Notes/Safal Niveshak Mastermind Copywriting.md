@@ -1,4 +1,4 @@
-# Safal Niveshak copy for its Mastermind Course
+# [[Safal Niveshak]] copy for its Mastermind Course
 
 
 ## Admission Open - Mastermind Value Investing Course - Claim ₹5,000 Discount
@@ -18,7 +18,7 @@ With this thought in mind, and after interacting with a lot of investors who wer
 
 I also sifted through a mountain of amazing books, documents, lectures, and other resources so that I could bring on the table just the very best ideas and lessons in investing and building wealth for other investors to learn.
 
-And thus was born **The Safal Niveshak Mastermind** – my premium, online course in Value Investing.
+And thus was born **The [[Safal Niveshak]] Mastermind** – my premium, online course in Value Investing.
 
 Nine years later, the course has been studied by more than 10,000 investors worldwide, and has received tremendous appreciation for the quality of its content and structure, and for how it has empowered its students to become better stock market investors.
 

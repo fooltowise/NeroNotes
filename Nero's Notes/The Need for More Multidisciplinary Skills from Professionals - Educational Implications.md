@@ -49,7 +49,7 @@ First, the concept of "all needed skills" lets us recognize that we don't have t
 
 Second, in elite education, we have available the large amounts of talent and time that we need. After all, we are educating the top one percent in aptitude, using teachers who, on average, have more aptitudes than the students. And we have roughly thirteen long years in which to turn our most promising twelve-year-old into starting professionals.
 
-Third, thinking by inversion and through use of checklists is easily learned - in broadscale life as in piloting.
+Third, thinking by inversion and through use of [[checklists]] is easily learned - in broad scale life as in piloting.
 
 Moreover, we can believe in the attainability of broad multidisciplinary skill for the same reason the fellow from Arkansas gave for his belief in baptism: "I've seen it done." We all know of individuals, modern Ben Franklins, who have (1) achieved a massive multidisciplinary synthesis with less time in formal education than is now available to our numerous brilliant young and (2) thus become better performers in their own disciplines, not worse, despite diversion of learning time to matter outside the normal coverage of their own disciplines.
 

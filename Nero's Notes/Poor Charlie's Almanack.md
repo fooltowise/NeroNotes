@@ -27,7 +27,7 @@
 ### Follow up:
 - Read Ben Franklin
 - Read Darwin biography
-- Create Checklists
+- Create [[Checklists]]
 - Learn microeconomics (Greg Mankiw)
 - Think forward and backward
 - Maintain knowledge through use of deep fluency

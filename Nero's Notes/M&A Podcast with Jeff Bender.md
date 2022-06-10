@@ -292,7 +292,7 @@ Because again, these are lessons learned in the past that we don't want us to re
 
 So you try and squeeze out some of the simpler things. I guess it doesn't help you on super complicated things, but it helps you on some of the simpler stuff. 
 
-So powers of checklists, reviews, and typically we have lots of people with lots of capital deployment experience.
+So powers of [[checklists]], reviews, and typically we have lots of people with lots of capital deployment experience.
 
 So again, if you're proposing an acquisition, it has to go through a couple of levels of review. I'll spend some time with it. 
 
@@ -440,7 +440,7 @@ So again, we'll often pull people from existing businesses and provide them with
 
 But it really helps them understand what it's like to be an employee, how we think about acquisitions, and that kind of thing. 
 
-We have an extensive playbook, lots of checklists to make sure we don't forget the stupid stuff for the simple stuff but leave enough room for the agility of what you need to do.
+We have an extensive playbook, lots of [[checklists]] to make sure we don't forget the stupid stuff for the simple stuff but leave enough room for the agility of what you need to do.
 
 We're fairly, I wouldn't say hands-off. So obviously we have a core financial reporting system and a reporting tool that sits on top of that system. Everybody gets on that system as soon as possible. 
 

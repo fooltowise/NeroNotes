@@ -1,10 +1,10 @@
-# Lifco AB and Ahlberg Cameras: Portfolio Company and Post-Acquisition Review
+# [[Lifco]] AB and Ahlberg Cameras: Portfolio Company and Post-Acquisition Review
 
 by #InPractise 
 
 Disclaimer: This interview is for informational purposes only and should not be relied upon as a basis for investment decisions. In Practise is an independent publisher and all opinions expressed by guests are solely their own opinions and do not reflect the opinion of In Practise.
 
-### I’d like to get an idea how Lifco works, your interactions with Lifco, their culture and how they do business. Tell me about your own background first?
+### I’d like to get an idea how [[Lifco]] works, your interactions with [[Lifco]], their culture and how they do business. Tell me about your own background first?
 
 I’m a mechanical engineer from the beginning. I started off in a company called FLIR Systems. I think they’ve now changed their name to Teledyne, quite a large company. I worked within the ‘green’ products as they were called back when I was there; military equipment, sighting and surveillance cameras in infrared systems, so heat or thermal cameras as they’re called. I worked there for almost four years as a developer, mechanical designer and then moved on to a consulting business for another four years. The circle was a little closed when I came back to my first employer as a consultant and did a project during a seasonal lull. I went back to them and had a good time there but the circle was closed, then I saw that Ahlberg Cameras were looking for a project manager.
 
@@ -14,7 +14,7 @@ I had never heard about that company before but I understood they worked in the 
 
 I joined them in ’09, maybe ’10.
 
-### They were bought out by Lifco in 2012?
+### They were bought out by [[Lifco]] in 2012?
 
 Yes, so quite early in my employment at Ahlberg. I wasn’t involved in anything regarding that transaction. But for me it was the same business; more or less the same tasks.
 
@@ -26,9 +26,9 @@ I left them 2½ years ago formally, but I ramped down a little bit earlier. I fo
 
 Yes.
 
-### When Lifco took over in 2012, what changes were made?
+### When [[Lifco]] took over in 2012, what changes were made?
 
-The information we got was that Lifco is a company that have interest in other companies that already are quite good and make strong profit, so as long as we more or less did what we did before, we could continue without any interruptions or guidance from Lifco, but when it was needed, we had them to cover our backs, I would say. We were quite self-sufficient at least from my position. The CEO had a lot more interaction and helped with reporting and strategic decisions.
+The information we got was that [[Lifco]] is a company that have interest in other companies that already are quite good and make strong profit, so as long as we more or less did what we did before, we could continue without any interruptions or guidance from [[Lifco]], but when it was needed, we had them to cover our backs, I would say. We were quite self-sufficient at least from my position. The CEO had a lot more interaction and helped with reporting and strategic decisions.
 
 ### Perhaps we should back up and try and get some more understanding about Ahlberg as a business itself first. How would you characterize that business? Were the customers government contractors, long term relationships? Did Ahlberg have a lot of competition? Could you talk about those aspects?
 
@@ -64,11 +64,11 @@ Three times turnover on nine years.
 
 Very good. I don’t know how the last two or three years have been but I’ve heard that they’re still increasing. That’s impressive I would say.
 
-Yes. You mentioned the business was founded in the 80s and built on long-term relationships and its reputation. Did that reputation continue after Lifco’s ownership and the relationships as well?
+Yes. You mentioned the business was founded in the 80s and built on long-term relationships and its reputation. Did that reputation continue after [[Lifco]]’s ownership and the relationships as well?
 
-I don’t think too many have bothered understanding if Ahlberg was privately owned or owned by Lifco. They were buying Ahlberg Cameras and the functionality. They didn’t care too what much what we did. They explained their problems and we tried to solve them as a camera company and we got repeated orders based on history and a good reputation.
+I don’t think too many have bothered understanding if Ahlberg was privately owned or owned by [[Lifco]]. They were buying Ahlberg Cameras and the functionality. They didn’t care too what much what we did. They explained their problems and we tried to solve them as a camera company and we got repeated orders based on history and a good reputation.
 
-### Did the previous owners and managers stay after Lifco acquired Ahlberg?
+### Did the previous owners and managers stay after [[Lifco]] acquired Ahlberg?
 
 The founder left; I don’t know if it was immediately or close after the acquisition but his son who at that time had spent 10 years in the company stayed. I know that he is trying to move away from the company as we speak. I don’t know how long he will stay there. The family stayed within the company during my time there.
 
@@ -76,23 +76,23 @@ The founder left; I don’t know if it was immediately or close after the acquis
 
 I think Ulf Ahlberg, the founder of the company wanted to retire. Ulf managed the company as a family business and I think maybe it grew a little larger than he wanted. Of course, he probably made good money on it and could retire in good style. I’m guessing but I would be surprised if that wasn’t one of the reasons.
 
-### Do you have any sense of why they chose Lifco? Were they maybe more than one potential bidder for the company or was it just something that was negotiated with Lifco?
+### Do you have any sense of why they chose [[Lifco]]? Were they maybe more than one potential bidder for the company or was it just something that was negotiated with [[Lifco]]?
 
-If I continue guessing, from what I’ve learned about Lifco, we were quite self-sufficient and that was probably something that the former CEO and the new CEO liked about the deal, to continue their path but have a larger company covering their back and trying to continue growth.
+If I continue guessing, from what I’ve learned about [[Lifco]], we were quite self-sufficient and that was probably something that the former CEO and the new CEO liked about the deal, to continue their path but have a larger company covering their back and trying to continue growth.
 
 ### More financial firepower so to speak.
 
 Yes. To be able to quote on these bigger projects.
 
-### What you’re telling me is what I’ve heard others tell me as well, that was an important selling point for Lifco, that they buy the companies but then they let them continue to run and operate independently. When you were there did you have regular interaction with Lifco headquarters?
+### What you’re telling me is what I’ve heard others tell me as well, that was an important selling point for [[Lifco]], that they buy the companies but then they let them continue to run and operate independently. When you were there did you have regular interaction with [[Lifco]] headquarters?
 
 The CEO had weekly economic follow-ups. From the development side we had annual board meetings.
 
-### The president of Brokk was the intermediary or manager between Ahlberg and Lifco?
+### The president of Brokk was the intermediary or manager between Ahlberg and [[Lifco]]?
 
 Correct.
 
-### Not the Lifco CEO, Fredrik Karlsson?
+### Not the [[Lifco]] CEO, Fredrik Karlsson?
 
 That’s correct. You have a good memory or you’re well informed! Fredrik Karlsson, yes. He was there a couple of times every year to understand where we are, where we were heading and we could get his point of view on strategic decisions and where we should try to focus on next year’s development. Not more than once, twice a year.
 
@@ -104,7 +104,7 @@ I think they gave our CEO the suggestion to increase prices on spare parts and c
 
 Not according to what I understand. It was advising and reasoning.
 
-### What was it like to work under Lifco? It sounds like it was fun and it went on as before, but in general, did people tend to stay?
+### What was it like to work under [[Lifco]]? It sounds like it was fun and it went on as before, but in general, did people tend to stay?
 
 We had very low turnover on people and I don’t think anyone ended their employment. We let a couple of contracted CFOs go. That was the position with the highest turnover. When it comes to production and development, very low churn. In terms of sales, they only increased their staffing during my time. The COO was quite sales focused. You could see how sales increased when he took an active part in selling, maybe because he’s a family name.
 

@@ -5,7 +5,7 @@ by #InPractise
 
 Disclaimer: This interview is for informational purposes only and should not be relied upon as a basis for investment decisions. In Practise is an independent publisher and all opinions expressed by guests are solely their own opinions and do not reflect the opinion of In Practise.
 
-### We are shareholders in HEICO, which we've owned almost since the beginning of the fund a few years ago, and plan to hold long term, so I'm very curious and interested to get your take on the industry and competitive position and differences between HEICO and TransDigm and different competitors when it comes to this space. Could you tell us a little more about your background and then we can get into how you see the industry?
+### We are shareholders in [[HEICO]], which we've owned almost since the beginning of the fund a few years ago, and plan to hold long term, so I'm very curious and interested to get your take on the industry and competitive position and differences between [[HEICO]] and TransDigm and different competitors when it comes to this space. Could you tell us a little more about your background and then we can get into how you see the industry?
 
 I started on the management side with TransDigm in the early 2000s as a design engineer, then moved into sales and marketing, then product line management. That was before the IPO so they were privately held at that time. I was part of the team going through the IPO after Warburg Pincus ownership, and still maintain contact with Dan Zamlong and Mike Graff at Warburg Pincus with some of their portfolios such as Wencor. I was part of the team that managed pricing of the largest product line TransDigm had at the time, which was the acquisition of the Honeywell APU lube and scavenge pump line. I then managed several operating groups that happened after M&A.
 
@@ -15,9 +15,9 @@ I was with Triumph for four years until 2019 then did more consulting again, and
 
 ### Who are the major PMA players and what are their competitive positions?
 
-When you think about PMA, you think about companies like TransDigm, HEICO, Wencor, Jet Parts and ADPma, each of whom are different. TransDigm is more of an OEM of components and a sub-component supplier, unlike Triumph Group which is an OEM but more of a system integrator, closer to the likes of Rockwell Collins which was United Technologies or Honeywell. If you look at HEICO and Wencor, HEICO is a diversified manufacturer in today's world. Wencor is similar but has a strong distribution business as part of their pedigree. They all have the PMA business as well as maintenance, repair and overhaul support. HEICO has a very similar make up, but have some new leaders who have come on board, such as David Susser from Seal Dynamics, who were a very strong bespoke product distributor who distributed products for Triumph Group that were high intellectual property and sole-sourced.
+When you think about PMA, you think about companies like TransDigm, [[HEICO]], Wencor, Jet Parts and ADPma, each of whom are different. TransDigm is more of an OEM of components and a sub-component supplier, unlike Triumph Group which is an OEM but more of a system integrator, closer to the likes of Rockwell Collins which was United Technologies or Honeywell. If you look at [[HEICO]] and Wencor, [[HEICO]] is a diversified manufacturer in today's world. Wencor is similar but has a strong distribution business as part of their pedigree. They all have the PMA business as well as maintenance, repair and overhaul support. [[HEICO]] has a very similar make up, but have some new leaders who have come on board, such as David Susser from Seal Dynamics, who were a very strong bespoke product distributor who distributed products for Triumph Group that were high intellectual property and sole-sourced.
 
-HEICO distribution differs to Wencor. Blue Aerospace, which is part of the HEICO portfolio, is basically the Lockheed C-130J IP, so again, very highly sole-sourced, so you have that piece. If you look at the maintenance, repair and overhaul, HEICO is acquiring more of those companies, so they have more control over who installs the part. When you look at the global PMA market, it is key to think about how you influence or stay in control of who installs parts. That is about understanding the leverage and figuring out strategies to help you increase the leverage and influence you have over the choices in the market which drive your products.
+[[HEICO]] distribution differs to Wencor. Blue Aerospace, which is part of the [[HEICO]] portfolio, is basically the Lockheed C-130J IP, so again, very highly sole-sourced, so you have that piece. If you look at the maintenance, repair and overhaul, [[HEICO]] is acquiring more of those companies, so they have more control over who installs the part. When you look at the global PMA market, it is key to think about how you influence or stay in control of who installs parts. That is about understanding the leverage and figuring out strategies to help you increase the leverage and influence you have over the choices in the market which drive your products.
 
 ### When you look at the PMA space, what do the opportunities look like for each MRO or spare parts? Are they coming together more; what do you think?
 
@@ -27,7 +27,7 @@ They are coming together more. Some of your questions asked about Covid, so in t
 
 Correct.
 
-### You mentioned HEICO on the Lockheed is basically sole-source on that, but how common is that? My impression was that many manufacturers have similar PMA parts?
+### You mentioned [[HEICO]] on the Lockheed is basically sole-source on that, but how common is that? My impression was that many manufacturers have similar PMA parts?
 
 No, they don't. Aerospace is not at all like automotive or industrial and very few places have overlap. Usually, when the aircraft was certified there was one supplier, so PMA makes it a duopoly. Sometimes you may have three people on certain systems or products, and even though they're in the same system, there is only 2% overlap of similar parts. Most of the time that's not the case, but since it's an alternative, there's always the original OEM.
 
@@ -37,7 +37,7 @@ Sometimes some of these companies were the original OEM, especially TransDigm, w
 
 Yes.
 
-### If Wencor already has this popular part, it doesn't make sense for HEICO to invest the capital to also get their own PMA for that part?
+### If Wencor already has this popular part, it doesn't make sense for [[HEICO]] to invest the capital to also get their own PMA for that part?
 
 No, because what's interesting about aerospace, when you divvy the market up to a certain extent, you may have three people in, but you will never have 30 people in. The ability for you to get that return on investment becomes more difficult, because the unit prices and demand rate on PMA is only a certain scope.
 
@@ -45,13 +45,13 @@ No, because what's interesting about aerospace, when you divvy the market up to 
 
 There is a lot of testing, but it's on a case-by-case basis, and with many of these things you need a sponsor; you cannot simply go off and do something on the side. Very few companies have the money to pay for an engine to be instrumented and do an engine test. Usually there are sponsors such as Lufthansa, Delta, United or American, who will help you get the data you need to support that approval, and when they're partnering, there is stickiness.
 
-When you have a well-known reputation, like HEICO, who created the PMA market when they PMAd several engine components on the CFM56 with GE. That went all the way up to court cases where the FAA had to make the statement that the PMA part is an OEM part because both the OEM and the PMA are governed by the FAA 8130 process. There is equivalence and the regulators had to call that out. If that case went a different direction, there wouldn't be a PMA industry, because GE told their customers their lease or warranty was invalid if they put a PMA part into their engine. The regulator said they cannot say that, and that their PMA part was 100% equivalent.
+When you have a well-known reputation, like [[HEICO]], who created the PMA market when they PMAd several engine components on the CFM56 with GE. That went all the way up to court cases where the FAA had to make the statement that the PMA part is an OEM part because both the OEM and the PMA are governed by the FAA 8130 process. There is equivalence and the regulators had to call that out. If that case went a different direction, there wouldn't be a PMA industry, because GE told their customers their lease or warranty was invalid if they put a PMA part into their engine. The regulator said they cannot say that, and that their PMA part was 100% equivalent.
 
 ### Does a sponsor defray costs or are they promised certain volumes?
 
-Most of it is allowing you to have the equipment required to do the analysis or testing, because HEICO or Wencor don't have a plane sitting around for that purpose. If the FAA want X number of flight hours before they can see if the data is accurate, you have to put it on something flying around and get the serial number data to go forward with that, and without a sponsor willing to fly it around, you will never get accomplish that.
+Most of it is allowing you to have the equipment required to do the analysis or testing, because [[HEICO]] or Wencor don't have a plane sitting around for that purpose. If the FAA want X number of flight hours before they can see if the data is accurate, you have to put it on something flying around and get the serial number data to go forward with that, and without a sponsor willing to fly it around, you will never get accomplish that.
 
-Is getting these PMA parts a capability which is difficult? Obviously, HEICO, TransDigm and Wencor can do it, but would it be daunting for a newcomer to do?
+Is getting these PMA parts a capability which is difficult? Obviously, [[HEICO]], TransDigm and Wencor can do it, but would it be daunting for a newcomer to do?
 
 Yes, because you need the systems engineers with the experience. It is not like industrial or automotive where you can simply show up.
 
@@ -59,7 +59,7 @@ Yes, because you need the systems engineers with the experience. It is not like 
 
 Correct, which is the harder part of the cycle because you compete with Boeing, Airbus, Collins and Safran, where there is an ecosystem and they appear in aircraft manuals.
 
-### Does HEICO or TransDigm have an advantage being public?
+### Does [[HEICO]] or TransDigm have an advantage being public?
 
 No, I don't think so. At their size, it's like saying that they would have an advantage over a Precision Castpart being owned by Berkshire. They have access to capital at their size.
 
@@ -71,7 +71,7 @@ I don't see any advantage or disadvantage to being public.
 
 Right.
 
-### TransDigm had a reputation of being very aggressive with that, and Nick Howley was dragged in front of Congress for aggressively raising prices, but on the other hand, I heard HEICO doesn't do it to the same extent. What is your take on the two models and which one do you prefer or what are the pros and cons of each?
+### TransDigm had a reputation of being very aggressive with that, and Nick Howley was dragged in front of Congress for aggressively raising prices, but on the other hand, I heard [[HEICO]] doesn't do it to the same extent. What is your take on the two models and which one do you prefer or what are the pros and cons of each?
 
 Do you know I was part of that aggressive team?
 
@@ -79,7 +79,7 @@ Do you know I was part of that aggressive team?
 
 That whole incident of dragging him in front of congress was more Kabuki theater. If you go to the BFARs, there is now a clause within the government procurement process that says, pricing by negotiation. They were never found guilty of defective pricing, whereas Lockheed, Boeing and all the major suppliers have been. Defective pricing basically says that you lied to the government, and no matter how aggressive TransDigm was, they never have been subject to a defective pricing review or claim.
 
-After all that was done, there was a new Federal Acquisition Rule added called Pricing by Negotiation, because that's really what it is. You cannot constrain the marketplace and we can negotiate to where everybody agrees. HEICO does it as much as anyone else, because there's a cost to supporting older platforms, which is different than the cost of supporting in production aircraft. If you have a PMA product on a 737 MAX, 787 or A320 new engine option or neo, the costs differ compared to supporting a 757 or an MD11. Older cargo platforms don't have an ongoing supply chain so the cost structures are different. That is really what the pricing is about.
+After all that was done, there was a new Federal Acquisition Rule added called Pricing by Negotiation, because that's really what it is. You cannot constrain the marketplace and we can negotiate to where everybody agrees. [[HEICO]] does it as much as anyone else, because there's a cost to supporting older platforms, which is different than the cost of supporting in production aircraft. If you have a PMA product on a 737 MAX, 787 or A320 new engine option or neo, the costs differ compared to supporting a 757 or an MD11. Older cargo platforms don't have an ongoing supply chain so the cost structures are different. That is really what the pricing is about.
 
 ### Do you mean different as higher or lower for the older planes?
 
@@ -87,19 +87,19 @@ Much higher.
 
 ### Is that because you don't have an ongoing supply chain?
 
-Yes, they're not building 80 castings a year to support production, then adding another 10 to support fielded aircraft. Now somebody has to pour 10 castings to get into the cycle to be able to build it. That is why GE, Pratt & Whitney and Honeywell have similar pricing; it's simply the nature of standard economics supply and demand. As those platforms transfer from in production to out of production, how aggressively will you capture margin to offset those increased costs? Will you do it over a slower burn where it affects your margins, or will you do it on a more aggressive schedule because you don't know the timescale? With Covid, everybody thought there would be massive aircraft retirements, but that didn't happen. If it did, it would have clobbered many people, especially if you were capturing that on a slower burn like HEICO versus a more rapid burn like TransDigm, who wanted to displace those costs on the front end. They chose to be more aggressive on pricing as opposed to needing a longer period of time to offset those increased costs.
+Yes, they're not building 80 castings a year to support production, then adding another 10 to support fielded aircraft. Now somebody has to pour 10 castings to get into the cycle to be able to build it. That is why GE, Pratt & Whitney and Honeywell have similar pricing; it's simply the nature of standard economics supply and demand. As those platforms transfer from in production to out of production, how aggressively will you capture margin to offset those increased costs? Will you do it over a slower burn where it affects your margins, or will you do it on a more aggressive schedule because you don't know the timescale? With Covid, everybody thought there would be massive aircraft retirements, but that didn't happen. If it did, it would have clobbered many people, especially if you were capturing that on a slower burn like [[HEICO]] versus a more rapid burn like TransDigm, who wanted to displace those costs on the front end. They chose to be more aggressive on pricing as opposed to needing a longer period of time to offset those increased costs.
 
 ### Is everyone in the industry doing the same thing?
 
 Yes, you can look it up in the annual reports. United Technologies and Honeywell did it, and it was so funny when we would have negotiations, because we would simply pull their page and tell them they said they were giving 13% and we're only asking for 8%, so what is the problem?
 
-### Why is HEICOs operating margin around 20 whereas TransDigm is double? Are you saying it's not primarily due to TransDigm jacking up prices more than HEICO? What other factors might be at play?
+### Why is HEICOs operating margin around 20 whereas TransDigm is double? Are you saying it's not primarily due to TransDigm jacking up prices more than [[HEICO]]? What other factors might be at play?
 
-TransDigm is more of an OEM whereas HEICO is more of a conglomerate. You have to also remember the industrial side of the business.
+TransDigm is more of an OEM whereas [[HEICO]] is more of a conglomerate. You have to also remember the industrial side of the business.
 
 ### Yes, that's true.
 
-Think about distribution margins. There was a Deloitte article in 2020 which spoke about the aerospace market and they broke down the areas of participation and margins. Air framers and aero structures are in a single digit market, whereas system integrators and MRO suppliers are double digit margin, mid-teens to 20s. Distributors and component suppliers are also double-digit margins but between 30% and 50%. If you look at that article, you will see each company's portfolio, which will tell you why and where they are at. TransDigm is more of a tier 2 or 3 supplier, which is components, parts and some sub-systems. Triumph is more of a sub-systems supplier now they have got rid of their aero structure business, and are more in line with TransDigm margins than where they were previously. HEICO also fits within that, but I'm not sure how big their distribution business is within their portfolio.
+Think about distribution margins. There was a Deloitte article in 2020 which spoke about the aerospace market and they broke down the areas of participation and margins. Air framers and aero structures are in a single digit market, whereas system integrators and MRO suppliers are double digit margin, mid-teens to 20s. Distributors and component suppliers are also double-digit margins but between 30% and 50%. If you look at that article, you will see each company's portfolio, which will tell you why and where they are at. TransDigm is more of a tier 2 or 3 supplier, which is components, parts and some sub-systems. Triumph is more of a sub-systems supplier now they have got rid of their aero structure business, and are more in line with TransDigm margins than where they were previously. [[HEICO]] also fits within that, but I'm not sure how big their distribution business is within their portfolio.
 
 ### Would it be safe to say that TransDigm, specifically when it comes to PMA, is not more aggressive than anybody else in the PMA space alone?
 
@@ -121,7 +121,7 @@ Right, but you don't see that.
 
 The lightning isolators in the 787 went to a composite wing, and instead of going to a new person, they asked TransDigm to make that for them.
 
-### TransDigm and HEICO wouldn't necessarily go off on their own and get some part PMAd; they would do it with a sponsor.
+### TransDigm and [[HEICO]] wouldn't necessarily go off on their own and get some part PMAd; they would do it with a sponsor.
 
 Yes.
 
@@ -131,7 +131,7 @@ Right, so both of them have strong relationships and are respected and support t
 
 ### We mentioned a little bit changed since Covid, has the whole Russia Ukraine thing impacted these businesses in any way?
 
-I was at the MRO show in Dallas last week and ran into Uzbekistan Technics who I met when I was at the Dubai MRO show. They asked me how the sanctions regime has impacted me, and it has been tough on us because they have products flying on both Boeing and Airbus platforms which have worked them stuck. There is a delay in certain places but I don't know how much that would affect the MRO or spares business for HEICO. It is an added layer of administrative burden, ensuring you follow and keep up with the State Department sanctions. Uzbekistan Airlines flies into Russia and Russians will take a vacation this summer, they will also fly to the World Cup in Qatar as well as Brazil and other places. That will not change but we've created a more difficult way of interacting with that.
+I was at the MRO show in Dallas last week and ran into Uzbekistan Technics who I met when I was at the Dubai MRO show. They asked me how the sanctions regime has impacted me, and it has been tough on us because they have products flying on both Boeing and Airbus platforms which have worked them stuck. There is a delay in certain places but I don't know how much that would affect the MRO or spares business for [[HEICO]]. It is an added layer of administrative burden, ensuring you follow and keep up with the State Department sanctions. Uzbekistan Airlines flies into Russia and Russians will take a vacation this summer, they will also fly to the World Cup in Qatar as well as Brazil and other places. That will not change but we've created a more difficult way of interacting with that.
 
 ### Even if there is a peace, I'm not sure the sanctions will go away so quick.
 
@@ -139,11 +139,11 @@ Right, but how does it really impact, because most of the time whether they are 
 
 ### You mentioned Covid changing some things; will those trends stick around for a while? The retirement of older aircraft was expected but didn't happen, so are there any other long term fall outs from Covid?
 
-The retirement of people. At the MRO show, they talked about experienced labor. There were experienced people from the airlines and some of the bigger maintenance repair overhaul shops like AER and some of the others who had retired. Thinking about big PMAs or creating work scopes with the DER repairs – which is something HEICO has the ability to do, having the maintenance, repair and overhaul businesses within their portfolio – they can do a designated engineering representative repair – DER is the FAA cert – where they can create a repair scope that may help an operator perform some work that you would normally need an experienced person to do. Now that experienced person isn't there, you create this other type of repair and simply replace the part, which allows them to continue operating. That kind of thing will probably continue. That is a place where everybody is thinking differently.
+The retirement of people. At the MRO show, they talked about experienced labor. There were experienced people from the airlines and some of the bigger maintenance repair overhaul shops like AER and some of the others who had retired. Thinking about big PMAs or creating work scopes with the DER repairs – which is something [[HEICO]] has the ability to do, having the maintenance, repair and overhaul businesses within their portfolio – they can do a designated engineering representative repair – DER is the FAA cert – where they can create a repair scope that may help an operator perform some work that you would normally need an experienced person to do. Now that experienced person isn't there, you create this other type of repair and simply replace the part, which allows them to continue operating. That kind of thing will probably continue. That is a place where everybody is thinking differently.
 
 ### What are great opportunities going forward for players in PMA or MRO?
 
-There are not many new platforms, but LEAP engines are coming out of warranty, and HEICO made its play on the CFM engine, which the LEAP is a variant of. It will be interesting to see how aggressively General Electric and their partners protect that market, if they can, or are they still the same old companies who aren't providing the level of service airline operators want, and leave space for HEICO or others to provide the service they are.
+There are not many new platforms, but LEAP engines are coming out of warranty, and [[HEICO]] made its play on the CFM engine, which the LEAP is a variant of. It will be interesting to see how aggressively General Electric and their partners protect that market, if they can, or are they still the same old companies who aren't providing the level of service airline operators want, and leave space for [[HEICO]] or others to provide the service they are.
 
 ### New platforms are obviously opportunities for new parts, but there doesn't seem to be many new platforms?
 
@@ -153,9 +153,9 @@ The A320 neo is basically the same air frame as the A320 with the classic engine
 
 Yes, there are some, like Fortress Group and GA Telesis. GE Capital Aviation, or GECAS, and other groups out of Ireland used to be a finance arm and wanted to move assets to the next owner as quickly as possible and “having PMAs on it” made it less valuable. Today, there is a different model where the people who own the asset are leasing and maintaining it.
 
-### TransDigm and HEICO used to buy a bunch of companies; will that continue or is it mostly consolidated?
+### TransDigm and [[HEICO]] used to buy a bunch of companies; will that continue or is it mostly consolidated?
 
-It will continue but everybody has different models. TransDigm are OE focused. Look at some of the recent acquisitions HEICO and players like Proponent have done. They are a distribution company but ended up buying an OEM aircraft lighting manufacturer. There are still enough mid-market and even big companies that there will probably be more acquisitions. Wencor recently bought one of our competitors, a PMA company our size called Jet Parts, who were acquired two years ago by a PE firm who also got a sensor company in Florida in 2021.
+It will continue but everybody has different models. TransDigm are OE focused. Look at some of the recent acquisitions [[HEICO]] and players like Proponent have done. They are a distribution company but ended up buying an OEM aircraft lighting manufacturer. There are still enough mid-market and even big companies that there will probably be more acquisitions. Wencor recently bought one of our competitors, a PMA company our size called Jet Parts, who were acquired two years ago by a PE firm who also got a sensor company in Florida in 2021.
 
 ### What are some of the risks to these companies?
 

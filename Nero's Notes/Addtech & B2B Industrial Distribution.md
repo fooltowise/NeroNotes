@@ -136,9 +136,9 @@ Why did we win the deal a lower price? It was due to the story that we had, havi
 
 That was extremely attractive and had a very big value. If we were competing with an investment company, and they understood the advantages that we could provide, that was always much better. I have been in cases where we have been paying seven times the EBITDA, and they had offers that we knew that were 11 or even 12 times, but they chose us. I think that's quite important when you have companies that are driven by entrepreneurs. It's very important for them.
 
-### I mean there are a number of other Nordic acquirers; you mentioned Lagercrantz, the other B&B. I guess they are in different lines so you don't run into them very much, but maybe like a Lifco, were there other acquirers where you ran into those type of buyers as well?
+### I mean there are a number of other Nordic acquirers; you mentioned Lagercrantz, the other B&B. I guess they are in different lines so you don't run into them very much, but maybe like a [[Lifco]], were there other acquirers where you ran into those type of buyers as well?
 
-Absolutely, you have Indutrade, you have Lifco; you have a lot of Nordic companies that are working more or less in the same way. But I think if you take Indutrade, for example, they are much more centralized and I think with the model that we had, it was better in a way because I think some things make sense to centralize, because being totally decentralized is no good either. You need to have some synergies between the companies and also you need to have some things that should be consistent for the whole group. You have to find a balance there and I think Addtech succeeded in having a very good balance by having good decentralized organization but also some things that were centralized.
+Absolutely, you have Indutrade, you have [[Lifco]]; you have a lot of Nordic companies that are working more or less in the same way. But I think if you take Indutrade, for example, they are much more centralized and I think with the model that we had, it was better in a way because I think some things make sense to centralize, because being totally decentralized is no good either. You need to have some synergies between the companies and also you need to have some things that should be consistent for the whole group. You have to find a balance there and I think Addtech succeeded in having a very good balance by having good decentralized organization but also some things that were centralized.
 
 ### Yes, how many companies do you think are out there that are possible Addtech acquirers? Maybe not exact number. I will ask it another way; do you think there are still a lot of opportunities to continue to do this for years and years and years?
 
@@ -178,7 +178,7 @@ Absolutely, I mean Cellink is a very good company.
 
 ### Cellink, yes.
 
-Yes, that's a very good company, that also has similar intention on newly acquired companies to keep them decentralized. You have Lifco, for example, and they have been very successful. I will say you have Indutrade, not because they are quite focused on some areas that probably you don't have the same growth opportunities, but there are a number of interesting companies.
+Yes, that's a very good company, that also has similar intention on newly acquired companies to keep them decentralized. You have [[Lifco]], for example, and they have been very successful. I will say you have Indutrade, not because they are quite focused on some areas that probably you don't have the same growth opportunities, but there are a number of interesting companies.
 
 ### Well that's a, well thank you very much, close to our hour and I think you've answered all my questions and given some very thoughtful answers so I really appreciate it.
 

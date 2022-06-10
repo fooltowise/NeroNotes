@@ -246,7 +246,7 @@ The international side of the business is difficult. There are few brands that h
 
 ### How do you do that, Steve? What do you look at? Let’s say that you are managing your 4,000 stores, what are the KPIs that you would be looking at, for those stores, that would make you maniacally focused on what really matters?
 
-Every store has what we call an evaluation report that we perform on those stores, at least once a month. Many stores perform those evaluations once a week. There are other checklists that are performed once a day that ensure certain standards are met.
+Every store has what we call an evaluation report that we perform on those stores, at least once a month. Many stores perform those evaluations once a week. There are other [[checklists]] that are performed once a day that ensure certain standards are met.
 
 ### Such as order growth, turnaround time, delivery time?
 

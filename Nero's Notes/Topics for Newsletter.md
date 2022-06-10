@@ -19,10 +19,19 @@
 - Risk vs Uncertainty
 
 - Are you a stock owner or a renter?
+- Anything by [[Safal Niveshak]]
 
+- Pourquoi "Pour avoir des gains plus gros, il faut prendre plus de risque" est faux -> ergodicité
+- Volatilité= Risque? Des fois oui (ex: leverage transforme short term volatilité en risque long-terme) et sinon non.
+
+- **Buffett:**
+	- The good, the bad and the gruesome
+	- See's candies, Scott Fetzer
 
 - What is a stock?
+-  Bessembinder study: importance of getting rid of bad stocks
 - **Case studies: apprendre à reconnaitre l'excellence**
+- [[ROCE-Growth Matrix, and Few Potential Wealth Creators]]
 - Investment vs Speculation
 - ROIC, Growth, Multiple expansion
 - Les marchés sont ils vraiment efficients
@@ -36,14 +45,13 @@
 - Becoming a learning machine
 - L'importance d'être patient -> le marché n'a jamais été si court-terme
 - Si tu veux être un investisseur qui prospère (what it takes)
-- Le dilemne du prisonnier
+- Le dilemne du prisonnier -> industries qui coopèrent vs industries qui se font la guerre...
 - L'effet de la dame de Coeur
 	- Pourquoi Buffett a stoppé le réinvestissement dans le textile
 	  
 	  
 
-- Pourquoi "Pour avoir des gains plus gros, il faut prendre plus de risque" est faux -> ergodicité
-- Volatilité= Risque? Des fois oui (ex: leverage transforme short term volatilité en risque long-terme) et sinon non.
+
 - Tout dans la vie est coût d'opportunité. Le but de la vie est d'augmenter son coût d'opportunité
 - Deferred Taxes: le cadeau du gouvernement...
 - Warren Buffett quotes
