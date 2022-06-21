@@ -164,7 +164,7 @@ _“We seek companies with_ **_owner-oriented management_**_.”_ **Fred Liu**
 
 _“I follow the philosophy, have_ **_your money where the owners are_**_.”_ **Mario Gabelli**
 
-_“We look for_ **_managers who are owners_**_.”_ **Chuck Akre**
+_“We look for_ **_managers who are owners_**_.”_ **[[Chuck Akre]]**
 
 _"I invest almost exclusively in_ **_companies with active and engaged owners_**_. Very occasionally, you find managers who think and act like owners even if no owner is present but this is the exception rather than the rule. If a restaurant has an absentee owner, over time the service quality will slip and the waiters will have their hand in the till. With large companies, it is no different.”_ **Robert Vinall**
 

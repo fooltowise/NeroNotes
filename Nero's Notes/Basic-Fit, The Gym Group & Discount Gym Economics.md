@@ -64,7 +64,7 @@ Another risk is that BFIT’s incremental ROIC declines because it’s entering 
 
 The discounter moat lies in offering the lowest price and highest convenience for a given level of quality.
 
-Aldi and Costco more or less guarantee the lowest price on the market for a given level of product quality. Their moat lies in the fact that both companies are the largest buyers per SKU of each product in their store.
+Aldi and [[Costco]] more or less guarantee the lowest price on the market for a given level of product quality. Their moat lies in the fact that both companies are the largest buyers per SKU of each product in their store.
 
 Although Amazon isn’t a discounter, Bezos committed to offering low prices and high convenience. Third-party sellers effectively compete in an auction to win the buy-box which drives lower costs to customers. More importantly, Amazon’s logistics infrastructure reduces the largest expense per parcel to ensure AMZN has the lowest total cost of shipping a parcel to customers online. This seems to be a durable advantage.
 

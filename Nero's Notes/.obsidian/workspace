@@ -4,38 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d51d7d2a2a73ed11",
+        "id": "84af3f364a29af5a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Paul Black on Moat Direction.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "4669a04fd51285aa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Safal Niveshak.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "fbc9dc4c0f7d2a66",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Most Powerful Mental Model for Identifying Stocks.md",
+            "file": "Gains en Bourse - Connais-tu les règles du jeu.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -67,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nike",
+                "query": "dominion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paul Black on Moat Direction.md",
+                "file": "Gains en Bourse - Connais-tu les règles du jeu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paul Black on Moat Direction.md",
+                "file": "Gains en Bourse - Connais-tu les règles du jeu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paul Black on Moat Direction.md"
+                "file": "Gains en Bourse - Connais-tu les règles du jeu.md"
               }
             }
           },
@@ -165,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d51d7d2a2a73ed11",
+  "active": "84af3f364a29af5a",
   "lastOpenFiles": [
-    "Paul Black on Moat Direction.md",
-    "Due Diligence - Investment Checklist.md",
-    "The Most Powerful Mental Model for Identifying Stocks.md",
-    "Safal Niveshak.md",
-    "Quality First Investing - Checklist.md",
-    "Marketing scale effect at Nike.md",
-    "Checklists.md",
-    "Availability Mis-Weighing Tendency.md",
-    "The Need for More Multidisciplinary Skills from Professionals - Educational Implications.md",
-    "Poor Charlie's Almanack.md"
+    "Gains en Bourse - Connais-tu les règles du jeu.md",
+    "Leatt.md",
+    "Writeup on Leatt.md",
+    "Mais au fait, c'est quoi un business.md",
+    "Autozone - Exemplary Capital Allocation.md",
+    "Autozone.md",
+    "Topics for Newsletter.md",
+    "Be aware of the rules of life.md",
+    "Programme Editorial Investi.md",
+    "Costco.md"
   ]
 }

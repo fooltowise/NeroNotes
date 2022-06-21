@@ -111,7 +111,7 @@ Mark Leonard really sees shareholders as partners and as such, he also expects t
 
 "The most impressive investors are those with a nuanced understanding about business. They get that through obviously consuming all the stuff that's publicly available but they often get it through non public sources as well. They build relationships with employees, they talk to costumers, they go to trade shows, they follow all of the unconventional so call "scuttlebutt" type sources.."
 
-Proof for the company's long term shareholders is that the second major investor in the company is the well known investor Chuck Akre. Mr Akre is known for his very long term investment horizon. He holds on to companies for decades. Notable examples are his holdings in [[Berkshire Hathaway]] and Markel Corporation which he has owned since 1977 and 1991, respectively. In his very concentrated portfolio, holdings are very meaningful and will seal its portfolio's fate over time.
+Proof for the company's long term shareholders is that the second major investor in the company is the well known investor [[Chuck Akre]]. Mr Akre is known for his very long term investment horizon. He holds on to companies for decades. Notable examples are his holdings in [[Berkshire Hathaway]] and Markel Corporation which he has owned since 1977 and 1991, respectively. In his very concentrated portfolio, holdings are very meaningful and will seal its portfolio's fate over time.
 
 ## IV. Conservatism
 

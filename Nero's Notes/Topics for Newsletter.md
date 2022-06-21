@@ -1,6 +1,9 @@
 # Topics for Newsletter
 
 ---
+[[Programme Editorial Investi]]
+
+
 ## Idées pour Investi:
 
 - Le cerveau fonctionne de manière logarithmique
@@ -10,6 +13,10 @@
 	- Balance Sheet
 	- Cash Flow Statement
 	- Ratios
+
+
+
+10k Diver on the magic of retained earnings: https://twitter.com/10kdiver/status/1485006207832051715
 
 
 **Risk:**
@@ -29,6 +36,7 @@
 	- See's candies, Scott Fetzer
 
 - What is a stock?
+- Margin of safety
 -  Bessembinder study: importance of getting rid of bad stocks
 - **Case studies: apprendre à reconnaitre l'excellence**
 - [[ROCE-Growth Matrix, and Few Potential Wealth Creators]]

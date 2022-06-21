@@ -9,7 +9,8 @@
 - [[Stock Analysis and the Illusion of Control]]
 - [[How to Analyze a Business, the Sherlock Holmes Way]]
 - [[The Most Powerful Mental Model for Identifying Stocks]]
-- 
+- [[When to sell a stock]]
+- [[Stock Analysis Excel Template Version 4.0]]
 
 ## Posts:
 
@@ -20,3 +21,4 @@
 ## Sales Copy
 
 - [[Safal Niveshak Mastermind Copywriting]]
+- [[Safal Niveshak Scarcity Mastermind Copywriting]]

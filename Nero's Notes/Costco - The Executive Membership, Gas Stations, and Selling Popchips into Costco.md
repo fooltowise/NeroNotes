@@ -216,13 +216,13 @@ I never understood their approach, nor did I ever speak to them so I do not know
 
 ### They’ve been selling them off. Even in Europe, they have been selling all the gas stations off to private equity.
 
-Yes, for years oil companies auctioned off 1,000 of gas stations because they made so much money further upstream and opted to focus on that instead. It worked out to Costco's benefit, but it always surprised me that they took that approach.
+Yes, for years oil companies auctioned off 1,000 of gas stations because they made so much money further upstream and opted to focus on that instead. It worked out to [[Costco|]]'s benefit, but it always surprised me that they took that approach.
 
-### Gas accounts for 9% of sales which is high for a low margin product. If this gets to 10% or 15% of sales, how do you think that will change the dynamics for Costco?
+### Gas accounts for 9% of sales which is high for a low margin product. If this gets to 10% or 15% of sales, how do you think that will change the dynamics for [[Costco]]?
 
-I don’t. Here’s why; Costco make almost no money before membership fees. They make their money on membership fees, so if you add value, you give yourself the ability to increase your membership fees over time and retain and grow your profitability. The flip side is you will get incremental profit from driving more sales through the fixed cost of that warehouse. The more people buy fuel at Costco, the more they buy from the warehouse. You do not need to make much on gas to drive the same kind of incremental profit as you would by growing other parts of the business at Costco.
+I don’t. Here’s why; [[Costco]] make almost no money before membership fees. They make their money on membership fees, so if you add value, you give yourself the ability to increase your membership fees over time and retain and grow your profitability. The flip side is you will get incremental profit from driving more sales through the fixed cost of that warehouse. The more people buy fuel at [[Costco]], the more they buy from the warehouse. You do not need to make much on gas to drive the same kind of incremental profit as you would by growing other parts of the business at [[Costco]].
 
-### If gas made up 20% of sales, given the volatility of the underlying product of gas, is there a risk we could see a large hit to earnings or profitability for Costco?
+### If gas made up 20% of sales, given the volatility of the underlying product of gas, is there a risk we could see a large hit to earnings or profitability for [[Costco]]?
 
 Some commodities you cannot hedge and there is a lot of risk, but this is a commodity you can hedge. When it is 9% of sales, I would be willing to guarantee they are hedging. They give up some upside to prevent a disaster on the down side.
 
@@ -238,7 +238,7 @@ It did provide a bump in membership to a given warehouse when it would offer gas
 
 There was a certain element of that, but it was outweighed by the percentage of the population who are very sensitive to the price of fuel. I don't change gas stations for 5 cents but many people would for a penny. Those people were disproportionately attracted.
 
-### Do Costco even want to address the gas queues?
+### Do [[Costco]] even want to address the gas queues?
 
 They think about that no differently than the way they do inside the warehouse. They manage those queues by simplifying the operation to allow for speed and throughput. We designed hoses in the gas station that were extra long, so that if the only spot in the queue that was available was the wrong side for the filling of your vehicle, this extra long hose could reach around and grab it anyway. That speeds people through the process and it all became about speed and efficiency. They made changes over time, improving upon the original offering to make it simpler and faster. They now have attendants who never used to be there. They want to ensure you can use the automated payment system instead of wasting time.
 
@@ -252,15 +252,15 @@ Yes, a report would automatically calculate anything above that margin ceiling, 
 
 ### Did you ever go over the margin cap?
 
-No, that policy was in place long before I started the gas station; it was very clear. That is a list you do not want to be on. Most companies you get into trouble if you do not make enough margin, but at Costco you could get into trouble if you make too much.
+No, that policy was in place long before I started the gas station; it was very clear. That is a list you do not want to be on. Most companies you get into trouble if you do not make enough margin, but at [[Costco]] you could get into trouble if you make too much.
 
-### What is unique about the gas station business for Costco and how would you compare that ancillary to services?
+### What is unique about the gas station business for [[Costco]] and how would you compare that ancillary to services?
 
 One is a product and one is a service, but they are exactly the same. In the case of services against gas station, instead of simply dropping in a gas station with a convenience store, copying everybody else, and charging slightly less; it was a rethink from the ground up. Every single built in, cost and assumption, to maximize savings. That is the same thought process with services, private label food and non-food items in the warehouse.
 
-### I want to discussing selling products into Costco now. How did you get Popchips into Costco?
+### I want to discussing selling products into [[Costco]] now. How did you get Popchips into [[Costco]]?
 
-Having been at Costco for a decade and starting many new businesses I was bitten by the entrepreneur bug and felt the need to start something. The hardest life decision I made was leaving Costco because it is such an amazing company. I had an idea back in 2003, when the health and snacking space was new and saw an opportunity for better food products, if they could taste good. It is easy to make a healthy product but hard to make it taste good. Keith Belling and I founded the company and thought that once we reached a certain point we would go to Costco, but their entrepreneurial buyers were looking for new things.
+Having been at [[Costco]] for a decade and starting many new businesses I was bitten by the entrepreneur bug and felt the need to start something. The hardest life decision I made was leaving Costco because it is such an amazing company. I had an idea back in 2003, when the health and snacking space was new and saw an opportunity for better food products, if they could taste good. It is easy to make a healthy product but hard to make it taste good. Keith Belling and I founded the company and thought that once we reached a certain point we would go to Costco, but their entrepreneurial buyers were looking for new things.
 
 Within 60 days of launching, a Costco buyer had already reached out to us. That was surprising because we were so new and unproven, and did not feel ready for them. We thought we were at least a year away. We worked with them on a small scale and did a test which went well, which led to expansion. Our challenge at the time was capacity. Popchips is unique in the snack food industry. We had to build capacity which took time to source new equipment. We had to balance out Costco's needs versus other retailers, but the long and short of it was that Costco saw we were solving a real consumer need.
 
