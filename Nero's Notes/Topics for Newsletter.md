@@ -38,6 +38,7 @@
 - What is a stock?
 - Margin of safety
 -  Bessembinder study: importance of getting rid of bad stocks
+- 99% of investing is doing nothing
 - **Case studies: apprendre à reconnaitre l'excellence**
 - [[ROCE-Growth Matrix, and Few Potential Wealth Creators]]
 - Investment vs Speculation

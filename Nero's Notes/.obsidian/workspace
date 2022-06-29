@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "84af3f364a29af5a",
+        "id": "3accbf0ea3021310",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gains en Bourse - Connais-tu les règles du jeu.md",
+            "file": "Röko.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ae40f9284cc77670",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Röko Interview - the perpetual owner is preparing for an IPO.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dominion",
+                "query": "amazon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fa4233b9d1c9536",
@@ -80,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gains en Bourse - Connais-tu les règles du jeu.md",
+                "file": "Röko Interview - the perpetual owner is preparing for an IPO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gains en Bourse - Connais-tu les règles du jeu.md",
+                "file": "Röko Interview - the perpetual owner is preparing for an IPO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gains en Bourse - Connais-tu les règles du jeu.md"
+                "file": "Röko Interview - the perpetual owner is preparing for an IPO.md"
               }
             }
           },
@@ -139,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "84af3f364a29af5a",
+  "active": "ae40f9284cc77670",
   "lastOpenFiles": [
-    "Gains en Bourse - Connais-tu les règles du jeu.md",
-    "Leatt.md",
-    "Writeup on Leatt.md",
-    "Mais au fait, c'est quoi un business.md",
-    "Autozone - Exemplary Capital Allocation.md",
-    "Autozone.md",
+    "Röko Interview - the perpetual owner is preparing for an IPO.md",
+    "Röko.md",
+    "Thomas Billing on Rökö Genesis story.md",
+    "A Taxonomy of Holdcos.md",
+    "Qu'est ce que le marché.md",
     "Topics for Newsletter.md",
-    "Be aware of the rules of life.md",
+    "Domino's Pizza Enterprises - Running a Domino's Store.md",
     "Programme Editorial Investi.md",
-    "Costco.md"
+    "When what is most effective makes no sense.md",
+    "Heico, Transdigm, and Terminal Values.md"
   ]
 }

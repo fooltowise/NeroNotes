@@ -1,4 +1,4 @@
-# Transdigm, AdelWiggins and the Aerospace Aftermarket 
+# [[Transdigm]], AdelWiggins and the Aerospace Aftermarket 
 
 by #InPractise 
 
@@ -8,15 +8,15 @@ _Disclaimer: This interview is for informational purposes only and should not be
 
 I have been in aerospace for a little over 30 years. I began in engineering, working for systems integrators and companies like Honeywell, then transitioned to Moog doing very intricate critical flight control systems, so understanding aircraft operations was critical. I moved around within Moog and ended up running one of their special processing facilities midway through my career. Moog acquired a vertically integrated facility in Torrance which had everything from heat treat and special processing to non-destructive testing.
 
-I got good exposure to that piece of the business which was hard work. We expanded that business to include processing for all worldwide Moog facilities. We upgraded and automated it and would receive weekly shipments from rural New York or Baguio City, Philippines. We would do the special processing as a cost center, then ship it back. I completed my Master’s in Business when I was there and shortly thereafter went to work for TransDigm as the director of operations for one of their facilities in Los Angeles.
+I got good exposure to that piece of the business which was hard work. We expanded that business to include processing for all worldwide Moog facilities. We upgraded and automated it and would receive weekly shipments from rural New York or Baguio City, Philippines. We would do the special processing as a cost center, then ship it back. I completed my Master’s in Business when I was there and shortly thereafter went to work for [[TransDigm]] as the director of operations for one of their facilities in Los Angeles.
 
-TransDigm focus on component suppliers, who are lower on the radar than system integrators. I spent two years as a director of ops, then became president at AdelWiggins in Los Angeles. I was in that role for eight years, then made a work life balance change by taking a role with Zodiac, which was an old Heath Tecna facility in Bellingham, Washington. I wanted to get out of LA and quit commuting, so moved up there. It was a turnaround situation so it was tough for the first few years, but good aftermarket business which was under leveraged.
+[[TransDigm]] focus on component suppliers, who are lower on the radar than system integrators. I spent two years as a director of ops, then became president at AdelWiggins in Los Angeles. I was in that role for eight years, then made a work life balance change by taking a role with Zodiac, which was an old Heath Tecna facility in Bellingham, Washington. I wanted to get out of LA and quit commuting, so moved up there. It was a turnaround situation so it was tough for the first few years, but good aftermarket business which was under leveraged.
 
-I was able to use some of the skills I learned at TransDigm to expand the value in the five years I was there. The first year I was there we lost almost 30 million and when I left, we were making 15% EBITDA. It was one of the better cabin facilities within Safran who acquired it three and a half years ago. I then transitioned to Senior during the pandemic when Safran began making organizational changes due to wanting their decision making to be centralized. At Senior, I did large monolithic products for Boeing in the sub-tiers and the Japanese heavies. That is my background in a nutshell up to the current state.
+I was able to use some of the skills I learned at [[TransDigm]] to expand the value in the five years I was there. The first year I was there we lost almost 30 million and when I left, we were making 15% EBITDA. It was one of the better cabin facilities within Safran who acquired it three and a half years ago. I then transitioned to Senior during the pandemic when Safran began making organizational changes due to wanting their decision making to be centralized. At Senior, I did large monolithic products for Boeing in the sub-tiers and the Japanese heavies. That is my background in a nutshell up to the current state.
 
-### Can you briefly describe AdelWiggins' business at TransDigm in terms of the products, employee count and revenue when you joined?
+### Can you briefly describe AdelWiggins' business at [[TransDigm]] in terms of the products, employee count and revenue when you joined?
 
-When TransDigm started, the founders Doug Peacock and Nick Howley acquired four businesses; Adel Fasteners, Wiggins Connectors, Aero Products and Controlex which were small component aerospace businesses at the time. Their first move, post-acquisition, was to merge them into two and reduce the management structure. AdelWiggins was formed in the mid-90s and was based out of Los Angeles. Wiggins Connectors are fluid connectors for aircraft – mostly under the floor of the aircraft – for waste, water, potable water, pneumatics and air conditioning vents. These are flexible fluid connectors, fuel systems and some hydraulics, combining all the tubing in the wall of the aircraft. The other project was Adel Clamps which is primarily vibration damping, clamps and P-clamps. There are literally tens of thousands of them in every aircraft and they hold every wire bundle and pneumatic line in the fuselage. It allows them to vibrate without shaking the wiring and the casing. Those were the two primary products at AdelWiggins. They also had special connectors with military quick disconnects and some refueling products.
+When [[TransDigm]] started, the founders Doug Peacock and Nick Howley acquired four businesses; Adel Fasteners, Wiggins Connectors, Aero Products and Controlex which were small component aerospace businesses at the time. Their first move, post-acquisition, was to merge them into two and reduce the management structure. AdelWiggins was formed in the mid-90s and was based out of Los Angeles. Wiggins Connectors are fluid connectors for aircraft – mostly under the floor of the aircraft – for waste, water, potable water, pneumatics and air conditioning vents. These are flexible fluid connectors, fuel systems and some hydraulics, combining all the tubing in the wall of the aircraft. The other project was Adel Clamps which is primarily vibration damping, clamps and P-clamps. There are literally tens of thousands of them in every aircraft and they hold every wire bundle and pneumatic line in the fuselage. It allows them to vibrate without shaking the wiring and the casing. Those were the two primary products at AdelWiggins. They also had special connectors with military quick disconnects and some refueling products.
 
 ### Is it all commercial aircraft or were there also military uses?
 
@@ -36,15 +36,15 @@ They made a clam shell quick connection which included grounding in the body. Th
 
 Yes, absolutely, and we continue to foster great working relations between key engineers at OEMs who design subsystems and run into problems. They would contact our chief engineer. We would send people up there to work with them closely. You need to be at the table when they are first sketching out a new aircraft and at various forums and meetings. We always ensured we had people on SAE committees in discussions with the FAA. It is key to be intimate with the customer at that level, from engineer to engineer type of sales process.
 
-### Do you see any risk of TransDigm operating companies losing that innovativeness working with air framers on OE platforms?
+### Do you see any risk of [[TransDigm]] operating companies losing that innovativeness working with air framers on OE platforms?
 
-No, and when I was there, they were keen on maintaining that. They understood the power of that and continue to foster that as part of their third value driver of profitability. If you look at TransDigm's P&L they do not spend a ton of money on R&D. They ensure they have a sponsor and an OEM to do the R&D work. As a result, their hit rate is very high as a percentage compared to many companies.
+No, and when I was there, they were keen on maintaining that. They understood the power of that and continue to foster that as part of their third value driver of profitability. If you look at [[TransDigm]]'s P&L they do not spend a ton of money on R&D. They ensure they have a sponsor and an OEM to do the R&D work. As a result, their hit rate is very high as a percentage compared to many companies.
 
 ### Does the aftermarket pricing strategy add any tension to that relationship with the OE for new platforms?
 
-Not really. Only until very recently with the 777, does that even enter into this because we would provide reasonable OE pricing to them because it is a competitive market and it is somewhat of a commodity. Early on, you had to be competitive but you had to have a good value proposition to the OE. What airlines were paying in the aftermarket did not enter into that until the 777 time frame where people saw TransDigm as the larger entity. Some of the contracting language changed to help airlines reduce their aftermarket pricing.
+Not really. Only until very recently with the 777, does that even enter into this because we would provide reasonable OE pricing to them because it is a competitive market and it is somewhat of a commodity. Early on, you had to be competitive but you had to have a good value proposition to the OE. What airlines were paying in the aftermarket did not enter into that until the 777 time frame where people saw [[TransDigm]] as the larger entity. Some of the contracting language changed to help airlines reduce their aftermarket pricing.
 
-There were some multiples which had to be negotiated which helped the airline and took some margin away from TransDigm, but in the end, they were still a partner with them and got their aftermarket pricing.
+There were some multiples which had to be negotiated which helped the airline and took some margin away from [[TransDigm]], but in the end, they were still a partner with them and got their aftermarket pricing.
 
 ### Can we walk through some of the products such as clamps and connectors? What is the per unit price for these?
 
@@ -52,7 +52,7 @@ It was $300 to $500 per connector and $20 to $50 for wire bundle clamps but ther
 
 ### Does the customer even notice the price of these lower-value items on the final invoice?
 
-TransDigm focus on components to fly under the radar. The dollar spend was quite low compared to a system integrator, engine provider, primary flight control provider or air frame. Those were the big boys who had to heavily negotiate with Boeing and Airbus, either by deescalating pricing or term fixed. TransDigm acquired component supplier companies. They have more pricing leverage and stay under the radar longer.
+[[TransDigm]] focus on components to fly under the radar. The dollar spend was quite low compared to a system integrator, engine provider, primary flight control provider or air frame. Those were the big boys who had to heavily negotiate with Boeing and Airbus, either by deescalating pricing or term fixed. [[TransDigm]] acquired component supplier companies. They have more pricing leverage and stay under the radar longer.
 
 In the aftermarket you would think tube connectors and wire bundle clamps were not wear items because they do not move. However, because they are such a low dollar item per piece, when they did engine rebuilds, they throw the wire bundle clamps in the trash cans and simply order a suite of new fasteners. For every engine rebuilt you had an entire engine's worth of new clamps to sell to GE or Snecma at aftermarket pricing multiples.
 
@@ -72,11 +72,11 @@ At almost $300,000 per 787, which ramped up to 14 per month, that was a signific
 
 ### Do you jointly own the IP in that scenario?
 
-TransDigm own the IP because they did the development and qualification work. The only downfall to that piece was counter to TransDigm's business model, there was little aftermarket because these were buried in the fuel tanks.
+[[TransDigm]] own the IP because they did the development and qualification work. The only downfall to that piece was counter to [[TransDigm]]'s business model, there was little aftermarket because these were buried in the fuel tanks.
 
-### How does Transdigm remain innovative and add new product lines, whilst minimizing the R&D spend to sub 5% of revenue?
+### How does [[Transdigm]] remain innovative and add new product lines, whilst minimizing the R&D spend to sub 5% of revenue?
 
-In that case, Boeing was the main sponsor and there was a real need for it. TransDigm spent $7 million of R&D in developing that at my site which was close to 10%. For TransDigm as a company, less than 5% is their R&D spend but when there was a real need and a sponsor for it, they would invest heavily in R&D to get it through the qualification, which took two to three years. In parallel, I was industrializing that facility to make composite products in a clean room in a factory which was punch pressing wire bundle clamps and turning fluid couplings. With the facility investment and qualifications, the total investment was probably $12 million from that facility alone. If you look at the TransDigm P&L or annual statement it would still be a drop in the bucket.
+In that case, Boeing was the main sponsor and there was a real need for it. [[TransDigm]] spent $7 million of R&D in developing that at my site which was close to 10%. For [[TransDigm]] as a company, less than 5% is their R&D spend but when there was a real need and a sponsor for it, they would invest heavily in R&D to get it through the qualification, which took two to three years. In parallel, I was industrializing that facility to make composite products in a clean room in a factory which was punch pressing wire bundle clamps and turning fluid couplings. With the facility investment and qualifications, the total investment was probably $12 million from that facility alone. If you look at the [[TransDigm]] P&L or annual statement it would still be a drop in the bucket.
 
 ### How else did you increase shipset content on existing platforms?
 
@@ -86,7 +86,7 @@ Those products were more of a commodity and were typically dual sourced. They we
 
 ### Are there many competitors to AdelWiggins for these products or does Adel have the sole source or the unique IP which makes it hard to compete?
 
-There were three competitors for each of those type of products. One or two main ones then, as TransDigm acquired Esterline, they gobbled up a competitor on the wire bundle clamps. It is now down to one in the States and one in Europe, so competition shrunk through acquisition. This is not a sexy product and it was not a big system integration so it was not on anybody's radar where there is a product needed in every aircraft on a critical system. As you know, with less competition, pricing becomes slightly easier to move upward.
+There were three competitors for each of those type of products. One or two main ones then, as [[TransDigm]] acquired Esterline, they gobbled up a competitor on the wire bundle clamps. It is now down to one in the States and one in Europe, so competition shrunk through acquisition. This is not a sexy product and it was not a big system integration so it was not on anybody's radar where there is a product needed in every aircraft on a critical system. As you know, with less competition, pricing becomes slightly easier to move upward.
 
 ### Do these players simply compete on their unique IP on the OE side?
 
@@ -98,23 +98,23 @@ Customer intimacy and the engineer relationship is critical because engineers ma
 
 ### Is the OE business typically at a small margin?
 
-Typical OE sales are high single digit to low double digit EBITDA. We did slightly better and were probably in the high teens on the OE when I was there. Part of that was less competition and better pricing but we were also good at reducing cost, which is another value driver of TransDigm. We were innovative on that piece to ensure manufacturing production costs were as low as they could be. High teens to 20% is what we were running on the OE side, which was pretty good compared to the peer group.
+Typical OE sales are high single digit to low double digit EBITDA. We did slightly better and were probably in the high teens on the OE when I was there. Part of that was less competition and better pricing but we were also good at reducing cost, which is another value driver of [[TransDigm]]. We were innovative on that piece to ensure manufacturing production costs were as low as they could be. High teens to 20% is what we were running on the OE side, which was pretty good compared to the peer group.
 
 ### Is it less about squeezing air framers and more about reducing unit costs?
 
 Yes, maybe a little of both. We are always pushing on the pricing side where we could, but reducing costs by at least inflation. If you could do more, everybody would benefit.
 
-### How does Transdigm reduce unit costs so much?
+### How does [[Transdigm]] reduce unit costs so much?
 
 Through rigid cost control measures and lean activities. On the Adel clamp side for example, in terms of how a punch press works, have you heard of SMED, single minute exchange of die type lean product? We were continuously looking to reduce cycle and set up times and running equitable batches. We were negotiating long term contracts in metal pricing for coil, working with an Asian supply chain in China or raw material which met the specification, but we were able to buy it at a much lower unit price. It was constantly working on reducing the product cost through innovation, lean investment, automation and working with the supply chain to leverage the lowest cost possible for metals and special processing.
 
 ### Was your compensation linked to EBITDA?
 
-Yes, TransDigm want you to be an owner operator, not part of corporate group. You were very autonomously run, had control of your own destiny, and they linked the equity to your compensation, through significant stock options to that EBITDA. It was a significant portion and there was a group component. If everybody was doing that then you get a group piece, but there was a heavily weighted division or site piece which was lucrative to the group, especially senior leadership from the directors on up to the president. This owner operator kind of mentality helped motivate and drive people to outperform.
+Yes, [[TransDigm]] want you to be an owner operator, not part of corporate group. You were very autonomously run, had control of your own destiny, and they linked the equity to your compensation, through significant stock options to that EBITDA. It was a significant portion and there was a group component. If everybody was doing that then you get a group piece, but there was a heavily weighted division or site piece which was lucrative to the group, especially senior leadership from the directors on up to the president. This owner operator kind of mentality helped motivate and drive people to outperform.
 
 ### How did you approach value-based pricing for Adel's clamps and Wiggins' connectors in the aftermarket?
 
-TransDigm was very good at understanding the switching costs in aerospace. After you have the IP and qualify a product, the switching cost is significant, even on simple product. One of the best examples is AmSafe seat belts. It is simply stitched nylon and there are hundreds of millions of them across the globe. You would think wow, $200 for a seat belt and buckle, what is proprietary about that and why can they not source it elsewhere? What other people failed to realize and what we learned through the McKechnie acquisition of AmSafe, was that seat belts are qualified with the seat and is part of the safety restraint in the system. When I was in Safran and Zodiac they work closely with our seating groups to know how much it costs to qualify a seat.
+[[TransDigm]] was very good at understanding the switching costs in aerospace. After you have the IP and qualify a product, the switching cost is significant, even on simple product. One of the best examples is AmSafe seat belts. It is simply stitched nylon and there are hundreds of millions of them across the globe. You would think wow, $200 for a seat belt and buckle, what is proprietary about that and why can they not source it elsewhere? What other people failed to realize and what we learned through the McKechnie acquisition of AmSafe, was that seat belts are qualified with the seat and is part of the safety restraint in the system. When I was in Safran and Zodiac they work closely with our seating groups to know how much it costs to qualify a seat.
 
 It costs millions of dollars to qualify even an economy seat because they have to do sled testing and dynamic testing. If you bought it for $50 on the OE side, AmSafe would sell it to you for $400 since they knew the switching cost to get the seat belt for $150 in the aftermarket was so significant in qualification costs, there was no way the airlines would be able to advocate that to the OEMs.
 
@@ -122,15 +122,15 @@ Very much like the seat belt, the wire bundle clamp was qualified with part of t
 
 ### Could you simply pick off the small components which were part of bigger systems that were qualified together and thereby have good pricing power?
 
-Yes, absolutely, and that is where TransDigm set themselves apart from most of their peers. Once you do that, you get a lot of pricing power because the switching costs are so high, even on simple components.
+Yes, absolutely, and that is where [[TransDigm]] set themselves apart from most of their peers. Once you do that, you get a lot of pricing power because the switching costs are so high, even on simple components.
 
-### What are the challenges to continue to increase price over time, now that everyone is wiser to TransDigm's strategy more broadly?
+### What are the challenges to continue to increase price over time, now that everyone is wiser to [[TransDigm]]'s strategy more broadly?
 
-Yes, some of the strategy is at the OEM. On the newer platforms, they were starting to get pressure from the airlines who were saying, you sell me this airplane for a reasonable sticker price, but we are getting hammered by TransDigm, PCC and Honeywell in the aftermarket. Because of the pressure from the airlines back to the OEM, OEMs started to dual source and dual qualify products and systems and would spend more money up front. The reason they never did it was because it did not come out of their pocket. They would not dual source something and spend the money in qualification to make it easy for the airlines to have several sources and some competition in the aftermarket.
+Yes, some of the strategy is at the OEM. On the newer platforms, they were starting to get pressure from the airlines who were saying, you sell me this airplane for a reasonable sticker price, but we are getting hammered by [[TransDigm]], PCC and Honeywell in the aftermarket. Because of the pressure from the airlines back to the OEM, OEMs started to dual source and dual qualify products and systems and would spend more money up front. The reason they never did it was because it did not come out of their pocket. They would not dual source something and spend the money in qualification to make it easy for the airlines to have several sources and some competition in the aftermarket.
 
 Over time, the airlines were getting uptight over their aftermarket pricing and the cost of maintaining the aircraft in the field. The OEs started to contract in certain aftermarket pricing multiples, which never existed in those contracts before. There was commercial production spares segments in those contracts and production spare multiples, but it never spoke to the aftermarket because that was coming from the airlines. Now starting from the 787, there are sections talking about aftermarket pricing, or Boeing wants to control the aftermarket on fasteners through their KLX division for example.
 
-Boeing and all the OEMs have been trying to claw back some of that aftermarket profit, because they look at TransDigm who makes 49% EBITDA and Boeing only make 10%.
+Boeing and all the OEMs have been trying to claw back some of that aftermarket profit, because they look at [[TransDigm]] who makes 49% EBITDA and Boeing only make 10%.
 
 ### Do you think this is a material risk?
 
@@ -140,7 +140,7 @@ It will put downward pressure on profit margins but through consolidation, there
 
 Correct. The first 787s are 10 years old so those are now starting to come in for their B and C checks, which is where the aftermarket activity starts through FAA regulated checks and heavy maintenance.
 
-### But TransDigm can still acquire companies that are sole source on older platforms?
+### But [[TransDigm]] can still acquire companies that are sole source on older platforms?
 
 Correct, and until the pandemic hit, airlines were seeing useful life out of older aircraft like the 757 and 767. At Safran, we were retrofitting interiors for United and Delta on their entire fleets of 757s and some of the 767s to make them look like new aircraft even though they were 20 years old. They were still flying them, fuel prices were low, passenger loading was high, so they were still making good money out of those. That was great for companies who had a lot of content on those older platforms. You are able to leverage those and get superior aftermarket pricing on older platforms. Then the pandemic hit, so that is a shift in the market and we can talk about that later if you want?
 
@@ -148,15 +148,15 @@ Correct, and until the pandemic hit, airlines were seeing useful life out of old
 
 It is primarily the aftermarket pricing leverage they have in the aftermarket. If the RPMs of those planes are 90% loaded and they are 20 year old air frames, they would come in for regular maintenance more than a brand new 787. The activity is still high but if there are no OE air frames rolling off the line then it is due to the flight activity and aftermarket activity for those aircraft and pricing is what is being leveraged.
 
-### How could PMA products compete or pressure TransDigm?
+### How could PMA products compete or pressure [[TransDigm]]?
 
 That was always a threat and a pressure. One good example is [[HEICO]], who are a famous PMA house which owns Seal Dynamics in Florida. Every year, they had a process to go through and would talk to the airlines to find out where they are getting pricing on some of the aftermarket components. They would go through and see which products are out there and what platforms they are on and target those. They targeted two or three main components or sub-systems every year. An example was a condensate drain mast on the 737s. It is a small heater wire in the tube which keeps it from freezing.
 
 In certain conditions, it would still freeze and mechanics would try to dislodge the ice and many times they would damage that heating wire, which drove aftermarket activity. This was a significant one for us with Southwest. Sure enough, we were looking at our sales to Southwest and noticed they were dropping significantly. As we did more research, we found out that product had been PMA’d by [[HEICO]]. That is always a threat because it takes a significant amount of cost and effort to PMA a product like that. They have to reverse engineer it and ensure there are no patents to infringe on and design around that, then qualify the product and submit paperwork to FAA to gain that PMA.
 
-It is a lengthy and costly process, so they are selective and target products. The total impact to TransDigm is less than 1% of the company in total, just because of the sheer effort it takes, but it is and will continue to be a threat.
+It is a lengthy and costly process, so they are selective and target products. The total impact to [[TransDigm]] is less than 1% of the company in total, just because of the sheer effort it takes, but it is and will continue to be a threat.
 
-### What is the biggest risk to TransDigm's strategy for the next five years?
+### What is the biggest risk to [[TransDigm]]'s strategy for the next five years?
 
 They will continue to get downward pricing pressure from OEMs who are being pressured by the airlines. You will see more of that pressure over the next five to 10 years and it will impact their aftermarket pricing.
 
@@ -168,33 +168,33 @@ It might trim 15% to 20% off the top of the aftermarket for those products. Reme
 
 Yes, there was a set point where they would say, for any of these aftermarket products from this aircraft, it has to be controlled and negotiated. They would try to control it to between 300% and 400% of OE pricing, compared to unlimited, so pricing is a bit more controlled. They could also ask for a royalty by saying, you would not have the IP if you did not participate in our aircraft which is all our IP, so it would stronghold suppliers into giving royalties in the aftermarket. They look to try to route aftermarket products through Boeing, BDS or KLX and they would get a piece of the pie on the aftermarket sales as well.
 
-Those are contentious negotiations. It started when I was there. The aerospace model is that we give you low OE pricing but make profit in the aftermarket. They wanted to disrupt that model and there was a fight between companies and Boeing, including TransDigm. For a 25 year product life cycle, the first 10 years we make a very low profit but the following 20 years we make a decent profit. Therefore we will need more pricing at the OE level to compensate.
+Those are contentious negotiations. It started when I was there. The aerospace model is that we give you low OE pricing but make profit in the aftermarket. They wanted to disrupt that model and there was a fight between companies and Boeing, including [[TransDigm]]. For a 25 year product life cycle, the first 10 years we make a very low profit but the following 20 years we make a decent profit. Therefore we will need more pricing at the OE level to compensate.
 
 ### Has Covid put that on the back burner for the moment?
 
 Absolutely, everybody has pushed pause on that because there are so many other global problems with aerospace, the MAX getting type-certified and recovering that.
 
-### TransDigm acquires these great component businesses, but why do they not already price this way in the aftermarket?
+### [[TransDigm]] acquires these great component businesses, but why do they not already price this way in the aftermarket?
 
-They never understood the pricing leverage they had, even when I went to Safran. They were free to price it any way they chose but they had no pricing policies, and TransDigm did. These companies were simply leaving money on the table. When I started there, I was able to leverage some of that. The pricing was left up to the individual account reps on the aftermarket side who had no guidance. That is probably where it got lost in the mix; pricing was not part of that strategy. Once that got provided to those companies into those lower-level support groups, they were able to start leveraging that year over year more like TransDigm does.
+They never understood the pricing leverage they had, even when I went to Safran. They were free to price it any way they chose but they had no pricing policies, and [[TransDigm]] did. These companies were simply leaving money on the table. When I started there, I was able to leverage some of that. The pricing was left up to the individual account reps on the aftermarket side who had no guidance. That is probably where it got lost in the mix; pricing was not part of that strategy. Once that got provided to those companies into those lower-level support groups, they were able to start leveraging that year over year more like [[TransDigm]] does.
 
-### It seems like Honeywell and other suppliers have woken up to the leverage they have and are starting to put more pressure on pricing, which with the dual source platforms, probably hurts TransDigm.
+### It seems like Honeywell and other suppliers have woken up to the leverage they have and are starting to put more pressure on pricing, which with the dual source platforms, probably hurts [[TransDigm]].
 
 Yes, exactly, it has changed the dynamic. Their performance in the marketplace has grown throughout the industry and everyone has copied their business strategy.
 
-### Do you think TransDigm will go into bigger subsystems after acquiring Esterline?
+### Do you think [[TransDigm]] will go into bigger subsystems after acquiring Esterline?
 
 It was very clear with the leadership group there with Nick and Doug, they do not want to be in a commodity or distribution company because there is very little pricing power. They also do not want to be a large system integrator because they are usually the partners of the OE and always have to pony up some significant pricing. When I was at Moog we supplied the entire flight control system for the 777 from high lift and ailerons and spoilers, and every year, they had to come to the table with Boeing and negotiate.
 
-In order for Boeing to be competitive with Airbus, they needed to set platform pricing at a certain point, and system integrators need to help support them with the pricing. We had deescalating pricing at Moog and pretty soon that whole system was under water and we had to send it to a low cost country in the Philippines to turn it around. That is why TransDigm is vehemently not going to be a system integrator and continues to look for component companies. The group is not getting smaller but they will continue looking for value propositions in other companies, such as any suppliers who are struggling or on the verge of bankruptcy post Covid.
+In order for Boeing to be competitive with Airbus, they needed to set platform pricing at a certain point, and system integrators need to help support them with the pricing. We had deescalating pricing at Moog and pretty soon that whole system was under water and we had to send it to a low cost country in the Philippines to turn it around. That is why [[TransDigm]] is vehemently not going to be a system integrator and continues to look for component companies. The group is not getting smaller but they will continue looking for value propositions in other companies, such as any suppliers who are struggling or on the verge of bankruptcy post Covid.
 
 ### If we assume all newer platforms will be dual sourced or have pricing caps in the aftermarket going forward, are they more focused on the older platforms?
 
 Absolutely and those platforms still have some legs to them. 757s and 767s probably not, but 777s, everyone is flying older NGs and 737s, there's still a ton of them out there. There's 6,000 737s in the market today, less than 1,000 of those are MAXs, so there is a significant amount of older platforms out there still flying around that have legs to them.
 
-### Can you explain the differences between the responsibilities of a president and business unit manager at TransDigm?
+### Can you explain the differences between the responsibilities of a president and business unit manager at [[TransDigm]]?
 
-TransDigm made it very simple, especially when they acquired companies, and set up the company the same way across the board. They break up each of the divisions or sites into product lines with a business unit manager and product line manager. AdelWiggins had five different product lines and we had three product line managers who were responsible for P&L, their own business plan, new business growth and pricing.
+[[TransDigm]] made it very simple, especially when they acquired companies, and set up the company the same way across the board. They break up each of the divisions or sites into product lines with a business unit manager and product line manager. AdelWiggins had five different product lines and we had three product line managers who were responsible for P&L, their own business plan, new business growth and pricing.
 
 We set them up with their own purchasing, planning and production teams, all reporting to the product line manager, who reports to the president who was ultimately responsible for the entire site's P&L. They were responsible for driving value and ensuring product line managers were doing what was required to drive value through pricing or cost reduction.
 
@@ -206,13 +206,13 @@ They were responsible for their own pricing, which led to their own compensation
 
 Yes, it absolutely is, which is why the entire company was focused on those three value drivers and pushing those for their products. That was unique and I have never seen it in any other company I have been with. Every quarter, the product line managers would go to Cleveland or have meetings in Los Angeles or Pasadena, and they would report their quarterly performance to Nick, Bob, George and Kevin. They would show what they had planned with how much their budget was and the resulting performance, which gave them exposure to the senior management.
 
-That allowed TransDigm corporate to bring on succession planning, especially when acquiring big companies like Esterline. Many times, they would bring their own management team into the acquired companies to quickly restructure the business to reflect the standard TransDigm product line structure.
+That allowed [[TransDigm]] corporate to bring on succession planning, especially when acquiring big companies like Esterline. Many times, they would bring their own management team into the acquired companies to quickly restructure the business to reflect the standard [[TransDigm]] product line structure.
 
 ### Would Nick and Bob meet with all business unit or product line managers?
 
 Yes. It was less onerous then because they had not acquired Esterline yet. We had already acquired McKechnie who had 40 to 50 that would go every quarter. The president, controller and product line manager would go to Cleveland and report on the business, which was powerful because everyone took it seriously. They knew Nick and Bob were shrewd businessmen and would question their decisions, so they learned a lot from that type of exposure to those guys. It was a good growth vehicle for those product line managers that would eventually move up into presidents at one of the companies down the road, if they were good enough.
 
-### Why do other suppliers not follow a similar structure to TransDigm?
+### Why do other suppliers not follow a similar structure to [[TransDigm]]?
 
 Zodiac and Safran were a matrix organization. Safran was disinterested in how the product lines worked; it was not part of their DNA for some reason. Even at Senior it is not that way. The overall P&L of the company showed $100 million in revenue, $30 million of it in EBITDA. Aftermarket provided this much and the EBITDA of the special connectors was quite high and was one of their biggest levers. Conversely tube connectors were low because it was OE based.
 
@@ -234,7 +234,7 @@ They will unless they convert them to a freighter. There will be a drop off in e
 
 Yes, there will be a sharp fall based on parking them and shifting to more fuel-efficient aircraft. Airlines love the 737 MAX as it is very fuel efficient, but they had to get through their qualification woes to get back out in the field.
 
-### Do you think that leads to a lull in TransDigm organic revenue growth in aftermarket?
+### Do you think that leads to a lull in [[TransDigm]] organic revenue growth in aftermarket?
 
 Yes, that will impact every aerospace supplier who support those legacy aircraft, as well as any of the air component or sub tier suppliers for 787s first maintenance checks, which will be pushed out 18 to 24 months. There was a little bit of parking by the airlines, with planes in the desert so that also put some downward pressure for the last 18 months or so, but that will start to pick up again, as they depleted those and now they are bringing those aircraft back into service.
 

@@ -1,4 +1,4 @@
-# Transdigm - Esterline Technologies Acquisition
+# [[Transdigm]] - Esterline Technologies Acquisition
 
 by #InPractise 
 
@@ -68,13 +68,13 @@ They don’t but they do limit how much we can raise the prices on those spare c
 
 Yes.
 
-### That’s interesting because the TransDigm model and argument is that they claw back that ownership of the aftermarket and they maybe sell at the same price, at cost, to Boeing or Airbus, for the hardware OE sale. But then they really ramp up and earn the margins on the aftermarket, to airlines. What’s your view around that?
+### That’s interesting because the [[TransDigm]] model and argument is that they claw back that ownership of the aftermarket and they maybe sell at the same price, at cost, to Boeing or Airbus, for the hardware OE sale. But then they really ramp up and earn the margins on the aftermarket, to airlines. What’s your view around that?
 
-As far as Korry and Boeing were concerned, Korry actually made a push-button switch and Korry was the only supplier of that switch, in the world. You could not buy it anywhere else. The barriers to entry for making that switch are very high. It takes a lot of tooling; it takes a lot of engineering. It sounds strange, but it does. It takes a lot of that type of stuff, in order to get that switch certified, in a flight deck. If they want, Boeing can come in and say, okay, you can only have certain customers in the aftermarket, to buy your switches and we’re only going to let you raise it up to three times the normal cost. TransDigm could turn around and say, no; we’re not going to do that and we’re the only people on the face of the earth that actually make these things and we’re going to charge whatever we want. So they are probably doing that. I’m not privy to what it is that they are actually doing but they could possibly do that and, maybe get away with it, at least in the short term.
+As far as Korry and Boeing were concerned, Korry actually made a push-button switch and Korry was the only supplier of that switch, in the world. You could not buy it anywhere else. The barriers to entry for making that switch are very high. It takes a lot of tooling; it takes a lot of engineering. It sounds strange, but it does. It takes a lot of that type of stuff, in order to get that switch certified, in a flight deck. If they want, Boeing can come in and say, okay, you can only have certain customers in the aftermarket, to buy your switches and we’re only going to let you raise it up to three times the normal cost. [[TransDigm]] could turn around and say, no; we’re not going to do that and we’re the only people on the face of the earth that actually make these things and we’re going to charge whatever we want. So they are probably doing that. I’m not privy to what it is that they are actually doing but they could possibly do that and, maybe get away with it, at least in the short term.
 
 ### Why didn’t Korry and Esterline do this before?
 
-Because we wanted to have a position with Boeing, that allowed us to get bigger pieces of aircraft. In other words, if I were TransDigm and I’m not trying to sell complete systems to Boeing or Airbus or these other OEMs, then I don’t care. I can raise it as much as I want and you have to pay the price and that’s it.
+Because we wanted to have a position with Boeing, that allowed us to get bigger pieces of aircraft. In other words, if I were [[TransDigm]] and I’m not trying to sell complete systems to Boeing or Airbus or these other OEMs, then I don’t care. I can raise it as much as I want and you have to pay the price and that’s it.
 
 Korry and Esterline, on the other hand, didn’t want to do that. We wanted to get a fair price, we wanted to stay in business, of course; we wanted to be able to sell into the aftermarket. But we also wanted to work with Boeing and Airbus and these other companies, in order to make bigger systems on board the aircraft. I’ll put it this way, a 737 aircraft has switches in the overhead and that’s what we sell to Boeing and we sell spare switches to airlines. For the 787 and 777X, Esterline/Korry sells the entire overhead, with all of the control panels and all of the certification aspects associated with that. I’m not just selling switches; I’m selling a complete system to Boeing. That’s the position that we want to be in.
 
@@ -82,7 +82,7 @@ Korry and Esterline, on the other hand, didn’t want to do that. We wanted to g
 
 That’s exactly right.
 
-### You think that if TransDigm or Korry were previously to take that position of actually, no, I’m going to charge whatever I want in the aftermarket, Boeing would backlash against that and not be willing to work with you to sell the larger systems?
+### You think that if [[TransDigm]] or Korry were previously to take that position of actually, no, I’m going to charge whatever I want in the aftermarket, Boeing would backlash against that and not be willing to work with you to sell the larger systems?
 
 That’s right. That would be the case, for sure. They would not want to work with us and they would cut us out of some much larger business.
 
@@ -94,7 +94,7 @@ Let’s face it, as far as Korry and Esterline were concerned, at that level, yo
 
 ### That’s only if your strategy is to upsell to bigger systems?
 
-Yes. Like I said, if you wanted to be TransDigm and you could do this and you could just raise the price to wherever you want, go ahead. Short-term system. We even pressed Boeing to the point of them threatening to get rid of us, because we wanted to get as much out of our spares as we possibly could. We wanted the initial sale of the hardware to be as high as we could make it and there were other parts of Esterline, not necessarily Korry, that were doing the same thing and they got replaced. If the barrier to entry is low enough, it will happen. If it’s high enough, they’ll take a little longer but they can possibly pull it off. We just never wanted to go down that road.
+Yes. Like I said, if you wanted to be [[TransDigm]] and you could do this and you could just raise the price to wherever you want, go ahead. Short-term system. We even pressed Boeing to the point of them threatening to get rid of us, because we wanted to get as much out of our spares as we possibly could. We wanted the initial sale of the hardware to be as high as we could make it and there were other parts of Esterline, not necessarily Korry, that were doing the same thing and they got replaced. If the barrier to entry is low enough, it will happen. If it’s high enough, they’ll take a little longer but they can possibly pull it off. We just never wanted to go down that road.
 
 ### How did Boeing replace the part?
 
@@ -102,7 +102,7 @@ There would be another company that would be willing to build a switch to the Bo
 
 ### As you said, if you pushed Boeing too far, even if you have a monopoly, it might take them time, but they would still look to find a partner to replace the part?
 
-Yes, they would. If their customers, their airlines, were complaining too much about spare pricing, yes, they would do it. Eventually, they would do it. I guess my point is, with TransDigm, if they want to continue to raise the prices, then there will be OEMs out there that will replace them.
+Yes, they would. If their customers, their airlines, were complaining too much about spare pricing, yes, they would do it. Eventually, they would do it. I guess my point is, with [[TransDigm]], if they want to continue to raise the prices, then there will be OEMs out there that will replace them.
 
 ### I guess their argument would be, we’re the only company on the face of the earth that supplies this. Therefore, we can ramp the prices somewhat and, actually, I don’t care about selling bigger systems to you; I’m just going to keep on going acquiring, 10, 20, 30 more Korrys, over the next 10 years, for example?
 
@@ -136,7 +136,7 @@ Because the operator that only has two or three aircraft will bear the price. It
 
 Well, sure. For components, a major airline would go back to Boeing and complain, then Boeing would come to us and they would say, no, you can’t really do this to these guys. If I was a small operator, of five or six aircraft, that would never happen. That small operator can complain all they want to Boeing and it’s not going to make any difference. They don’t have the weight, like a Boeing or a British Airways, so they’re kind of stuck with what it is.
 
-### So you kind of do to the small operators what TransDigm would do to everyone?
+### So you kind of do to the small operators what [[TransDigm]] would do to everyone?
 
 Honestly, yes.
 
@@ -164,7 +164,7 @@ So the growth rate itself was initially based around how many G500s and G600s is
 
 When I left the company, there were quite a few of those aircraft that still hadn’t hit rate production. Mitsubishi was making a regional jet and had not made it into rate production yet. The parts that we were selling to them, the price made sense and when we got into rate production, that particular program would pan out.
 
-### The reason why I asked that is, there’s an argument out there around TransDigm that a large part of, if not all, of the organic growth that they report, is from pricing and not from actual unit growth. I’m just trying to understand, in a steady state environment, do we just expect the unit growth rate to be GDP plus the growth of the platform that they are on or supplying? For example, in today’s environment, for TransDigm, where you see production being cut, the organic growth rate, is it going to be driven just by pricing?
+### The reason why I asked that is, there’s an argument out there around [[TransDigm]] that a large part of, if not all, of the organic growth that they report, is from pricing and not from actual unit growth. I’m just trying to understand, in a steady state environment, do we just expect the unit growth rate to be GDP plus the growth of the platform that they are on or supplying? For example, in today’s environment, for [[TransDigm]], where you see production being cut, the organic growth rate, is it going to be driven just by pricing?
 
 You’re right. Their organic growth rate would be based around pricing. Mostly based around pricing. The types of systems that we are talking about are utility control systems, which are controlled by all of those panels that are in the overhead of an aircraft. That doesn’t mean that all of the aircraft that are flying will never be upgraded into a better system. They are still flying B52s and they’ve been flying them since the 1950s and they continue to upgrade those aircraft. The US Air Force continues to upgrade C130s. There is growth in those areas, to put a new system on board the aircraft. You can still go at it that way.
 
@@ -206,7 +206,7 @@ It wasn’t set up to be that way, but that’s kind of the way it works. In cer
 
 I don’t particularly remember. I believe the way it works is, the lessor will lease the aircraft to the airline and the airline is going to have to be responsible for buying the parts. It’s not like Delta, if they had leased a number of different aircraft from one of the lessors, it’s not like they go back to the lessor to get a part. They’ll come to distribution or come to us and it’s the airline’s responsibility for that.
 
-### If I’m an airline, I assume I’m not only going to replace one switch, for $300 or $400. I assume there’s going to be more stuff I’m going to purchase from distribution, from the MRO shop, whatever it is. I assume that I also receive a big invoice, an itemized invoice, as an airline, of what I’m actually buying. I’m just trying to get a grip on the pricing power of players like TransDigm and these parts that have supposed monopolies. Does the airline really care about the price of a $500 switch, with the cost base they have?
+### If I’m an airline, I assume I’m not only going to replace one switch, for $300 or $400. I assume there’s going to be more stuff I’m going to purchase from distribution, from the MRO shop, whatever it is. I assume that I also receive a big invoice, an itemized invoice, as an airline, of what I’m actually buying. I’m just trying to get a grip on the pricing power of players like [[TransDigm]] and these parts that have supposed monopolies. Does the airline really care about the price of a $500 switch, with the cost base they have?
 
 It depends. I think one of the questions was, what’s the biggest risk of selling to airframers? Like we are now, the first thing they will look at is their inventory numbers. Many times, people will buy components in such a way that they just buy them, because the piece part price is such that they don’t have to spend a lot of time worrying about it that much.
 
@@ -216,7 +216,7 @@ But if we get into an area like we are now, yes, they’ll even start going down
 
 Yes; airlines will do that. Again, if you even press them too hard, some of the bigger ones, who have the capability of going off and doing this, they will figure out ways to get a lower price. But if we’re in the mode of how we were, let’s say six months ago, they buy them, they want to make sure they’ve got spare parts where they need them, because the worst possible thing that can happen is that you miss a push back.
 
-### Do you think there is a significant risk for TransDigm, in their strategy?
+### Do you think there is a significant risk for [[TransDigm]], in their strategy?
 
 I don’t know if I’d call it a risk. I’ll put it this way, if you want to talk about sustainability as risk, or not – and this is only my opinion – I think that their business model is unsustainable. Shareholders are going to want margins to increase, year over year and you can only raise the pricing so much, before the airlines will figure out a way to get around it and they will go off and do that. For the short term, yes, you can pull that off. But for the longer term, I just don’t think that it’s sustainable.
 
@@ -224,9 +224,9 @@ I don’t know if I’d call it a risk. I’ll put it this way, if you want to t
 
 I think it’s both.
 
-### So the airlines will complain to Boeing, TransDigm’s company has ramped the prices up; I can’t afford this, it’s ridiculous. Then Boeing would say, right, let’s do something about it?
+### So the airlines will complain to Boeing, [[TransDigm]]’s company has ramped the prices up; I can’t afford this, it’s ridiculous. Then Boeing would say, right, let’s do something about it?
 
-Yes. They would get the pressure that way. Again, we’re talking about a component that there is a monopoly position on. It is a big part of the business, but it’s not the part of the business. There were switches that Korry made that were different sizes, that there were competitors for, out in the marketplace. It was easy for an OEM to say, okay, I’m just not going to buy these switches anymore; I’m going to buy these. TransDigm, from what I understand, likes to have monopoly positions, where they can just raise the pricing. Generally, that happens on the military side, once you’re designed into something. I think the push-button switches with Boeing is unusual. But again, I do not think that it is sustainable.
+Yes. They would get the pressure that way. Again, we’re talking about a component that there is a monopoly position on. It is a big part of the business, but it’s not the part of the business. There were switches that Korry made that were different sizes, that there were competitors for, out in the marketplace. It was easy for an OEM to say, okay, I’m just not going to buy these switches anymore; I’m going to buy these. [[TransDigm]], from what I understand, likes to have monopoly positions, where they can just raise the pricing. Generally, that happens on the military side, once you’re designed into something. I think the push-button switches with Boeing is unusual. But again, I do not think that it is sustainable.
 
 As long as you are looking at it from a short-term standpoint, fine.
 
@@ -234,15 +234,15 @@ As long as you are looking at it from a short-term standpoint, fine.
 
 Yes, you’re right. I think they do that.
 
-### Also if the service is great. If you’re Boeing and TransDigm delivers on time, delivers on quality, has an efficient supply chain etc., I’m sure there’s worse suppliers to go after?
+### Also if the service is great. If you’re Boeing and [[TransDigm]] delivers on time, delivers on quality, has an efficient supply chain etc., I’m sure there’s worse suppliers to go after?
 
 I’ll leave that to them; I don’t know. But the scenario that you laid out, it could be sustainable for them.
 
-### What’s your sense of how the customer’s look at TransDigm? The airlines?
+### What’s your sense of how the customer’s look at [[TransDigm]]? The airlines?
 
-I don’t know how the airlines look at TransDigm, specifically. I’m assuming, if they’re still getting a price that they can stomach and, as you said, everything else is working well, supply chain works well and they’re getting switches when they need them, then to a point, they’ll be okay with that. It’s some of the other OEMs and manufacturers that, I know, once they found out that TransDigm had bought Esterline, they immediately stopped doing business with Esterline, even though the sale wasn’t final. There are other manufacturers out there that just won’t deal with them.
+I don’t know how the airlines look at [[TransDigm]], specifically. I’m assuming, if they’re still getting a price that they can stomach and, as you said, everything else is working well, supply chain works well and they’re getting switches when they need them, then to a point, they’ll be okay with that. It’s some of the other OEMs and manufacturers that, I know, once they found out that [[TransDigm]] had bought Esterline, they immediately stopped doing business with Esterline, even though the sale wasn’t final. There are other manufacturers out there that just won’t deal with them.
 
-### So one of the smaller OEMs was like, I know what TransDigm’s playbook is here; I’m not getting involved?
+### So one of the smaller OEMs was like, I know what [[TransDigm]]’s playbook is here; I’m not getting involved?
 
 Yes. Or, I’m going to work right now, to find a way to replace you.
 
@@ -268,15 +268,15 @@ It’s different from in the commercial world. The government can just come in a
 
 Yes, they have. In certain cases, we’ve told them that the price was too low and they allowed us to raise it. The military is just different. It’s just something that everybody deals with. You know you have to deal with it and, like I said, they’re not going to try to put you out of business. They just want to get the best price for the taxpayer they can.
 
-### I think TransDigm’s pricing, in the defense, for the military, has also been audited, multiple times and the results have come back saying it was fine and they were within the standards required and the pricing was fair. Somewhat fair; I think they had to pay back a portion, voluntarily. That would suggest, potentially, that most of the price increases, or all of the price increases, actually come from the commercial space then?
+### I think [[TransDigm]]’s pricing, in the defense, for the military, has also been audited, multiple times and the results have come back saying it was fine and they were within the standards required and the pricing was fair. Somewhat fair; I think they had to pay back a portion, voluntarily. That would suggest, potentially, that most of the price increases, or all of the price increases, actually come from the commercial space then?
 
 Most of it, yes. I don’t know, for sure, because I was not there when they were going through this. But I don’t know that I could argue your point.
 
-### Just finishing off, Mark, and looking at TransDigm’s model, I know you mentioned that it’s just not sustainable. What do you think could be the breaking point?
+### Just finishing off, Mark, and looking at [[TransDigm]]’s model, I know you mentioned that it’s just not sustainable. What do you think could be the breaking point?
 
 I don’t know. You’re also correct in that, if I plan on having a pricing model that is sustainable for three years, let’s say, and I continue to buy companies and I continue to sell off companies, inside of that window, it could work. I just have to be very good at buying and selling companies. They tend to do that. It’s a strategy. It’s just not one that Esterline wanted to go off and pursue.
 
-### I assume that the customers realize, the OEMs realize, when TransDigm buys a business, the prices are going to change. The aftermarket prices do change but if it’s a one-time change, which then grows at inflation, you capture that margin and own the aftermarket then. But you just have to keep replenishing the portfolio of new components?
+### I assume that the customers realize, the OEMs realize, when [[TransDigm]] buys a business, the prices are going to change. The aftermarket prices do change but if it’s a one-time change, which then grows at inflation, you capture that margin and own the aftermarket then. But you just have to keep replenishing the portfolio of new components?
 
 Yes.
 

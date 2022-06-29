@@ -20,3 +20,10 @@ Death is the ultimate absorbing state.
 You can only rely on expected outcomes if you are guaranteed a large number of repetitions. Otherwise, they are misleading (the Law of Large Numbers requires a large number of repetitions).
 
 
+“Six people playing Russian Roulette once each is not the same as one person playing it six times.”- Naval Ravikant
+
+“Sequence matters. If you wash your pants, then dry them, and then wear them you get different results than if you dry your pants, then wash them, and then wear them.”— Alex Hardy
+
+“Individuals optimise what happens to them over time, not what happens to them on average in a collection of parallel worlds.” — Mark Buchanan
+
+
