@@ -42,9 +42,13 @@
 - **Case studies: apprendre à reconnaitre l'excellence**
 - [[ROCE-Growth Matrix, and Few Potential Wealth Creators]]
 - Investment vs Speculation
+- How to read a 10-K : See https://twitter.com/investmattallen/status/1542169048355594242
+
+
+[[Role of ROIC]]
+
 - ROIC, Growth, Multiple expansion
 - Les marchés sont ils vraiment efficients
-- D'où viennent les gains en Bourse
 - Les avantages du petit porteur face aux institutions
 - Worldly wisdom through a latticework of Mental Models
 - The importance of choosing the right role models, teachers and mentors in life -> standing on the shoulders on giants

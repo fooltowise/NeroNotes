@@ -16,6 +16,8 @@
 
 - [[In Investing, Simple Beats Complex]]
 - [[Walter Schloss - 16 Investing Lessons from a Superinvestor the World Forgot]]
+- [[Advice to a young investor]]
+- [[Advice to a young investor part 2]]
 
 
 ## Sales Copy
