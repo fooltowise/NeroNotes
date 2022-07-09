@@ -17,7 +17,7 @@ See [[The Fundamental Theorem of Investing]]
 - Waters Corp
 - Rational AG
 - Facebook
-- Microsoft
+- [[Microsoft]]
 - Etsy
 - [[Wix]] 
 - Yum! brands

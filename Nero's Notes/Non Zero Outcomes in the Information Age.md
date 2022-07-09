@@ -38,7 +38,7 @@ Our view has evolved since then, and we feel we did not go far enough in _Comple
 
 You can get wrapped up in a web of unintended consequences given the interconnectedness and complexity of the global economy – so rather than becoming too paralyzed to make any decision lest you harm a flea on the back of a rodent in some distant land – perhaps we need to simplify the situation. A simple question can help in the decision process to maximize NZS for the long term: “Are we creating more value for our constituents than for ourselves?” Here constituents includes employees, customers, shareholders, suppliers, the environment, and the broader social context. If a decision significantly makes one of these players worse off in order to grow corporate free cash flow in the short term, it’s probably not the best decision.
 
-[[Microsoft]] CEO Satya Nadella highlights this strategy perfectly in [comments to industry analysts](https://stratechery.com/2019/satya-nadella-on-[[[[microsoft]]]]/) in January of 2019:
+[[Microsoft]] CEO Satya Nadella highlights this strategy perfectly in [comments to industry analysts](https://stratechery.com/2019/satya-nadella-on-microsoft/) in January of 2019:
 
 >"...so that’s why I’m not one of those guys who celebrates some market cap measure because I think all of that is – I mean that’s just not stable, at least not with our business model – because our business model fundamentally is about creating more surplus outside us. We will only be long term successful if people are making more money around us.
 

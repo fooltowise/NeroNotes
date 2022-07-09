@@ -1,12 +1,14 @@
 # Le compte de bilan
 
-Bienvenue dans la quatrième édition d'investi. Aujourd'hui, tu vas apprendre:
+Bienvenue dans la quatrième édition d'investi. 
+
+T'es-tu déjà demandé comment savoir si une entreprise est en bonne santé? Aujourd'hui, tu vas apprendre:
 - Qu'est-ce que le compte de bilan
 - Comment il décrit la solidité financière d'une compagnie
 - Comment il décrit ce que la compagnie possède
 - Comment tout cela est financé
 
-C'est parti.
+C'est parti!
 
 ## La vie n'est pas aussi simple qu'un hot-dog
 
@@ -20,91 +22,99 @@ Comme dans la première édition d'Investi, la démarche qui suit est largement 
 
 Aujourd'hui, on va se concentrer sur le compte de bilan, qui détaille la santé financière d'un business.
 
-Contrairement au compte de résultat, le bilan ne présente pas les résultats sur une période donnée. C'est un snapshot de la compagnie à un moment donné. Dans les rapports financiers, il est souvent comparé à l'état du bilan lors de l'année précédente.
+Contrairement au compte de résultat, le bilan ne présente pas les résultats sur une période donnée. C'est un snapshot de la compagnie à un moment précis. Dans les rapports financiers, il est souvent comparé à l'état du bilan lors de l'année précédente.
+
+Le compte de bilan t'indique ce que possède une entreprise (l'*actif*: les terrains, usines, bureaux, stocks, le cash, etc). Il indique également comment l'actif est financé (le *passif*). Une partie du financement de l'actif provient des capitaux propres (c'est-à-dire la valeur de ce que les actionnaires ont investi dans la compagnie). Une autre partie du passif provient des capitaux externes, c'est-à-dire tout ce que la compagnie doit à des tiers: dettes, factures, salaires, etc.
 
 ![[Bilan.png]]
 
-Le compte de bilan t'indique ce que possède une entreprise (son actif), et comment son actif est financé (le passif). Une partie du financement de l'actif provient des capitaux propres (c'est-à-dire la valeur de ce que les actionnaires ont investi dans la compagnie). Une autre partie du passif provient des capitaux externes, c'est-à-dire tout ce que la compagnie doit à des tiers: dettes, factures, salaires, etc.
 
-Les anglais nomment le compte de bilan *balance sheet*, un nom prédestiné. À tout moment, le compte de bilan doit ainsi être à l'équilibre (imagine une balance) et suivre l'équation:
+
+Les Anglais nomment le compte de bilan *balance sheet*, un nom prédestiné. À tout moment, le compte de bilan doit ainsi être à l'équilibre (imagine une balance) et suivre l'équation:
 
 Actif = Passif
 Ou encore:
 Actif = Passif = Capitaux Propres + Capitaux Externes.
 
-Une augmentation du passif - l'émission d'une obligation - entraîne une augmentation égale de l'actif - l'argent reçu de la vente de l'obligation. Si une entreprise génère d'énormes bénéfices qui entraînent une augmentation de l'actif, les capitaux propres augmentent également.
+Une augmentation du passif (par exemple l'émission d'une obligation) entraîne une augmentation égale de l'actif (l'argent reçu de la vente de l'obligation). Si une entreprise génère d'énormes bénéfices qui entraînent une augmentation de l'actif, les capitaux propres augmentent également.
 
 Par exemple, imagine qu'une compagnie ait initialement des actifs valant 100€, des capitaux externes de 70 € et des capitaux propres de 30€. En tant qu'actionnaire, tu possèdes les 30€ de capitaux propres.
 
+
+![[BilanAvant.png]]
+
 Maintenant, à la fin de l'année, l'entreprise a réalisé 10€ de bénéfices, tout en cash. Ces 10€ sont ajoutés à l'actif. Si les capitaux externes de la compagnie n'ont pas évolué (disons que les salaires et les factures des fournisseurs n'ont pas changé), les 10€ de bénéfices s'ajoutent également aux capitaux propres. En tant qu'actionnaire, tu possèdes maintenant 40€ de capitaux propres!
 
-![[Balance 1.png]]
+
+![[BilanApres.png]]
+
+## Un compte de bilan typique
+
+Voyons comment un compte de bilan classique se présente:
+
+| Acme Inc: Compte de bilan (en millions d'euros) | 2021      | 2020     |
+| ----------------------------------------------- | --------- | -------- |
+| **Actif**                                       |           |          |
+| Actif Immobilisé:                               |           |          |
+| Immobilisations corporelles, net                | 3748      | 3744     |
+| Survaleur                                       | 1266      | 674      |
+| Immobilisations incorporelles                   | 180       | 158      |
+| Immobilisations financières                     | 158       | 184      |
+| Autre actif immobilisé                          | 830       | 780      |
+| **Total actif immobilisé**                      | **6182**  | **5540** |
+|                                                 |           |          |
+| **Actif Circulant**                             |           |          |
+| Stocks                                          | 1288      | 1394     |
+| Clients et comptes rattachés                    | 1684      | 1654     |
+| Liquidités et quasi-liquidités                  | 568       | 411      |
+| Autre actif circulant                           | 656       | 738      |
+| **Total Actif Circulant**                       | **4196**  | **4197** |
+| **Total Actif**                                 | **10378** | **9737** |
+|                                                 |           |          |
 
 
 
-Voyons comment un compte de bilan typique se présente:
 
-| Acme Inc: Compte de bilan        | 2021      | 2020     |
-| -------------------------------- | --------- | -------- |
-| **Actif**                        |           |          |
-| Actif Immobilisé:                |           |          |
-| Immobilisations corporelles, net | 3748      | 3744     |
-| Survaleur                        | 1266      | 674      |
-| Immobilisations incorporelles    | 180       | 158      |
-| Immobilisations financières      | 158       | 184      |
-| Autre actif immobilisé           | 830       | 780      |
-| **Total actif immobilisé**       | **6182**  | **5540** |
-|                                  |           |          |
-| **Actif Circulant**              |           |          |
-| Stocks                           | 1288      | 1394     |
-| Clients et comptes rattachés     | 1684      | 1654     |
-| Liquidités et quasi-liquidités   | 568       | 411      |
-| Autre actif circulant            | 656       | 738      |
-| **Total Actif Circulant**        | **4196**  | **4197** |
-| **Total Actif**                  | **10378** | **9737** |
-|                                  |           |          |
+| Acme Inc: Compte de bilan (en millions d'euros) | 2021      | 2020     |
+| ----------------------------------------------- | --------- | -------- |
+| **Passif**                                      |           |          |
+| Capitaux Propres:                               |           |          |
+| Actions ordinaires                              | 4         | 4        |
+| Primes d'émission                               | 194       | 194      |
+| Réserves et report à nouveau                    | 8498      | 7942     |
+| Rachat par l'entreprise de ses propres actions  | -3178     | -3088    |
+| Autre résultat étendu                           | -1366     | -994     |
+| **Capitaux Propres**                            | **4152**  | **4058** |
+|                                                 |           |          |
+| **Passifs externes**                            |           |          |
+| **Passifs circulants**                          |           |          |
+| Emprunts à court terme                          | 824       | 916      |
+| Fournisseurs                                    | 630       | 502      |
+| Salaires                                        | 274       | 360      |
+| Impôt sur le résultat courant                   | 346       | 398      |
+| Autres passifs circulants                       | 898       | 832      |
+| **Total Passifs circulants**                    | **2972**  | **3008** |
+| Emprunts à long terme                           | 1426      | 1014     |
+| Autres passifs                                  | 1828      | 1657     |
+| **Total Passifs externes**                      | **6226**  | **5679** |
+| **Total Passif**                                | **10378** | **9737** |
 
+Comme dit plus haut, c'est très courant qu'on compare les chiffres d'une année avec la précédente. Ici on a comparé 2021 avec 2020.
 
+On va maintenant parcourir morceau par morceau le compte de bilan. Ça te donnera une meilleure idée de la façon dont il est assemblé. Dans une future édition, on verra aussi comment calculer des indicateurs à partir du bilan pour vérifier si l'entreprise est en super forme ou au contraire en détresse. 
 
-
-| Acme Inc: Compte de bilan                      | 2021      | 2020     |
-| ---------------------------------------------- | --------- | -------- |
-| **Passif**                                     |           |          |
-| Capitaux Propres:                              |           |          |
-| Actions ordinaires                             | 4         | 4        |
-| Primes d'émission                              | 194       | 194      |
-| Réserves et report à nouveau                   | 8498      | 7942     |
-| Rachat par l'entreprise de ses propres actions | -3178     | -3088    |
-| Autre résultat étendu                          | -1366     | -994     |
-| **Capitaux Propres**                           | **4152**  | **4058** |
-|                                                |           |          |
-| **Passifs externes**                           |           |          |
-| **Passifs circulants**                         |           |          |
-| Emprunts à court terme                         | 824       | 916      |
-| Fournisseurs                                   | 630       | 502      |
-| Salaires                                       | 274       | 360      |
-| Impôt sur le résultat courant                  | 346       | 398      |
-| Autres passifs circulants                      | 898       | 832      |
-| **Total Passifs circulants**                   | **2972**  | **3008** |
-| Emprunts à long terme                          | 1426      | 1014     |
-| Autres passifs                                 | 1828      | 1657     |
-| **Total Passifs externes**                     | **6226**  | **5679** |
-| **Total Passif**                               | **10378** | **9737** |
-
-
-
-Parcourons maintenant le compte de bilan morceau par morceau pour avoir une meilleure idée de la façon dont il est assemblé. Comme on ne va pas se limiter qu'aux entreprises françaises, tu trouveras la traduction anglaise de chaque terme comptable français entre parenthèses. Tu peux aussi consulter le glossaire ici!
+Ah oui, un autre détail. Comme on ne va pas se limiter qu'aux entreprises françaises, tu trouveras la traduction anglaise de chaque terme comptable français entre parenthèses. Tu peux aussi consulter le glossaire ici!
 
 Pour rendre les choses plus concrètes, je suis allé te chercher les comptes de deux vraies compagnies: 
 - L'Oréal, le groupe français de produits de beauté
-- Costco, le groupe de clubs de grande distribution
+- Costco, le groupe américain de clubs de grande distribution
 
 Pour suivre les exemples, tu peux récupérer les rapports annuels de L'Oréal [ici](https://loreal-finance.publispeak.com/2021-universal-registration-document/article/349/) (année se finissant au 31.12.2021), et de Costco [ici](https://investor.costco.com/static-files/726b9fb1-7933-46df-a6de-5b4eb95816c7)(année se finissant au 29 août 2021).
 
 Tu noteras que suivant les pays, les éléments du compte de bilan ne sont pas présentés dans le même ordre. Par exemple:
 - En France, on présentera l'actif en commençant par les immobilisations, puis l'actif circulant. De même, le passif commencera par les capitaux propres, puis les capitaux externes.
-- Aux USA, l'ordre est inversé: l'actif est présenté en commençant par les actifs circulants, et le passif en commençant par les capitaux externes.
-- 
+- Aux USA, l'ordre est inversé: l'actif est présenté en commençant par les actifs circulants et le passif en commençant par les capitaux externes.
+
 Encore une fois, l'important est de comprendre les principes. Peu importe l'ordre dans lequel le bilan est présenté, il te décrit ce que la compagnie possède, ce qu'elle doit et ce qui appartient aux actionnaires.
 
 
@@ -181,15 +191,15 @@ L'Oréal indique 19.272 milliards d'euros d'immobilisations financières, soit 7
 
 #### Immobilisations incorporelles (*Intangibles assets*)
 
-Il s'agit de tous les actifs intangibles dont dispose la compagnie.
+Il s'agit de tous les actifs intangibles dont dispose la compagnie. Ce sont les brevets, les marques, les logiciels développés, etc. 
 
 La forme la plus courante d'actifs incorporels est le *goodwill*, ou survaleur. Cette ligne du bilan apparaît lorsqu'une entreprise en acquiert une autre. Le goodwill est la différence entre le prix payé par l'entreprise acquéreuse et la valeur tangible - ou les fonds propres - de l'entreprise cible. Il représente essentiellement la valeur de toutes les autres choses qu'une entreprise obtient lorsqu'elle en acquiert une autre. 
 
 Par exemple, la majeure partie de la valeur de Coca-Cola ne réside pas dans les bâtiments et les équipements de l'entreprise, mais dans la marque puissante qu'elle a créée au cours des dernières décennies. 
 
-Si une entreprise devait acheter Coca-Cola, elle devrait payer bien plus que la valeur comptable des capitaux propres de la société, et ce montant supplémentaire s'appelle la survaleur.
+Si une entreprise devait acheter Coca-Cola, elle devrait payer bien plus que la valeur comptable des capitaux propres de la société et ce montant supplémentaire s'appelle la survaleur.
 
-Quand une société fait beaucoup d'acquisitions, le montant de la survaleur devient matériel, et elle est listée séparément du reste des autres immobilisations incorporelles.
+Quand une société fait beaucoup d'acquisitions, le montant de la survaleur devient matériel et elle est listée séparément du reste des autres immobilisations incorporelles.
 
 L'Oréal mentionne 4.607 milliards d'euros d'immobilisations incorporelles, tandis que Costco n'en mentionne pas (il peut y en avoir, mais le montant est négligeable et mis dans le même panier que les *autres actifs immobilisés.*)
 
@@ -223,7 +233,7 @@ Costco a 6.692 milliards de dollars d'emprunts à long terme.
 
 ### Capitaux Propres (*Stockholders' Equity*)
 
-Rappelle-toi que les capitaux propres sont égaux au total de l'actifs moins les passifs externes, et qu'ils représentent la part de l'entreprise détenue par les actionnaires. Cette section peut être la plus déroutante des états financiers d'une entreprise, car elle est remplie de nombreux postes anachroniques qui n'ont guère de pertinence pratique.
+Rappelle-toi que les capitaux propres sont égaux au total de l'actif moins les capitaux externes, et qu'ils représentent la part de l'entreprise détenue par les actionnaires. Cette section peut être la plus déroutante des états financiers d'une entreprise, car elle est remplie de nombreux postes anachroniques qui n'ont guère de pertinence pratique.
 
 Le seul compte qui vaille la peine d'être examiné est celui des bénéfices non distribués (aussi appelé réserves et report à nouveau) - *retained earnings* en anglais - qui enregistre essentiellement le montant du capital qu'une société a généré au cours de son existence - moins les dividendes et les rachats d'actions, qui représentent les fonds qui ont déjà été reversés aux actionnaires.
 
@@ -235,13 +245,16 @@ En 2021, Les bénéfices non distribués de L'Oréal s'élevaient à 10.813 mill
 
 ## Conclusion
 
-C'est tout pour l'édition d'aujourd'hui.
+C'est tout pour aujourd'hui. Dans cette édition, on s'est concentré sur les éléments du bilan - ce qui est déjà un programme chargé. À l'avenir, je te montrerai aussi comment calculer des indicateurs à partir de ces éléments pour vérifier quand un business est en pleine forme ou en détresse.
 
 Les points importants à retenir:
-- Le compte de bilan indique combien une entreprise possède, combien elle doit, et la différence entre les deux. 
+- Le compte de bilan indique combien une entreprise possède, combien elle doit et la différence entre les deux. 
 - Cette différence représente la valeur de l'argent que les actionnaires ont investi dans l'entreprise. 
 - Comme le bilan doit être équilibré à tout moment, toute variation de l'actif ou du passif entraîne une variation correspondante des capitaux propres. Si une entreprise génère d'énormes bénéfices qui entraînent une augmentation de l'actif, les capitaux propres augmenteront également.
-- L'actif est divisé en deux catégories pour donner une idée de leur liquidités: actif circulant (court terme, réalisable en moins d'un an), et les actifs immobilisés (plus difficiles à liquider, souvent à plus d'un an).
+- L'actif est divisé en deux catégories pour donner une idée de leurs liquidités: actif circulant (court terme, réalisable en moins d'un an), et les actifs immobilisés (plus difficiles à liquider, souvent à plus d'un an).
 - De même, côté passif, les capitaux externes sont divisés en deux catégories: passifs circulants (dûs d'ici moins d'un an) et les engagements à plus long terme (emprunts à long terme, etc.) C'est utile car cela facilite la comparaison. Par exemple, une dette à court terme élevée doit être soutenue par des réserves de trésorerie plus importantes.
 
 On se retrouve la semaine prochaine!
+
+
+

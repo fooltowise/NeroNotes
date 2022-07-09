@@ -18,6 +18,7 @@
 - [[Walter Schloss - 16 Investing Lessons from a Superinvestor the World Forgot]]
 - [[Advice to a young investor]]
 - [[Advice to a young investor part 2]]
+- [[Advice to a young investor part 3]]
 
 
 ## Sales Copy
