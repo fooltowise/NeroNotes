@@ -4,32 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8f4138582b7f19ec",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Topics for Newsletter.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3c2a287bd80ad566",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Le compte de bilan.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "04449c53870178af",
         "type": "leaf",
         "state": {
@@ -44,6 +18,19 @@
       },
       {
         "id": "3ca8d09d26e5d71c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programme Editorial Investi.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4e24fd2ef8e64f6a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -102,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7fa4233b9d1c9536",
@@ -178,7 +166,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ca8d09d26e5d71c",
+  "active": "4e24fd2ef8e64f6a",
   "lastOpenFiles": [
     "Le Risque.md",
     "Programme Editorial Investi.md",
