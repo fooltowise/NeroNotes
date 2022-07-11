@@ -24,7 +24,7 @@ See also [[Great Businesses I'd like to own]]
 | [[Copart]]            | Creating both physical and digital moats                             |
 | Cintas ([[CTAS]])            | Boring can be beautiful                                              |
 | [[Danaher]] (DHR)            | Process and culture                                                  |
-| Roper ([[ROP]])              | Process and culture                                                  |
+| [[Roper]]               | Process and culture                                                  |
 | NVR ([[NVR]])                | Differentiated business model                                        |
 | Pool Corp ([[POOL]])         | Efficient roll-up strategy in a niche                                |
 | Brookfield ([[BAM]])         | Smart capital allocation                                             |

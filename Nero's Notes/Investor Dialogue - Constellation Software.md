@@ -35,7 +35,7 @@ Analyst 1: That’s a good question you raise. Is this Constellation 2.0 or is t
 
 ### You saw them announce that acquisition and then, two days later, they announced one for five million. I don’t know any company in the world that does these acquisitions on such different ends of the scale.
 
-Analyst 3: I think that, in itself, opens up a pretty interesting thought. All of a sudden you had this company, Constellation, that was really well versed at these small two to 12 million type deals. If suddenly, they can step in to the batter’s spot and really swing at these sized deals, across the spectrum, versus something like a Roper Technologies, that is way over here in size, it really opens up the playing field that much more, for Constellation.
+Analyst 3: I think that, in itself, opens up a pretty interesting thought. All of a sudden you had this company, Constellation, that was really well versed at these small two to 12 million type deals. If suddenly, they can step in to the batter’s spot and really swing at these sized deals, across the spectrum, versus something like a [[Roper]] Technologies, that is way over here in size, it really opens up the playing field that much more, for Constellation.
 
 ### Looking at this operationally, this is a completely different ballgame, when you buy an asset this big. Do you think Constellation is really structured to operationally improve and implement best practices, with such a large asset?
 

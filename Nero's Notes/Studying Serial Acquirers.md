@@ -37,7 +37,7 @@ Step one was to recognize that there are a lot of special platforms and accumula
 
 The allure of investing in a serial acquirer is the tendency of such companies to reinvest all or most of their free cash flow for a very long time at high rates of return. It’s as simple as that. 
 
-[[Serial acquirers]] (excluding the roll-ups, which are just one business vertical across many geographies) also have the added benefit of becoming more diversified businesses over time. Therefore, a very good serial acquirer can compound at high rates of return over time and simultaneously have less idiosyncratic risk, making it easier to never sell and let the position size swell with success. [[Danaher]], Roper, Berkshire and Constellation are today a very diverse collection of earnings streams with different end markets and drivers. 
+[[Serial acquirers]] (excluding the roll-ups, which are just one business vertical across many geographies) also have the added benefit of becoming more diversified businesses over time. Therefore, a very good serial acquirer can compound at high rates of return over time and simultaneously have less idiosyncratic risk, making it easier to never sell and let the position size swell with success. [[Danaher]], [[Roper]], Berkshire and Constellation are today a very diverse collection of earnings streams with different end markets and drivers. 
 
 Investors often look for companies that are heavy repurchasers of their own stock.  The leveraged buyback model can be really powerful (Charter, [[Autozone]], NVR) but you’re exposing yourself more to general market factors.  A buyback model can create enormous wealth over time if the company continuously trades at only a modest multiple to FCF. It works less well _going forward_ when the stock rockets upwards (like Apple tripling in the last 2 years - who’s complaining about that though...). Good [[serial acquirers]] with strong moats _in their capital allocation processes_ can generally keep chugging along regardless of broader market factors. Which again helps to keep the compounding going tax efficiently for a long time. 
 
@@ -66,7 +66,7 @@ The issues at hand are that 
 
 (2) narrower TAMs can get very competitive and excess returns can get competed away (roll-ups, portfolios). 
 
-At [[Danaher]] or Roper’s scale, it’s quite hard to bust out a double digit long-term RoIC when your average deal size is 500M to a billion dollars with average EV/ EBITAs closing in on 20x. 
+At [[Danaher]] or [[Roper]]’s scale, it’s quite hard to bust out a double digit long-term RoIC when your average deal size is 500M to a billion dollars with average EV/ EBITAs closing in on 20x. 
 
 That’s leads to the basic, but powerful, law of diminishing returns to M&A: 
 
@@ -185,7 +185,7 @@ Smaller is better. A small accumulator or platform just needs to have the basics
 
 For medium-sized platforms or accumulators, like a First Service, [[Halma]] or [[Lifco]], you want to make sure they are seriously thinking about scaling deal volume (or intelligently adding new platforms). They need to be working on this. If that’s the case, you can still pay a full multiple and do well over the long term. 
 
-For large platforms or accumulators, like a Roper or [[Danaher]], it’s probably more a question of entry multiples. If you want to compound at 12%-15%, you have to keep in mind that at that size, mgmt probably can’t reinvest at un-levered returns much higher than 10%. So far, the equity returns have continued to be okay because the cost of debt is so low, but ROICs are no longer exceptional. 
+For large platforms or accumulators, like a [[Roper]] or [[Danaher]], it’s probably more a question of entry multiples. If you want to compound at 12%-15%, you have to keep in mind that at that size, mgmt probably can’t reinvest at un-levered returns much higher than 10%. So far, the equity returns have continued to be okay because the cost of debt is so low, but ROICs are no longer exceptional. 
 
 **Summary**
 

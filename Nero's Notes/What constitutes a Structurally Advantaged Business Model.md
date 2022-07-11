@@ -60,7 +60,7 @@ McDonalds, Dollar General, [[Walmart]], Dominos, [[Home Depot]], Starbucks, and 
 
 A recent European example is 3i Group plc’s investment in the non-food, discount retailer [Action](https://www.3i.com/portfolio/action/). Store investments payback in eighteen months, and notwithstanding what has been a 50x for 3i so far, Action is still growing strongly.
 
-Companies that are very disciplined acquirers also fit the high ROIC cookie cutter categorization. Examples include [[Constellation Software]], Roper, and DCC. Their path may be less predictable than underpenetrated retail rollouts, but their value accretion rests on a similar premise of a strong degree of repeatable re-investment at high returns.
+Companies that are very disciplined acquirers also fit the high ROIC cookie cutter categorization. Examples include [[Constellation Software]], [[Roper]], and DCC. Their path may be less predictable than underpenetrated retail rollouts, but their value accretion rests on a similar premise of a strong degree of repeatable re-investment at high returns.
 
 **SABM # 5 – User Generated Content**
 

@@ -1,18 +1,18 @@
 # Le Risque
 
 
-Bienvenue dans cette cinquième édition d'investi! Aujourd'hui, on va parler du risque.
+Bienvenue dans cette cinquième édition d'Investi! Aujourd'hui, on va parler du risque.
 
 "La bourse, c'est risqué." Je ne compte plus le nombre de fois où j'ai entendu cette expression.
-Mais qu'est ce que ça veut dire en fait? Qu'est ce que le risque en bourse? Comment le réduire? Est-ce que pour gagner plus d'argent, il faut prendre plus de risque?
+Mais qu'est-ce que ça veut dire en fait? Qu'est-ce que le risque en bourse? Comment le réduire? Est-ce que pour gagner plus d'argent, il faut prendre plus de risque?
 
-Allons-y.
+Suivons le guide.
 
 ## Risque = possibilité de perte
 
 Dans le monde des investissements, le risque est tout simplement la possibilité que tu peux perdre de l'argent. L'avenir des entreprises n'est pas certain, le comportement des participants sur les marchés n'est pas certain, et en particulier ton comportement n'est pas certain. Il se peut que la valeur des investissements que tu as fait en bourse soit inférieure à l'argent que tu y as investi. Le risque, c'est la possibilité de cette perte.
 
-Note bien que ces considérations doivent être faites après taxation et inflation - c'est à dire, en termes de pouvoir d'achat. Dans la [lettre aux actionnaires de Berkshire Hathaway de 1980]([https://www.berkshirehathaway.com/letters/1980.html](https://www.berkshirehathaway.com/letters/1980.html)), Warren Buffett fait en effet l'observation suivante:
+Note bien que ces considérations doivent être faites après taxation et inflation - c'est-à-dire, en termes de pouvoir d'achat. Dans la [lettre aux actionnaires de Berkshire Hathaway de 1980]([https://www.berkshirehathaway.com/letters/1980.html](https://www.berkshirehathaway.com/letters/1980.html)), Warren Buffett fait en effet l'observation suivante:
 
 Si tu:
 - (a) renonces à dix hamburgers pour faire un investissement ; 
@@ -34,9 +34,9 @@ C'est parti.
 
 Dans le monde de la finance, les théoriciens définissent le risque d'un actif comme la volatilité des fluctuations de son prix. Qu'est-ce que ça veut dire?
 
-Disons que tu veilles mesurer le risque lié à l'action Microsoft. Un professeur de finance te dirait alors de regarder l'historique du prix de l'action à certains intervalles données (disons, à la cloture quotidienne des marchés). Tu devrais ensuite calculer la performance de l'action sur chacun de ces intervalles, pour en déduire une distribution de rendements. Le professeur te dirait alors de calculer ensuite la *variance* de cette distribution (un gros mot qui mesure à quel point ces rendements quotidiens sont dispersés).
+Disons que tu veilles mesurer le risque lié à l'action Microsoft. Un professeur de finance te dirait alors de regarder l'historique du prix de l'action à certains intervalles donnés (disons, à la clôture quotidienne des marchés). Tu devrais ensuite calculer la performance de l'action sur chacun de ces intervalles, pour en déduire une distribution de rendements. Le professeur te dirait alors de calculer ensuite la *variance* de cette distribution (un gros mot qui mesure à quel point ces rendements quotidiens sont dispersés).
 
-Cette variance est appelée *volatilité*. Dans le monde de la finance, c'est un des premiers chiffres qu'on te dirait de regarder. "*À quel point les rendements quotidiens de l'action Microsoft sont dispersés?*" devient une sorte de question de remplacement pour "*Quel est le risque lié à l'action Microsoft?*".
+On appelle cette variance *volatilité*. Dans le monde de la finance, c'est un des premiers chiffres qu'on te dirait de regarder. "*À quel point les rendements quotidiens de l'action Microsoft sont dispersés?*" devient une sorte de question de remplacement pour "*Quel est le risque lié à l'action Microsoft?*".
 
 On va alors considérer qu'une action avec de faibles fluctuations est peu risquée, tandis qu'une action avec des fluctuations plus importantes est plus risquée.
 
@@ -52,7 +52,7 @@ Je passe sur les formules, mais les calculs utilisés par Sharpe te donnent une 
 - Une action avec un bêta inférieur à 1 a tendance à avoir des fluctuations moins importantes que celles du marché. On la considère donc comme moins risquée.
 - Une action avec un bêta négatif  a tendance à avoir des fluctuations inverses à celles du marché.
 
-Toute la finance moderne repose sur ces deux notions de *volatilité* et de *bêta*. C'est très pratique car avec seulement deux nombres on peut résumer tout le risque d'une compagnie. Un scientifique peut ensuite construire des modèles mathématiques élaborés à partir de ces concepts. 
+Toute la finance moderne repose sur ces deux notions de *volatilité* et de *bêta*. C'est très pratique, car avec seulement deux nombres on peut résumer tout le risque d'une compagnie. Un scientifique peut ensuite construire des modèles mathématiques élaborés à partir de ces concepts. 
 
 ## Une théorie limitée
 
@@ -97,7 +97,7 @@ Mais ce n'est pas tout. Tobby est fasciné par les papillons. Quand il en croise
 
 Tu vois où je veux en venir. Si on devait faire le parallèle avec la bourse, Alex représenterait la compagnie et Tobby son action. Bien que la trajectoire de l'entreprise fluctue peu, le cours de son action va fluctuer autour de la valeur de l'entreprise.
 
-Les papillons représentent les moments où les marchés deviennent particulièrement euphoriques ou pessimistes. Le papillon le plus à gauche serait alors une bulle spéculative, et celui à droite un krach boursier.
+Les papillons représentent les moments où les marchés deviennent particulièrement euphoriques ou pessimistes. Le papillon le plus à gauche serait alors une bulle spéculative et celui à droite un krach boursier.
 
 Bien que cet exemple soit un peu simpliste, tu vas voir qu'on peut en tirer plein de leçons.
 
@@ -112,13 +112,13 @@ En bourse, c'est la même chose. Sur une courte période, la valeur d'un busines
 
 Tu auras remarqué qu'à la fin de la ballade, Tobby sort toujours du parc avec Alex. Peu importe à quel point le chiot a été agité pendant la ballade. À la fin, Tobby rejoint toujours Alex pour sortir du parc.
 
-Et en bourse, c'est aussi la même chose. Je l'ai déjà dit et je le répète encore: [sur le long terme, le cours d'une action suit toujours les bénéfices par action du business](https://investi.cash/gains-en-bourse-connais-tu-les-regles-du-jeu/). Plus ton horizon d'investissement s'allonge, et plus les profits sont déterminants pour le cours de l'action. Dans ce cas là, la mesure la plus pertinente de risque est la trajectoire des profits. Si le business décline, tu peux être certain que ton investissement va prendre l'eau.
+Et en bourse, c'est aussi la même chose. Je l'ai déjà dit et je le répète encore: [sur le long terme, le cours d'une action suit toujours les bénéfices par action du business](https://investi.cash/gains-en-bourse-connais-tu-les-regles-du-jeu/). Plus ton horizon d'investissement s'allonge et plus les profits sont déterminants pour le cours de l'action. Dans ce cas là, la mesure la plus pertinente de risque est la trajectoire des profits. Si le business décline, tu peux être certain que ton investissement va prendre l'eau.
 
 ## Et les papillons?
 
 Note enfin qu'on peut très bien utiliser ensemble la volatilité ET la connaissance du business pour analyser le risque d'une action. C'est en particulier très pertinent quand "Tobby poursuit les papillons".
 
-Imagine que grâce à une bonne analyse, tu sais que la compagnie ABC va pouvoir croitre ses profits sur le long terme. Autrement dit, tu sais quelle sortie Tom va prendre pour sortir du parc, et ça s'annonce plutôt bien. 
+Imagine que grâce à une bonne analyse, tu sais que la compagnie ABC va pouvoir croitre ses profits sur le long terme. Autrement dit, tu sais quelle sortie Tom va prendre pour sortir du parc et ça s'annonce plutôt bien. 
 
 Par contre, aujourd'hui Tobby a décidé de poursuivre des papillons et il va à peu près partout dans le parc.
 
@@ -130,7 +130,7 @@ Revenons à la bourse. La sortie du parc représente la valeur de l'entreprise s
 
 C'est ce que raconte Buffett lorsqu'il conte son [acquisition du Washington Post](https://www8.gsb.columbia.edu/articles/columbia-business/superinvestors):
 
-"En 1973, La société du Washington Post se vendait pour 80 millions de dollars sur le marché. À l'époque,  vous auriez pu vendre les actifs à n'importe lequel de dix acheteurs pour au moins 400 millions de dollars, et probablement beaucoup plus. La société possédait le Post, Newsweek, ainsi que plusieurs stations de télévision dans des marchés majeurs. Ces mêmes propriétés valent aujourd'hui 2 milliards de dollars, donc celui qui aurait payé 400 millions n'aurait pas été complètement fou." 
+"En 1973, la société du Washington Post se vendait pour 80 millions de dollars sur le marché. À l'époque,  vous auriez pu vendre les actifs à n'importe lequel de dix acheteurs pour au moins 400 millions de dollars, et probablement beaucoup plus. La société possédait le Post, Newsweek, ainsi que plusieurs stations de télévision dans des marchés majeurs. Ces mêmes propriétés valent aujourd'hui 2 milliards de dollars, donc celui qui aurait payé 400 millions n'aurait pas été complètement fou." 
 
 Maintenant, si l'action avait encore baissé à une valeur 40 millions au lieu de 80 millions de dollars, son bêta aurait augmenté. Et pour les personnes qui pensent que le bêta mesure le risque, un prix plus bas aurait fait paraître l'action plus risquée. C'est vraiment Alice au pays des merveilles. Je n'ai jamais réussi à comprendre pourquoi il est plus risqué d'acheter des propriétés d'une valeur de 400 millions de dollars pour 40 millions de dollars plutôt que pour 80 millions de dollars."
 
@@ -185,7 +185,7 @@ Ici encore, quelques leçons à tirer:
 À ce stade, tu as compris que la définition académique du risque n'est valide que sur du court terme. 
 Si tu as un horizon d'investissement plus long, le risque est surtout que les profits que ton business va générer soient décevants par rapport au prix que tu as payé pour la compagnie. Là encore, Buffett vient confirmer cette vision du risque.
 
-Dans sa [lettre aux actionnaires de Berkshire Hathaway de 1993]([https://www.berkshirehathaway.com/letters/1993.html](https://www.berkshirehathaway.com/letters/1993.html)), il écrit:
+Dans sa [lettre aux actionnaires de Berkshire Hathaway de 1993](https://www.berkshirehathaway.com/letters/1993.html), il écrit:
 
 
 À notre avis, le véritable risque qu'un investisseur doit évaluer est de savoir si ses recettes totales après impôts provenant d'un investissement (y compris celles qu'il perçoit lors de la vente) lui donneront, au cours de la période de détention envisagée, un pouvoir d'achat au moins égal à celui qu'il avait au départ, plus un taux d'intérêt modeste sur cette mise initiale.
@@ -202,13 +202,13 @@ Ces facteurs paraîtront probablement insupportablement flous à de nombreux ana
 
 Dans ces quelques paragraphes résident tout ce que tu dois savoir quant aux risques que tu dois évaluer:
 - Ne pas pouvoir évaluer l'avenir économique d'une entreprise, c'est risqué.
-- Ne pas savoir si les directeurs de l'entreprises sont compétents pour exécuter leur stratégie (ou si leur stratégie est pertinente), c'est risqué.
+- Ne pas savoir si les directeurs de l'entreprise sont compétents pour exécuter leur stratégie (ou si leur stratégie est pertinente), c'est risqué.
 - Ne pas savoir si l'équipe de direction réinvestira correctement le cash généré par l'entreprise, c'est risqué.
 - Ne pas savoir si le directeur est plus intéressé par son enrichissement personnel que par sa responsabilité vis-à-vis des actionnaires, c'est risqué.
 - Acheter un business pour plus que ce qu'il ne vaut, c'est excessivement risqué.
 - Acheter un business dont la profitabilité ne pourra pas atténuer les effets de l'inflation, c'est risqué.
 
-Oui, toutes ces notions sont purement qualitatives. Contrairement à la volatilité et au bêta, ce ne sont pas des nombres concrets que tu peux ensuite insérer dans des formules. Mais cela n'enlève rien à leur importance. Comme disait Einstein, "*Ce qui compte ne peut pas toujours être compté, et ce qui peut être compté ne compte pas forcément*". Ces facteurs comptent énormément, et on ne peut pas les compter ou les résumer à un simple nombre.
+Oui, toutes ces notions sont purement qualitatives. Contrairement à la volatilité et au bêta, ce ne sont pas des nombres concrets que tu peux ensuite insérer dans des formules. Mais cela n'enlève rien à leur importance. Comme disait Einstein, "*Ce qui compte ne peut pas toujours être compté, et ce qui peut être compté ne compte pas forcément*". Ces facteurs comptent énormément et on ne peut pas les compter ou les résumer à un simple nombre.
 
 Si on va jusqu'au bout de la pensée de Buffett, **le job d'un investisseur est alors de *réduire le risque***.  Paradoxalement, plus un investisseur limite les facteurs de risque (un business de qualité, prévisible, avec une équipe de direction compétente et intègre, peu touché par l'inflation et disponible à un prix raisonnable), plus il a de chances de gagner de l'argent.
 
