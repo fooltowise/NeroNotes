@@ -12,7 +12,7 @@ Suivons le guide.
 
 Dans le monde des investissements, le risque est tout simplement la possibilité que tu peux perdre de l'argent. L'avenir des entreprises n'est pas certain, le comportement des participants sur les marchés n'est pas certain, et en particulier ton comportement n'est pas certain. Il se peut que la valeur des investissements que tu as fait en bourse soit inférieure à l'argent que tu y as investi. Le risque, c'est la possibilité de cette perte.
 
-Note bien que ces considérations doivent être faites après taxation et inflation - c'est-à-dire, en termes de pouvoir d'achat. Dans la [lettre aux actionnaires de Berkshire Hathaway de 1980]([https://www.berkshirehathaway.com/letters/1980.html](https://www.berkshirehathaway.com/letters/1980.html)), Warren Buffett fait en effet l'observation suivante:
+Note bien que ces considérations doivent être faites après taxation et inflation - c'est-à-dire, en termes de pouvoir d'achat. Dans la [lettre aux actionnaires de Berkshire Hathaway de 1980](https://www.berkshirehathaway.com/letters/1980.html), Warren Buffett fait en effet l'observation suivante:
 
 Si tu:
 - (a) renonces à dix hamburgers pour faire un investissement ; 
@@ -108,7 +108,7 @@ Imagine que l'on zoome sur un instant précis de la ballade. Alex n'aurait quasi
 En bourse, c'est la même chose. Sur une courte période, la valeur d'un business va très peu changer. Par contre le cours de son action peut beaucoup fluctuer! À court terme, il y a peu de rapport entre les deux. 
 Étudier la compagnie ne permettra pas de prévoir le cours de son action. Dans ce cas, mesurer le risque en utilisant la volatilité et le bêta de l'action a pas mal de sens.
 
-## À la fin, c'est les bénéfices qui gagnent
+## À la fin, ce sont les bénéfices qui gagnent
 
 Tu auras remarqué qu'à la fin de la ballade, Tobby sort toujours du parc avec Alex. Peu importe à quel point le chiot a été agité pendant la ballade. À la fin, Tobby rejoint toujours Alex pour sortir du parc.
 
