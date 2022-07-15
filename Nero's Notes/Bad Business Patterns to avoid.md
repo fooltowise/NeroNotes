@@ -2,7 +2,7 @@
 
 ### These are not going to end well:
 
-A. [[Airline Business]]| Airline companies ]]
+A. [[Airline Business|Airline companies]]
 - Highly capital intensive business
 - High operating leverage
 - High financial leverage

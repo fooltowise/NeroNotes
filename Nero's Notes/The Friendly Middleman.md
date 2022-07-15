@@ -1,4 +1,5 @@
 # The Friendly Middleman
+
 Many businesses must deal with middlemen to reach end consumers. The middleman's role can be positive or negative on a company's growth, margins and returns. In trying to understand the varying roles and results, we have identified several useful patterns, pivoting around what we call *the friendly middleman*.
 
 ### The Helping Hand
@@ -10,6 +11,6 @@ A second example of bundled delivery involves customer paying for the profession
 The craftman's goal are not necessarily aligned with those of the customer: besides safety and reliability - after all , he will be blamed for failure - and perhaps ease of installation, his focus will not be price, except to the extent of helping his own margins, which will point towards the pricier end. The manufacturer is again in an attractive position: **an expert chooses the product, while another persons pays the bill.**
 
 
-Such businesses should make sure to [[Friendly Middleman Lock-in| lock in]] their friendly middleman. 
+Such businesses should make sure to [[Friendly Middleman Lock-in|lock in]] their friendly middleman. 
 
 

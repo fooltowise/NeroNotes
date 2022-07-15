@@ -1,9 +1,9 @@
 # Compounding relationships makes life easier
 
 
-**Nivi:** Earlier, we talked about compound interest, but we didn’t dig into it much.
+**Nivi:** Earlier, we talked about [[compound interest]], but we didn’t dig into it much.
 
-**Naval:** Relationships offer a good example of compound interest. Once you’ve been in a good relationship with somebody for a while—whether it’s business or romantic—life gets a lot easier because you know that person’s got your back. You don’t have to keep questioning.
+**Naval:** Relationships offer a good example of [[compound interest]]. Once you’ve been in a good relationship with somebody for a while—whether it’s business or romantic—life gets a lot easier because you know that person’s got your back. You don’t have to keep questioning.
 
 If I’m doing a deal with someone I’ve worked with for 20 years and there is mutual trust, we don’t have to read the legal contracts. Maybe we don’t even need to create legal contracts; maybe we can do it with a handshake. That kind of trust makes it very easy to do business.
 

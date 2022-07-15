@@ -12,7 +12,7 @@ However, when it comes to putting money to work, I have a preference for Europe.
 
 Approximately one-third of the companies I follow are serial acquirers.  These firms operate businesses that have competitive advantages but lack sufficient organic reinvestment opportunities to substantially absorb the free cash flow they produce.  That said, their talented management teams are able to acquire new businesses in private markets at prices that generate higher rates of return than their firms’ cost of capital.  Consequently, instead of distributing cash directly to shareholders, they retain much of it for future acquisitions.
 
-Companies such as [[Addtech]], a distributor of electromechanical components, Assa Abloy, the world’s leader in locks and security solutions for the commercial market, and Vitec Software, a provider of niche industry vertical software, have, together, accounted for 30% of the Partnership’s portfolio.  Given their footprint, I want to share how I sort through these companies.
+Companies such as [[Addtech]], a distributor of electromechanical components, Assa Abloy, the world’s leader in locks and security solutions for the commercial market, and [[Vitec Software]], a provider of niche industry vertical software, have, together, accounted for 30% of the Partnership’s portfolio.  Given their footprint, I want to share how I sort through these companies.
 
 To begin with, I sub-divide the serial acquirer category into largely self-defined buckets: roll-ups, platforms, accumulators, and holding companies.  The table below briefly describes each type:
 

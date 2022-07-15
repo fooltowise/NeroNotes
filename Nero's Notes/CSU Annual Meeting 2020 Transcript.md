@@ -1082,7 +1082,7 @@ Anybody else want to comment on that series of questions?
 
 Robin van Poelje
 
-Well, I think organic growth is one. We studied yesterday a case where the revenues were relatively flat, but our business increased dramatically in recurring revenues, a strong market position. And the way we run that company now and a solid position in that. So there is more to it than just the organic growth.
+Well, I think organic growth is one. We studied yesterday a case where the revenues were relatively flat, but our business increased dramatically in [[recurring revenues]], a strong market position. And the way we run that company now and a solid position in that. So there is more to it than just the organic growth.
 
 Mark Miller
 

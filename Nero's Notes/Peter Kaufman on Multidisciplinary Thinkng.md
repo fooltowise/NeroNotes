@@ -4,7 +4,7 @@ Peter Kaufman is one of the most successful businessmen of our time, and yet fe
 
 This speech was to the California Polytechnic State University Pomona Economics Club. The transcript and audio are reproduced here with the permission of Peter Kaufman. As with many “conversational” talks given without notes, it’s better to listen to the audio to pick up on subtleties that won’t come across in the lightly edited transcript. In essence, the talk has a simple takeaway.
 
-Using a true multidisciplinary understanding of things, Peter identifies two often overlooked, parabolic “Big Ideas”: 1) Mirrored Reciprocation (go positive and go first) and 2) Compound Interest (being constant). A great “Life Hack” is to simply combine these two into one basic approach to living your life: “Go positive and go first, and be constant in doing it.”
+Using a true multidisciplinary understanding of things, Peter identifies two often overlooked, parabolic “Big Ideas”: 1) Mirrored Reciprocation (go positive and go first) and 2) [[Compound Interest]] (being constant). A great “Life Hack” is to simply combine these two into one basic approach to living your life: “Go positive and go first, and be constant in doing it.”
 
 There may be no better formula for living the best life you could possibly live.
 

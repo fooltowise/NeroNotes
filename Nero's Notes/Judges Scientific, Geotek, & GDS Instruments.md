@@ -1,10 +1,10 @@
-# Judges Scientific, Geotek, & GDS Instruments
+# [[Judges Scientific]], Geotek, & GDS Instruments
 
 by #InPractise 
 
 Published on **May 31, 2022**
 
-Judges Scientific (JDG) is a UK-listed serial acquirer focused on niche scientific instrument businesses. Just as Constellation acquires vertical market software companies or [[Halma]] niche industrial engineering products, JDG specializes in UK-based design and production companies in the instrumentation business.
+[[Judges Scientific]] (JDG) is a UK-listed serial acquirer focused on niche scientific instrument businesses. Just as Constellation acquires vertical market software companies or [[Halma]] niche industrial engineering products, JDG specializes in UK-based design and production companies in the instrumentation business.
 
 In 2005, David Cicurel, JDG’s founder and current CEO, listed the company as an investment vehicle to buy stakes in small public companies and flip them to PE at a premium. Due to rapidly increasing public market valuations prior to the GFC, this original business model quickly became out of date.
 
@@ -98,7 +98,7 @@ Given this an acquisition that is the largest in JDG history and relies on pre-c
 
 We believe the comment below is the most interesting part of this acquisition:
 
-This is the first acquisition by the Group that derives a substantial proportion of revenues from services. It will provide the Group with greater medium-term visibility but also reliance on a small number of large contracts. - Judges Scientific, Geotek Acquisition Update
+This is the first acquisition by the Group that derives a substantial proportion of revenues from services. It will provide the Group with greater medium-term visibility but also reliance on a small number of large contracts. - [[Judges Scientific]], Geotek Acquisition Update
 
 This is JDG's first real acquisition that has service revenue, which exactly addresses the risks we address above with the misallocation of capital into businesses with one-off, large ticket system sales that are replaced in decades. Greater service revenue increases the touch points with customers, reduces the feedback loop to improve product development, and increases revenue visibility.
 

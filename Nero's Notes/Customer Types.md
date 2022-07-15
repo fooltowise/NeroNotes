@@ -1,4 +1,5 @@
 # Customer Types
+
 Customers are diverse but it pays to distinguish between two broad groups: retail consumers and corporate clients. Retail consumers can be fickle, acutely price-sensitive on some items and spendthrift on others. While marketing experts devote endless time to studying these varying proclivities, one thing seems clear: **Consumers are more willing to splurge on items offering [[Intangible benefits]], particularly for smaller purchases.**
 
 Business consumers vary widely, especially in size, and small companies can be more like consumers, generally inclined to cost-consciousness  but occasionally willing to pay up for intangible or convenience benefits.  As a rule, the larger a company is, the more objective its purchasing decisions; it will focus on direct cost savings increases and the willingness to pay for intangible or convenience benefits decreases. In addition, large corporations increasingly use procurement departments that enhance rational behavior in corporate buying.

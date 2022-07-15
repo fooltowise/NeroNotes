@@ -1,4 +1,5 @@
 # Low Cost Squared
+
 A strategy of consistently low pricing is typically enabled by low unit costs. Some low-price businesses, however, achieve competitive advantage through several cost-saving small steps. When doing so translates into huge cumulative cost savings, the strategy punishes rivals and deters new entrants. We call this *low-cost squared*. 
 
 Many companies that pursue low production costs achieve lowest-cost status - for a while. The more routine low-cost tactics give only short-term advantages because they can be copied. For example, pallets - portable wooden packing platforms - were first used for stocking merchandise in deep-discount retailers but are now a common sight at many supermarkets. Low-cost airlines like Southwest pioneered shorter aircraft turnaround times, but traditional airliners soon followed suit.

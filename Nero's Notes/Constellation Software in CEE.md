@@ -81,7 +81,7 @@ A forever hold, distributed management, global support, and stability - those wo
 
 **Gustaf:** _Got it, and what kinds of firms are you targeting?_
 
-**Marcin:** We are looking across all the major verticals like Education, Healthcare, Retail, Hospitality, Transportation, Logistics, Real Estate, etc. Our sweet spot is centred around product-based companies (or as we call them Vertical Market Software) with net recurring revenues of at least €1M, a fully functional team operating in a clearly defined niche anywhere in CEE.
+**Marcin:** We are looking across all the major verticals like Education, Healthcare, Retail, Hospitality, Transportation, Logistics, Real Estate, etc. Our sweet spot is centred around product-based companies (or as we call them Vertical Market Software) with net [[recurring revenues]] of at least €1M, a fully functional team operating in a clearly defined niche anywhere in CEE.
 
 
 

@@ -6,3 +6,6 @@
 [[Addtech - The History of Bergman & Beving]]
 [[Addtech, Addlife, & Nordic Value-added Distribution]]
 [[DiaSorin - Distribution and Pricing]]
+
+
+[[Bergman & Beving to Addtech, a best-in-class serial acquirer]]

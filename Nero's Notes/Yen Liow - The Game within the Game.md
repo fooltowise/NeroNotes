@@ -62,7 +62,7 @@ That's where your skill as an investor comes in. Find those management teams who
 
 **Indicators of monopolies:**
 a. High competitive win rates. high customer retention 
-b. Pricing power. gross margin is stable over time 
+b. [[Pricing power]]. gross margin is stable over time 
 c. High returns on incremental invested capital
 
 **Management team matters.**

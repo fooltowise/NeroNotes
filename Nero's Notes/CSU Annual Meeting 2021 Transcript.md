@@ -688,7 +688,7 @@ Robin, why don't you provide the context of TSS and Topicus?
 
 Robin van Poelje
 
-Yes. Thanks, Mark. Yes, I will do. Robin here. Yes, I think let's start and go back in time. I think Topicus B.V., the Topicus operating company and TSS, I think are 2 different animals, 2 different horses. I think Topicus really started from scratch and started off building software, and they also, in the early days, that they want to enter into software products and recurring revenues, and they did that particularly to organic growth, but they also did their types of acquisitions.
+Yes. Thanks, Mark. Yes, I will do. Robin here. Yes, I think let's start and go back in time. I think Topicus B.V., the Topicus operating company and TSS, I think are 2 different animals, 2 different horses. I think Topicus really started from scratch and started off building software, and they also, in the early days, that they want to enter into software products and [[recurring revenues]], and they did that particularly to organic growth, but they also did their types of acquisitions.
 
 But different acquisitions than we do or mainly acquisitions they bought products, they bought markets, but then they put their development and commercial power behind it, and they really develop those markets. I think TSS is way more like CSI. I started it in what is \[ 15 years ago \], and we mainly acquired companies, and we try to make them grow organically, and we hope that they -- when they acquired other companies. So I think the -- and I told you this story. Because the origins of these 2 companies are completely different. And I think that's what we want to keep as well, the original founders of Topicus sold their previous company to a large system integrator. They didn't like that.
 
@@ -874,7 +874,7 @@ Robert Kittel
 
 So Damian had in his portfolio, an access your own business for, I think it was 2 or 3 years in a row, organic growth business and it was in the travel space. And so not surprisingly, they have probably suffered a fair amount of attrition over the course of the last little while.
 
-A lot of that's been concealed by transaction-related recurring revenues because the transactions have gone down. You don't know if those customers have gone away or if they -- nascent and will come back. But I'm judging those customers went bankrupt along the way.
+A lot of that's been concealed by transaction-related [[recurring revenues]] because the transactions have gone down. You don't know if those customers have gone away or if they -- nascent and will come back. But I'm judging those customers went bankrupt along the way.
 
 Howard Leung
 

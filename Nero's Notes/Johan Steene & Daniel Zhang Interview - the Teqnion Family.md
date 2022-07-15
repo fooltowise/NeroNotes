@@ -1,18 +1,18 @@
-# Johan Steene & Daniel Zhang Interview - the Teqnion Family
+# Johan Steene & Daniel Zhang Interview - the [[Teqnion]] Family
 
-Today we’re joined by **Johan Steene** (CEO) and **Daniel Zhang** (CXO) at the publicly listed Swedish serial acquirer Teqnion.
+Today we’re joined by **Johan Steene** (CEO) and **Daniel Zhang** (CXO) at the publicly listed Swedish serial acquirer [[Teqnion]].
 
-Teqnion is a decentralized niche acquirer and has 21 subsidiaries in Sweden. But they’ve also started to glance at other Nordic countries and the UK.
+[[Teqnion]] is a decentralized niche acquirer and has 21 subsidiaries in Sweden. But they’ve also started to glance at other Nordic countries and the UK.
 
-Teqnion shrugs off brokers and largely self-sources. They look for leading B2B niche firms with stable revenues of 20-150 MSEK, operating in understandable markets that they believe will be profitable and cash flow generative for as far as the eye can see.
+[[Teqnion]] shrugs off brokers and largely self-sources. They look for leading B2B niche firms with stable revenues of 20-150 MSEK, operating in understandable markets that they believe will be profitable and cash flow generative for as far as the eye can see.
 
-Niching down allows Teqnion to dictate terms. **They prefer industries with regulations and standards that decrease competition.**
+Niching down allows [[Teqnion]] to dictate terms. **They prefer industries with regulations and standards that decrease competition.**
 
 Because when a non-niche firm achieves efficiencies, so do often their competitors. But in more oligopolistic situations, less - of the relative - efficiencies must be shared with customers. Though, the absolute efficiencies that accrue to customers can still be significant!
 
 And, should Daniel’s Excel spit out a feasible five-year payback period, they may hit the acquisition trigger. **But only if the chemistry is right.**
 
-Their pitch to sellers boils down to: **“Once Teqnion is onboard, we think you’ll want to stay.”**
+Their pitch to sellers boils down to: **“Once [[Teqnion]] is onboard, we think you’ll want to stay.”**
 
 That pitch feeds one’s curiosity. Or it effectively lets owner-operators self-select out.
 
@@ -34,17 +34,17 @@ Daniel is probably one of the world’s best CXOs. Constantly driving us forward
 
 __**Johan:** I believe I was born as a conscientious official. Luckily enough, I grew up with my friend Jonas Häggqvist who is a full-blood entrepreneur, and as time passed, some rubbed off on me.
 
-Later, when I had to drive the growth of Teqnion, I slowly adapted into becoming more of a business-building, risk-taking, win-win deal lover. Over the years, I have had the opportunity and honour to meet many great business-developing entrepreneurs: the people who make us and our society rich and prosperous.
+Later, when I had to drive the growth of [[Teqnion]], I slowly adapted into becoming more of a business-building, risk-taking, win-win deal lover. Over the years, I have had the opportunity and honour to meet many great business-developing entrepreneurs: the people who make us and our society rich and prosperous.
 
 My job makes me happy and young. I am constantly learning.
 
 
 
-**Gustaf:** _Let us back up a bit. In 2006-2007 you found the Indutrade/Addtech model replicable enough but thought: “Hey, why are they so slow?” What happened next?_
+**Gustaf:** _Let us back up a bit. In 2006-2007 you found the Indutrade/[[Addtech]] model replicable enough but thought: “Hey, why are they so slow?” What happened next?_
 
-__**Johan:** Since we had no initial capital, Jonas and I started by persuading the owners of two small trading companies to start Teqnion together with us.
+__**Johan:** Since we had no initial capital, Jonas and I started by persuading the owners of two small trading companies to start [[Teqnion]] together with us.
 
-Luckily (and skilfully) for us, two of the five existing shareholders were Jonas’ parents. Jan and Ingegerd Häggqvist were pretty easily convinced of our ideas for the future. The other three were more justly sceptical of our plans and our abilities, and the whole persuasion process took about six months before we finally could establish Teqnion in November 2006.
+Luckily (and skilfully) for us, two of the five existing shareholders were Jonas’ parents. Jan and Ingegerd Häggqvist were pretty easily convinced of our ideas for the future. The other three were more justly sceptical of our plans and our abilities, and the whole persuasion process took about six months before we finally could establish [[Teqnion]] in November 2006.
 
 With these good people and the two companies as a starting platform, we took off. We had really high ambitions but unfortunately little experience and business knowledge.
 
@@ -92,17 +92,17 @@ I had to learn the company acquisition tasks that had been on Jonas’ table whi
 
 **It was fun and scary.**
 
-****The first discussions with potential sellers were tentative. How could we convince them that Teqnion was a good owner and a worthy heir of their life’s work with our fragile history?
+****The first discussions with potential sellers were tentative. How could we convince them that [[Teqnion]] was a good owner and a worthy heir of their life’s work with our fragile history?
 
 It was a true challenge, but since we knew how to run small industrial companies, there slowly emerged ways to reach into their entrepreneurial hearts and gain their confidence.
 
-The acquisition rate was slow due to my lack of experience and Teqnion’s lack of money. We also had to focus our efforts on making the existing subsidiaries healthy and profitable, which took up a lot of my time. Everything slowly started to develop, and a good and healthy culture grew.
+The acquisition rate was slow due to my lack of experience and [[Teqnion]]’s lack of money. We also had to focus our efforts on making the existing subsidiaries healthy and profitable, which took up a lot of my time. Everything slowly started to develop, and a good and healthy culture grew.
 
 We had left the station for the second time - this time in a more old-fashioned manner where we earned money first and invested later. Not so sexy but more robust.
 
 
 
-**Gustaf:** _You were often required to get your hands dirty in the “old Teqnion”. What is your strategy now?_
+**Gustaf:** _You were often required to get your hands dirty in the “old [[Teqnion]]”. What is your strategy now?_
 
 __**Johan:** Being on the ground in the subsidiaries with our colleagues, doing the different tasks needed to be prosperous, is the best business school of course. Having the opportunity to thoroughly know the products, your customers, and suppliers and build personal relationships with them gives you a profound idea of what a good sustainable business looks like.
 
@@ -158,7 +158,7 @@ __**Johan:** As in everything, we try to be clear and simple when it comes to ow
 
 We pay with cash for 100% of the shares. In my experience, there is no strong enough incentive for the seller to keep a minority post. To detach the individual from ownership is often a personal energy boost and a mental relief that gives us more energetic and happy entrepreneurs that **stay on because it is fun, and not because they must.**
 
-****It is not uncommon that the sellers instead buy Teqnion shares after a while because they want to be a part of the family and the growing saga. I truly believe that most people are true to their grit regardless and to their willingness to be the best they can be.
+****It is not uncommon that the sellers instead buy [[Teqnion]] shares after a while because they want to be a part of the family and the growing saga. I truly believe that most people are true to their grit regardless and to their willingness to be the best they can be.
 
 
 
@@ -170,7 +170,7 @@ We pay with cash for 100% of the shares. In my experience, there is no strong en
 
 By paying in cash instead of shares, promissory notes, dogecoins etc., for 100% of the shares, the seller knows exactly what they get. We do not want to end up in a situation where the seller thinks that they sold their life’s work for a certain amount of money, just to realize later on that the actual value was much lower due to e.g., share fluctuations.
 
-For the same reason, we want to acquire the whole company. 100% is simple and straightforward. Being a minority owner where the majority owner is a listed company is a strange situation where one, in theory, cannot make the big decisions anyway. If the seller wants to use some of their money to purchase shares in Teqnion, we would of course be very happy but that is never part of the negotiation – it is completely voluntary.
+For the same reason, we want to acquire the whole company. 100% is simple and straightforward. Being a minority owner where the majority owner is a listed company is a strange situation where one, in theory, cannot make the big decisions anyway. If the seller wants to use some of their money to purchase shares in [[Teqnion]], we would of course be very happy but that is never part of the negotiation – it is completely voluntary.
 
 The ones that sell their companies to us are not primarily driven by money. There are companies out there that pay more than what we do. Therefore, financial bonus schemes are less interesting. These great individuals are not more or less motivated by keeping some shares or having a hefty bonus based on the company’s performance.
 
@@ -178,9 +178,9 @@ The ones that sell their companies to us are not primarily driven by money. Ther
 
 **Gustaf:** _How do you operate the group?_
 
-__**Johan:** One of the key things is that we do not control how our companies do business; we help and support them. Teqnion has board representation in all subsidiaries where we try to push positive energy onto the CEO.
+__**Johan:** One of the key things is that we do not control how our companies do business; we help and support them. [[Teqnion]] has board representation in all subsidiaries where we try to push positive energy onto the CEO.
 
-If something out of the ordinary happens - which happens - someone from the Teqnion management can be landed in the company and help them sort things out. We have four business area managers in the parent company that have the responsibility to fill the board seats and to coach their specific CEOs to success.
+If something out of the ordinary happens - which happens - someone from the [[Teqnion]] management can be landed in the company and help them sort things out. We have four business area managers in the parent company that have the responsibility to fill the board seats and to coach their specific CEOs to success.
 
 **We encourage CEOs to become friends amongst themselves and exchange ideas and beers.** We try to meet up a couple of times per year to build strong relationships, learn new things and inspire each other to greatness.
 
@@ -238,21 +238,21 @@ __**Daniel:** Serial acquirers have the following four attributes:
 3.  Focus on stable profitable firms
 4.  Perpetual holds
 
-With that said, financially, I see Teqnion as a platform with the purpose to significantly grow shareholder value over the long term. As of now, focusing on the activities of a serial acquirer is the best use of funds and time.
+With that said, financially, I see [[Teqnion]] as a platform with the purpose to significantly grow shareholder value over the long term. As of now, focusing on the activities of a serial acquirer is the best use of funds and time.
 
 But like truly great companies, such as Berkshire Hathaway, the shape of the company might change in the distant future, but we will always allocate capital to where it creates the most value. That is however not a forecast, only a philosophical thought. We are not afraid of change.
 
 
 
-**Gustaf:** _What sets Teqnion apart as a serial acquirer?_
+**Gustaf:** _What sets [[Teqnion]] apart as a serial acquirer?_
 
-__**Johan:** I truly believe that we are special cause **we love our team.** We love to build great things, and we love to be at our best. The Teqnion management team only exists to do tough tasks, support the subsidiaries and make the group more robust and more profitable. Since we cost money, we need to put more value in through work. We try very hard to perform well for the group, not for ourselves.
+__**Johan:** I truly believe that we are special cause **we love our team.** We love to build great things, and we love to be at our best. The [[Teqnion]] management team only exists to do tough tasks, support the subsidiaries and make the group more robust and more profitable. Since we cost money, we need to put more value in through work. We try very hard to perform well for the group, not for ourselves.
 
 I do not quite understand how it became like this, but I love it.
 
 We know that **true change comes from tens of thousands of small improvements**, not by a few big strokes. Thousands of small nudges that turn into sustainable improvements and mastery. The culture is true to decentralization. We are much faster since we are always closer to where a decision should be made. We love the deals, and we cherish the people doing them.
 
-**Daniel:** Culture. It is difficult to describe in words, but I believe that people that meet us feel it directly. Being at Teqnion is not a job; it is a lifestyle.
+**Daniel:** Culture. It is difficult to describe in words, but I believe that people that meet us feel it directly. Being at [[Teqnion]] is not a job; it is a lifestyle.
 
 On the surface, I think there might be some other things as well. We are **religiously disciplined when it comes to capital allocation.** We have our valuation model and that is how we value companies.
 
@@ -272,19 +272,19 @@ I hope I can run until I die \[sounds plausible\], or at least jog. It is a fant
 
 ![Churchill & Johan Steene](https://assets-global.website-files.com/5f9040753e1a568ed9abb979/6274c8622b20dbf0f19c1b3f_Churchill%20%26%20Steene%20.png)
 
-**Daniel:** Johan is the absolute best manager I have met. Often, I forget that he is my boss and instead think of him as a great friend, my older brother, or my business partner. That means that I get to do things my way with a lot of inspiration from what Teqnion has done previously and of course having Johan as a sounding board.
+**Daniel:** Johan is the absolute best manager I have met. Often, I forget that he is my boss and instead think of him as a great friend, my older brother, or my business partner. That means that I get to do things my way with a lot of inspiration from what [[Teqnion]] has done previously and of course having Johan as a sounding board.
 
 With that said, I think I only have received one direct order from Johan, ever, and that was how to mix the Gin & Tonic. I did as I was told, but I was laughing and surprised about the situation, so I had actually forgotten the secret recipe… I guess you will have to come to our next AW to see for yourself!
 
 
 
-**Gustaf:** _I am sold! Daniel, what is your forecast for Teqnion’s EBITA in 50 years?_
+**Gustaf:** _I am sold! Daniel, what is your forecast for [[Teqnion]]’s EBITA in 50 years?_
 
 __**Daniel:** What is EBITA? Haha! Jokes aside, I seldom think about EBITA. If you asked me about our current EBITA I would not be able to answer.
 
 We have said that we want to at least double earnings per share every five years. This should be a little easier now than in a few decades, but it should be doable.
 
-When I started at Teqnion in the beginning of 2021 we said that we aimed at 1000x the value of the firm. Given that the value follows the profit and that we had a net profit of 44 Msek in 2020, I guess that number would be closer to 44 Bsek in 2070. Sounds hefty but that is still only half of what American Express makes today…
+When I started at [[Teqnion]] in the beginning of 2021 we said that we aimed at 1000x the value of the firm. Given that the value follows the profit and that we had a net profit of 44 Msek in 2020, I guess that number would be closer to 44 Bsek in 2070. Sounds hefty but that is still only half of what American Express makes today…
 
 
 
@@ -292,7 +292,7 @@ When I started at Teqnion in the beginning of 2021 we said that we aimed at 1000
 
 ![An Investment Thinking Toolbox by Daniel Zhang on Charlie Munger's desk](https://assets-global.website-files.com/5f9040753e1a568ed9abb979/6273e4bffce3ad7353e4de5f_Namnl%C3%B6s%20design-5.gif)
 
-**Daniel:** Yes, it can be found on amazon.co.uk and also in most Swedish bookstores. If you are interested in a signed copy or want to support a poor author, please feel free to mail [batman@teqnion.se](mailto:batman@teqnion.se). All proceeds will be used to buy Teqnion shares.
+**Daniel:** Yes, it can be found on amazon.co.uk and also in most Swedish bookstores. If you are interested in a signed copy or want to support a poor author, please feel free to mail [batman@teqnion.se](mailto:batman@teqnion.se). All proceeds will be used to buy [[Teqnion]] shares.
 
 The book is basically a confession of some of the mistakes that I have made regarding investments. I have made many more than those of course, but nobody wants to read 1000 pages.
 
@@ -316,7 +316,7 @@ _What do you do when out of the office?_
 
 _What is your favourite failure?_
 
--   __Probably to not invest more in Teqnion when I started. I have also filled a book with many of my other mistakes…
+-   __Probably to not invest more in [[Teqnion]] when I started. I have also filled a book with many of my other mistakes…
 
 _What bad advice do you hear in your industry?_
 
@@ -328,7 +328,7 @@ _Who would you choose if you had to let someone else manage your money?_
 
 
 
-**Daniel:**  Do you have a great company and would like to be part of something exceptional? Maybe you know someone that does? Or maybe you would personally like to join us and grow Teqnion with 1000X? Feel free to reach out [here](https://www.teqnion.se/kontakta-oss/).
+**Daniel:**  Do you have a great company and would like to be part of something exceptional? Maybe you know someone that does? Or maybe you would personally like to join us and grow [[Teqnion]] with 1000X? Feel free to reach out [here](https://www.teqnion.se/kontakta-oss/).
 
 
 

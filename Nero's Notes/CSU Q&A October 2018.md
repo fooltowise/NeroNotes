@@ -54,7 +54,7 @@ The clients with the smallest IT budgets need to accept software with little or 
 
 SaaS is ideal for customers who have strict financial constraints, and hence is an existential threat to vendors of on-premise legacy software solution selling into the low-priced software segment. I believe that legacy solution with browser and smartphone based user interfaces will remain the dominant solution in the mid-tier market for many years to come. True SaaS solutions strike me as unlikely to replace a significant portion of large custom-developed solutions in my lifetime.
 
-On a more pragmatic note, the organic growth or contraction of CSI's recurring revenues and free cash flow should give you a pretty good sense of the impact on CSI of new SaaS entrants.
+On a more pragmatic note, the organic growth or contraction of CSI's [[recurring revenues]] and free cash flow should give you a pretty good sense of the impact on CSI of new SaaS entrants.
 
 I asked Barry Symons who runs our Jonas Operating Group to provide you with an example from his portfolio. His response appears below. I think you'll get a sense of how his incumbent club software business fortified their moat in the face of technological disruption and potential new entrants.
 

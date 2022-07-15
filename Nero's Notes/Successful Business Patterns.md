@@ -1,4 +1,5 @@
 # Successful Business Patterns
+
 - [[Recurring Revenues]]
 - [[The Friendly Middleman]]
 - [[Toll Roads]]

@@ -98,7 +98,7 @@ So if I were to list down eight questions that, I believe, would help me do an 8
 2.  **Has the company grown its sales and EPS consistently over the past 5-10 years?** (Consistency is more important than speed of growth)
 3.  **Will the company be around and profitably better in 10 years?** (Suggests continuity in demand for the company’s products/services)
 4.  **How has the company performed on Buffett’s earnings retention test?** (Checks if, over time, retained earnings deliver shareholders at least Rs 1 of market value for each Rs 1 retained)
-5.  **Does the company have a sustainable competitive moat?** (Pricing power, gross margins, lead over competitors, entry barriers for new players)
+5.  **Does the company have a sustainable competitive moat?** ([[Pricing power]], gross margins, lead over competitors, entry barriers for new players)
 6.  **How good is the management given the hand it has been dealt?** (Capital allocation, return on equity, corporate governance, performance against competition)
 7.  **Does the company require consistent capex and working capital expenditure to grow its business?** (Companies that have to spend continuously on such areas are like running on treadmills, which is not a good situation to have)
 8.  **Does the company generate more cash than it consumes?** (Cash generators have a higher probability of surviving and prospering during bad economic situations)

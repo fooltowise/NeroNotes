@@ -1,4 +1,5 @@
 # Toll Roads
+
 Many large industries are served by niche suppliers whose services or products may represent a relatively immaterial proportion of that industry's cost base, but which are crucial to its successful operation. This position of being a small, but vital, cog helps to create significant barriers to entry; often meaning that suppliers' own competitive landscapes are oligopolistic and stable rather than broad-based and unpredictable. Good examples include companies in fields such as professional certification (auditing, rating agencies, product testing) and specialty ingredients (for products as diverse as yogurt or motor oil). **Companies in such niches benefit by extracting part of the economics from every unit of volume in a larger, often relatively stable, industry.** We call them *toll roads*.
 
 Toll roads can take many forms:
@@ -7,7 +8,7 @@ Toll roads can take many forms:
 
 ### Industry structure and economics
 
-Toll-road companies are typically oligopolies, not monopolies. While customers and governments perceive value from few producers versus innumerable rivals, a sole supplier presents a cost to competition that is too great to pay.  Hence there are four global financial auditing firms, four industrial gas providers, three major credit rating agencies and three main testing companies.  The lack of monopoly and substantial uniformity of products suggests that participants understand that they will be competing against each others for decades to come. That understanding leads to healthy competitive behavior rather than mutually destructive maneuvering. (see [[Rationality mechanics in an industry]])
+Toll-road companies are typically oligopolies, not monopolies. While customers and governments perceive value from few producers versus innumerable rivals, a sole supplier presents a cost to competition that is too great to pay.  Hence there are four global financial auditing firms, four industrial gas providers, three major credit rating agencies and three main testing companies.  The lack of monopoly and substantial uniformity of products suggests that participants understand that they will be competing against each others for decades to come. That understanding leads to healthy competitive behavior rather than mutually destructive manoeuvring. (see [[Rationality mechanics in an industry]])
 
 
 ### The economics of a toll bridge

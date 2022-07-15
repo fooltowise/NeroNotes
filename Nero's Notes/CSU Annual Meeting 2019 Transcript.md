@@ -414,7 +414,7 @@ Thank you. Anything and anyone else on the panel would like to add on the topic?
 
 Robin van Poelje
 
-Well, I worked in the beginning with TSS also with leverage and we had good experience with it and where we had less good experience with it, we drew our lessons. And I think our type of business with mission critical business with recurring revenues, I think if it's the right quality, I think, you can put leverage on it, so that's one. And 2, it's not only the height of the debt, it's also the way you structure it. So, I think, that's where Mark was referring to is covenants. You can structure it these days very in effective ways. So your business needs to go really South to get into trouble. And if you buy the right quality, I think it's worthwhile considering in a ring-fence setup.
+Well, I worked in the beginning with TSS also with leverage and we had good experience with it and where we had less good experience with it, we drew our lessons. And I think our type of business with mission critical business with [[recurring revenues]], I think if it's the right quality, I think, you can put leverage on it, so that's one. And 2, it's not only the height of the debt, it's also the way you structure it. So, I think, that's where Mark was referring to is covenants. You can structure it these days very in effective ways. So your business needs to go really South to get into trouble. And if you buy the right quality, I think it's worthwhile considering in a ring-fence setup.
 
 Lawrence Cunningham
 

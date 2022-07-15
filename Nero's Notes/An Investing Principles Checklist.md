@@ -30,7 +30,7 @@ We have now examined Charlie's approach to [[Munger's Approach to Business Analy
 - Above all, never fool yourself, and remember that you are the easiest person to fool.
 
 
-> Understanding both the power of compound interest and the difficulty of getting it is the heart and soul of understanding a lot of things.
+> Understanding both the power of [[compound interest]] and the difficulty of getting it is the heart and soul of understanding a lot of things.
 
 ### Analytical Rigor - Use of the scientific method and effective checklist minimizes errors and omissions
 - Determine value apart from price; progress apart from activity; wealth apart from size
@@ -44,7 +44,7 @@ We have now examined Charlie's approach to [[Munger's Approach to Business Analy
 - Don't fall in love with an investment - be situation-dependent and opportunity-driven
 
 ### Patience - Resist the natural human bias to act
-- Compound interest is the eighth wonder of the world. Never interrupt it unnecessarily.
+- [[Compound interest]] is the eighth wonder of the world. Never interrupt it unnecessarily.
 - Avoid unnecessary transactional taxes and frictional costs; never take action for its own sake
 - Be alert for the arrival of luck.
 - Enjoy the process along with the proceeds, because the process is where you live

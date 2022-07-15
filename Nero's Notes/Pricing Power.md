@@ -5,5 +5,5 @@ Pricing power is rare but extremely valuable because it is essentially cost-free
 
 Pricing power is a highly attractive feature: a company that can regularly raise prices above cost inflation is assured of growth, top line and bottom. With no capital expenditure required to raise prices, enhanced returns on capital also result.  The problem is that pricing power is often more conjectural than real -  it is frequently discussed but rarely achieved. Most of the cases are usually [[Conditional Pricing Power]].
 
-Note that pricing power is rarely absolute, but occur in [[Shades of Gray in Pricing Power| shades of gray]].
+Note that pricing power is rarely absolute, but occur in [[Shades of Gray in Pricing Power|shades of gray]].
 

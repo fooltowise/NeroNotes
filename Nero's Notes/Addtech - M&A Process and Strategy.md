@@ -52,31 +52,31 @@ No, but usually through the board of directors, we gave them hints on how they c
 
 ### For the Rutab acquisition where there were 50 potential buyers, how did Addtech approach Rutab?
 
-It was basically through management presentations and the management team was key because nobody wanted to acquire the company without us. We made a short list of three companies who made the best impression and knew what we were doing. Addtech was one of those and offered the highest price. Rutab was sold for six times EBIT, which was not that high but normal for companies like this.
+It was basically through management presentations and the management team was key because nobody wanted to acquire the company without us. We made a short list of three companies who made the best impression and knew what we were doing. [[Addtech]] was one of those and offered the highest price. Rutab was sold for six times EBIT, which was not that high but normal for companies like this.
 
 ### Does the multiple change materially with size?
 
 When the turnover is over €25 million, the multiples are six to eight times EBIT. Growth segments with proven growth of 15% to 20% over six years would have higher multiples. People are surprised when we acquire companies at 3.5 times EBIT, but 5.5x was the most common.
 
-### What impressed you about Addtech during that process?
+### What impressed you about [[Addtech]] during that process?
 
-The CEO of Addtech at the time, Johan Sjö, asked the right questions. He did not say that our business model would not work in future, whereas many private equity players questioned that and told us our commodity products would probably go down. We disagreed and realized there would be difficult board discussions over the following five years, but Addtech told us they had seen this type of business before. The most important question was asking what the management team wanted for the future, which is an efficient way of being on the same team.
+The CEO of [[Addtech]] at the time, Johan Sjö, asked the right questions. He did not say that our business model would not work in future, whereas many private equity players questioned that and told us our commodity products would probably go down. We disagreed and realized there would be difficult board discussions over the following five years, but [[Addtech]] told us they had seen this type of business before. The most important question was asking what the management team wanted for the future, which is an efficient way of being on the same team.
 
 ### Did the private equity guys and other companies not ask you that?
 
 No, they mostly asked if I was willing to invest, to which I said yes, but it depends on the price you pay. If you pay too little I will not invest. I am capable of doing my own valuation of the company. I cannot tell you what my perceived value of the business is but that has to be a discussion during the process. They were definitely more focused on the financial side and getting buy-in from management, whereas that was not our primary concern. We wanted to be the right type of family and have the right structure to grow in.
 
-### What else did Addtech say that impressed you?
+### What else did [[Addtech]] say that impressed you?
 
-They said we could be self-sufficient and create our own strategy within Addtech. They also knew about selling products to electrical wholesalers, so spoke the same language. When Addtech acquired us, we were not allowed to do our own acquisitions, which surprised me. During the due diligence that was a negative, but that changed as Addtech grew and new people came in. They adapted their strategy to work more with add-on acquisitions, but I was not a suitable managing director for an Addtech company. I wanted to develop something which is why I took the step up and worked for the business unit within Addtech instead.
+They said we could be self-sufficient and create our own strategy within [[Addtech]]. They also knew about selling products to electrical wholesalers, so spoke the same language. When [[Addtech]] acquired us, we were not allowed to do our own acquisitions, which surprised me. During the due diligence that was a negative, but that changed as [[Addtech]] grew and new people came in. They adapted their strategy to work more with add-on acquisitions, but I was not a suitable managing director for an [[Addtech]] company. I wanted to develop something which is why I took the step up and worked for the business unit within [[Addtech]] instead.
 
-### Addtech did not allow managers of operating companies to acquire businesses, it had to come from the business unit manager?
+### [[Addtech]] did not allow managers of operating companies to acquire businesses, it had to come from the business unit manager?
 
-That was the case back then, and different parts of Addtech work differently. There is one common culture across the Addtech group, but each business area and unit have their own culture. In our business area, they had a focus on not doing acquisitions in the companies themselves; they do it at a central level. It was not common throughout Addtech, but today that has changed.
+That was the case back then, and different parts of [[Addtech]] work differently. There is one common culture across the [[Addtech]] group, but each business area and unit have their own culture. In our business area, they had a focus on not doing acquisitions in the companies themselves; they do it at a central level. It was not common throughout [[Addtech]], but today that has changed.
 
 ### Are they more willing to allow managers to make their own acquisitions today?
 
-Yes, that is something people say and you learn it in school; many acquisitions fail. That is not true. Research from INSEAD and IMD shows that most acquisitions turn out well. That is what we see in Addtech and also what I have seen in other instances as well.
+Yes, that is something people say and you learn it in school; many acquisitions fail. That is not true. Research from INSEAD and IMD shows that most acquisitions turn out well. That is what we see in [[Addtech]] and also what I have seen in other instances as well.
 
 ### Who were the owners of Rutab?
 

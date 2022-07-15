@@ -1,5 +1,6 @@
 # Product Upfront
-Most recurring revenue models need an upfront sale to close before kicking in. While strong recurring revenue with upfront sales frequently converges towards an attractive industry structure, it is not inevitable. If a company struggles to generate new upfront sales at poor returns, related costs eat into the gains of ensuing recurring revenues.
+
+Most recurring revenue models need an upfront sale to close before kicking in. While strong recurring revenue with upfront sales frequently converges towards an attractive industry structure, it is not inevitable. If a company struggles to generate new upfront sales at poor returns, related costs eat into the gains of ensuing [[recurring revenues]].
 
 But if a company enjoys competitive advantages on the front-end as well as the recurring revenue, the economics of the business are doubly strong. The most notable examples of this are software companies like SAP and [[Microsoft]] in the late 1990s and early 2000s. This was before the emergence of cloud computing where [[Recurring Revenues]] remain but not necessarily with any upfront payment. There can also be a benefit to the challenging economics of upfront sales. It virtually shuts out new entrants. To build an installed base takes time. A new entrant may suffer years of losses before enjoying aftermarket revenues.
 

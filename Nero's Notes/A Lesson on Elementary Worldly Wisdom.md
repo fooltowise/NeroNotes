@@ -459,13 +459,13 @@ Are there any dangers in this philosophy? Yes. Everything in life has dangers. S
 So there are risks. Nothing is automatic and easy. But if you can find some fairly priced great company and buy it and sit, that tends to work out very, very well indeed - especially for the individual.
 
 Within the growth stock model, there's a sub-position:
-**There are actually businesses that you will find a few times in a lifetime where any manager could raise the return enormously just by raising prices - and yet they haven't done it. So they have huge untapped pricing power that they're not using. That is the ultimate no-brainer.**
+**There are actually businesses that you will find a few times in a lifetime where any manager could raise the return enormously just by raising prices - and yet they haven't done it. So they have huge untapped [[pricing power]] that they're not using. That is the ultimate no-brainer.**
 
 That existed in [[Disney]]. It's such a unique experience to take your grandchild to Disneyland. You're not doing that often. And there are lots of people in the country. And Disney found that it could raise those prices a lot, and the attendance stayed right up.
 
 So a lot of the great record of Eisner and Wells was utter brilliance but the rest came from just raising prices at Disneyland and Disneyworld and through video cassette sales of classic animated movies.
 
-At [[Berkshire Hathaway]], Warren and I raised the prices of See's Candy a little faster than others might have. And, of course, we invested in Coca-Cola - which had some untapped pricing power. And it also had brilliant management. So a Goizueta and Keough could do much more than raise prices. It was perfect.
+At [[Berkshire Hathaway]], Warren and I raised the prices of See's Candy a little faster than others might have. And, of course, we invested in Coca-Cola - which had some untapped [[pricing power]]. And it also had brilliant management. So a Goizueta and Keough could do much more than raise prices. It was perfect.
 
 You will get a few opportunities to profit from finding underpricing. There are actually people out there who don't price everything as high as the market will easily stand. And once you figure that out, it's like finding money in the street - if you have the courage of your convictions.
 

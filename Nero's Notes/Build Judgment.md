@@ -183,9 +183,9 @@ I think at a core fundamental level, we understand this. We're attracted to prin
 
 **Compound Interest**
 
-Compound interest - most of you should know it in the finance context. If you don't, crack open a microeconomics textbook. It's worth reading a microeconomics textbook from start to finish.
+[[Compound interest]] - most of you should know it in the finance context. If you don't, crack open a microeconomics textbook. It's worth reading a microeconomics textbook from start to finish.
 
-In the intellectual domain, compound interest rules. When you look at a business with one hundred users growing at a compound rate of 20 percent per month, it can very, very quickly stack up to having millions of users. Sometimes, even the founders of these companies are surprised by how large the business scales.
+In the intellectual domain, [[compound interest]] rules. When you look at a business with one hundred users growing at a compound rate of 20 percent per month, it can very, very quickly stack up to having millions of users. Sometimes, even the founders of these companies are surprised by how large the business scales.
 
 **Basic Maths**
 
@@ -229,7 +229,7 @@ If you have two choices to make, and they're relatively equal choices, take the 
 
 What's actually going on is one of these paths requires short-term pain. And the other path leads to pain further out in the future. And what your brain is doing through conflict-avoidance is trying to push off the short-term pain.
 
-By definition, if the two are even and one has short-term pain, that path has long-term gain associated. With the law of compound interest, long-term gain is what you want to go forward. Your brain is overvaluing the side with the short-term happiness and trying to avoid the one with the short term pain.
+By definition, if the two are even and one has short-term pain, that path has long-term gain associated. With the law of [[compound interest]], long-term gain is what you want to go forward. Your brain is overvaluing the side with the short-term happiness and trying to avoid the one with the short term pain.
 
 So you have to cancel the tendency out (it's a powerful subconscious tendency) by leaning into the pain. As you know, most of the gains in life come from suffering in the short term so you can get paid in the long term.
 
