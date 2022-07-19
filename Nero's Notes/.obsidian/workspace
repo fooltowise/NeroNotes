@@ -4,12 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "8922e76f88133b58",
+        "id": "9ff85aac3dfc0422",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Fundamental Theorem of Investing.md",
+            "file": "Topics for Newsletter.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "91f6f9138d0e03d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programme Editorial Investi.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8800a9eaa5a2a47d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Le compte de résultat.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "50235d175c1a825d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Le compte de résultat.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -80,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fundamental Theorem of Investing.md",
+                "file": "Le compte de résultat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fundamental Theorem of Investing.md",
+                "file": "Le compte de résultat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fundamental Theorem of Investing.md"
+                "file": "Le compte de résultat.md"
               }
             }
           },
@@ -140,17 +179,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8922e76f88133b58",
+  "active": "50235d175c1a825d",
   "lastOpenFiles": [
-    "Transdigm.md",
-    "The Fundamental Theorem of Investing.md",
-    "Johan Steene & Daniel Zhang Interview - the Teqnion Family.md",
-    "Teqnion.md",
-    "Compound Interest.md",
-    "Zen and the Art of Motorcyle Maintenance.md",
-    "Zen and the Art of Motorcycle Maintenance.md",
-    "Constellation Software.md",
-    "Vitec Software.md",
-    "Vitec Software, a Swedish compounding machine.md"
+    "My Goals.md",
+    "Le compte de résultat.md",
+    "Marshall Goldsmith's questions on how to improve.md",
+    "Jonny Wilkinson on High Performance.md",
+    "Le compte de bilan.md",
+    "Programme Editorial Investi.md",
+    "Safal Niveshak.md",
+    "Topics for Newsletter.md",
+    "Les marchés sont-ils efficients.md",
+    "Transdigm.md"
   ]
 }

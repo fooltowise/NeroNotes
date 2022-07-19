@@ -4,9 +4,12 @@
 [[Programme Editorial Investi]]
 
 
+
 ## Idées pour Investi:
 
 - Le cerveau fonctionne de manière logarithmique
+
+
 - La compta pour les nuls:
 	- Intro
 	- Income statement
@@ -20,7 +23,7 @@
 
 
 **Risk:**
-- Volatility is short term risk, business profitability is long term risk. Leverage is the bridge between both
+
 - Increase your opportunity cost
 - Risk-reward relation: more returns for volatility vs does that increase my opportunity cost? (i.e Buffett's go/no go)
 - Risk vs Uncertainty
@@ -29,7 +32,7 @@
 - Anything by [[Safal Niveshak]]
 
 - Pourquoi "Pour avoir des gains plus gros, il faut prendre plus de risque" est faux -> ergodicité
-- Volatilité= Risque? Des fois oui (ex: leverage transforme short term volatilité en risque long-terme) et sinon non.
+
 
 - **Buffett:**
 	- The good, the bad and the gruesome
@@ -37,7 +40,7 @@
 
 - What is a stock?
 - Margin of safety
--  Bessembinder study: importance of getting rid of bad stocks
+- Bessembinder study: importance of getting rid of bad stocks
 - 99% of investing is doing nothing
 - **Case studies: apprendre à reconnaitre l'excellence**
 - [[ROCE-Growth Matrix, and Few Potential Wealth Creators]]
@@ -52,7 +55,7 @@
 - Les avantages du petit porteur face aux institutions
 - Worldly wisdom through a latticework of Mental Models
 - The importance of choosing the right role models, teachers and mentors in life -> standing on the shoulders on giants
-- Le promeneur et le labrador (=> promeneur = business, labrador = stock market)
+
 - L'effet boule de neige se cache partout
 - Doing Science is being able to make falsifiable predictions
 - Becoming a learning machine
