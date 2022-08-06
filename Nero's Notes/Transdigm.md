@@ -12,3 +12,5 @@
 
 
 - [[50X Podcast with Nick Howley - Part 1]]
+- [[50X podcast with Rob Small]]
+- [[50X Podcast with Nick Howley - Part 2]]

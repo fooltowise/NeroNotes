@@ -1,5 +1,6 @@
 # My goals
 
+See [[What am I trying to do]]
 
 ## Short term
 
@@ -36,6 +37,7 @@
 - Be financially independent.
 
 ### Family
+- Create a dynasty
 - Be a good father for Mirek and Valentina, and a good husband for Agata.
 
 ### Health

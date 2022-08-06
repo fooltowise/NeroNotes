@@ -3,7 +3,7 @@
  
  [[Judges Scientific]] (JDG: LSE) is a serial acquirer of niche scientific instruments businesses. These instruments are used in a range of testing and measurement applications by universities (~50% of sales), R&D departments and labs. The UK is a global leader in these types of instruments and the industry is characterized by specialization and fragmentation. These businesses typically have 20%+ EBIT margins and GDP+ organic growth. These businesses also typically have sub-£1m in EBIT and have historically been acquired for 4x to 6x EBIT from retiring founders. Over the last 10 years, Judges has redeployed 2/3rd of its capital in M&A driving 29% EPS cagr and 24% returns on capital (pre-tax).
 
-Judges has a decentralized organizational structure allowing managers to run their subsidiaries with autonomy. This model makes Judges an attractive home for sellers looking to monetize or retire who don’t want their business sold into private equity or absorbed into a strategic acquirer. Judges also provides significant support in the form of higher R&D spend, shared use capabilities, coaching, succession planning, and recruiting. Judges organizational model has similarities to [[Halma]], albeit at far smaller scale. In fact, Judges COO who runs day-to-day operations is a 16-year [[Halma]] veteran who was formerly the CEO of [[Halma]]’s Process Safety Division and Halma’s former head of M&A.
+Judges has a decentralized organizational structure allowing managers to run their subsidiaries with autonomy. This model makes Judges an attractive home for sellers looking to monetize or retire who don’t want their business sold into private equity or absorbed into a strategic acquirer. Judges also provides significant support in the form of higher R&D spend, shared use capabilities, coaching, succession planning, and recruiting. Judges organizational model has similarities to [[Halma]], albeit at far smaller scale. In fact, Judges COO who runs day-to-day operations is a 16-year [[Halma]] veteran who was formerly the CEO of [[Halma]]’s Process Safety Division and [[Halma]]’s former head of M&A.
 
 **Background**
 
@@ -11,7 +11,7 @@ Judges has a decentralized organizational structure allowing managers to run the
 
 > _“It had £3m turnover and £750,000 operating profit, with 19 staff. It looked too good to be true. The owners were an engineer and a scientist, who were both looking to retire. They explained they had a dominating position in a tiny world niche and that the drivers of the business were regulation and globalization”_.
 
-This business ended up being FTT, Judges first acquisition (a Halma-like business focused on fire safety). Following FTT, Judges began to exclusively focus on niche scientific instruments. Cicurel and Hambro remain as CEO and Chairman. Judges hired Brad Ormsby as CFO in 2015, who prior to Judges was CFO of Kalibrate, a vertical market software company that he helped IPO in 2014. The team was complemented with the hiring of Mark Lavelle as COO in 2017, who had previously spent 16 years at Halma. David Cicurel owns 10% of Judges.
+This business ended up being FTT, Judges first acquisition (a Halma-like business focused on fire safety). Following FTT, Judges began to exclusively focus on niche scientific instruments. Cicurel and Hambro remain as CEO and Chairman. Judges hired Brad Ormsby as CFO in 2015, who prior to Judges was CFO of Kalibrate, a vertical market software company that he helped IPO in 2014. The team was complemented with the hiring of Mark Lavelle as COO in 2017, who had previously spent 16 years at [[Halma]]. David Cicurel owns 10% of Judges.
 
 **Acquisition Model**
 
@@ -66,7 +66,7 @@ Judges did £14m in Adj. Earnings in 2019 and £12m in Adj. Earnings in 2020. Si
     
 -   It is not hard to see a scenario where M&A growth is significantly higher and the exit multiple also significantly higher given Judges still relatively small size.
     
--   If Judges does evolve into more of a "Halma-type" business with multiple sector CEOs, more formalized shared use resources, and can sustain/grow its culture, then the upside is materially higher.
+-   If Judges does evolve into more of a "[[Halma]]-type" business with multiple sector CEOs, more formalized shared use resources, and can sustain/grow its culture, then the upside is materially higher.
     
 
 **Thesis**
@@ -75,7 +75,7 @@ Judges has many of the elements to be a very successful serial acquirer:
 
 -   Size: they are still small so have a multi-decade horizon until they run into very competitive bidding scenarios
     
--   Culture: they have a management team that buys into the decentralized culture, which is "Halma-lite", Halma likely being one of the best examples of a good serial acquirer
+-   Culture: they have a management team that buys into the decentralized culture, which is "[[Halma]]-lite", [[Halma]] likely being one of the best examples of a good serial acquirer
     
 -   Management: The CEO and members of the board have significant skin in the game, with the CEO being the largest shareholder
     

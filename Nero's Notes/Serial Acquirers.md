@@ -160,7 +160,7 @@ Serial acquirers are an interesting hunting ground.  Often overlooked, many of 
 
 \[2\] Anand,Bharat, David Collis, and Sophie Hood. "[[Danaher]] Corporation." HBS Case 708-445, Feb. 2008.
 
-\[3\] Halma plc 2013 Capital Markets Day transcript
+\[3\] [[Halma]] plc 2013 Capital Markets Day transcript
 
 \[4\] Bekier,Matthias, Anna Bogardus, and Tim Oldham, “Why Mergers Fail,” McKinsey Quarterly 4 (2001)
 

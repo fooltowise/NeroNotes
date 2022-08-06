@@ -7,6 +7,8 @@
 - [[Glossaire Investi Français Anglais]]
 - [[Le Risque]]
 - [[Le compte de résultat]]
+- [[Qu'est-ce qu'un bon business]]
+- [[Le tableau des flux de trésorerie]]
 
 
 

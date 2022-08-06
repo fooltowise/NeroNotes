@@ -5,7 +5,7 @@ Bienvenue dans cette sixième édition d'Investi! Tu veux savoir si une entrepri
 
 Tu vas apprendre à déchiffrer:
 - Combien d'argent un business gagne ou perd
-- Quels sont les dépenses principales auxquelles elle doit faire face
+- Quels sont les dépenses principales auxquelles il doit faire face
 - Comment comparer deux entreprises et savoir laquelle est mieux gérée.
 
 C'est parti!

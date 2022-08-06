@@ -38,7 +38,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 - Roper
 - Salesforce
 - ServiceNow
-- Constellation Software
+- [[Constellation Software]]
 - Topicus
 - Admicom
 - Dassault Systemes
@@ -241,7 +241,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 ### Electronic Equipment, Instruments and Components
 
 - Zebra
-- Halma
+- [[Halma]]
 - Hexagon
 
 ### Food Products
@@ -293,7 +293,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 
 ### Industrial Conglomerates
 
-- Lifco
+- [[Lifco]]
 - Latour
 
 
