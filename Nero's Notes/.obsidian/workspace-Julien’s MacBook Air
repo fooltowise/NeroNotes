@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "La rentabilité.md",
+            "file": "Will Thorndike - The power of long holding periods.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La rentabilité.md",
+                "file": "La croissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La rentabilité.md",
+                "file": "La croissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La rentabilité.md"
+                "file": "La croissance.md"
               }
             }
           },
@@ -192,17 +192,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4584e3fef5e74419",
+  "active": "05e18f09600aa037",
   "lastOpenFiles": [
-    "Google.md",
-    "AWS, GCP, Azure, Oracle & Cloud Hyperscaler Competition.md",
-    "Microsoft.md",
-    "La rentabilité.md",
-    "La croissance.md",
-    "Qu'est-ce qu'un bon business.md",
-    "Will Thorndike - The power of long holding periods.md",
     "Old Dominion Freight Lines.md",
+    "La croissance.md",
+    "Comment lire un rapport annuel.md",
+    "Programme Editorial Investi.md",
+    "Les recettes des dynasties familiales.md",
     "Highlights from Teqnion 2021 annual report.md",
-    "Comment lire un rapport annuel.md"
+    "Will Thorndike - The power of long holding periods.md",
+    "Teqnion Checklist.md",
+    "Le tableau des flux de trésorerie.md",
+    "Mais au fait, c'est quoi un business.md"
   ]
 }

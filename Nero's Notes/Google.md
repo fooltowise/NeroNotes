@@ -1,0 +1,1 @@
+- [[AWS, GCP, Azure, Oracle & Cloud Hyperscaler Competition]]

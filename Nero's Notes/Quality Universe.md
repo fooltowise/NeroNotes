@@ -163,7 +163,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 - GoDaddy
 - Mastercard  
 - Visa
-- Adyen
+- [[Adyen]]
 - Paypal  
 - Shopify
   
@@ -218,7 +218,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 
 ### Road and Rail
 
-- Old Dominion Freight Lines
+- [[Old Dominion Freight Lines]]
 
 
 

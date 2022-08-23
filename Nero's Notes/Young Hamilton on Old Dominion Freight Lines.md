@@ -1,11 +1,11 @@
-# Young Hamilton on Old Dominion Freight Lines
+# Young Hamilton on [[Old Dominion Freight Lines]]
 
 by [[Young Hamilton]]
 
 
 Subscribe to AGB - One analysis of a good business every three weeks.
 
-## Old Dominion Freight Lines
+## [[Old Dominion Freight Lines]]
 
 > “There are three major elements of capacity with an LTL: doors at our service centers, our equipment and our people. Doors can be the most limiting form of capacity in the short term, which is why we try to stay several years ahead of our anticipated growth curve. We have invested $1.7 billion in our service center network over the past 10 years, which has allowed us to expand our door count by over 50%.” _\- Chief Executive Officer, Greg Gantt, on the Q2 2021 earnings call._
 

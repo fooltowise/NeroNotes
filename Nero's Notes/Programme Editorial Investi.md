@@ -10,6 +10,13 @@
 - [[Qu'est-ce qu'un bon business]]
 - [[Le tableau des flux de trésorerie]]
 
+- [[Comment lire un rapport annuel]]
+- [[La croissance]]
+- [[La rentabilité]]
+
+
+-> asset light business:
+https://twitter.com/10kdiver/status/1556256310584258560
 
 
 
