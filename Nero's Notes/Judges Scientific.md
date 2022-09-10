@@ -4,3 +4,4 @@
 - [[Judges Scientific - GDS Instruments]]
 - [[Judges Scientific, Geotek, & GDS Instruments]]
 - [[Investor Dialogue - Judges Scientific]]
+- [[Oxford Cryosystems - Selling to Judges Scientific PLC]]

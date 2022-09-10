@@ -1,6 +1,6 @@
 # Learning from Swedish [[Serial Acquirers]]
 
-About a dozen Swedish [[serial acquirers]] attended the event and presented their business. Amongst them were [[Vitec Software]], Instalco, Volati, and Lagercrantz.
+About a dozen Swedish [[serial acquirers]] attended the event and presented their business. Amongst them were [[Vitec Software]], Instalco, Volati, and [[Lagercrantz]].
 
 The event counted Chris Mayer from Woodlock House Family Capital and author of the excellent book 100-Baggers and Portfolio Managers at REQ Capital Oddbjørn Dybvad and Synnøve Gjønnes as panelists. All three have a long experience investing in companies that are frequent acquirers and had interesting insights to share about how they view investing in these types of companies.
 
@@ -32,7 +32,7 @@ A company called Seafire (I hadn't heard of it prior to the event), for example,
 ### **Measurement and benchmarking**
 
 In Dutch, we have a saying "_meten is weten_", which translates to _measuring is knowing_. **A pattern that has become quite clear is that successful [[serial acquirers]], through their experience and expertise, set up measurement and tracking systems for all kinds of metrics and internally benchmark companies against each other**. Companies often publicly share how every company is doing internally to create a sense of competition and drive continuous improvement.  
-With this data, the areas where the focus is needed become much clearer. This is an added benefit of being part of a larger group of companies, where a SMB would usually be isolated and have no real idea whether their performance metrics were any good compared to peers. Companies from the Bergman & Beving family, for example, have a religious focus on _Profit / Working Capital_ and profit growth. Getting familiar with how to improve on these metrics is where we get to the next part, talent development.
+With this data, the areas where the focus is needed become much clearer. This is an added benefit of being part of a larger group of companies, where a SMB would usually be isolated and have no real idea whether their performance metrics were any good compared to peers. Companies from the [[Bergman & Beving]] family, for example, have a religious focus on _Profit / Working Capital_ and profit growth. Getting familiar with how to improve on these metrics is where we get to the next part, talent development.
 
 ### **Talent development**
 

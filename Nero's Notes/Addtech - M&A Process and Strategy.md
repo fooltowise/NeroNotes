@@ -104,7 +104,7 @@ Yes, nine times out of 10 people, stay way past their earn out period because th
 
 ### Do the private equity companies compete for acquisitions with Alcadon and Addtech?
 
-The competition has become much more fierce. [[Lifco]], Lagercrantz and Indutrade are the typical competitors, but today there are more family offices acquiring companies with a turnover between €2 and €10 million. There are many players but the multiples do not change. It is not in anyone's interest to pay more than the usual multiples, which are similar across Europe. You rarely meet potential targets who have not been in contact with at least 10 potential acquirers, so you have to stand out.
+The competition has become much more fierce. [[Lifco]], [[Lagercrantz]] and Indutrade are the typical competitors, but today there are more family offices acquiring companies with a turnover between €2 and €10 million. There are many players but the multiples do not change. It is not in anyone's interest to pay more than the usual multiples, which are similar across Europe. You rarely meet potential targets who have not been in contact with at least 10 potential acquirers, so you have to stand out.
 
 ### How is there more demand and cheaper money but unchanged multiples?
 
@@ -186,7 +186,7 @@ It was about how to coach a sales force of five to 15 people. How do you get the
 
 Addtech's strategy is not that important but the culture is key to everything. Getting people together and teaching them the culture was the most important. How we approach a deal is important to us and means a lot. Sometimes it is difficult to define a culture, it simply exists. Over time I have learned how to tell a weak culture from a strong one.
 
-### What makes an Addtech different from an Indutrade or Lagercrantz?
+### What makes an Addtech different f[[Lagercrantz|rom an Indu]]trade or [[Lagercrantz]]?
 
 Compared to the companies you mentioned and others in the industry, one is very focused on business development and hiring consultants and industrial people who add expertise. One focuses on multiple arbitrage by acquiring companies but not developing them at all. Addtech would place industrialists as chairman of the boards of every company. I was the chairman of 14 companies but I knew the business well and spoke the same language. If a company with an electronics factory were developing small components, I could discuss that with them; what communication language are your components going to use? I knew what they were discussing in the management team which meant a lot. That is how Addtech differed from other companies.
 

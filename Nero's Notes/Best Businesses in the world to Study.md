@@ -26,7 +26,7 @@ See also [[Great Businesses I'd like to own]]
 | [[Danaher]] (DHR)            | Process and culture                                                  |
 | [[Roper]]               | Process and culture                                                  |
 | NVR ([[NVR]])                | Differentiated business model                                        |
-| Pool Corp ([[POOL]])         | Efficient roll-up strategy in a niche                                |
+| Pool Corp ([[Pool Corp]])         | Efficient roll-up strategy in a niche                                |
 | Brookfield ([[BAM]])         | Smart capital allocation                                             |
 | [[Autozone]]            | Smart capital allocation in a low growth industry                    |
 | Tyler Technologies ([[TYL]]) | Combination of long-term gov contracts and software can be lucrative |

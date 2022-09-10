@@ -1,4 +1,4 @@
-# [[Addtech]], Addlife, & Nordic Value-added Distribution
+# [[Addtech]], [[Addlife]], & Nordic Value-added Distribution
 
 by #InPractise 
 
@@ -6,11 +6,11 @@ _Disclaimer: This interview is for informational purposes only and should not be
 
 ### Artur, can you explain a little bit about [[Addtech]]’s history?
 
-I used to work for [[Addtech]] and it is a very interesting company that originally came from a group called Bergman & Beving, in 1906. Over the years, the two gentlemen, Bergman and Beving, developed a good way of acquiring companies but, instead of centralizing, they kept the companies decentralized. By doing that, they saw that it was much easier to integrate companies as well as keeping the entrepreneurial spirit, so it was a very good business model.
+I used to work for [[Addtech]] and it is a very interesting company that originally came from a group called [[Bergman & Beving]], in 1906. Over the years, the two gentlemen, Bergman and Beving, developed a good way of acquiring companies but, instead of centralizing, they kept the companies decentralized. By doing that, they saw that it was much easier to integrate companies as well as keeping the entrepreneurial spirit, so it was a very good business model.
 
-In 1976, the company went on the Stock Exchange in Stockholm and it grew very rapidly. By the year 2000, the group was too big and they decided to split it up and they formed three different companies. One was [[Addtech]], the other one was Lagercrantz and the third one was B&B Tools.
+In 1976, the company went on the Stock Exchange in Stockholm and it grew very rapidly. By the year 2000, the group was too big and they decided to split it up and they formed three different companies. One was [[Addtech]], the other one was [[Lagercrantz]] and the third one was B&B Tools.
 
-Addtech’s journey started at that time and, by the year 2016, the decision was made to split it again and take out the life science part of Addtech and that became a new company called AddLife, that was also listed in April 2016.
+Addtech’s journey started at that time and, by the year 2016, the decision was made to split it again and take out the life science part of Addtech and that became a new company called [[AddLife]], that was also listed in April 2016.
 
 ### Are there really any synergies between those different business units within Addtech, like components, energy and life sciences?
 
@@ -36,7 +36,7 @@ Actually, no, but they have been there from a very early stage. I think, probabl
 
 Yes; they have a very broad industrial experience. Tom Hedelius was the general manager of one of the biggest banks in Sweden, Handelsbanken. They have a long trajectory of expertise, when it comes to business and industrial development.
 
-### How do you compare the life sciences division at Addtech, which is now Addlife, to competitors in the Nordics?
+### How do you compare the life sciences division at Addtech, which is now [[Addlife]], to competitors in the Nordics?
 
 First of all, if you take the Nordics, you take Scandinavia and you add Finland, and suddenly it becomes the Nordics. In Norway, Sweden and Denmark, we speak Scandinavian and Finnish is a very different language; that’s why we called it Nordics, when we include Finnish. There is also a tendency to also include the Baltic countries because, historically, they seem to belong more to the Nordic culture, when it comes to values. Very often, they care more about the references that you have in the Nordics. For example, when you are speaking with key opinion leaders or when you are talking about having references in the hospitals, they care more about the Nordics than, for example, look at what they have in Poland or Russia and so on. It’s very natural that when we say the Nordics, we also include the Baltics, so three more countries. Of course, Iceland as well, but it was always quite given that it is also included in the Nordics.
 
@@ -46,13 +46,13 @@ That is why it is quite competitive to have a Nordic setup and, very often, the 
 
 For that reason, US or Asian companies who want to get established in the Nordics, very often they see Sweden as a natural candidate for where to have their head office.
 
-### In terms of the competitors, are they mainly much smaller, with only single-focused product lines, that compete with Addtech and AddLife in the Nordics? It seems as if there are no other big scale distributors.
+### In terms of the competitors, are they mainly much smaller, with only single-focused product lines, that compete with Addtech and [[AddLife]] in the Nordics? It seems as if there are no other big scale distributors.
 
 No, there’s not. If you already have something set up in the Nordics, it is much easier to have add ons. If you have a very small company and you have to deal with a very big geographical area, as the Nordics is, then it’s quite difficult, from a profitability point of view, to maintain that.
 
-### Let’s say I’m DiaSorin, for arguments sake, an Italian supplier, and I’m entering the Nordics, is there any other similar labtech distributor that I can choose instead of AddLife?
+### Let’s say I’m DiaSorin, for arguments sake, an Italian supplier, and I’m entering the Nordics, is there any other similar labtech distributor that I can choose instead of [[AddLife]]?
 
-Absolutely; there are several options. I would say that the strength of AddLife, or similar companies that have a broad Nordic set up, is that firstly, companies within Europe can compete with each other, so that means that you are able to take similar products and cover a much bigger segment. The companies are independent but they belong to the same group. I think that is very smart.
+Absolutely; there are several options. I would say that the strength of [[AddLife]], or similar companies that have a broad Nordic set up, is that firstly, companies within Europe can compete with each other, so that means that you are able to take similar products and cover a much bigger segment. The companies are independent but they belong to the same group. I think that is very smart.
 
 The other thing is that there are other companies but, very often, local companies. That means that they do not have a Nordic set up. If you are a supplier and you have to choose between someone that offers you, for example, nine countries or 25 countries, instead of going to 25 different distributors, you would choose that option.
 
@@ -72,7 +72,7 @@ For example, the patients don’t need to travel and go to central hospitals. Yo
 
 I think you can choose which things could be centralized and which things could be decentralized and look at it from a very broad perspective.
 
-### Could this be an advantage for bigger players, such as AddLife or Addtech, that can actually compete on a larger scale?
+### Could this be an advantage for bigger players, such as [[AddLife]] or Addtech, that can actually compete on a larger scale?
 
 Absolutely. The winners are always going to be the bigger companies. If you had a bigger company and you are offering many other things in the hospitals, you could also bundle things and play with prices. Where you have the competition, you could, potentially, decrease the prices and increase them in other areas where you don’t have the competition.
 
@@ -134,7 +134,7 @@ Absolutely. If they company reaches a good critical mass, it makes sense because
 
 Most of the big companies such as Siemens, Abbott, Roche, BioMérieux and so on, are acting on their own and they don’t have any distributors. I would say, for Thermo, they have both; they have distributors but they also have their own organization. Depending on the volume, they let the distributors take care of it. That is very much what is already happening. I think there are very few companies, who have a good critical mass, who are not established by themselves in the market. Sometimes, for the reasons that I mentioned before, you might have very big suppliers who are still using distributors because of the competitive advantages where you have a Nordic setup. Maybe you are approaching 25 countries, so it’s easier to use one partner, one big distributor, in those cases. I think it varies case by case. DiaSorin was using distributors for many years in the Nordics.
 
-### Maybe it will be a slow trend where suppliers might enter one country at a time but still use the likes of AddLife or Addtech because they have a 25-country footprint?
+### Maybe it will be a slow trend where suppliers might enter one country at a time but still use the likes of [[AddLife]] or Addtech because they have a 25-country footprint?
 
 Exactly; if you already have an infrastructure, why not? It will take a lot of time and effort to do it by yourself. It’s not that easy because you will need to set up a full operation, everything from order handling to people in the field taking care of the technical service.
 
@@ -144,11 +144,11 @@ First of all, obviously, you need to have local people. You need to have people 
 
 For the technical service, you do not necessarily need someone who speaks the local language. But it’s very important to speak the local language for field service applications. It could be that you have to deal directly with the users and if you are dealing directly with the users, in a hospital, it works in English but it’s preferable to be able to speak the local language.
 
-### Up to a third of Addtech and Addlife’s revenue is own products. How does that business work with the distribution business? For example, do you have to produce products that are not competing with your suppliers’ portfolio?
+### Up to a third of Addtech and [[Addlife]]’s revenue is own products. How does that business work with the distribution business? For example, do you have to produce products that are not competing with your suppliers’ portfolio?
 
 First of all, I would say that the distribution business is quite good because you are selling what the market is asking for. Secondly, you are more agile because you can switch very quickly. If the market starts looking for something else, you can take another supplier and you can meet that need in the market. If you have your own product, then you are stuck with your own portfolio and you have to live with that; you don’t have the same flexibility. That is a big disadvantage.
 
-An advantage of having your own production is that you have full control over the whole chain. From a profitability point of view, I think it’s better if you have your own production. It’s a balance, I would say. I think it’s a very good business model, in some cases, especially when you have companies the size of AddLife, to have a mix of own production and distribution. That creates a good balance from a risk point of view, but also from a profitability point of view.
+An advantage of having your own production is that you have full control over the whole chain. From a profitability point of view, I think it’s better if you have your own production. It’s a balance, I would say. I think it’s a very good business model, in some cases, especially when you have companies the size of [[AddLife]], to have a mix of own production and distribution. That creates a good balance from a risk point of view, but also from a profitability point of view.
 
 ### How do you choose which product lines to launch or to acquire?
 
@@ -178,7 +178,7 @@ If you are also working with your own production in a very agile way, that could
 
 Many suppliers religiously increase the prices every year, no matter what. They will send you a letter and say, we are now increasing our distributor prices by 3%. But the problem is, if you are in the tender business and you have a contract with the hospital for five years, you know that during those five years, you are not going to be able to increase the price by a penny. That means that if you are losing 3% to 5% every year due to price increases and you are going to end up in a tricky situation. It is very important to foresee this when you are in a tender business, and to be able to calculate that in advance. If you know that you are going to get an increase of 2% to 3% per year, you need to take that into consideration when you send out the tender.
 
-### AddLife’s gross margin has increased from 30% to over 35%, which seems to be much higher than Addtech; why is that?
+### [[AddLife]]’s gross margin has increased from 30% to over 35%, which seems to be much higher than Addtech; why is that?
 
 That is because it’s a different specificity. The healthcare industry has still got better pricing than the industrial business, for example, where you have more competition.In the healthcare industry, you also find ways to increase your profitability. For example, you have organic growth that can be very favorable if you have a tender business. If the customers have committed to 100,000 samples per year and you have placed equipment with them, very seldom do they take into consideration that the population is increasing and you are going to have an organic increase of maybe 4% to 5% per year. If you take that incremental for five years, then your gross margin is going to increase because every new sample that you sell is going directly into your pocket. The leasing that you have calculated for the instruments is based on just the original 100,000 tests that you sell. If you sell 120,000, that means that for those additional 20,000 tests, you get the full gross margin directly into your pocket.
 
@@ -242,7 +242,7 @@ Sometimes companies or colleagues ask, do you really need to have the best produ
 
 Definitely, and I think that is also extremely important. Something that we have done in many companies is that you have your own business school and you try to have a very good and consistent sales organization where everybody understands the sales process very well and everyone speaks the same language, in terms of terminology or how you measure sales success.
 
-### What is unique about Addtech and AddLife and how they make acquisitions, versus some of the bigger conglomerates like Danaher, for example?
+### What is unique about Addtech and [[AddLife]] and how they make acquisitions, versus some of the bigger conglomerates like Danaher, for example?
 
 There is obviously a big difference there when it comes to size. Danaher are buying huge enterprises, such as Leica and Beckman Coulter. But, in the end, the business model is more or less the same because it is a matter of mapping out the market and identifying your targets. You could either have a strategic acquisition approach, where you buy companies following the portfolio that you currently have. If you acquire company A, you already know that the next move is going to be to acquire company B.
 
@@ -262,11 +262,11 @@ I think it is very much a question of leadership and being a good role model and
 
 Absolutely. You need to get people to understand that, in the end, if the company is successful then everybody is going to be successful. You also need to get them to understand that they need to take ownership and it is not just a matter of being on the payroll each month. They need to be involved in the development of the company. Of course, you can create incentives when it comes to things such as bonus schemes but I think it is also very important to have the mindset as opposed to having to always pay for everything they are doing, whether it is good or not. If you create that culture in a company, you will be very successful.
 
-### Let’s say it’s 2030 and we’re looking back at Addtech and AddLife, what could be a reason why they don’t grow at 10% per year, sustainably?
+### Let’s say it’s 2030 and we’re looking back at Addtech and [[AddLife]], what could be a reason why they don’t grow at 10% per year, sustainably?
 
-I don’t really think there are any limitations. If you look at all the companies that Bergman & Beving have acquired over the years, such as Addtech, Lagercrantz, AddLife, BB Tools and so on, there are more than 500 companies. You can just create new business areas and business units so you can continue growing, so there is no limitation from that perspective.
+I don’t really think there are any limitations. If you look at all the companies that [[Bergman & Beving]] have acquired over the years, such as Addtech, [[Lagercrantz]], [[AddLife]], BB Tools and so on, there are more than 500 companies. You can just create new business areas and business units so you can continue growing, so there is no limitation from that perspective.
 
-I also don’ think there is any limitation from a geographical perspective, because you could enter new geographical areas such as AddLife has done, for example, in Central Europe and Austria. There are many other countries open to them. We have always identified, from a catch-up perspective, after the Nordics that interesting areas could be the Netherlands or Benelux, because it is quite a similar culture. I would say that Germany or DACH countries and the UK were possibilities.
+I also don’ think there is any limitation from a geographical perspective, because you could enter new geographical areas such as [[AddLife]] has done, for example, in Central Europe and Austria. There are many other countries open to them. We have always identified, from a catch-up perspective, after the Nordics that interesting areas could be the Netherlands or Benelux, because it is quite a similar culture. I would say that Germany or DACH countries and the UK were possibilities.
 
 If you are going into other markets such as Spain, Portugal, Italy or France, it is a little more different but you could also do it.
 
@@ -278,7 +278,7 @@ Because the hierarchical organization is a bit different from in the Nordics or 
 
 Yes; I think it is a cultural thing. Going back to your question, I do not think that will be many hindrances or obstacles. I would say that the only obstacle that could occur is when you no longer have a very good management. That would destroy the culture.
 
-### Do you think the two families, in Addtech and AddLife secure that, to make sure that the management will always be aligned with the culture?
+### Do you think the two families, in Addtech and [[AddLife]] secure that, to make sure that the management will always be aligned with the culture?
 
 Yes, I think so. There is a continuity in the thinking. There is also a continuity on always trying to get the same mindset and culture in the company, so they do not dilute the company values, which is also key for success.
 

@@ -8,5 +8,8 @@ To find good Compounders, the investor focus on a company's ability to invest ca
 **Important: What matters at the end is how much [[Owner Earnings vs Reported Earnings| Owner Earnings]] are available to the owner, and how much capital was needed to generate them.**
 
 
+To see how to correctly compute return on capital, see [[Return on Invested Capital - The Ultimate Guide to Getting It Right]] by [[Junto]]
+
+
 
 

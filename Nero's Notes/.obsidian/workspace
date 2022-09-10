@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "05abe1b2b0e1b26a",
+        "id": "a9a2ca2775b88437",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programme Editorial Investi.md",
+            "file": "List of Serial Acquirers.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "05e18f09600aa037",
+        "id": "1cac8d3e7b83baf6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "La croissance.md",
+            "file": "Demesne Investments.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -30,38 +30,12 @@
         }
       },
       {
-        "id": "4584e3fef5e74419",
+        "id": "c6030d1605363bd1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "La rentabilité.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5811ce0b1efac5c9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Highlights from Teqnion 2021 annual report.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "4c22c3f0bdf46596",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Teqnion Checklist.md",
+            "file": "Practice Makes Perfect.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -132,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La rentabilité.md",
+                "file": "Practice Makes Perfect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La rentabilité.md",
+                "file": "Practice Makes Perfect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La rentabilité.md"
+                "file": "Practice Makes Perfect.md"
               }
             }
           },
@@ -192,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4584e3fef5e74419",
+  "active": "c6030d1605363bd1",
   "lastOpenFiles": [
-    "Google.md",
-    "AWS, GCP, Azure, Oracle & Cloud Hyperscaler Competition.md",
-    "Microsoft.md",
-    "La rentabilité.md",
-    "La croissance.md",
-    "Qu'est-ce qu'un bon business.md",
-    "Will Thorndike - The power of long holding periods.md",
-    "Old Dominion Freight Lines.md",
-    "Highlights from Teqnion 2021 annual report.md",
-    "Comment lire un rapport annuel.md"
+    "Demesne Investments.md",
+    "List of Serial Acquirers.md",
+    "Once Upon a Time in Sweden.md",
+    "Bergman & Beving.md",
+    "Momentum Group.md",
+    "Addlife.md",
+    "Addtech, Addlife, & Nordic Value-added Distribution.md",
+    "Addtech & B2B Industrial Distribution.md",
+    "Addtech - The History of Bergman & Beving.md",
+    "Lagercrantz.md"
   ]
 }

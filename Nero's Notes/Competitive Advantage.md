@@ -47,9 +47,13 @@ Pricing power can come from:
 5.   [[Low-touch marketing]]
 6.  A great [[Corporate Culture]]
 7.  [[Distribution advantages]]
+8. [[The Knowledge Moat]]
 
 
 When a company does not enjoy any competitive advantage, the investor is heavily relying on management's [[Capital Allocation]] skills to provide acceptable returns.
 		
 
 
+## Exemples :
+
+- [[25 Business Moats That Helped Shape The World’s Most Massive Companies]]

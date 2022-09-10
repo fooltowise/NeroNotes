@@ -4,11 +4,6 @@ See [[What am I trying to do]]
 
 ## Short term
 
-### Investi
-
-- Write article on Income Statement
-- Write article on what is a good business
-
 ### Portfolio
 
 - Read about Transdigm, understand how the aerospace industry works.
@@ -30,8 +25,7 @@ See [[What am I trying to do]]
 
 ## Long term
 
-### Investi
-- Have an audience of 10'000 subscribers who learn about investing in the stock market in the tradition of Buffett, Munger, Sleep and Co.
+
 
 ### Portfolio
 - Be financially independent.

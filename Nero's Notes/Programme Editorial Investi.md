@@ -13,12 +13,14 @@
 - [[Comment lire un rapport annuel]]
 - [[La croissance]]
 - [[La rentabilité]]
+- [[La solidité financière de l'entreprise]]
 
 
 -> asset light business:
 https://twitter.com/10kdiver/status/1556256310584258560
 
-
+-> Moat Direction (WCM - Paul Black), to cross with: 
+https://twitter.com/10kdiver/status/1563866161984327680
 
 
 - [[Les marchés sont-ils efficients]]

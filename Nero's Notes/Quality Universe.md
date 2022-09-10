@@ -146,7 +146,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 - Danaher
 - Illumina
 - ThermoFisher Scientific
-- AddLife
+- [[AddLife]]
 - Biotage
 - Chemometec
 - Eurofins

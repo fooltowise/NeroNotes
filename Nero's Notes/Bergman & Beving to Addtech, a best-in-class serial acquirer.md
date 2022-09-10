@@ -1,10 +1,10 @@
-# Bergman & Beving to [[Addtech]], a best-in-class serial acquirer
+# [[Bergman & Beving]] to [[Addtech]], a best-in-class serial acquirer
 
 Source : https://www.acquirers.com/post/bergman-beving-to-addtech
 
 **Background**
 
-Bergman & Beving (B&B), founded in 1906, has a rich history of decentralization and simplicity, starting their acquisition journey already in the 1960s.
+[[Bergman & Beving]] (B&B), founded in 1906, has a rich history of decentralization and simplicity, starting their acquisition journey already in the 1960s.
 
 But for more practical purposes, our story begins with the entry of an Anders Börjesson.
 
@@ -28,9 +28,9 @@ Six years earlier, at his student dorm, he had read the book _“The new million
 
 Five of the profiled entrepreneurs, including Ingvar Kamprad (IKEA) and Erling Persson (H&M), had almost been forced to become **asset-light**, as net assets of privately held firms were subject to a wealth tax. And Börjesson took notice.
 
-He entered B&B’s group management in 1979, launched the EBITA/WC metric together with his mentor Torsten Fardell in 1981, became CEO in 1990, and stayed on until 2001. In his last year, he split the group into three by separately listing [[Addtech]] and Lagercrantz.
+He entered B&B’s group management in 1979, launched the EBITA/WC metric together with his mentor Torsten Fardell in 1981, became CEO in 1990, and stayed on until 2001. In his last year, he split the group into three by separately listing [[Addtech]] and [[Lagercrantz]].
 
-B&B’s EPS grew by 18% annually from 1976 to 2001, and the annual total shareholder return (TSR) was 25%. Lagercrantz has boasted a 20% TSR CAGR from 2001 to today, while [[Addtech]] has performed even better.
+B&B’s EPS grew by 18% annually from 1976 to 2001, and the annual total shareholder return (TSR) was 25%. [[Lagercrantz]] has boasted a 20% TSR CAGR from 2001 to today, while [[Addtech]] has performed even better.
 
 In the picture below, you see the evolution of B&B into its listed entities of today. We will study B&B’s poster child [[Addtech]], but you will find many similarities with the other firms.
 

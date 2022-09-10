@@ -169,13 +169,13 @@
 
 
 2. Does the business operate in a highly profitable industry?
-   Yes. There is a big history of Swedish serial acquirers of industrial companies with very successful track records (Bergman and Beving, Lifco, Lagercrantz, Addtech, Volati, etc.)
+   Yes. There is a big history of Swedish serial acquirers of industrial companies with very successful track records (Bergman and Beving, Lifco, [[Lagercrantz]], Addtech, Volati, etc.)
    
 3. Does the business operate in a slow-changing market with long product cycles?
    Subsidiaries are working in slow changing industrial markets. That's definitely not web technologies...
    
 4. Does the business have limited competition?
-   There is definition in the serial acquirer scheme in Sweden, but so far I'd say the pond is big enough for all the fishes. There are really a lot of small industrial companies in the nordics to be acquired. Lagercrantz, Lifco, Volati and co have proved that they can coexist and still have very healthy profitability.
+   There is definition in the serial acquirer scheme in Sweden, but so far I'd say the pond is big enough for all the fishes. There are really a lot of small industrial companies in the nordics to be acquired. [[Lagercrantz]], Lifco, Volati and co have proved that they can coexist and still have very healthy profitability.
    
 5. Is the business resilient in the face of new innovations?
    Yes, the whole point of being a programmatic serial acquirers is that if any subsidiary has difficulties due to competition, it does not threaten the rest of the company.

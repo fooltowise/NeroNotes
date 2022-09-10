@@ -12,7 +12,7 @@ It was more precise than the technology from Roche because it was silica based a
 
 At that time, I was the General Manager for Organon in the Nordic countries and I had the opportunity to continue with bioMérieux, where I became General Manager in the Nordics for some years, then moved to France as the head of the lab automation division. They were also interested in the journey because I had teams in the US, Europe, Japan and other markets. That was extremely useful for me to get that experience. After that journey of several years, I was head hunted to the Sweden group [[Addtech]], where I was the CEO of [[Addtech]] Life Science who have 18 subsidiaries.
 
-[[Addtech]] Life Science created a separate NASDAQ listed company called AddLife in 2016. By the time I left the company, there were 35 companies in the group. I started my own company in Gothenburg, Sweden within genetics and have also been working as a consultant and on the board of several companies. Today I am mainly working on strategies and acquisitions, because of my extensive experience over the years, working with leadership questions.
+[[Addtech]] Life Science created a separate NASDAQ listed company called [[AddLife]] in 2016. By the time I left the company, there were 35 companies in the group. I started my own company in Gothenburg, Sweden within genetics and have also been working as a consultant and on the board of several companies. Today I am mainly working on strategies and acquisitions, because of my extensive experience over the years, working with leadership questions.
 
 ### Is that how you overlapped while at [[Addtech]], marketing DiaSorin?
 
@@ -38,7 +38,7 @@ The US has a more insurance-driven healthcare system. If you look at sepsis or s
 
 The reimbursement system is not driven in the same way and there are many differences in Europe, with the UK, Germany and Benelux being more similar to the States, whereas Sweden is more budget-driven. There is still much work to be done before you can fully position with a good reimbursement system.
 
-### I did look at [[Addtech]] and AddLife when I evaluated companies in Sweden, but decided not to invest in either. [[Addtech]] does additional procedures before distribution but there were also certain products where they simply acted as a distributor and I assume DiaSorin fell into that bucket. DiaSorin keeps announcing new partnerships, for example with QIAGEN on latent TB and Lyme Disease, and with MeMed in Israel to discover bacterial disease. I am not sure who else has relationships with Roche, Beckman, QIAGEN and MeMed, but the company does not disclose who benefits. Did you ever see any of that from your standpoint?
+### I did look at [[Addtech]] and [[AddLife]] when I evaluated companies in Sweden, but decided not to invest in either. [[Addtech]] does additional procedures before distribution but there were also certain products where they simply acted as a distributor and I assume DiaSorin fell into that bucket. DiaSorin keeps announcing new partnerships, for example with QIAGEN on latent TB and Lyme Disease, and with MeMed in Israel to discover bacterial disease. I am not sure who else has relationships with Roche, Beckman, QIAGEN and MeMed, but the company does not disclose who benefits. Did you ever see any of that from your standpoint?
 
 Yes, are you talking about [[Addtech]] or DiaSorin?
 
@@ -76,7 +76,7 @@ No, when you go to big groups like LabCorp, you need to analyze the market price
 
 There are also big groups in Europe but they are much bigger in the US. If you have unique selling points you can charge more, which is also a good way of entering the market. For single tests it is difficult to enter the US market if you do not have a complete solution. If you are selling a full portfolio to many departments and a competitor offers a latent TB test, a big company can afford to decrease that price.
 
-But when you increase something where you are alone, simply to get rid of a competitor, it becomes hard for small companies to enter the single test market. You can avoid this by going through good distributors, which in the Nordics are [[Addtech]] or AddLife.
+But when you increase something where you are alone, simply to get rid of a competitor, it becomes hard for small companies to enter the single test market. You can avoid this by going through good distributors, which in the Nordics are [[Addtech]] or [[AddLife]].
 
 ### Switching to strategy and particularly because of your experience, DiaSorin has historically been hospital centric in Europe and Asia, whereas in the US they are still lab centric. Quest, LabCorp and Sonic are more prominent in their business model. Carlo Rosa, their CEO, wants to transfer that concentration into hospitals. COVID and Luminex have helped in that regard, but is that a reasonable strategy and is it doable?
 
@@ -116,9 +116,9 @@ That is quite interesting.
 
 Companies like bioMérieux are more traditional and driven by certain individuals. I have seen companies who were able to move very quickly, like Danaher for example. Comparing the Thermo and Danaher models, Thermo acquire a company and put their flag up on day two. Very often they destroy the company culture and the integration process fails. Danaher keep the acquired company decentralized, speeding up both the integration and acquisition process.
 
-The decentralized model like Danaher, [[Addtech]] or AddLife makes sense, because you gain from the knowledge of your acquired companies. Rather than destroying that, you get motivated people who contribute to the continued growth of the company, which is fundamental.
+The decentralized model like Danaher, [[Addtech]] or [[AddLife]] makes sense, because you gain from the knowledge of your acquired companies. Rather than destroying that, you get motivated people who contribute to the continued growth of the company, which is fundamental.
 
-### You have hit on a very important point. I have generally avoided companies who grow primarily through acquisition, which was the main reason why I set aside both [[Addtech]] and AddLife. You said acquisitions are fine, as long as they are decentralized which allows them to do it more often. My fear is that it works until it no longer does, meaning they overpay for an acquisition or there are cultural issues or some other breakdown. I am more curious from the [[Addtech]], AddLife viewpoint, not necessarily bioMérieux or DiaSorin?
+### You have hit on a very important point. I have generally avoided companies who grow primarily through acquisition, which was the main reason why I set aside both [[Addtech]] and [[AddLife]]. You said acquisitions are fine, as long as they are decentralized which allows them to do it more often. My fear is that it works until it no longer does, meaning they overpay for an acquisition or there are cultural issues or some other breakdown. I am more curious from the [[Addtech]], [[AddLife]] viewpoint, not necessarily bioMérieux or DiaSorin?
 
 At [[Addtech]], we not only grew by acquisition but most importantly organically. The first priority was always organic growth, then acquisition. If your target growth is 15% or 20% per year, it is difficult to grow organically so fast, if you are not a very niche market. [[Addtech]] was established in 1906 and have acquired more than 400 companies. They have a good model but nothing compared to Danaher who buy much bigger companies. They are not very agile because they bought Beckman and Leica which are very big companies. Conversely, look at Siemens with DPC or Bayer; they acquired those companies and are still struggling with integration 10 or 15 years later.
 

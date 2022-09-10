@@ -2,7 +2,7 @@
 
 **Chairman :** ![[Mark Leonard]]
 ## Subsidiaries
-- Topicus [[TOI]]
+- Topicus [[Topicus]]
 
 ## Annual Meetings
 [[CSU Annual Meeting 2019 Transcript]]
@@ -49,6 +49,8 @@
 
 [[The 10th Man Investment Thesis on CSU]]
 [[Constellation Software's Culture]] by Roy Lipovetzky
+[[Junto on Constellation Software]]
+
 
 ## Interviews with Operators
 [[Constellation Software - Culture and M&A]]

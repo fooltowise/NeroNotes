@@ -1,7 +1,7 @@
 # Value-Based Pricing
 
 by #InPractise 
-See [[TOI|Topicus]], [[Transdigm|Transdigm]]
+See [[Topicus|Topicus]], [[Transdigm|Transdigm]]
 
 [[Constellation Software]] and [[Transdigm]] have many similarities from the outside looking in: decentralised org structure, fragmented end markets, a core M&A roll up strategy, great capital allocators at the helm, etc. After spending some time researching both companies, one key strategy that both follow religiously is **value-based pricing.**
 
