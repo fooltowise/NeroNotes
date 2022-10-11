@@ -2,7 +2,7 @@
 
 **Chairman :** ![[Mark Leonard]]
 ## Subsidiaries
-- Topicus [[Topicus]]
+- [[Topicus]]
 
 ## Annual Meetings
 [[CSU Annual Meeting 2019 Transcript]]

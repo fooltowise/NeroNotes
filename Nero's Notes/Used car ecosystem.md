@@ -280,7 +280,7 @@ They can go there to get their car serviced and can borrow a car to continue dri
 
 ### Why?
 
-The short answer was financial engineering. The biggest comparable that Wall Street looks at KAR through the lens of is Copart which, as a salvage online auction, was worth two to three times what KAR, as a whole car and salvage business, was worth. They saw that as an opportunity to unlock value for their shareholders and spun it off as a separate public company and got out of the salvage business.
+The short answer was financial engineering. The biggest comparable that Wall Street looks at KAR through the lens of is [[Copart]] which, as a salvage online auction, was worth two to three times what KAR, as a whole car and salvage business, was worth. They saw that as an opportunity to unlock value for their shareholders and spun it off as a separate public company and got out of the salvage business.
 
 ### Manheim could not really compete either in salvage over the years?
 
@@ -288,7 +288,7 @@ Salvage for Manheim has always been an afterthought. TRA has been a small busine
 
 ### Are there any synergies between the two?
 
-We used to preach at KAR that there was a synergy between having the full ecosystem, from off lease to salvage. Regardless of the type of inventory you were trying to sell at wholesale, we had a solution for you. Whether that was an off lease, white labeled solution, on OPENLANE, or a totaled car salvage disaster recovery system, we could sell that car at salvage for you. But they were not getting paid for having that end-to-end ecosystem. Wall Street, for whatever reason, never valued KAR’s stock as an end-to-end service provider, off lease to salvage, as highly as Copart which one could argue are a pure play who are only salvage and only online.
+We used to preach at KAR that there was a synergy between having the full ecosystem, from off lease to salvage. Regardless of the type of inventory you were trying to sell at wholesale, we had a solution for you. Whether that was an off lease, white labeled solution, on OPENLANE, or a totaled car salvage disaster recovery system, we could sell that car at salvage for you. But they were not getting paid for having that end-to-end ecosystem. Wall Street, for whatever reason, never valued KAR’s stock as an end-to-end service provider, off lease to salvage, as highly as [[Copart]] which one could argue are a pure play who are only salvage and only online.
 
 ### What makes salvage more profitable or a better business than whole car?
 
@@ -302,31 +302,31 @@ Yes, it is a yard and can be out in the middle of nowhere, making the cost struc
 
 That is not what the buyer base is looking for. The buyer base at a whole car auction is looking for something they can as easily, quickly and profitably as possible, put on their lot and resell, rinse and repeat. The reason KAR got out of the salvage business was really a financial play to unlock the value of that salvage business.
 
-### Is there any risk to Copart?
+### Is there any risk to [[Copart]]?
 
-I do not think so. In this country at least, and in the other parts of the world where both IAA and Copart operate, there is a duopoly with enough business for both of them. Insurance providers are their biggest customers and generally spread out their business among salvage providers. There are only a handful of exclusivity arrangements between Copart and State Farm, GEICO and IAA. For the most part, they share the business between those two entities. They do however compete for the exclusive arrangements which a couple of the insurance providers have.
+I do not think so. In this country at least, and in the other parts of the world where both IAA and [[Copart]] operate, there is a duopoly with enough business for both of them. Insurance providers are their biggest customers and generally spread out their business among salvage providers. There are only a handful of exclusivity arrangements between [[Copart]] and State Farm, GEICO and IAA. For the most part, they share the business between those two entities. They do however compete for the exclusive arrangements which a couple of the insurance providers have.
 
-Commercial accounts at whole car are locked into a contract based on volume and salvage auction providers count on that volume. You are starting to see a differentiation around disaster recovery because, unfortunately, natural disasters are becoming more common. You had five or six named storms in the Gulf of Mexico, this year alone. Three or four of them hit within 150 miles of each other, along the Texas Louisiana Mississippi Gulf Coast. Lots of flooded cars and the insurance providers that do business with Copart and IAA expect those salvage auctions to have their back when they have a bunch of loss in those areas.
+Commercial accounts at whole car are locked into a contract based on volume and salvage auction providers count on that volume. You are starting to see a differentiation around disaster recovery because, unfortunately, natural disasters are becoming more common. You had five or six named storms in the Gulf of Mexico, this year alone. Three or four of them hit within 150 miles of each other, along the Texas Louisiana Mississippi Gulf Coast. Lots of flooded cars and the insurance providers that do business with [[Copart]] and IAA expect those salvage auctions to have their back when they have a bunch of loss in those areas.
 
-### How do you compare the competitive advantage of Copart in salvage and ADESA or Manheim in whole car?
+### How do you compare the competitive advantage of [[Copart]] in salvage and ADESA or Manheim in whole car?
 
-20% of cars sold at IAA or Copart auctions are in that whole car category, that run and drive category. So they are chipping away at the whole car business, but generally speaking, they do not have the reconditioning or inspection infrastructure.
+20% of cars sold at IAA or [[Copart]] auctions are in that whole car category, that run and drive category. So they are chipping away at the whole car business, but generally speaking, they do not have the reconditioning or inspection infrastructure.
 
 ### Is that 20% driven domestically or can they also be driven or taken abroad?
 
-My hunch is it is domestic and a domestic number but I cannot recall off the top of my head. Copart have several businesses; one in Dallas called CrashedToys, where they sell exotic cars which have been dented and the owner said, I no longer want my scratched Lamborghini.
+My hunch is it is domestic and a domestic number but I cannot recall off the top of my head. [[Copart]] have several businesses; one in Dallas called CrashedToys, where they sell exotic cars which have been dented and the owner said, I no longer want my scratched Lamborghini.
 
 ### Is there any reason why they cannot get into the whole car market though?
 
-There is no reason they cannot, but within their business where I see the opportunity would be in that virtual whole car auction. So could a Copart compete, in certain markets, with rough rental cars for an Enterprise or a Hertz? Could they make a bid on more of that off rental fleet business with their virtual platforms? Perhaps.
+There is no reason they cannot, but within their business where I see the opportunity would be in that virtual whole car auction. So could a [[Copart]] compete, in certain markets, with rough rental cars for an Enterprise or a Hertz? Could they make a bid on more of that off rental fleet business with their virtual platforms? Perhaps.
 
 ### That would also compete with Carvana?
 
-Yes; Copart have done very well and their stock is way up this year. Why mess with success, would be the flip side of that coin. You could and maybe in some markets, like a Dallas, where they have tried to chip away at whole car, you might drive some additional business and revenue by opening up your market to more whole cars. ADESA and Manheim are not everywhere. There are probably markets where you could make inroads. Their stock price is way up and they have billions of dollars in their coffers.
+Yes; [[Copart]] have done very well and their stock is way up this year. Why mess with success, would be the flip side of that coin. You could and maybe in some markets, like a Dallas, where they have tried to chip away at whole car, you might drive some additional business and revenue by opening up your market to more whole cars. ADESA and Manheim are not everywhere. There are probably markets where you could make inroads. Their stock price is way up and they have billions of dollars in their coffers.
 
-You could buy an independent auction and simply M&A your way into the whole car business and as disruption happens in the whole car business, some of your smaller mom and pops independent whole car auctions might struggle. They have been in a family owned situation for generations and it is time to get out of this game because they cannot build infrastructure like a Trade Rev. They are not a technology company like Manheim, who have an entire IT department. Copart could pick up whole car auctions but so could ADESA and Manheim, but they have probably reached a point in their scale where the regulators would look more closely at them purchasing more physical auctions.
+You could buy an independent auction and simply M&A your way into the whole car business and as disruption happens in the whole car business, some of your smaller mom and pops independent whole car auctions might struggle. They have been in a family owned situation for generations and it is time to get out of this game because they cannot build infrastructure like a Trade Rev. They are not a technology company like Manheim, who have an entire IT department. [[Copart]] could pick up whole car auctions but so could ADESA and Manheim, but they have probably reached a point in their scale where the regulators would look more closely at them purchasing more physical auctions.
 
-ADESA just got away with buying BacklotCars because there is not that restriction in the digital space. I would say there is more M&A opportunity on the digital side but that is not to say that Copart could not pick up some independent whole car auctions. Let’s say they needed land in a market where they were under serving their insurance customers in Texas, Louisiana or Mississippi.
+ADESA just got away with buying BacklotCars because there is not that restriction in the digital space. I would say there is more M&A opportunity on the digital side but that is not to say that [[Copart]] could not pick up some independent whole car auctions. Let’s say they needed land in a market where they were under serving their insurance customers in Texas, Louisiana or Mississippi.
 
 ### Returning back to the whole car competitive advantage, clearly the relationships with the commercial side and sellers, the services and reconditioning you provide them but more importantly the buyer network and providing scale and profitability is crucial for them. How do you see that evolving?
 

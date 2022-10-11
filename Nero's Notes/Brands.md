@@ -14,5 +14,6 @@ Differentiation and customer attachment allows for premium pricing and potential
 [[Using a powerful brand to drive growth]]
 [[Brand Portfolio Companies]]
 [[Longevity of brands]]
+[[Why does branding work]]
 
 

@@ -175,7 +175,7 @@ Every time, there should be a deliverable and that has to be done fast. The defi
 
 ### How did you price those new features?
 
-It was difficult; that is always a challenge. I did quite a lot of price module calculations. The best thing is, because you have the early adopters group, you give them a specific fee which you know will be a massive discount for them. You do not set the business module yet. You just say to them, okay, we are going to make sure that other people are going to pay more than you. But if they outcome is that they are going to pay less than you, because we can’t sell it, you will also get a discount.
+It was difficult; that is always a challenge. I did quite a lot of price module calculations. The best thing is, because you have the early adopters group, you give them a specific fee which you know will be a massive discount for them. You do not set the business module yet. You just say to them, okay, we are going to make sure that other people are going to pay more than you. But if the outcome is that they are going to pay less than you, because we can’t sell it, you will also get a discount.
 
 Firstly, you want to understand what it is in the software that is generating the value. You want to have a baseline and then you want to try to generate a price module on top of the times that the value is generated. It can be a click; it could be a download of electronic patient file; it could be the amount of medicines that have been ordered, because there is direct value.
 

@@ -78,7 +78,7 @@
 	- Low cost - Economies of scale
 	- Low cost - Scale Economics Shared
 	- Switching costs
-	- Being the gold standard (MSCI, S&P, Moody's,...)
+	- Being the gold standard ([[MSCI]], S&P, Moody's,...)
 	- Network Effects
 	- Aggregators
 	- Culture

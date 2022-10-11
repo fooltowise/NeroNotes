@@ -6,6 +6,9 @@
 - [[The History of x86, ARM, & Amazon's Graviton Processor]]
 
 
+- [[Scuttleblurb on Microsoft]]
+- 
+
 
 ## Microsoft history
 - [[Microsoft’s 1997 Toll Bridge Business and Why Warren Buffett Didn’t Invest in It]]

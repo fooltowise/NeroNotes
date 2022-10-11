@@ -101,7 +101,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 - Evercore
 - Moody's  
 - Morningstar
-- Msci  
+- [[Msci]]  
 - Nasdaq
 - S&P Global
 - Deutsche Börse
@@ -124,7 +124,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 
 ### Commercial Services and Supplies
 
-- Copart
+- [[Copart]]
 - Rolins
 
 ### Food and Staples Retailing

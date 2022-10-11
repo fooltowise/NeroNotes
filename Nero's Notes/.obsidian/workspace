@@ -4,38 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a9a2ca2775b88437",
+        "id": "d7870851d7eec872",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "List of Serial Acquirers.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1cac8d3e7b83baf6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Demesne Investments.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c6030d1605363bd1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Practice Makes Perfect.md",
+            "file": "Factset, London Stock Exchange and Refinitiv.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -67,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "teqnion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practice Makes Perfect.md",
+                "file": "Factset, London Stock Exchange and Refinitiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practice Makes Perfect.md",
+                "file": "Factset, London Stock Exchange and Refinitiv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practice Makes Perfect.md"
+                "file": "Factset, London Stock Exchange and Refinitiv.md"
               }
             }
           },
@@ -158,25 +132,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "c6030d1605363bd1",
+  "active": "d7870851d7eec872",
   "lastOpenFiles": [
-    "Demesne Investments.md",
-    "List of Serial Acquirers.md",
-    "Once Upon a Time in Sweden.md",
-    "Bergman & Beving.md",
-    "Momentum Group.md",
-    "Addlife.md",
-    "Addtech, Addlife, & Nordic Value-added Distribution.md",
-    "Addtech & B2B Industrial Distribution.md",
-    "Addtech - The History of Bergman & Beving.md",
-    "Lagercrantz.md"
+    "London Stock Exchange.md",
+    "Factset, London Stock Exchange and Refinitiv.md",
+    "Factset.md",
+    "Visa.md",
+    "Visa, Mastercard - Expanding the rails, part 2.md",
+    "Mastercard.md",
+    "Visa, Mastercard - Expanding the rails, part 1.md",
+    "Microsoft.md",
+    "Scuttleblurb on Microsoft.md",
+    "Scuttleblurb again on Copart.md"
   ]
 }

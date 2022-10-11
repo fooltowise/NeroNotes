@@ -144,7 +144,7 @@ As per Mark Leonard from [[Constellation Software]]:
 
 It’s worth pointing out that as sidecars investors, we\`re participating on a different time scale. Welcome to the business time scale where value creation comes in spurts rather than a smooth line and where the path to riches doesn’t correlate perfectly with the incentives of the marginal price setter.
 
-Case in point from Swedish Lifco (a generalist acquirer): how can you intelligently incorporate these lumpy acquisitions in a DCF-model? For the record, ROIC has averaged >20% including goodwill.
+Case in point from Swedish [[Lifco]] (a generalist acquirer): how can you intelligently incorporate these lumpy acquisitions in a DCF-model? For the record, ROIC has averaged >20% including goodwill.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93ec6673-350e-4eba-bce0-59a82d14cdef_1074x730.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93ec6673-350e-4eba-bce0-59a82d14cdef_1074x730.png)
 

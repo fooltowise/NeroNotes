@@ -4,7 +4,7 @@ by #InPractise
 
 Disclaimer: This interview is for informational purposes only and should not be relied upon as a basis for investment decisions. In Practise is an independent publisher and all opinions expressed by guests are solely their own opinions and do not reflect the opinion of In Practise.
 
-### I have a fund and we own Copart, so am always interested in learning more about what it's like working with them and your thoughts about the future of that industry, how things are changing and their competitive position. The best place to start is to talk about your background as you have 20 years of experience.
+### I have a fund and we own [[Copart]], so am always interested in learning more about what it's like working with them and your thoughts about the future of that industry, how things are changing and their competitive position. The best place to start is to talk about your background as you have 20 years of experience.
 
 I spent 20 years with CarMax in the used space, almost all on the operations side. Everything from running locations to doing multiple grand openings, working at a regional level across 20 to 24 locations at any time with oversight on those. I was involved in many special projects and initiatives, everything from cosmetic, mechanical and quality standards to service drive, customer service execution and the logistical side of the omnichannel offering.
 
@@ -12,39 +12,39 @@ I spent 20 years with CarMax in the used space, almost all on the operations sid
 
 Omnichannel at CarMax was their answer to Carvana, Shift and Vroom, all the online-only used cars. They allowed customers to start online, transition to in-store then back online, or start in-store and transition to online, or do it in only one place. That gave customers the ability to choose how their purchase experience occurred. They did a lot of back-office work around logistics, creating a hub and spoke and delivery at store to customers. Prior to CarMax, I spent 10 years in the tire, battery and related services industry at a company which was eventually bought by Sears. There, I had both store-level and district-level roles and also worked on special projects.
 
-I left CarMax and jumped on board with a company owned by Copart focused on ADAS technology and I worked as their director of operations, then also took over the mobile division, which I scaled from 8 to 33 markets in six months. Some of that was through acquisition but also through strategic planning. If we were in Houston and Dallas, we went after San Antonio, and from Austin we went to El Paso. I was involved in everything from staffing, equipment, strategy and the customer aspect. I also operated a call center during that time and developed scale around how to schedule calibrations and other mobile services, effectively turning that into a solid revenue stream for the company.
+I left CarMax and jumped on board with a company owned by [[Copart]] focused on ADAS technology and I worked as their director of operations, then also took over the mobile division, which I scaled from 8 to 33 markets in six months. Some of that was through acquisition but also through strategic planning. If we were in Houston and Dallas, we went after San Antonio, and from Austin we went to El Paso. I was involved in everything from staffing, equipment, strategy and the customer aspect. I also operated a call center during that time and developed scale around how to schedule calibrations and other mobile services, effectively turning that into a solid revenue stream for the company.
 
-### My notes say you were a big customer of Copart while at CarMax?
+### My notes say you were a big customer of [[Copart]] while at CarMax?
 
-CarMax used to buy parts from Copart. CarMax lived with a mindset of Like Kind Quality and LKQ is one of Copart's big competitors. That meant you were always looking for the dismantlers and salvage lots to find a part which still had usable life, to save money and pass along the quality to the customer. During my time with CarMax, one of the initiatives I was a part of was to test the in-store provider network where they brought in NAPA, Advance and AutoZone, so I worked with all three formats, to understand how that worked and how they became a preferred vendor for us. We also used Copart and others for reconditioned parts.
+CarMax used to buy parts from [[Copart]]. CarMax lived with a mindset of Like Kind Quality and LKQ is one of [[Copart]]'s big competitors. That meant you were always looking for the dismantlers and salvage lots to find a part which still had usable life, to save money and pass along the quality to the customer. During my time with CarMax, one of the initiatives I was a part of was to test the in-store provider network where they brought in NAPA, Advance and AutoZone, so I worked with all three formats, to understand how that worked and how they became a preferred vendor for us. We also used [[Copart]] and others for reconditioned parts.
 
-### LKQ is also a customer of Copart.
+### LKQ is also a customer of [[Copart]].
 
 Awesome.
 
 ### With CarMax, how did that work with buying parts? I assume they're not buying used cars on the online platform and doing it themselves?
 
-No, they would work through the network to get parts through Copart to be able to use the parts on the vehicles. Instead of buying the whole car, you wanted a specific part. Many times, you're looking for what I call hard parts, items like fenders, doors or wheels which don't always have technology wrapped up in them. We would go to Copart or LKQ because we had confidence in them and didn't have to worry about doing any bench tests on components.
+No, they would work through the network to get parts through [[Copart]] to be able to use the parts on the vehicles. Instead of buying the whole car, you wanted a specific part. Many times, you're looking for what I call hard parts, items like fenders, doors or wheels which don't always have technology wrapped up in them. We would go to [[Copart]] or LKQ because we had confidence in them and didn't have to worry about doing any bench tests on components.
 
 ### Was that all done online?
 
 Yes, predominantly online or the old-fashioned way; using the phone. Very rarely, would we send somebody to a facility to pick up the part, but occasionally, if you had a heat case where you needed that part right away, maybe a customer was on the other side of that, then yes you would run over to a lot and pick that part up and run it back over.
 
-### For that service, you used Copart and LKQ; were there others?
+### For that service, you used [[Copart]] and LKQ; were there others?
 
 Those were the primary ones due to their reputation. If you had an issue, you always knew you could take it back and they would work with you. You weren't stuck with a part that said it fit a 2015 but it only fit up to a 2014.
 
-### What were some of the differences between dealing with Copart and LKQ?
+### What were some of the differences between dealing with [[Copart]] and LKQ?
 
 The biggest difference we noticed was LKQ were tailored more towards walk-in customers, so they stripped parts further back. With doors for example, if all you needed was the interior components, they would strip it down so you didn't have to buy the whole door. That was one advantage with LKQ, but the flip side is that, often, you would buy one part and realize you needed others. Sometimes you wish you bought the whole door for $100 extra, because, in the process of doing the repair, you broke something or realized there was a part missing due to a previous repair.
 
-### You worked in the auto diagnostic business; how does that tie in with Copart and accidents or how does that work?
+### You worked in the auto diagnostic business; how does that tie in with [[Copart]] and accidents or how does that work?
 
 The biggest tie in I saw was the ability to work with DRPs and insurers and become a trusted partner by doing the scans. asTech® has proprietary information where they basically scan the device using the internet. You can have a technician in Texas scanning a car in California, or a Californian technician scanning a car in New York. As a result, you are able to give the customer reports both pre and post-repair to validate that everything was done.
 
 Initially, your focus is around the ADAS technology, but by scanning that car you can see all the trouble codes which are present, which is critical in the repair collision industry because repairing a car back to standard is huge for the customer and gives them peace of mind. You tell the shop which components they need to replace and ensure a sensor is re-calibrated or replaced. You can give them a detailed view of the vehicle without them removing any panels. They may have a damaged bumper but, before removing it, they want to know what else to order, as opposed to consistently reordering because that takes time. The insurance industry wants the car repaired as quickly as possible because they are tying up a bay at the shop and the customer is in a rental.
 
-When we worked with a shop, they knew we were part of Copart so there wasn't necessarily a selling aspect where asTech® said they should use Copart. We simply told them these are the parts they will need and make sure to use a reputable provider who guarantee their parts. Sensors and other components need to meet standards for the insurance company and DRPs don't want to lose their status, so they stay within parameters. Becoming an approved DRP vendor leveraged the partnership between asTech® and Copart.
+When we worked with a shop, they knew we were part of [[Copart]] so there wasn't necessarily a selling aspect where asTech® said they should use [[Copart]]. We simply told them these are the parts they will need and make sure to use a reputable provider who guarantee their parts. Sensors and other components need to meet standards for the insurance company and DRPs don't want to lose their status, so they stay within parameters. Becoming an approved DRP vendor leveraged the partnership between asTech® and [[Copart]].
 
 ### Is DRP the Direct Repair Program?
 
@@ -92,7 +92,7 @@ One that jumps out as the biggest is AirPro Diagnostics out of Florida.
 
 AirPro is a solid company and probably the largest competitor for asTech®. asTech® have done a nice job of partnering with many big people. They have an alignment with Gerber Collision & Glass as well as Safelite. There are many small to mid-tier players, such as Caliber Collision who are Dallas based and recently acquired one whose name escapes me. There are several here in the Dallas Fort Worth area that have spun up over the years because they are former asTech® people who have gone out and started on their own. There are many who are either in a startup phase or still scaling and moving forward.
 
-### How do they differentiate from each other? Is the technology relatively basic and everyone has the same tech and it's a matter of relationships with Safelite and Copart, or are there other aspects of the technology which are vastly different?
+### How do they differentiate from each other? Is the technology relatively basic and everyone has the same tech and it's a matter of relationships with Safelite and [[Copart]], or are there other aspects of the technology which are vastly different?
 
 The technology, for all intents and purposes, is the same with a few differentiators. Doing mobile service on your lot is a differentiator, whether at a dealership or collision center, as you are providing them with another way to make money by using a third party. Many smaller entities go into that mobile space because it becomes too costly for the bigger ones due to the overheads they have to commit. They have to park technicians in shops who are not always kept busy, whereas with a moving van you can schedule appointments throughout the day.
 
@@ -122,15 +122,15 @@ With supply and demand impacted by Covid and dealership lots getting bigger and 
 
 I recently had a conversation with a friend who is still in the used car space. We spent time together at CarMax in the early 2000s and were both in North Carolina, opening several stores, and we had a bunch of Daewoos. We had been working with a corporate initiative on, do we collect all the Daewoos we can and turn them into our loaner fleet? The thought was, yes, because now their value is tanking and they're not very reliable, but if we have a whole fleet of them and store them somewhere, we can simply take parts from them as we need them. But the decision was no because, from a customer service lens, not many customers who bought a Mercedes or BMW would be thrilled getting a Daewoo as a loaner.
 
-The big challenge today is, how to balance all these peaks and valleys in the car business. You see a bunch of cars hitting the market which all get bought up, whether used or new. Then the inventories get depleted and values are driven up again. That drives up repair costs if fewer cars are available. Copart buys vehicles from many different avenues but if they are no longer running through the sale for scrap, and instead used car retailers like CarMax and Carvana are holding onto those cars and putting more money into them to make them a vehicle to sell, so they can acquire one more customer, that takes a car out of Copart's inventory.
+The big challenge today is, how to balance all these peaks and valleys in the car business. You see a bunch of cars hitting the market which all get bought up, whether used or new. Then the inventories get depleted and values are driven up again. That drives up repair costs if fewer cars are available. [[Copart]] buys vehicles from many different avenues but if they are no longer running through the sale for scrap, and instead used car retailers like CarMax and Carvana are holding onto those cars and putting more money into them to make them a vehicle to sell, so they can acquire one more customer, that takes a car out of [[Copart]]'s inventory.
 
 ### It's also the accident rate itself and miles driven; it's all these variables.
 
-The acquisition of ADESA by Carvana is a big move because it gives them a resource of vehicles to repair and recondition. Everybody initially thought this was so they can recon cars, but it's not solely that. It basically gives them a bone yard, if you will, to where, if their car is at that auction and they feel they can harvest parts from it, they will. That could potentially take Copart out of the mix, but I don't know if they're savvy enough quite honestly. Anybody in the financial space can do the math on that but it definitely changes the game. There are also rental car players who have been buying used cars to re-fleet after de-fleeting.
+The acquisition of ADESA by Carvana is a big move because it gives them a resource of vehicles to repair and recondition. Everybody initially thought this was so they can recon cars, but it's not solely that. It basically gives them a bone yard, if you will, to where, if their car is at that auction and they feel they can harvest parts from it, they will. That could potentially take [[Copart]] out of the mix, but I don't know if they're savvy enough quite honestly. Anybody in the financial space can do the math on that but it definitely changes the game. There are also rental car players who have been buying used cars to re-fleet after de-fleeting.
 
-### What do you think about the possibility of Copart selling used cars?
+### What do you think about the possibility of [[Copart]] selling used cars?
 
-That would be a smart move because Copart have a good image in the industry and everybody sees them in a positive light. They are not seen as a salvage yard or dismantler but a parts supplier. The minute somebody sees you as a dismantler, they think of a wrecking yard with cranes and cars going to the smasher; they don't think of how it drives the repair industry by giving more fair pricing to consumers. Everybody thinks CarMax and Carvana are huge and have this unbelievable market share but they don't; they're sub 10% market share. That pie in the used car industry is huge, a small 5% to 10% sliver of that is several billion a year, so if it was me, I would jump all over it, because it's not hard to get into that space.
+That would be a smart move because [[Copart]] have a good image in the industry and everybody sees them in a positive light. They are not seen as a salvage yard or dismantler but a parts supplier. The minute somebody sees you as a dismantler, they think of a wrecking yard with cranes and cars going to the smasher; they don't think of how it drives the repair industry by giving more fair pricing to consumers. Everybody thinks CarMax and Carvana are huge and have this unbelievable market share but they don't; they're sub 10% market share. That pie in the used car industry is huge, a small 5% to 10% sliver of that is several billion a year, so if it was me, I would jump all over it, because it's not hard to get into that space.
 
 ### What other trends do you think are important or have been significant?
 
