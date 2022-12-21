@@ -24,4 +24,4 @@
 
 
 ### Other questions:
-- How does it affect memory chips manufacturers? Why are all the famous investors invested in Micron Technology Inc, a manufacturer of DRAM memory chips? (Li Lu, Seth Klarman, [[Guy Spier]], Mohnish Pabrai, Prem Watsa, David Tepper...)
+- How does it affect memory chips manufacturers? Why are all the famous investors invested in Micron Technology Inc, a manufacturer of DRAM memory chips? (Li Lu, Seth Klarman, [[Guy Spier]], [[Mohnish Pabrai]], Prem Watsa, David Tepper...)

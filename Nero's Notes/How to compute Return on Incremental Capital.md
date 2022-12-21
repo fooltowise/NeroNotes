@@ -16,7 +16,7 @@ I amalgamated a few of my responses to comments and emails into some thoughts us
 
 **_Return on “Incremental” Invested Capital_**
 
-It’s simple to calculate ROIC: some use earnings (or some measure of bottom line cash flow) divided by total debt and equity. Some, like Joel Greenblatt, want to know how much tangible capital a business uses, so they define ROIC as earnings (or sometimes pretax earnings before interest payments) divided by the working capital plus net fixed assets (which is basically the same as adding the debt and equity and subtracting out goodwill and intangible assets). Usually we’ll want to subtract excess cash from the capital calculation as well, as we want to know how much capital a business actually needs to finance its operations.
+It’s simple to calculate ROIC: some use earnings (or some measure of bottom line cash flow) divided by total debt and equity. Some, like [[Joel Greenblatt]], want to know how much tangible capital a business uses, so they define ROIC as earnings (or sometimes pretax earnings before interest payments) divided by the working capital plus net fixed assets (which is basically the same as adding the debt and equity and subtracting out goodwill and intangible assets). Usually we’ll want to subtract excess cash from the capital calculation as well, as we want to know how much capital a business actually needs to finance its operations.
 
 But however we precisely measure ROIC, it usually only tells us the rate of return the company is generating on capital that has already been invested (sometimes many years ago). Obviously, a company that produces high returns on capital is a good business, but what we want to know is how much money the company can generate going forward on future capital investments. The first step in determining this is to look at the rate of return the company has generated on incremental investments recently.
 
@@ -36,7 +36,7 @@ In the subsequent 10 years, the company invested roughly $35 billion of addition
 
 Using that incremental $35 billion they were able to grow earnings by about $3.5 billion (earnings grew from $11.2 billion in 2006 to around $14.7 billion in 2016). So in the past 10 years, [[Walmart]] has seen a rather mediocre return of about 10% on the capital that it has invested during that time.
 
-_Note: I’m simply defining total capital invested as the sum of the debt (including capitalized leases) and equity capital less the goodwill (so I’m estimating the tangible capital [[Walmart]] is operating with). I’ve previously referenced Joel Greenblatt’s book where he uses a different formula (working capital + net fixed assets), but this is just using a different route to arrive at the same basic figure for tangible capital._
+_Note: I’m simply defining total capital invested as the sum of the debt (including capitalized leases) and equity capital less the goodwill (so I’m estimating the tangible capital [[Walmart]] is operating with). I’ve previously referenced [[Joel Greenblatt]]’s book where he uses a different formula (working capital + net fixed assets), but this is just using a different route to arrive at the same basic figure for tangible capital._
 
 _There are numerous ways to calculate both the numerator and denominator in the ROIC calculation, but for now, stay out of the weeds and just focus on the concept: how much cash can be generated from a given amount of capital that is invested in the business? That’s really what any business owner would want to know before making any decision to spend money._
 

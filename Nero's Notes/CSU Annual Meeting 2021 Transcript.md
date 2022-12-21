@@ -526,7 +526,7 @@ I think it will. So what happened with -- let's take TSS as an example, as this 
 
 Unknown Executive
 
-Right. And I don't know if you can -- you can say this, but the FICO acquisition yesterday, that Jonas closed -- is that -- was that Jonas led and head office supported? Or...
+Right. And I don't know if you can -- you can say this, but the [[FICO]] acquisition yesterday, that Jonas closed -- is that -- was that Jonas led and head office supported? Or...
 
 Mark Leonard
 
@@ -1302,7 +1302,7 @@ Jamal Baksh
 
 You want me to say something here, Larry, yes? I mean we -- I get a request for this information all the time. It's extremely difficult to try to respond. Like we are a conglomerate of thousands of business units, all doing different things, all might be doing certain activities from an ESG perspective. And for me to try to compile it and record it at a Constellation level is almost impossible. And that being said, we're getting more and more requests, and we know we need to deal with it. And people are voting certain ways, et cetera.
 
-And so -- well, Larry, I'll put it back to you as well. You -- we sort of decided, it's okay. Well, look, there are things being done throughout the organization. And we are now going to try to make an effort to try to compile that information and put together some sort of a document that we can publish on our website that says, look, we're not ignoring this. It's just that we can't respond to some of these questionnaires that come from CPD or MCSI (sic) \[ MSCI \], whatever it's called, I can't remember it now, but that -- but things are being done. And so rather than just saying no or not responding, at least then we can point to the stock and to say, "Look, the Constellation and the businesses within Constellation do -- definitely, from a diversity and inclusion perspective, things are being done at the operating groups. Maybe not so much from a carbon emission perspective, but definitely on the social side.
+And so -- well, Larry, I'll put it back to you as well. You -- we sort of decided, it's okay. Well, look, there are things being done throughout the organization. And we are now going to try to make an effort to try to compile that information and put together some sort of a document that we can publish on our website that says, look, we're not ignoring this. It's just that we can't respond to some of these questionnaires that come from CPD or MCSI (sic) \[ [[MSCI]] \], whatever it's called, I can't remember it now, but that -- but things are being done. And so rather than just saying no or not responding, at least then we can point to the stock and to say, "Look, the Constellation and the businesses within Constellation do -- definitely, from a diversity and inclusion perspective, things are being done at the operating groups. Maybe not so much from a carbon emission perspective, but definitely on the social side.
 
 And then from a governance -- I think we can -- we're comfortable in the governance of our Board, et cetera. But Larry, I don't know if you want to -- because I know you sort of were spearheading this from a Board perspective.
 

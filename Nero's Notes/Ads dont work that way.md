@@ -87,13 +87,13 @@ To summarize:
 Cultural imprinting = shallow emotional inception + common knowledge → inception into consensus reality
 
 AD EXAMPLES
-Let's look at a few concrete examples. Here's a Nike ad:
+Let's look at a few concrete examples. Here's a [[Nike]] ad:
 
 [nike_ad]
 
-The emotional inception story goes like this: The above ad creates an association between the Nike brand and the idea of athletic excellence. Over time and with enough exposure, the customer will internalize this association. And because he personally values athletic excellence, he'll begin to feel favorably disposed to the Nike brand and products. Later, when the customer is shoe-shopping, these positive associations and emotions will, at the margin, tip him toward buying a Nike shoe.
+The emotional inception story goes like this: The above ad creates an association between the [[Nike]] brand and the idea of athletic excellence. Over time and with enough exposure, the customer will internalize this association. And because he personally values athletic excellence, he'll begin to feel favorably disposed to the [[Nike]] brand and products. Later, when the customer is shoe-shopping, these positive associations and emotions will, at the margin, tip him toward buying a [[Nike]] shoe.
 
-The cultural imprinting story goes like this: The above ad creates an association between the Nike brand and the idea of athletic excellence. (So far, so similar.) Over time and with enough exposure, the customer will realize that "Nike" is synonymous with "athletic excellence" out in the broader culture. Later, when he's shopping for shoes, his brain will use this information (intuitively) to predict what his peers will think of him if he shows up on the court wearing Nike shoes (vs. wearing some other brand). At the margin, this will tip him toward buying Nike.
+The cultural imprinting story goes like this: The above ad creates an association between the [[Nike]] brand and the idea of athletic excellence. (So far, so similar.) Over time and with enough exposure, the customer will realize that "[[Nike]]" is synonymous with "athletic excellence" out in the broader culture. Later, when he's shopping for shoes, his brain will use this information (intuitively) to predict what his peers will think of him if he shows up on the court wearing [[Nike]] shoes (vs. wearing some other brand). At the margin, this will tip him toward buying [[Nike]].
 
 Here's another ad, a kind of public-service health message:
 

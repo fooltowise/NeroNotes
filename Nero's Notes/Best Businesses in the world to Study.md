@@ -12,32 +12,32 @@ See also [[Great Businesses I'd like to own]]
 | [[Walmart]]             | Using technology early, strategic expansion, economies of scale      |
 |  [[Costco]]   | Aligning the whole business to offer the proposed customer value     |
 | [[Home Depot]]          | A niche can be pretty big when served well for decades               |
-| Tractor Supply ([[TSCO]])    | Focusing on your demographic                                         |
-| Apple ([[AAPL]])             | How they rode iPhone success to global domination                    |
+| [[Tractor Supply]]   | Focusing on your demographic                                         |
+| [[Apple]]             | How they rode iPhone success to global domination                    |
 | [[Microsoft]]          | Proving the power of software                                        |
-| Adobe ([[ADBE]])             | Sticky services and early adoption to cloud                          |
-| McDonald's([[MCD]])          | Offering convenience, affordability and consistency for decades      |
-| Starbucks ([[SBUX]])         | Business model innovation around an existing product                 |
-| Nike ([[NKE]])               | Branding, endorsement and quality                                    |
-| United Health ([[UNH]])      | Adapting to changing regulatory landscape                            |
+| [[Adobe]]             | Sticky services and early adoption to cloud                          |
+| [[McDonald's]]          | Offering convenience, affordability and consistency for decades      |
+| [[Starbucks]]          | Business model innovation around an existing product                 |
+| [[Nike]]                | Branding, endorsement and quality                                    |
+| [[United Health]]      | Adapting to changing regulatory landscape                            |
 | [[Heico]]              | Offering low priced but high value products to your customer         |
 | [[Copart]]            | Creating both physical and digital moats                             |
-| Cintas ([[CTAS]])            | Boring can be beautiful                                              |
-| [[Danaher]] (DHR)            | Process and culture                                                  |
+| [[Cintas]]           | Boring can be beautiful                                              |
+| [[Danaher]]             | Process and culture                                                  |
 | [[Roper]]               | Process and culture                                                  |
-| NVR ([[NVR]])                | Differentiated business model                                        |
-| Pool Corp ([[Pool Corp]])         | Efficient roll-up strategy in a niche                                |
-| Brookfield ([[BAM]])         | Smart capital allocation                                             |
+| [[NVR]]                | Differentiated business model                                        |
+| [[Pool Corp]]         | Efficient roll-up strategy in a niche                                |
+| [[Brookfield]]         | Smart capital allocation                                             |
 | [[Autozone]]            | Smart capital allocation in a low growth industry                    |
-| Tyler Technologies ([[TYL]]) | Combination of long-term gov contracts and software can be lucrative |
-| Charles Schwab ([[SCHW]])    | Adapting to a changing regulatory landscape                          |
-| Taiwan Semi  ([[TSMC]])      | Manufacturing Muscle                                                 |
-| Novo Nordisk  ([[NVO]])      | Focusing on one area of healthcare                                   |
-| Monster Beverage ([[MNST]])  | Branding and distribution                                            |
+| [[Tyler Technologies]] | Combination of long-term gov contracts and software can be lucrative |
+| [[Charles Schwab]]    | Adapting to a changing regulatory landscape                          |
+| [[TSMC]]     | Manufacturing Muscle                                                 |
+| [[Novo Nordisk]]       | Focusing on one area of healthcare                                   |
+| [[Monster Beverage]] | Branding and distribution                                            |
 | Fair Isaac ([[FICO]])        | Plugging yourself into a critical/regulated process                  |
-| Nextera Energy ([[NEE]])     | Staying ahead of the game even in an old industry                    |
-| Vail Resorts ([[MTN]])       | Developing a moat around hard to replicate assets                    |
-|                              |                                                                      |
+| [[Nextera Energy]]   | Staying ahead of the game even in an old industry                    |
+| [[Vail Resorts]]       | Developing a moat around hard to replicate assets                    |
+
 
 ## New Companies
 
@@ -62,7 +62,7 @@ See also [[Great Businesses I'd like to own]]
 | [[Constellation Software]] | Quiet execution and an integration machine                                                          |
 | Lululemon ([[LULU]])             | Dismissed as a fad, but built a durable brand with quality products & big fanbase                   |
 | MercadoLibre ([[MELI]])          | Doing the hard things the right way to succeed in a region with high failure rate                   |
-| [[MSCI]]/[[SPGI]]                | Being the data provider to wealthy clients can be lucrative                                         |
+| [[MSCI]]/[[Standard & Poor's]]                | Being the data provider to wealthy clients can be lucrative                                         |
 | Service Now ([[NOW]])            | Becoming a critical part of customer technology stack                                               |
 | Atlassian ([[TEAM]])             | Succeeding thru R&D and good products and not a salesforce driven approach                          |
 | Shopify ([[SHOP]])               | Focus on the merchants, executing on hyper growth and optionality                                   |

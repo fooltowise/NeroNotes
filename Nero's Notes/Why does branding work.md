@@ -1,6 +1,6 @@
 # Why does branding work
 
-Why does branding work? Charlie Munger’s framework of models from social psychology and a few models from microeconomics provide the answer.
+Why does branding work? [[Charlie Munger]]’s framework of models from social psychology and a few models from microeconomics provide the answer.
 
 The models from psychology are:
 1.  Liking: We love the brand ambassadors and want to buy what they want us to buy.

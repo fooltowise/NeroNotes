@@ -10,7 +10,7 @@ The easy, safe, logical options have most likely all been tried, so our journey 
 
 Non-consensus ideas have to be lonely. By definition, non-consensus ideas that are popular, widely held or intuitively obvious are an oxymoron. Thus, such ideas are uncomfortable; non-conformists don’t enjoy the warmth that comes with being at the center of the herd.
 
-– Howard Marks, Dare to Be Great
+– [[Howard Marks]], Dare to Be Great
 
 The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.
 
@@ -24,7 +24,7 @@ If you dream of being an “outlier,” you must be willing to appear foolish.
 Lou Brock, Hall of Fame base stealer once said, “Show me a man who’s afraid of appearing foolish, and I’ll show you a man you can beat every time.” Within his quote is the sad diagnosis of most people’s lives: to the extent you’re getting beat in life, it’s likely because you’re afraid of appearing foolish. Don’t assume that what is familiar and common is optimal.
 
 
-This example was inspired by Howard Marks’ Dare to Be Great II which is a fantastic read.
+This example was inspired by [[Howard Marks]]’ Dare to Be Great II which is a fantastic read.
 These Advantageous Divergence tactics often take courage to act on because they are different than what the herd is doing. While difficult, this is a better set of problems to have. Most people choose conventionality over [[rationality]], placing acceptance, conformity, tradition, or security above truth. Don’t fall into that trap. We must be willing to appear foolish to gain Advantageous Divergence, rather than following the crowd to achieve disadvantageous adherence.
 
 > Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally.  
@@ -99,7 +99,7 @@ What others think are the characteristics which make you an anomaly, eccentric o
 
 > When he [Lee Kuan Yew] took over, he was a very young man. He needed an army, he was surrounded by a bunch of Muslims that hated him. They’d spit him out. He asked all the other nations of the world to please help him get an army because the English just left and said, “Handle your own problems.” Every nation in the world refused to help him but one, and that was Israel. He said, “How am I going to take military aid surrounded by Muslims that hate me from Israel?” He finally figured it out. He accepted the aid and told everybody they were Mexicans. Well, you can see why he was so successful. He had a mantra, which doesn’t have any literary quality, but it has a lot of good sense in it. He’d say over and over again, “Figure out what works and do it.” That’s what built modern Singapore.
 
-– Charlie Munger, Redlands Forum
+– [[Charlie Munger]], Redlands Forum
 
 > History shows that the way out of trench warfare is the use of asymmetric weaponry. If you’re using basically the same strategy with basically the same resources as your competitor, you’re in a war of attrition. If, however, you choose a radically different strategy, with the same resources or fewer, you’re likely not to be in a war of attrition. Of course, if you’re right and your radically different strategy succeeds, you get the spoils. If you’re wrong and your strategy fails, you get the humiliation of being wrong. And since the world rewards conventional failure and not unconventional failure, you’ve got a difficult choice to make.
 
@@ -107,7 +107,7 @@ What others think are the characteristics which make you an anomaly, eccentric o
 
 > To obtain better results than the others, you must do something different from the others.
 
-– Sir John Templeton
+– Sir [[John Templeton]]
 
 > The great snare of thought is the uncritical acceptance of traditional assumptions. Be willing to doubt almost everything.
 

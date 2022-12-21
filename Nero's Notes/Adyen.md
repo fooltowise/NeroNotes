@@ -10,4 +10,6 @@
 ### Competitors
 - [[Visa]]
 - [[Mastercard]]
+- [[On payment processors, distribution, and technology - Part 1 of 4]]
+- [[On payment processors, distribution, and technology - Part 2 of 4]]
 

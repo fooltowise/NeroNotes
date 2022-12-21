@@ -6,7 +6,7 @@ Syntopical reading, also known as comparative reading, involves reading many boo
 
 First, you must find the right books and then the passages that are most relevant to filling your needs. So the first step is an [[Inspectional Reading]] of all the works that you have identified as relevant.
 
-Second, translate the language of each author into keywords that you choose. For example, bring together all ideas on "margin of safety", as suggested by Buffett, Seth Klarman, Benjamin Graham, and Howard Marks. Don't just search for the exact term; search for all relevant ideas that describe the term. 
+Second, translate the language of each author into keywords that you choose. For example, bring together all ideas on "margin of safety", as suggested by Buffett, Seth Klarman, Benjamin Graham, and [[Howard Marks]]. Don't just search for the exact term; search for all relevant ideas that describe the term. 
 
 Third, frame clear questions that will shed light on the problems you are trying to solve by reading those books. Rather than focusing on the problems the author is trying to solve, you need to focus on the questions that you want answered, like "What is intelligent capital allocation?" or "How do I assess management quality?" It's important to frame the questions in such a way that all or most of the authors can be interpreted as providing answers.
 

@@ -69,7 +69,7 @@ See [[Costs of Working Capital]]
 
 ### 7. In a scalable business pricing power is high, enabling high gross margins and profit 
 
-[[Warren Buffett]] believes: “The single most important decision in evaluating a business is pricing power. If you’ve got the power to raise prices without losing business to a competitor, you’ve got a very good business. And if you have to have a prayer session before raising the price by 10 percent, then you’ve got a terrible business.” Charlie Munger has a similar view:
+[[Warren Buffett]] believes: “The single most important decision in evaluating a business is pricing power. If you’ve got the power to raise prices without losing business to a competitor, you’ve got a very good business. And if you have to have a prayer session before raising the price by 10 percent, then you’ve got a terrible business.” [[Charlie Munger]] has a similar view:
 
 “There are actually businesses, that you will find a few times in a lifetime, where any manager could raise the return enormously just by raising prices—and yet they haven’t done it. So they have huge untapped pricing power that they’re not using. That is the ultimate no-brainer. … [[Disney]] found that it could raise those prices a lot and the attendance stayed right up. So a lot of the great record of Eisner and Wells … came from just raising prices at Disneyland and Disneyworld and through video cassette sales of classic animated movies… At [[Berkshire Hathaway]], Warren and I raised the prices of See’s Candy a little faster than others might have. And, of course, we invested in Coca-Cola—which had some untapped pricing power. And it also had brilliant management. So a Goizueta and Keough could do much more than raise prices. It was perfect.”
 

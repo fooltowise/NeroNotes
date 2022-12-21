@@ -28,7 +28,7 @@ Even I love this for a fact. But then, my hindsight vision tells me how lucky I 
 
 I still remember the fear-factor I was passing through _while_ making the decision to quit and follow my heart. Though it was not just my heart that helped me make the decision, which was also well thought out. My family was extremely supportive, I had no financial liabilities, had almost a couple of years of savings as margin of safety, and knew what I wanted to spend my time on, or the game I wanted to play where I had a decent probability of winning.
 
-There were, of course, a lot of uncertainties. But being an investor and having read the likes of Warren Buffett and Charlie Munger, I knew I had to deal with them instead of freezing out of the fear of the unknown.
+There were, of course, a lot of uncertainties. But being an investor and having read the likes of Warren Buffett and [[Charlie Munger]], I knew I had to deal with them instead of freezing out of the fear of the unknown.
 
 I still remember how, eleven years back, fear almost stopped me in my tracks and repeatedly waked me up at night, telling me, “Vishal, quitting your job to start something of your own in this uncertain world will be a disaster! Do not do it!”
 
@@ -68,7 +68,7 @@ Well, let me enlighten you. The person who fears nothing is an idiot (I remember
 
 And you know what? Fear is what keeps us safe at most times in our lives.
 
-As Charlie Munger says –
+As [[Charlie Munger]] says –
 
 > _All I want to know is where I’m going to die so I’ll never go there._
 

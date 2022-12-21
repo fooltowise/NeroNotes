@@ -15,7 +15,7 @@ There are, after all, so many things I can advise to a young investor or analyst
 -   Avoid predictions, because you are rarely going to make a correct one. Also work with the intellectual humility that you know nothing, even if you are the smartest person around.
 -   Be patient, like a grasshopper, for that is how wealth is created.
 
-All this is very useful advice. But since I have to offer just one advice as requested by that young investment analyst, it would be something that I learned from Charlie Munger and Warren Buffett many years ago.
+All this is very useful advice. But since I have to offer just one advice as requested by that young investment analyst, it would be something that I learned from [[Charlie Munger]] and Warren Buffett many years ago.
 
 The advice is simple - **Play games that you can win.**
 

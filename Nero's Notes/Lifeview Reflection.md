@@ -29,7 +29,7 @@ But this also means I have to find for myself the rules of my own life. How do I
 	- Being in a state of flow, where I perform a task that is just challenging enough, but not too hard - I then have extreme focus and time becomes irrelevant. This can happen in many context, and funnily enough, it always occur when some sort of "play" is involved. 
 	- Having the feeling that whatever happens to me, I can always choose my response and this is the only thing I can control (yup, Epictetus had a big influence on me).
 
-I also approach my life from an "inversion" point of view. As Charlie Munger says, "All I want to know is where I am going to die, so I won't go there". There are certain things that are guaranteed to make my life miserable, and I should get rid of them as quickly as possible:
+I also approach my life from an "inversion" point of view. As [[Charlie Munger]] says, "All I want to know is where I am going to die, so I won't go there". There are certain things that are guaranteed to make my life miserable, and I should get rid of them as quickly as possible:
 - Poor health (2019 taught me what back pain means, it's no fun)
 - Chronic stress
 - Sleep deprivation

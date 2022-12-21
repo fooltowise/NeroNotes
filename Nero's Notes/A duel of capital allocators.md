@@ -58,13 +58,13 @@ Which brings me to my next point. The whole idea behind this was not to pick on 
 
 > _“We try and avoid the worst anchoring effect which is always your previous conclusion. We really try and destroy our previous ideas.”_
 > 
-> Charlie Munger
+> [[Charlie Munger]]
 
 Many years ago, I was introduced to the investing world thanks to Buffett. I was hooked instantly after reading his shareholder letters. He shortly became my investing hero, but over time I realized I was idealizing him to an extreme. So I decided it was best to have him as an investor role model instead, and I’ve added more investors to that list over the years.
 
 Of course I still pay close attention to him, but the way I listen to him is now different: I’ve learned to question him, to not follow his every move or advice (imagine staying away from tech because he does!), to grab on to his ideas that resonate with me, and to learn from other investors who I have a high regard for.
 
-Remember, even Buffett who had Benjamin Graham as his hero, didn’t emulate him: he migrated from flipping cigar-butts to buying-and-holding quality, and he found other investing role models like Phil Fisher, Tom Murphy, Henry Singleton and of course, Charlie Munger.
+Remember, even Buffett who had Benjamin Graham as his hero, didn’t emulate him: he migrated from flipping cigar-butts to buying-and-holding quality, and he found other investing role models like Phil Fisher, Tom Murphy, Henry Singleton and of course, [[Charlie Munger]].
 
 Be flexible, learn from different investors and think for yourself. 
 

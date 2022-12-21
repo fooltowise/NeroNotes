@@ -368,7 +368,7 @@ Recall also that Ben Graham’s abstract idea of a *“hidden bond component ins
 
 We have come quite far in our investigations. But there is still one vantage point left — that of civilization.
 
-None of the witnesses we have met so far have looked at the company from the civilization’s viewpoint by incorporating what Charlie Munger calls “virtue and vice” effects.
+None of the witnesses we have met so far have looked at the company from the civilization’s viewpoint by incorporating what [[Charlie Munger]] calls “virtue and vice” effects.
 
 I said earlier, that you’ll get closer to the truth by having access to several vantage points. So let’s examine this last vantage point. Zoom out a bit and look at what’s really happening here. How does VST make money? What do you see?
 

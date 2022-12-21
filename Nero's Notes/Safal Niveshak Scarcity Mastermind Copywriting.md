@@ -8,7 +8,7 @@
 
 There are no secrets to the art of sensible stock picking that most people don’t know of. The literature has been there since the 1940s, when Ben Graham, the father of value investing, first wrote about it in his landmark book _The Intelligent Investor_.
 
-Other practitioners of this art, like Warren Buffett, Charlie Munger, Seth Klarman, Walter Schloss, and Howard Marks have been writing about it for years now.
+Other practitioners of this art, like Warren Buffett, [[Charlie Munger]], Seth Klarman, Walter Schloss, and [[Howard Marks]] have been writing about it for years now.
 
 So, you can find hundreds and thousands of resources in print and on the Internet on how you can become a smart, successful investor. However, what I found lacking ever since I started learning this art of sensible stock picking myself, was a structured, step-by-step approach to do it.
 

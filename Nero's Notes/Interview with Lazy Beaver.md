@@ -85,7 +85,7 @@ I would put most macro questions – the future of interest rates, inflation, ge
 
 Risk & Diversification
 
-There’s a Howard Marks quote I love. Never forget the fate of the six foot tall man that drowned crossing the river that was five feet deep on average.
+There’s a [[Howard Marks]] quote I love. Never forget the fate of the six foot tall man that drowned crossing the river that was five feet deep on average.
 
 We can't live on averages. We must survive the extremes. Put another way, a long string of large numbers multiplied by a single zero is always zero. You simply can't allow a single failure to knock you out of the game. But, that threshold is completely different for different people. This is why any universal asset allocation theory is academic nonsense.
 
@@ -97,13 +97,13 @@ I do want to add one caution that I learned the hard way early on. It’s very e
 
 Commonly Accepted Wisdom You Disagree With
 
-That there’s a positive correlation between “risk” and return. I’ll blatantly plagiarize Howard Marks here. Risk simply means that more things can happen than will happen. If a risky asset could be counted on to deliver high returns, it wouldn't be risky.
+That there’s a positive correlation between “risk” and return. I’ll blatantly plagiarize [[Howard Marks]] here. Risk simply means that more things can happen than will happen. If a risky asset could be counted on to deliver high returns, it wouldn't be risky.
 
 Cryptocurrency
 
 I’m sure you know far more about this than I do. I’ve always wondered how, even if you believe in the premise and technology, you can pick the long-term winner? Bitcoin? Ethereum? What’s the Elon dog thing? Dogecoin? I’m already showing my ignorance here.
 
-It’s certainly working out well for the believers thus far. But I’m reminded of Charlie Munger’s reaction. If you jump out the window of the 42nd floor and you’re still doing well when you pass the 20th, it doesn’t mean you don’t still have a problem.
+It’s certainly working out well for the believers thus far. But I’m reminded of [[Charlie Munger]]’s reaction. If you jump out the window of the 42nd floor and you’re still doing well when you pass the 20th, it doesn’t mean you don’t still have a problem.
 
 Seriously, though, I have no opinion on this.
 

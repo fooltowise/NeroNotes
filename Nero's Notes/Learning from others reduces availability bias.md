@@ -3,7 +3,7 @@
 People tend to overweight direct experiences and underweight vicarious ones.
 
 > You don't have to pee on an electric fence to learn not to do it.
- -- Charlie Munger
+ -- [[Charlie Munger]]
  
  Example: Lehman Brother's collapse:
  

@@ -140,7 +140,7 @@ During decision-making, the brain is a memory prediction machine.
 
 A lousy way to do memory prediction is "X happened in the past, therefore X will happen in the future." It's too based on specific circumstances. What you want is principles. You want mental models.
 
-The best mental models I have found came through evolution, game theory, and Charlie Munger. Charlie Munger is [[Warren Buffett]]'s partner. Very good investor. He has tons and tons of great mental models. Author and trader Nassim Taleb has great mental models. Benjamin Franklin has great mental models. I basically load my head full of mental models.
+The best mental models I have found came through evolution, game theory, and [[Charlie Munger]]. [[Charlie Munger]] is [[Warren Buffett]]'s partner. Very good investor. He has tons and tons of great mental models. Author and trader Nassim Taleb has great mental models. Benjamin Franklin has great mental models. I basically load my head full of mental models.
 
 I use my tweets and other people's tweets as maxims that help compress my own learnings and recall them. The brain space is finite - you have finite neurons - so you can almost think of these as pointers, addresses, or mnemonics to help you remember deep-seated principles where you have the underlying experience to back it up.
 

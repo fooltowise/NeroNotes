@@ -78,7 +78,7 @@
 	- Low cost - Economies of scale
 	- Low cost - Scale Economics Shared
 	- Switching costs
-	- Being the gold standard ([[MSCI]], S&P, Moody's,...)
+	- Being the gold standard ([[MSCI]], S&P, [[Moody's]],...)
 	- Network Effects
 	- Aggregators
 	- Culture
@@ -130,9 +130,9 @@
 
 
 - Grand Investisseurs:
-	- Warren Buffett/Charlie Munger
-	- Mohnish Pabrai: Head I win, Tail I don't lose much
-	- Joel Greenblatt: Spinoffs
+	- Warren Buffett/[[Charlie Munger]]
+	- [[Mohnish Pabrai]]: Head I win, Tail I don't lose much
+	- [[Joel Greenblatt]]: Spinoffs
 	- Nick Sleep and Qais Zakaria
 
 

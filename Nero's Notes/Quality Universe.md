@@ -99,7 +99,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 - The Blackstone Group
 - Blackrock
 - Evercore
-- Moody's  
+- [[Moody's]]  
 - Morningstar
 - [[Msci]]  
 - Nasdaq
@@ -185,7 +185,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 
 ### Specialty Retail
 
-- The Home Depot
+- The [[Home Depot]]
 - O'Reilly
 - Autozone
 - Tractor Supply Co
@@ -209,7 +209,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 
 ### Textile, Apparel and Luxury Goods
 
-- Nike
+- [[Nike]]
 - Adidas
 - Christian Dior
 - Hermes

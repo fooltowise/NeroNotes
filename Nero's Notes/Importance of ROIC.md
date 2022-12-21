@@ -100,7 +100,7 @@ When assessing a quality business, value investors will often point to a P/E rat
 _[![Connor-Reinvestment vs Legacy 1](https://sabercapitalmgt.com/wp-content/uploads/2016/05/Connor-Reinvestment-vs-Legacy-1.jpg)](https://sabercapitalmgt.com/importance-of-roic-reinvestment-vs-legacy-moats/connor-reinvestment-vs-legacy-1/)  
 *Assumes all earnings not reinvested are distributed as dividends_ _**Pre-tax IRR, factoring in tax rates will only further the advantage of Reinvestment Corp._  
 
-This example illustrates a concept Charlie Munger outlined in “The Art of Stockpicking”:
+This example illustrates a concept [[Charlie Munger]] outlined in “The Art of Stockpicking”:
 
 _“If the business earns 6% on capital over 40 years and you hold it for that 40 years, you’re not going to make much different than a 6% return—even if you originally buy it at a huge discount. Conversely, if a business earns 18% on capital over 20 or 30 years, even if you pay an expensive looking price, you’ll end up with a fine result.”_
 

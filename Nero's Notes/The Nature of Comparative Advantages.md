@@ -1,6 +1,6 @@
 # The Nature of Comparative Advantages
 
-There are, perhaps, few things finer than the pleasure of finding out something new. Discovery is one of the joys of life and, in our opinion, is one of the real thrills of the investment process. The cumulative learning that results leads to what [[Berkshire Hathaway]] Vice-Chairman Charlie Munger calls "*worldly wisdom*".
+There are, perhaps, few things finer than the pleasure of finding out something new. Discovery is one of the joys of life and, in our opinion, is one of the real thrills of the investment process. The cumulative learning that results leads to what [[Berkshire Hathaway]] Vice-Chairman [[Charlie Munger]] calls "*worldly wisdom*".
 
 Worldly wisdom is a good phrase for the intellectual capital with which investment decisions are made and, at the end of the day, it is the source of any superior investment results we may enjoy. So, when analyzing a firm, one just knows one is on to a good thing when one learns something new and the penny finally drops. And many times more fortunate if that insight can be applied more generally across businesses.
 

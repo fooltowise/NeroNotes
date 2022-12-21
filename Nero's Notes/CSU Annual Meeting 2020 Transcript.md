@@ -696,7 +696,7 @@ It's hard to find a broker of any size and significance who doesn't know Constel
 
 Will Pan
 
-That does dovetail with a question that we got, which says you've commented on private equity activity inflating valuations in enterprise software, even in the past. And then Charlie Munger recently criticized the daisy chain of private equity software transactions amongst themselves, saying there's "wretched excess in the space". You mentioned debt costs. What other underlying assumptions do you think are potentially going to break down here, such as customer retention, cost of funding and ability to realize maintenance price increases, et cetera?
+That does dovetail with a question that we got, which says you've commented on private equity activity inflating valuations in enterprise software, even in the past. And then [[Charlie Munger]] recently criticized the daisy chain of private equity software transactions amongst themselves, saying there's "wretched excess in the space". You mentioned debt costs. What other underlying assumptions do you think are potentially going to break down here, such as customer retention, cost of funding and ability to realize maintenance price increases, et cetera?
 
 Mark Leonard
 

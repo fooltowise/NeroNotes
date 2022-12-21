@@ -33,7 +33,7 @@ In _Excess Returns: A comparative study of the methods of the world’s greatest
 | Walter Schloss | 49 | 20% |
 | Shelby Davis | 45 | 22% |
 | T. Rowe Price | 38 | 16% |
-| John Templeton | 38 | 15% |
+| [[John Templeton]] | 38 | 15% |
 | George Soros | 34 | 29% |
 | Arnold Vandenberg | 33 | 16.6% |
 | Peter Cundill | 33 | 15.2% |
@@ -61,7 +61,7 @@ In _Excess Returns: A comparative study of the methods of the world’s greatest
 | Benjamin Graham | 20 | 21% |
 | Richard C. Perry | 20 | 20.8% |
 | B. S. Sherman | 20 | 19.6% |
-| Joel Greenblatt | 19 | 45% |
+| [[Joel Greenblatt]] | 19 | 45% |
 | Rick Guerin | 19 | 33% |
 | Paul Tudor Jones | 19 | 26% |
 | Martin Zweig | 19 | 25% |
@@ -82,7 +82,7 @@ In _Excess Returns: A comparative study of the methods of the world’s greatest
 | Stanley Druckenmiller | 12 | 37% |
 | Jeff Vinik | 12 | 32% |
 | Richard Driehaus | 12 | 30% |
-| Charlie Munger | 12 | 24% |
+| [[Charlie Munger]] | 12 | 24% |
 | Jack Dreyfus | 12 | 17.7% |
 | Jim Rogers | 11 | 38% |
 | Scott Ramsey | 11 | 25.7% |

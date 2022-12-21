@@ -54,9 +54,9 @@ Incentives
 ----------
 See [[Superpower of Incentives]], [[Incentives]]
 
-In his 97 years, Charlie Munger has studied incentive-driven behaviour more than most. Yet, even he still feels he under-estimates it.
+In his 97 years, [[Charlie Munger]] has studied incentive-driven behaviour more than most. Yet, even he still feels he under-estimates it.
 
-_“I think I've been in the top 5% of my age cohort all my life in understanding the power of incentives, and all my life I've underestimated it.”_ **Charlie Munger**
+_“I think I've been in the top 5% of my age cohort all my life in understanding the power of incentives, and all my life I've underestimated it.”_ **[[Charlie Munger]]**
 
 A company founder’s incentives are usually in stark contrast to those of a professional management team. A large ownership stake in the business means a founder’s wealth is far more influenced by longer term valuation improvements than a salary. In contrast, a CEO with little skin-in-the-game may be tempted to undertake accretive short term acquisitions or minimise capex & investments to achieve short term remuneration hurdles, even to the detriment of long term value creation.
 
@@ -92,7 +92,7 @@ _“I always look to invest in a manager who has made the company his or her_ **
 
 _“A majority of our managers are financially independent, so that_ **_they don’t go to work because they are worried about putting kids through school or putting food on the table_**_. So they have to have some reason to go to work aside from that.”_ **[[Warren Buffett]]**
 
-_“What matters most:_ **_passion or competence that was inborn_**_. Berkshire is full of people who have a_ **_peculiar passion for their business_**_. I would argue_ **_passion is more important than brain power_**_.”_ **Charlie Munger**
+_“What matters most:_ **_passion or competence that was inborn_**_. Berkshire is full of people who have a_ **_peculiar passion for their business_**_. I would argue_ **_passion is more important than brain power_**_.”_ **[[Charlie Munger]]**
 
 _“We’ve had terrific luck with the_ **_entrepreneurs who basically love their businesses_** _the way I love Berkshire.”_ **[[Warren Buffett]]**
 
@@ -131,7 +131,7 @@ _“The investor wanting maximum results should favour companies with a truly_ *
 
 Often business decisions that promise long-term value, come at the cost of short-term performance. It might be investing in an overseas expansion which is dilutive to near term earnings, keeping margins low to deter competitors, increasing advertising spend to maximise long-term customer value or increasing R&D spending which has potential long-term benefits.
 
-_“Almost all good businesses engage in ‘pain today, gain tomorrow’ activities.”_ **Charlie Munger**
+_“Almost all good businesses engage in ‘pain today, gain tomorrow’ activities.”_ **[[Charlie Munger]]**
 
 Professional CEO’s are often reluctant to disappoint Wall Street expectations over concerns of long-term job stability, short-term earnings implications and concern for short term stock price performance.
 
@@ -178,8 +178,8 @@ _"I want to_ **_invest with people who have at-risk skin in the game_**_, ideall
 
 _“I try to stuff our portfolio with management teams that ‘get it’._ **_Founders run 45% of our companies_**_; the average tenure of management is fifteen years.”_ **Ryan Krafft**
 
-One of my favourite quotes from Charlie Munger is ‘**_Fish where the fish are_**.’ The starting point is finding the right pond.
+One of my favourite quotes from [[Charlie Munger]] is ‘**_Fish where the fish are_**.’ The starting point is finding the right pond.
 
-_“We’ve bought business after business because we admire the_ **_founders_** _and what they’ve done with their lives. In almost all cases, they’ve stayed on and our expectations have not been disappointed._" **Charlie Munger**
+_“We’ve bought business after business because we admire the_ **_founders_** _and what they’ve done with their lives. In almost all cases, they’ve stayed on and our expectations have not been disappointed._" **[[Charlie Munger]]**
 
 And ultimately, this is profound advice. It’s clear that a great starting place in your search for great investments might be **the pond of companies run by Founders.**

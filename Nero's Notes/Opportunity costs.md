@@ -2,7 +2,7 @@
 
 
 > Opportunity cost is a huge filter in life. If you've got two suitors who are really eager to have you and one is way the hell better than the other, you do not have to spend much time with the other. And that's the way we filter out buying opportunities.
- — Charlie Munger
+ — [[Charlie Munger]]
  
  As investors, we are in the business of intelligently allocating capital. However, with limited capital at our disposal and several alternatives, the critical concept of opportunity cost arises. An opportunity cost is defined as the value of the second-best opportunity that we forgo when we make a choice. In a world where alternatives are mutually exclusive and we must choose A over B, or B over A, our opportunity cost would be the potential gain of B if we choose A, and vice versa.
  

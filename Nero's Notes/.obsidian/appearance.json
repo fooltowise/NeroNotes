@@ -1,10 +1,13 @@
 {
   "theme": "moonstone",
   "translucency": false,
-  "enabledCssSnippets": [],
-  "baseFontSize": 30,
-  "cssTheme": "MyMinimal",
+  "enabledCssSnippets": [
+    "RemoveTitle"
+  ],
+  "baseFontSize": 19,
+  "cssTheme": "",
   "baseFontSizeAction": true,
   "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "textFontFamily": "Avenir",
+  "accentColor": "#1290d3"
 }

@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "314cf0941ee3ba57",
+    "type": "split",
+    "children": [
+      {
+        "id": "9655f666ed05bb4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7870851d7eec872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FICO and the Consumer Credit Bureaus - Part 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20fb74d0f4dbf6fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "948ebec722a1195f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a5057d8093717d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e7cf0a077907da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a1ca5d613f1d359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fico",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3ac0681d63569a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 457
+  },
+  "right": {
+    "id": "7fa4233b9d1c9536",
+    "type": "split",
+    "children": [
+      {
+        "id": "a940348c0ad49159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a348df52ff44a47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FICO and the Consumer Credit Bureaus - Part 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a412d7db8f2d8b25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FICO and the Consumer Credit Bureaus - Part 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a6d6cc2cb65e9dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69304216c4573e7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FICO and the Consumer Credit Bureaus - Part 1.md"
+              }
+            }
+          },
+          {
+            "id": "b10ae69f9274a52f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "20fb74d0f4dbf6fa",
+  "lastOpenFiles": [
+    "FICO.md",
+    "Best Businesses in the world to Study.md",
+    "Weakest Link.md",
+    "Airline Business.md",
+    "Bad Business Patterns to avoid.md",
+    "MSCI.md",
+    "Moody's.md",
+    "Moody's and Standard & Poor's.md",
+    "Standard & Poor's.md",
+    "Factset, London Stock Exchange and Refinitiv.md"
+  ]
+}

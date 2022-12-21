@@ -2,36 +2,32 @@
 
 See also [[How will you measure your life]]
 
-
-## What are my fundamental choices?
-
-- I choose to be the creative source of my life.
-- I choose to be healthy.
-- I choose to be free.
-- I choose to be kind.
-
-Once you know the conditions required, your only job is to make it a reality. You know from the start that you can achieve what you are aiming for because you know what it takes to make it happen. All that stands in your way is putting the work.
-
-
-
-
 ## I am trying to build wealth for my family
 
 My priorities are to find, buy and hold great investments.
 
+**What does NOT matter:**
+- Short term events
+- Trading mentality
+- Short term performance
+- Volatility
+- Hyper Activity
 
+**What does matter:**
+*Performance of my holdings over the next five or ten years (or more) and how the value at the end of the holding period compares to the amount I invested and to my needs.*
 
-## I do not want to take risk
+**My most important job is to:**
+- Study companies and securities, assessing things such as their earnings potential
+- Buy the ones that can be purchased at attractive prices compared to their potential
+- Hold onto them as long as the company's earnings outlook and the attractiveness of the price remain intact
+- Make changes only when those things can't be reconfirmed, or when something better comes along.
 
-### Rule number 1 is "Don't lose money"
+**Kobe's blueprint:**
+- Master the fundamentals
+- Improve your weaknesses
+- Study the greats
+- Focus
 
-- Do I understand the business I am buying?
-- Is management able to execute the strategy?
-- Is management a good capital allocator?
-- What are management's incentives?
-- How would my business fare in period of inflation?
-- Am I paying too much for the business?
-- Do I have excessive leverage?
 
 ## What do I know?
 
@@ -46,15 +42,14 @@ My priorities are to find, buy and hold great investments.
 ### What is my game selection?
 
 
+
+
 ## Am i doing [[Deliberate Practice]]?
 
 *We are what we repeatedly do. Excellence, then, is ont an act, but a habit.* Will Durant.
 
 ### Am I asking important questions?
 - What is a great business model? See [[Moat Typologies]]
-	- Recurring revenues
-	- Low churn
-	- asset light
 - What is an increasing competitive advantage?
 - What is great management?
 - What is great culture?  See [[Corporate Culture]]
@@ -62,6 +57,7 @@ My priorities are to find, buy and hold great investments.
 	- adaptive
 	- strength: everybody is on the same line
 - How to create a great portfolio?
+
 
 
 
@@ -77,4 +73,4 @@ My priorities are to find, buy and hold great investments.
 Instead of asking "How do I get this unwanted situation to go away?" you might say "What structures should I adopt to create the results I want to create?"
 
 
-*The standard pace is for chumps.* Derek Sivers.
+***The standard pace is for chumps**.* Derek Sivers.

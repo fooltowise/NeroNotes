@@ -77,7 +77,7 @@ And if we use the mental model of inverting, we can conclude that knowledge as a
 
 > “An ounce of prevention isn’t worth a pound of cure, it’s worth a tonne of cure.”
 > 
-> – Charlie Munger
+> – [[Charlie Munger]]
 
 We can now get to the following point: **the growth and retention of institutional knowledge is pretty much a direct effect of the organization’s incentive systems which allow employees to unleash potential towards a common goal in a happy and intellectually stimulating environment.**
 
@@ -121,7 +121,7 @@ Preferably, the CEO should own substantial amounts of company stock, and cash co
 
 Next, try to figure out the incentive system of workers at lower levels which very much depends on the industry the company is in. Does paying by the hour work counter-productively and promote idleness at the given line of work? Are large bonuses being paid based on wrong recognition systems?
 
-One of Charlie Munger’s favorite cases in point to explain the power of incentive systems includes that of FedEx. As he explains:
+One of [[Charlie Munger]]’s favorite cases in point to explain the power of incentive systems includes that of FedEx. As he explains:
 
 ![](https://junto.investments.linux102.unoeuro-server.com/wp-content/uploads/fedex-system.jpg)
 

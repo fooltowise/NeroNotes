@@ -73,7 +73,7 @@ This is by far the most important force in the universe and you have to get left
 Thing to remember is, you have to control your _'i'_ and lengthen your _'n'_. There is no exception to this rule.
 
 > the first rule of compounding is to never interrupt it unnecessarily  
-> \-- Charlie Munger
+> \-- [[Charlie Munger]]
 
 ##### The Mastery Step Function
 
@@ -85,9 +85,9 @@ These are step function increases in ability. These are controlled and uncontrol
 
 Mastery Step functions are tiny subparts of the exponential curve(compound chart).
 
-#### Charlie Munger and the Munger Partners (1962-1975)
+#### [[Charlie Munger]] and the Munger Partners (1962-1975)
 
-Charlie Munger compounded at 20% for 14 years with a volume of 33%. He suffered two >30% losses back to back in the final three years of his partnership. I am not sure another fund in the modern era could survive this.
+[[Charlie Munger]] compounded at 20% for 14 years with a volume of 33%. He suffered two >30% losses back to back in the final three years of his partnership. I am not sure another fund in the modern era could survive this.
 
 ![Munger Partnership returns](https://bobbydreamer.com/static/7108e0a5eb17d4589f735108f6fc6c29/4b52d/munger-partnership.png "Munger Partnership returns")
 
@@ -133,7 +133,7 @@ Its a 3-Step process,
 **Mistake evalation**
 
 > Forgetting your mistakes is a terrible error, if you are trying to improve your cognition  
-> \-- Charlie Munger
+> \-- [[Charlie Munger]]
 
 > In the long run, painful losses may prove much m ore valuable than wins  
 > \-- Joshua Waitzkin

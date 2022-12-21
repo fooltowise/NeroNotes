@@ -3,7 +3,7 @@
 It's hard to believe that he's getting better with each passing year. It won't go on forever, but Warren is actually improving. It's remarkable: most seventy-two-year old men are not improving, but Warren is.
 
 ### Charlie's Influence on Warren
-I think those authors give me more credit than I deserve. It is true that Warren had a touch of brain block from working with Ben Graham and making a ton of money - it's hard to switch from something that's worked so well. But if Charlie Munger had never lived, the Buffett record would still be pretty much what it is.
+I think those authors give me more credit than I deserve. It is true that Warren had a touch of brain block from working with Ben Graham and making a ton of money - it's hard to switch from something that's worked so well. But if [[Charlie Munger]] had never lived, the Buffett record would still be pretty much what it is.
 
 I think there's some mythology in this idea that I've been this great enlightener of Warren. He hasn't needed much enlightenment. But we know more now than five years ago.
 

@@ -33,7 +33,7 @@ As I sat down to make notes from the book, here is what I ended up with (click o
 
 …a hand-made poster that now adorns my wall and which suggests a series of checklist points that can be of immense help while analyzing businesses.
 
-Just consider these **five big ideas from Sherlock Holmes** contained in the above poster (and the relevant texts from Holmes’ books, in blockquotes, below), which is also what another brilliant _detective_ (in the investment world) and _thinker_ Charlie Munger suggests us to do –
+Just consider these **five big ideas from Sherlock Holmes** contained in the above poster (and the relevant texts from Holmes’ books, in blockquotes, below), which is also what another brilliant _detective_ (in the investment world) and _thinker_ [[Charlie Munger]] suggests us to do –
 
 **1\. Know Human Nature**  
 (What motivates people and what interests them – a great tool while assessing managements and crowd behaviour)
@@ -41,7 +41,7 @@ Just consider these **five big ideas from Sherlock Holmes** contained in the abo
 > Human nature is a strange mixture, Watson. You see that even a villain and murderer can inspire such affection that his brother turns to suicide when he learns that his neck is forfeited.
 
 **2\. Learning Never Stops**  
-(Be a learning machine, asks Charlie Munger)
+(Be a learning machine, asks [[Charlie Munger]])
 
 > Education never ends, Watson. It is a series of lessons with the greatest for the last.
 

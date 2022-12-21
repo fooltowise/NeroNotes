@@ -1,0 +1,5 @@
+# If Buffett managed $25 millions
+
+Well, I would say this. If we were working with $25 million – so we could sort of look at the whole universe of stocks – I would guess that you could find 15 or 20 out of three or four thousand that you would find that were A) selling for substantially less than they’re worth, and B) that the intrinsic value of the business was going to grow at a compound rate which was very satisfactory.
+
+You don’t want to buy a dollar bill that’s sitting for 50 cents, and it demands positive capital, and it’s going to be a dollar bill ten years from now. You want a dollar bill that’s going to compound at 12% for a long time. And, you want to be around some competent people. Just the same thing as if you went in and bought a Ford dealership in South Bend. The same exact thought processes goes through you mind if some friend called you tonight and said “I’d like you to go into the Ford dealership” or whatever, is exactly the kind of thought as goes through mind about all the other businesses that are in Standard and Poor’s.

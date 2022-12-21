@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Factset, London Stock Exchange and Refinitiv.md",
+            "file": "FICO and the Consumer Credit Bureaus - Part 1.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fico",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457,
-    "collapsed": true
+    "width": 457
   },
   "right": {
     "id": "7fa4233b9d1c9536",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factset, London Stock Exchange and Refinitiv.md",
+                "file": "FICO and the Consumer Credit Bureaus - Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factset, London Stock Exchange and Refinitiv.md",
+                "file": "FICO and the Consumer Credit Bureaus - Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factset, London Stock Exchange and Refinitiv.md"
+                "file": "FICO and the Consumer Credit Bureaus - Part 1.md"
               }
             }
           },
@@ -141,15 +140,15 @@
   },
   "active": "d7870851d7eec872",
   "lastOpenFiles": [
-    "London Stock Exchange.md",
-    "Factset, London Stock Exchange and Refinitiv.md",
-    "Factset.md",
-    "Visa.md",
-    "Visa, Mastercard - Expanding the rails, part 2.md",
-    "Mastercard.md",
-    "Visa, Mastercard - Expanding the rails, part 1.md",
-    "Microsoft.md",
-    "Scuttleblurb on Microsoft.md",
-    "Scuttleblurb again on Copart.md"
+    "FICO.md",
+    "Best Businesses in the world to Study.md",
+    "Weakest Link.md",
+    "Airline Business.md",
+    "Bad Business Patterns to avoid.md",
+    "MSCI.md",
+    "Moody's.md",
+    "Moody's and Standard & Poor's.md",
+    "Standard & Poor's.md",
+    "Factset, London Stock Exchange and Refinitiv.md"
   ]
 }

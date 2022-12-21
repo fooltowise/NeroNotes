@@ -76,7 +76,7 @@ Finally, a word or two on why the overview of Charlie's investment philosophy ha
 
 > We're partial to putting out large amounts of money where we won't have to make another decision. If you buy something because it's undervalued, then you have to think about selling it when it approaches your calculation of its intrinsic value. That's hard. But if you can buy a few great companies, then you can sit on your ass. That's a good thing.
 
-Like his hero, Benjamin Franklin, Charlie Munger painstakingly developed and perfected unique approaches to personal and business endeavors. Through these methods, and the development and maintenance of sound, lifelong habits, he has achieve extraordinary success.
+Like his hero, Benjamin Franklin, [[Charlie Munger]] painstakingly developed and perfected unique approaches to personal and business endeavors. Through these methods, and the development and maintenance of sound, lifelong habits, he has achieve extraordinary success.
 
 
 ### Charlie Sums it up

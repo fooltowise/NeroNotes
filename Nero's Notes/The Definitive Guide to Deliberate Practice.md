@@ -235,7 +235,7 @@ Although he doubtless began with a degree of innate talent (his father, Randolph
 
 “_You seldom improve much without giving the task your full attention._” —Karl Anders Ericsson
 
-The deeper we focus during deliberate practice sessions, the more we get out of them. Intense focus allows us to increase skills and break through plateaus. Developing your attention span can have a huge impact on your life. [When asked about his success](https://fs.blog/2017/02/charlie-munger-wisdom/), Charlie Munger once said, “_I succeeded because I have a long attention span_.”
+The deeper we focus during deliberate practice sessions, the more we get out of them. Intense focus allows us to increase skills and break through plateaus. Developing your attention span can have a huge impact on your life. [When asked about his success](https://fs.blog/2017/02/charlie-munger-wisdom/), [[Charlie Munger]] once said, “_I succeeded because I have a long attention span_.”
 
 The authors of [_The Game Before the Game_](https://www.amazon.com/gp/product/1592403298/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=farnamstreet-20&creative=9325&linkCode=as2&creativeASIN=1592403298&linkId=2e7ae8bb2f7b334a5de5945195be5671) write, “_If you can pay attention for only five minutes in practice, then take a break every five minutes. If you can pay attention for only twenty balls, don’t hit fifty. To be able to practice longer and maintain the quality of the practice, train yourself to pay attention for longer periods of time….Productive practice is about how present you can stay with your intention and is measured in the quality of the experience as opposed to the quantity of time used._”
 

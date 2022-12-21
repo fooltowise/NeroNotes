@@ -1,4 +1,4 @@
-# Lessons from Mohnish Pabrai
+# Lessons from [[Mohnish Pabrai]]
 
 - Humans have something weird in their DNA that prevents them from adopting good ideas easily. To be a great cloner, you have to check your ego at the door.
 - There are no prizes for frenetic activity. Rather, investing is mostly a matter of waiting for these rare moments when the odds of making money vastly outweigh the odds of losing it.

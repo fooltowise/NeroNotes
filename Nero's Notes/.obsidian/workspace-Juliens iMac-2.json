@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "314cf0941ee3ba57",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c83128b27724449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c488e4526713b38a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constellation Software.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddfc593f1dc215db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutoZone - Gabelli 45th Annual Automotive Aftermarket Symposium 2021.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea3d0fe24574698c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autozone - Exemplary Capital Allocation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aed14dfd8def9f22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "948ebec722a1195f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a5057d8093717d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e7cf0a077907da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a1ca5d613f1d359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3ac0681d63569a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 457,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7fa4233b9d1c9536",
+    "type": "split",
+    "children": [
+      {
+        "id": "a940348c0ad49159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a348df52ff44a47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Microsoft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a412d7db8f2d8b25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Microsoft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a6d6cc2cb65e9dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69304216c4573e7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Microsoft.md"
+              }
+            }
+          },
+          {
+            "id": "b10ae69f9274a52f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "aed14dfd8def9f22",
+  "lastOpenFiles": [
+    "Berkshire Hathaway's Incentive Design.md",
+    "Practice Makes Perfect.md",
+    "Constellation Software.md",
+    "Autozone - Exemplary Capital Allocation.md",
+    "Costco.md",
+    "Old Dominion Freight Lines.md",
+    "Brown and Brown - Compounder in a fragmented sector.md",
+    "Amazon - Deconstructing the Retail P&L.md",
+    "Amazon.md",
+    "SDI Group - Niche Manufacturing Serial Acquirer.md"
+  ]
+}

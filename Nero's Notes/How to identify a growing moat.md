@@ -30,7 +30,7 @@ If a company treats its employees well in a thriving environment, those employee
 
 Thinking inversely: you rarely, if ever, find a company that consistently earns high returns on capital while simultaneously keeping either unhappy employees or dissatisfied customers.
 
-At the [2021 Daily Journal annual meeting](https://junto.investments/daily-journal-2021-transcript/), someone asked the question of how important culture was in the investment process to which Charlie Munger answered:
+At the [2021 Daily Journal annual meeting](https://junto.investments/daily-journal-2021-transcript/), someone asked the question of how important culture was in the investment process to which [[Charlie Munger]] answered:
 
 > It’s quite important—part of the success of a company like Costco. It’s been amazing that one little company starting up not that many decades ago could become as big as Costco did as fast as Costco did. Part of the reason for that was cultural. They have created a strong culture of fanaticism about cost, quality, efficiency, and honor. All the good things. And, of course, it’s all worked. Culture is very important.
 
@@ -40,7 +40,7 @@ The clearest way to gain an understanding of a company’s focus on culture is t
 
 Does the tone of the report give the impression that the company provides an atmosphere with a sense of belonging and identity for the employees? In a [Harvard Business Review paper](https://hbr.org/2019/12/the-value-of-belonging-at-work), the authors concluded that belonging was linked to a whopping 56% increase in job performance, a 50% drop in turnover risk, and a 75% reduction in sick days and that for a 10,000-person company, this would result in annual savings of more than $52M. Starbucks—a great cultural company—has long referred to its employees as “partners”.
 
-Let’s take Charlie Munger’s word and look at the business of Costco relative to Sam’s Club under Walmart. The two businesses look very similar. However, Costco sales per square foot are more than double that of Sam’s Club, revenue per employee is higher, and the employee turnover is exceptionally lower. Costco pays its employees more because its employees are the starting point of customer satisfaction. Costco is a company that exudes an image of reliability because it fanatically puts the employees first.
+Let’s take [[Charlie Munger]]’s word and look at the business of Costco relative to Sam’s Club under Walmart. The two businesses look very similar. However, Costco sales per square foot are more than double that of Sam’s Club, revenue per employee is higher, and the employee turnover is exceptionally lower. Costco pays its employees more because its employees are the starting point of customer satisfaction. Costco is a company that exudes an image of reliability because it fanatically puts the employees first.
 
 Another excellent under-the-radar tool to gauge employee happiness is through [Glassdoor](https://www.glassdoor.com/index.htm) which is a recruiting site offering valuable insights from the people who know best—the employees and candidates who have been there.
 

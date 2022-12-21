@@ -6,6 +6,7 @@
 
 
 - [[Amazon Retail - 1P vs 3P Economics]]
+- [[Amazon - Deconstructing the Retail P&L]]
 
 ## AWS
 
@@ -15,3 +16,5 @@
 - [[The History of x86, ARM, & Amazon's Graviton Processor]]
 - [[Amazon Web Services - EC2 Graviton Strategy]]
 - [[Databricks, Snowflake, GCP, & Public Cloud Competition]]
+- [[AWS - Running a Hyperscale Data Center]]
+- 

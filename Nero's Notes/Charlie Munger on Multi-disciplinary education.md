@@ -1,4 +1,4 @@
-# Charlie Munger on Multi-Disciplinary Education
+# [[Charlie Munger]] on Multi-Disciplinary Education
 
 Munger argues that schools' education model should follow how airplane pilots are trained.
 

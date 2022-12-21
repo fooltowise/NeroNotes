@@ -208,7 +208,7 @@ That is demonstrable but it's very difficult to demonstrate it to a very traditi
 
 I would say that's true for a global merchant, but may not be true for a regional or local merchant. A regional merchant or local merchant would still prefer to work with maybe a bank that they. They have a relationship and they can provide a lower MDR and whatnot and a gateway that can give some of the tokenization and some of the basic features. A local merchant may still want to work with them. With regard to regionally a lot of times in a particular region, Adyen may not have licenses in all the countries; whereas someone like an MPGS or a Cybersource can provide the gateway connection and then a lot of acquirers are connected to them.
 
-That needs to be evaluated but you are right; for a global merchant that wants to expand into many countries and does not want to open entities in all of those countries, it makes sense for them. For merchants like Nike, where they have offices and shops across the globe, it's both on and offline and Adyen provides a very cool unified commerce feature.
+That needs to be evaluated but you are right; for a global merchant that wants to expand into many countries and does not want to open entities in all of those countries, it makes sense for them. For merchants like [[Nike]], where they have offices and shops across the globe, it's both on and offline and Adyen provides a very cool unified commerce feature.
 
 ### What you’re saying is that the mid-market initiative is never going to be as successful as enterprise because there is an inherent weakness, or more competition?
 

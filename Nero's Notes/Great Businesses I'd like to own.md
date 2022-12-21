@@ -3,7 +3,7 @@ See [[The Fundamental Theorem of Investing]]
 
 - [[Constellation Software]] Inc
 - [[MSCI]]
-- Moody's
+- [[Moody's]]
 - Standard and Poors Global Inc
 - Align Technology Inc
 - Booking Holdings

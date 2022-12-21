@@ -2,7 +2,7 @@
 
 
 > The difference between a good business and a bad business is that good businesses throw up one easy decision after another. Bad businesses throw up painful decisions time after time. 
-— Charlie Munger
+— [[Charlie Munger]]
 
 
 For an increase in earnings to be evaluated properly, it should always be compared with the incremental capital investment required to produce it.

@@ -13,7 +13,7 @@ So how do I find those long-term compounders?
 ## Business Model
 I will need to find extremely resilient business models, with a very high return on re-invested capital. Some example are:
 
-- Be the toll bridge of the economy ([[Visa]], [[Mastercard]], Moody's, Standard & Poor's, [[MSCI]],...)
+- Be the toll bridge of the economy ([[Visa]], [[Mastercard]], [[Moody's]], Standard & Poor's, [[MSCI]],...)
 - [[Scale Economics Shared]] ([[Amazon]], [[Costco]] ...)
 - Serial acquirer with a decentralized organization and an excellent capital allocator at the helm. 
 

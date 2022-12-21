@@ -1,6 +1,6 @@
 # Structure of Incentives for Sales
 
-> Any time your create large differences in commissions where the guy gets X% for selling A, which is some mundane thing, and 10 times X for selling B, which is something toxic, you know what is going to happen. - Charlie Munger
+> Any time your create large differences in commissions where the guy gets X% for selling A, which is some mundane thing, and 10 times X for selling B, which is something toxic, you know what is going to happen. - [[Charlie Munger]]
 
 The inevitable ubiquity of [[Incentives]] - caused bias has vast, generalized consequences. For instance, a sales force living only on commissions will be much harder to keep moral than one under less pressure from the compensation arrangement.
 

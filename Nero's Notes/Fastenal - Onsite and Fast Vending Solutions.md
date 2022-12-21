@@ -134,7 +134,7 @@ It becomes a selling point to get the other products that you’re not selling. 
 
 Yes, which is crazy. They installed their first vending machine in 2011; that’s just 10 years ago.
 
-### Is that because, as you said, the customer looks at the total cost of ownership? If it saves on the wastage, if they contract their inventory in terms of what is being used, it actually encourages them to buy more stuff through the vending machines, even it’s more expensive than a Home Depot, for example?
+### Is that because, as you said, the customer looks at the total cost of ownership? If it saves on the wastage, if they contract their inventory in terms of what is being used, it actually encourages them to buy more stuff through the vending machines, even it’s more expensive than a [[Home Depot]], for example?
 
 Correct. But maybe there are certain products that Fastenal just can’t sell, that they just don’t have the ability to sell, that will allow customers to put some of those things in lockers. It definitely opens the door to get them anything we can sell.
 
@@ -142,7 +142,7 @@ You would be shocked at some of the stuff going through vending machines across 
 
 ### What type of products would we be amazed at?
 
-I had a manager in Kenai, who would sell bales of hay; he sold a washing machine and dryer. The reason is because they were oil platforms, out in the Bay, outside of Kenai; their washer and dryer broke and they needed a new one immediately. They know the one they want at Home Depot, but they can’t just go down to Home Depot and buy it. So the branch manager went to buy it for them, charged them an extra $150 or so – they didn’t even care about the cost – and sent it out to them. As long as it wasn’t some chemical that we needed to register or something like that, we could buy and sell anything.
+I had a manager in Kenai, who would sell bales of hay; he sold a washing machine and dryer. The reason is because they were oil platforms, out in the Bay, outside of Kenai; their washer and dryer broke and they needed a new one immediately. They know the one they want at [[Home Depot]], but they can’t just go down to [[Home Depot]] and buy it. So the branch manager went to buy it for them, charged them an extra $150 or so – they didn’t even care about the cost – and sent it out to them. As long as it wasn’t some chemical that we needed to register or something like that, we could buy and sell anything.
 
 I had a customer who would know the price. He would actually go shopping for me and say, right next door, at Do it Best hardware, they’ve got these sawhorses I really need. I quoted him and I was $25 higher and had a four-week lead time; I had to go and set up the vendor, have them shipped to me when, literally, there were two of them sitting right next door. The customer told me to go and buy them from next door, mark them up and get them to him; he needed them tomorrow. The ability that Fastenal has to do that, to act quickly and get their customers what they need, is huge. I miss that.
 
@@ -220,7 +220,7 @@ As long as it was more of going to fill the machines – fill and bill – great
 
 ### How did you see the customer behavior change when vending was installed? Did they spend more money on other stuff?
 
-For a lot of customers, we didn’t even have to ask them what else we could put in the vending machine; they started coming to us. They go and grab something out of a box and they’re out of it, even though they go down to Home Depot and buy cases of duct tape. They come to us and they don’t even care that it is going to be more expensive; they just want it in the machine. They don’t have time to manage that anymore.
+For a lot of customers, we didn’t even have to ask them what else we could put in the vending machine; they started coming to us. They go and grab something out of a box and they’re out of it, even though they go down to [[Home Depot]] and buy cases of duct tape. They come to us and they don’t even care that it is going to be more expensive; they just want it in the machine. They don’t have time to manage that anymore.
 
 Like you said, total cost of ownership is down because it’s in a machine. They started noticing that and so customers will come to you, looking for more stuff to put in there.
 

@@ -7,7 +7,7 @@ Source:  Biodiversity Heritage Library, Creative Commons
 
 There are few forces in the world as powerful and ubiquitous as incentives. They govern everything from our daily interactions and decisions to our broader organizations and societies.
 
-Charlie Munger, true to his reputation for pithy one-liners, said it best:
+[[Charlie Munger]], true to his reputation for pithy one-liners, said it best:
 
 _“Show me the incentive and I will show you the outcome.”_
 

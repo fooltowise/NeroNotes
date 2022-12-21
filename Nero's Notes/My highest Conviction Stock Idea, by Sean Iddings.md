@@ -60,7 +60,7 @@ Let me step back and talk about incentives. I will explain exactly why EXPI has 
 
 This is very important. We humans have a hard time comprehending how powerful incentives can be. Perhaps the most important job of a company’s leadership team is to get the incentives right and get the hell outta the way.
 
-I’ll invoke Charlie Munger:
+I’ll invoke [[Charlie Munger]]:
 
 > I place \[Reward & Punishment Superresponse\] tendency first in my discussion because almost everyone thinks he fully recognizes how important incentives and disincentives are in changing cognition & behavior.
 

@@ -171,7 +171,7 @@ $$
 **C'est un résultat hyper important.** Si tu es un investisseur sur le long terme (avec un horizon de plus de cinq ans et idéalement plus de dix ans), le facteur qui déterminera la majorité de tes résultats sera le taux de croissance des bénéfices par action. Même si tu es malchanceux et que tu as acheté quand le marché était optimiste (multiple élevé) et revendu quand le marché était pessimiste (multiple déprimé), la trajectoire de ton investissement ne sera pas très différente de la trajectoire des profits de la compagnie. 
 
 
-C'est de là que provient ma citation préférée de Charlie Munger:
+C'est de là que provient ma citation préférée de [[Charlie Munger]]:
 
 > **"Sur le long terme, il est difficile pour une action d'obtenir un rendement bien meilleur que celui de son entreprise. Si l'entreprise gagne six pour cent sur le capital sur quarante ans et que vous la conservez pendant ces quarante ans, vous ne ferez pas beaucoup plus qu'un rendement de six pour cent, même si vous l'avez achetée à un prix très bas. À l'inverse, si une entreprise rapporte dix-huit pour cent de son capital sur vingt ou trente ans, même si vous l'achetez à un prix élevé, vous obtiendrez un sacré résultat" 
 
@@ -231,7 +231,7 @@ Mais lorsque les périodes de détention s'allongent, la qualité de l'entrepris
  **À mesure que ton horizon temporel augmente, le rendement de tes investissements devient complètement dépendant de la qualité de l'entreprise.**
 
 
-Il n'y a pas de meilleur exemple pour illustrer ce phénomène que Berkshire Hathaway, le conglomérat de Warren Buffett et Charlie Munger. Quand Buffett prit le contrôle de Berkshire en 1966, la compagnie était en difficulté. L'action se négociait à 24$ sur les marchés et les bénéfices nets par action étaient de 2.71$ (ce qui implique un multiple de marché de 8.86 en 1966). Fin 2015, grâce à une croissance phénoménale des profits et à la gestion remarquable de Buffett et Munger, l'action se négociait à 199'451$ pièce, et les bénéfices par action étaient de 14'657$ (pour un multiple de 13.6).
+Il n'y a pas de meilleur exemple pour illustrer ce phénomène que Berkshire Hathaway, le conglomérat de Warren Buffett et [[Charlie Munger]]. Quand Buffett prit le contrôle de Berkshire en 1966, la compagnie était en difficulté. L'action se négociait à 24$ sur les marchés et les bénéfices nets par action étaient de 2.71$ (ce qui implique un multiple de marché de 8.86 en 1966). Fin 2015, grâce à une croissance phénoménale des profits et à la gestion remarquable de Buffett et Munger, l'action se négociait à 199'451$ pièce, et les bénéfices par action étaient de 14'657$ (pour un multiple de 13.6).
 
 Un actionnaire qui aurait gardé comme Buffett ses actions sur tout la période aurait multiplié son investissement initial par 8'310. C'est un rendement annuel de 20.2% sur la période de 49 ans. Les bénéfices par action, eux, ont augmenté de 19.1% par an sur la même période. La plupart des gains de Buffett viennent de la croissance des bénéfices et une toute petite partie de l'expansion du multiple de marché sur la période (de 8.86 à 13.6).
 
