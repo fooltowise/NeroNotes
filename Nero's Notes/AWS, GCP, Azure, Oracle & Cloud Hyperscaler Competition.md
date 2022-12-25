@@ -137,7 +137,7 @@ We went after companies who had the most business on the Google side as a way to
 
 ### Were they advertising a lot?
 
-Yes, and those are traditionally CPG retailers like Proctor & Gamble, or Target, [[Home Depot]] and [[Nike]]. They were already spending a lot of money with Google who had a lot of data, most notably of their customers. Google uses analytics to deliver custom ads with either YouTube or Google recommendations, similar to what Amazon does with their recommendations of other customers bought this.
+Yes, and those are traditionally CPG retailers like Proctor & Gamble, or Target, [[The Home Depot]] and [[Nike]]. They were already spending a lot of money with Google who had a lot of data, most notably of their customers. Google uses analytics to deliver custom ads with either YouTube or Google recommendations, similar to what Amazon does with their recommendations of other customers bought this.
 
 If you look at Amazon earnings, the ad business grew exponentially, but they want to get into Google's game. We took that same play book and said, how do we take that data, put it into your hands so you are the owners of it so you can create a 360 view of your customer. To do that, you have to put it into a cloud data warehouse which is best in class, and BigQuery is a good example of that. Google is good at running their AI for recommendations.
 

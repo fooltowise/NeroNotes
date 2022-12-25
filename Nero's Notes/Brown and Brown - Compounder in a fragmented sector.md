@@ -267,7 +267,7 @@ Compared to BRO, the market has rewarded AJG’s faster organic growth with more
 
 \[21\] Hoying, et al. (Nov 2014). Mining the Untapped Gold in SME Commercial Insurance. The Boston Consulting Group, 5-6.
 
-\[22\] In 2012, personal lines insurers GEICO, State Farm and Progressive were among the top 25 most advertised US brands, edging out [[Home Depot]] and Budweiser; this, according to the Ad Age Datacenter analysis of U.S. measured media spending from Kantar Media.
+\[22\] In 2012, personal lines insurers GEICO, State Farm and Progressive were among the top 25 most advertised US brands, edging out [[The Home Depot]] and Budweiser; this, according to the Ad Age Datacenter analysis of U.S. measured media spending from Kantar Media.
 
 \[23\] BRO defines small group as < 100 employees. Organic declines in small group have been offset by growth in its large group business.
 

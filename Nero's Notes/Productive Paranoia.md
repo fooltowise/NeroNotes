@@ -10,7 +10,7 @@ In the spirit of Patterson, Herb Kelleher at Southwest was famously quoted as sa
 
 At QuikTrip, Chester Cadieux was never satisfied. He originally stumbled in running his convenience store business, but he continually learned and improved the business. The company continues to harbor a productive paranoia by hiring only employees who are never satisfied. Chet Cadieux, QuikTrip's current CEO, seeks to hire whiners. Laszlo Bock, Google's head of People Operations, has created a team of dissenters at Google, called the "canaries"m who have been described as the biggest complainers, and he has become the company's strongest advocate. The famous hedge fund Bridgewater too, is made up of complainers. Through these dissenters, each company has a much better chance of continuing the successful customer service experience an of raising the bar well into the future.
 
-Bernard Marcus, the co-founder of [[Home Depot]], describes how productively paranoid Sam Walton was at [[Walmart]], and how most complacent CEOs act:
+Bernard Marcus, the co-founder of [[The Home Depot]], describes how productively paranoid Sam Walton was at [[Walmart]], and how most complacent CEOs act:
 
 > But if you ask Sam how's business, he's never satisfied. He says "Bernie, things are really lousy. Our lines are too long at the cash registers. Our people aren't being helpful enough. I don't know what we're gonna do to get them motivated." Then you ask some of these CEOs from other retail organizations who you know are on the verge of out of business, and they brag and tell you how great everything is.
 

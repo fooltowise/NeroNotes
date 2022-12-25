@@ -14,7 +14,7 @@
 
 ### Boosting CFFO by purchasing less inventory
 
-- Ex: [[Home depot]] chose to purchase less inventory one year, boosting CFFO. however it had to revert back to purchasing more inventory the next year, reversing the bump in CFFO.
+- Ex: [[The Home Depot]] chose to purchase less inventory one year, boosting CFFO. however it had to revert back to purchasing more inventory the next year, reversing the bump in CFFO.
 - **Buried in the 10-Qs and 10-Ks is some extra insight about the drivers of cash flows. it is one of the most important sections of the filing, but many investors don't know it exists. To find it, turn to the Management Discussion and Analysis (MD&A) - in a section often called "Liquidity and capital resources". This section is a must read for every company you analyze.**
 
 ### Boosting CFFO with one-time benefits

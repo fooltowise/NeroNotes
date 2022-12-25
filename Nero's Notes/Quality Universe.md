@@ -185,7 +185,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 
 ### Specialty Retail
 
-- The [[Home Depot]]
+- The [[The Home Depot]]
 - O'Reilly
 - Autozone
 - Tractor Supply Co

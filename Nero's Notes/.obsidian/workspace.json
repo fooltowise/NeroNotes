@@ -102,7 +102,7 @@
               "type": "markdown",
               "state": {
                 "file": "Best Businesses in the world to Study.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -127,7 +127,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Depot.md",
+                "file": "The Home Depot.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2fee03a795e65f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Depot Pro vs DIY Customer Behaviour.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4ce6f1107e07dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons from Built From Scratch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -203,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Best Businesses in the world to Study.md",
+                "file": "Home Depot Pro vs DIY Customer Behaviour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Best Businesses in the world to Study.md",
+                "file": "Home Depot Pro vs DIY Customer Behaviour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Best Businesses in the world to Study.md"
+                "file": "Home Depot Pro vs DIY Customer Behaviour.md"
               }
             }
           },
@@ -263,17 +289,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb451592d7ffec13",
+  "active": "f2fee03a795e65f7",
   "lastOpenFiles": [
-    "Alix Pasquet on Networking.md",
-    "Home Depot.md",
-    "The Home Depot Pro, Cost Structure, & Growth Opportunities.md",
+    "Lessons from Built From Scratch.md",
     "Best Businesses in the world to Study.md",
+    "Home Depot Pro vs DIY Customer Behaviour.md",
+    "The Home Depot.md",
+    "The Home Depot Pro, Cost Structure, & Growth Opportunities.md",
+    "Alix Pasquet on Networking.md",
     "Cintas.md",
     "Nike.md",
     "Adyen - A first principles payment platform.md",
-    "Ads dont work that way.md",
-    "Great Businesses to Study.md",
-    "What am I trying to do.md"
+    "Ads dont work that way.md"
   ]
 }

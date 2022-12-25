@@ -253,7 +253,7 @@ They come every week or two.
 
 ### If a person spends $150 fortnightly, you would need 30,000 paying members per store.
 
-Yes, and you could do that in smaller markets if you got really good penetration, keeping in mind that when you're in those smaller markets, there's not a lot of games in town. Some of those smaller markets don't have Walmart or [[Home Depot]] but have a Canadian Tire. Getting a Costco near them would be huge. As an example, here, somebody living 50km away from Kanata has a long drive in the winter time in bad weather, so they are not going to do it, so the average shop number will definitely go down. They might start at that membership level but they would certainly build it up over the years.
+Yes, and you could do that in smaller markets if you got really good penetration, keeping in mind that when you're in those smaller markets, there's not a lot of games in town. Some of those smaller markets don't have Walmart or [[The Home Depot]] but have a Canadian Tire. Getting a Costco near them would be huge. As an example, here, somebody living 50km away from Kanata has a long drive in the winter time in bad weather, so they are not going to do it, so the average shop number will definitely go down. They might start at that membership level but they would certainly build it up over the years.
 
 ### What is the biggest risk for Costco's growth in Canada?
 
