@@ -1,4 +1,5 @@
 # Cost of Working Capital
+
 Working capital refers to the resources deployed short term to generate revenue: short-term assets such as inventory, less short-term liabilities such as account payable.
 
 While inventory and receivables eventually turn into cash, until then they are tied up in the production and sales process. Companies enjoy some offset because their suppliers likewise extend them credit, but most carry net-positive working capital.

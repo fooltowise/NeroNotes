@@ -1,7 +1,7 @@
 # [[Warren Buffett]]'s $50 bn decision
 
 
-_This article, by [[[Warren Buffett]]](http://www.forbes.com/profile/warren-buffett/), as told to [Randall Lane](http://blogs.forbes.com/randalllane/), appears in the upcoming April issue of_ ForbesLife _magazine, as part of its "When I Was 25" series._
+_This article, by [Warren Buffett](http://www.forbes.com/profile/warren-buffett/), as told to [Randall Lane](http://blogs.forbes.com/randalllane/), appears in the upcoming April issue of_ ForbesLife _magazine, as part of its "When I Was 25" series._
 
 By [[Warren Buffett]]
 

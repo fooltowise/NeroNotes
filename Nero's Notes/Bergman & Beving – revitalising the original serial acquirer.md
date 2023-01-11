@@ -1,6 +1,6 @@
 # Bergman & Beving – revitalising the original serial acquirer
 
-**Gustaf:** _Hi Magnus, you are today Group CEO of Bergman & Beving \[the legendary serial acquirer spawner of Lagercrantz Group, Addtech, Addlife, Momentum Group, & Alligo\]. What strategic journey did you make as Executive Vice President at Lagercrantz Group from 2007 to 2021?_
+**Gustaf:** _Hi Magnus, you are today Group CEO of Bergman & Beving \[the legendary serial acquirer spawner of Lagercrantz Group, Addtech, [[Addlife]], Momentum Group, & Alligo\]. What strategic journey did you make as Executive Vice President at Lagercrantz Group from 2007 to 2021?_
 
 **Magnus Söderlind:** When I joined Lagercrantz Group as EVP in 2007, Lagercrantz was mainly a group of companies focusing on electronic and telecom components distribution. It was obvious that even if you were world-class in those industries, reaching a double-digit profit margin would be very challenging.
 

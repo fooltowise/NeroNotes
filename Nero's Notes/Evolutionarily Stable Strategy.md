@@ -1,6 +1,6 @@
 # Evolutionarily Stable Strategy
 
-A strategy is a pre-programmed behavioral policy.  An example of strategy is :"Attack opponent; if he flees pursue him; if he retaliates run away." 
+A strategy is a pre-programmed behavioral policy.  An example of strategy is: "Attack opponent; if he flees pursue him; if he retaliates run away." 
 
 An evolutionarily stable strategy (or ESS) is defined as a strategy which, if most members of a population adopt it, cannot be bettered by an alternative strategy.
 It is a subtle and important idea. Another way of putting it is to say that the best strategy for an individual depends on what the majority of the population are doing. Since the rest of the population consists of individuals, each one trying to maximize his own success, the only strategy that persists will be one which, once evolved, cannot be bettered by any deviant individual.

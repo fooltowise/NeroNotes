@@ -1,5 +1,7 @@
 # Will Thorndike - The power of long holding periods
 
+See also [[Capital Allocation]]
+
 
 ##### **Introduction**
 

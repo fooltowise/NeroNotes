@@ -26,9 +26,9 @@ During the summer in between my first and second year at business school, right 
 
 Ziff Brothers really opened my eyes to the professional investing world. I thought hedge funds were traders, which was not appealing at all to me. What I found at Ziff was a great group of people who did deep and creative research. Ziff had a learning culture in which I spent the next 13 years helping to build an amazing business. Eventually I ran their Technology Media Telecom, Agriculture, and Energy groups. 
 
-Ian McKinnon was the portfolio manager there. He was one of the greatest human beings, coaches and mentors one could ever wish to work for. Ian had a huge impact on my career and remains a close friend. While I was with Ziff Brothers, I also had the opportunity to spend time with Eddie Lampert, who opened my eyes to case studies. I asked him how he developed such an incredible business acumen so early in his life, and he shared with me that he spent a substantial part of his twenties and thirties purposefully training by studying the best investments in history through a case study methodology. I took that on. 
+Ian McKinnon was the portfolio manager there. He was one of the greatest human beings, coaches and mentors one could ever wish to work for. Ian had a huge impact on my career and remains a close friend. While I was with Ziff Brothers, I also had the opportunity to spend time with Eddie Lampert, who opened my eyes to case studies. I asked him how he developed such an incredible business acumen so early in his life, and he shared with me that he spent a substantial part of his twenties and thirties purposefully training by studying the best investments in history through a [[case study]] methodology. I took that on. 
 
-We started doing cases internally at Ziff and taught our approach at Harvard Business School in 2008, and continued the process at Columbia Business School in 2013. The case study methodology was the most important part of my personal development and is one of the cornerstones of Aravt Global's creation.
+We started doing cases internally at Ziff and taught our approach at Harvard Business School in 2008, and continued the process at Columbia Business School in 2013. The [[case study]] methodology was the most important part of my personal development and is one of the cornerstones of Aravt Global's creation.
 
 In 2013, I was a bit over 40 and I had to scratch the itch - to find out what it would be like running my own investment firm. So, in February 2014, we launched Aravt Global.
 
@@ -47,7 +47,7 @@ This is relevant to investing because you can't do something of that scale by pi
 
 Over ten years ago, my team did a deep empirical study on stocks that compounded at north of 20% on five- and ten-year rolling periods over the last three decades to try to understand what drove performance. We wanted to deeply understand the patterns and if they could be repeated.
 
-This led to over a decade of examination and dissection through the case study methodology. Over the past few years, we have integrated that knowledge into the processes and culture that define how we approach our business. Let me share a few of the elements with you. 
+This led to over a decade of examination and dissection through the [[case study]] methodology. Over the past few years, we have integrated that knowledge into the processes and culture that define how we approach our business. Let me share a few of the elements with you. 
 
 **The first and most important element is game selection.** We had to decide where to focus our efforts. 
 

@@ -31,7 +31,7 @@ See [[What am I trying to do]]
 - Be financially independent.
 
 ### Family
-- Create a dynasty
+- Create a [[Dynasty and Estate Planning |Dynasty]]
 - Be a good father for Mirek and Valentina, and a good husband for Agata.
 
 ### Health

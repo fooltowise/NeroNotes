@@ -119,11 +119,11 @@ If your investment methodology was variant perception, extremely difficult becau
 
 **Yen:** So let me do… Separate it out, I’ll focus on the external question first, we can do the internal question if it lends itself separately. 
 
-The external process, we use a thing called case study methodology. So we had the great fortune of meeting Eddie Lampert the summer of 2005 in 2006 at two Ziff Brothers’ retreats. And I just asked Eddie how did you become so insightful so early in your career? Eddie compounded capital at almost 30% for two decades and started in his mid-20s.
+The external process, we use a thing called [[case study]] methodology. So we had the great fortune of meeting Eddie Lampert the summer of 2005 in 2006 at two Ziff Brothers’ retreats. And I just asked Eddie how did you become so insightful so early in your career? Eddie compounded capital at almost 30% for two decades and started in his mid-20s.
 
 I said, That’s just not human.
 
-And how did you do it? But he said to me, he spent 50% of his time training. The best investments in history, and he did it through a thing called case study methodology, and I say, “Wow, if it’s good enough for you, it’s good enough for me. What does that mean?” Someone gave me a tool!
+And how did you do it? But he said to me, he spent 50% of his time training. The best investments in history, and he did it through a thing called [[case study]] methodology, and I say, “Wow, if it’s good enough for you, it’s good enough for me. What does that mean?” Someone gave me a tool!
 
 And I literally dedicated my life to it right after that, and so we’ve been teaching that at Columbia and Harvard business schools for the past decade, and doing this internally. We’ve literally spent thousands and thousands of hours on this, generated hundreds of cases internally. 
 

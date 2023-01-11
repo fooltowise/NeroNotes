@@ -2,12 +2,13 @@
   "theme": "moonstone",
   "translucency": false,
   "enabledCssSnippets": [
-    "RemoveTitle"
+    "RemoveTitle",
+    "Blockquote"
   ],
-  "baseFontSize": 19,
+  "baseFontSize": 21,
   "cssTheme": "",
   "baseFontSizeAction": true,
   "interfaceFontFamily": "",
   "textFontFamily": "Avenir",
-  "accentColor": "#1290d3"
+  "accentColor": "#d41929"
 }

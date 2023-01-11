@@ -1,6 +1,6 @@
 # Practice makes Perfect
 
-## by [[Demesne Investments]]
+by [[Demesne Investments]]
 
 There are few business models that elicit more division amongst investors than the serial acquirer. Like a stock picker’s Rorschach test, the very term “serial acquirer” can be either a pejorative or a selling-point depending on the audience. Prejudices are just as likely to be determined by knee-jerk associations with high-profile successes or failures as they are by sober analysis. Although the decentralized companies that I seek are a rare breed no matter where I search, the ranks of [[serial acquirers]] are not a bad place to look. The connection is obvious – decentralized companies are comprised of numerous businesses, and [[serial acquirers]] purchase numerous businesses. Though I would classify only a minority of [[serial acquirers]] as true practitioners of decentralization, the controversy that accompanies the space encourages me that there is value to be found here. 
 
@@ -37,7 +37,9 @@ relative size and simplicity.
 
 Therefore, the case for [[serial acquirers]] that programmatically purchase small, private, and hopefully therefore cheap businesses appears promising. Let us now turn to two live examples – [[Constellation Software]] and J2 Global.
 
+
 ## A Brief Introduction to [[Constellation Software]] and J2 Global
+
 Stock connoisseurs in my readership are no doubt well aware of [[Constellation Software]], a conglomerate of vertical market software businesses, and its much-celebrated founder and CEO, [[Mark Leonard]]. It is beloved by seemingly every investor who knows it and has inspired a number of copycats. The entire premise of the business model is to serially acquire small, industry-specific software businesses for cheap prices and let them run relatively autonomously, albeit with specific guardrails around profitability and cash flow targets. I deserve no originality points for praising Constellation. Nonetheless, as a collector of decentralized businesses, it behooves me to highlight Constellation as a standard-bearer of best practices.
 
 Prior to founding Constellation, Mr. Leonard was a venture capitalist. During that time, he saw a vast landscape of small, lower growth, but predictably profitable software companies in need of a long-term home that did not fit with venture capital or private equity. The thesis was simple – aggregate these small niche businesses, give them a stable home, and help each of them succeed. Then recycle their cash flow to do it again and again and again. Importantly, from the very beginning the acquisition opportunity was married with decentralization, as described in Constellation’s 2006 IPO prospectus:
@@ -183,19 +185,21 @@ Still, the questionable Board remains. Mr. Shah was not on the Board at the time
 If J2’s Board and management team wonder why their shares persistently trade at a huge discount to acquisitive aspirational peers like Constellation, I believe they need look no farther than the shady reputation they have invited over time, as most brazenly epitomized by the OCV investment. Investors should hope that with the recent significant management changes and implementation of a more decentralized model, a humbler and more service-oriented ethos begins to flourish.
 
 ## Lessons for Demesne
+
 To summarize, here are the major takeaways for Demesne’s research process covered in this letter:
-• **Acquisitions of Small, Private Companies.** How large are a company’s typical acquisitions? Does it have a structure in place that can scale the number of transactions without going too far up in size?
-• **Counting Business Units.** How many business units (not brands) does the company have? How many does management think they could have in the future? What proportion of acquisitions become their own business units?
+- **Acquisitions of Small, Private Companies.** How large are a company’s typical acquisitions? Does it have a structure in place that can scale the number of transactions without going too far up in size?
+- **Counting Business Units.** How many business units (not brands) does the company have? How many does management think they could have in the future? What proportion of acquisitions become their own business units?
 - **Human-Scale Business Units**. How big is the typical business unit (in employees, revenue, etc.)? How small is too small, and how big is too big? Do business units regularly get split to maintain focus and nimbleness?
-• **Decentralized M&A**. How centralized is the M&A process around the C-suite? What is the team’s transaction volume capacity? How are division and business unit managers involved in prospecting, if at all? Are there multiple concentric M&A teams throughout the organization? At what level of the company are most transactions executed?
-• **Synergy Restraint.** Is it the largest or the smallest acquisitions that are subject to the most disruptive integrations?
-• **Redundant Functional Roles**. Do acquired companies have mass layoffs? Are roles like R&D, Marketing, Sales, etc. consolidated across business units? What global functional heads, if any, reside at the head office?
-• **Evidence-Based Targets and Strategies**. Are the business unit managers given clear financial and KPI targets? Are strategies imposed, or are they suggested based on evidence from other business units? Do the business units have the freedom to hit their targets in their own way?
-• **Coaches versus Players**. Do Division/Operating Group Presidents manage more like coaches or players? When different business units collaborate, is it willingly or by imposition?
-• **Pricing Strategies Post Acquisition**. Does there tend to be pricing/monetization changes in the business unit post acquisition?
-• **Shareholder Stewardship**. Is the standard by which the Board and management spend shareholders’ money more stringent than how they would spend their own? Have there been any major changes in the Board or management team recently?
+- **Decentralized M&A**. How centralized is the M&A process around the C-suite? What is the team’s transaction volume capacity? How are division and business unit managers involved in prospecting, if at all? Are there multiple concentric M&A teams throughout the organization? At what level of the company are most transactions executed?
+- **Synergy Restraint.** Is it the largest or the smallest acquisitions that are subject to the most disruptive integrations?
+- **Redundant Functional Roles**. Do acquired companies have mass layoffs? Are roles like R&D, Marketing, Sales, etc. consolidated across business units? What global functional heads, if any, reside at the head office?
+- **Evidence-Based Targets and Strategies**. Are the business unit managers given clear financial and KPI targets? Are strategies imposed, or are they suggested based on evidence from other business units? Do the business units have the freedom to hit their targets in their own way?
+- **Coaches versus Players**. Do Division/Operating Group Presidents manage more like coaches or players? When different business units collaborate, is it willingly or by imposition?
+- **Pricing Strategies Post Acquisition**. Does there tend to be pricing/monetization changes in the business unit post acquisition?
+- **Shareholder Stewardship**. Is the standard by which the Board and management spend shareholders’ money more stringent than how they would spend their own? Have there been any major changes in the Board or management team recently?
 
 ## Closing Thoughts
+
 Constellation is not a perfect company and is not the right template for all businesses, even decentralized ones. Still, they have clearly done a lot of things right, guided by their wholesale commitment to decentralization.
 Contrastingly, it is hard to argue, in my opinion, that J2 should be held up as a role model for anybody at this point in time. The potential is there, and recent changes are encouraging, but its suspect governance casts a long shadow.
 Whether J2’s share price sufficiently compensates investors for that risk, or whether Constellation’s share price overcompensates for a modest forward trajectory are judgements I will not opine on here. Instead, I want this letter to underscore that decentralization is about doing great things in small sizes many times over instead of doing one great thing on a massive scale. This is as true for acquisitions as it is for operations but executing on this principle requires much more than a willing check book.

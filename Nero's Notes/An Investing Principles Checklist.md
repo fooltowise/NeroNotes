@@ -17,7 +17,7 @@ We have now examined Charlie's approach to [[Munger's Approach to Business Analy
 - Remember that just because other people agree or disagree with you doesn't make you right or wrong - the only thing that matters is the correctness of your analysis and judgment
 - Mimicking the herd invites regression to the mean (merely average performance)
 
-### Preparation - " The only way to win is to work, work, work, work, and hope to have a few insights"
+### Preparation - "The only way to win is to work, work, work, work, and hope to have a few insights"
 - Develop into a lifelong self-learner through voracious reading; cultivate curiosity and strive to become a little wiser every day
 - More important than the will to win is the will to prepare
 - Develop fluency in mental models from the major academic disciplines

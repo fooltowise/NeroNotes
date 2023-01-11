@@ -1,7 +1,7 @@
 # Decentralization 101
 by #Scuttlebutt
 
-As many of you know, I wrote an [updated version of my essay on Sidecar investing](https://www.scuttlebutt.co/p/sidecar-investing) recently. The TLDR is that a special group of diversified acquirers is tapping a growing pool of high-return private inves  tments that we can sidecar via a public vehicle. More importantly, these capital allocators should be equally celebrated for their risk-reducing properties, not only for their compounding superpowers.
+As many of you know, I wrote an [updated version of my essay on Sidecar investing](https://www.scuttlebutt.co/p/sidecar-investing) recently. The TLDR is that a special group of diversified acquirers is tapping a growing pool of high-return private investments that we can sidecar via a public vehicle. More importantly, these capital allocators should be equally celebrated for their risk-reducing properties, not only for their compounding superpowers.
 
 I also wrote about the importance of scaling the M&A machinery, delaying diminishing returns from size. I made it sound easy and practical to decentralize lead generation and the investment decision itself. I think this needs clarification. Most of us are familiar with how [[Constellation Software]] (disc: long) decentralizes investment decisions to one of their six operating groups and even further down to the underlying business units. Similarly, it\`s tempting to think that every serial acquirer should implement this framework. After all, to a man with a hammer, everything looks like a nail. However, there is a big difference between Diploma or a [[Lifco]] and [[Constellation Software]]. A [specialist acquirer](https://www.scuttlebutt.co/i/1945787/taxonomy-of-serial-acquirers) buying smaller-sized businesses within the same niche can more easily push the investment decision to the underlying units. However, a generalist acquirer, on the other hand, may push down the decision to do add-ons. Still, the investment decision to go into new niches has to be made at the HQ level. Generalists and theme-based specialists benefit by operating as return-focused investors in multiple niches allowing flexibility in terms of where risk/reward is most compelling but may lose out on specialization.
 
@@ -17,7 +17,7 @@ Recently I stumbled on a Swedish [presentation held by Per Waldemarson](https://
 
 On targeting bigger transactions (>100-200m SEK sales):
 
-> I wish we could buy one big company every year at 6x EV/EBITA, but we\`re not getting the same quality at the same price when you start going up in size (Note from the author: he later added that doing more deals instead of one big every year also lowers risk). The worst thing we can do is go up in size and lower the quality.
+> I wish we could buy one big company every year at 6x EV/EBITA, but we're not getting the same quality at the same price when you start going up in size (Note from the author: he later added that doing more deals instead of one big every year also lowers risk). The worst thing we can do is go up in size and lower the quality.
 
 On increasing M&A capacity to take care of more companies:
 

@@ -1,4 +1,4 @@
-# Serial Acquirers Moat Typologies
+# Serial Acquirer Moat Typologies
 
 - [[Accumulator Moat Typology]]
 - [[Roll Up Moat Typology]]

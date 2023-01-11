@@ -35,7 +35,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 - Oracle
 - Palantir
 - Paycom
-- Roper
+- [[Roper]]
 - Salesforce
 - ServiceNow
 - [[Constellation Software]]
@@ -253,7 +253,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 
 ### Machinery
 
-- Atlas Copco
+- [[Atlas Copco]]
 - Epiroc
 - Indutrade
 - Kone

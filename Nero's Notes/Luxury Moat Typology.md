@@ -25,3 +25,6 @@ Three values come again and again in a luxury moat:
 
 See also [[Company Culture in Luxury Brands]]
 
+## Exemples
+- [[LVMH]]
+- [[Hermes]]

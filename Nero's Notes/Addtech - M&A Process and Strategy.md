@@ -8,7 +8,7 @@ It was a small, profitable company with €5 million turnover and 8% to 9% EBIT 
 
 ### Were these big mechanical machines?
 
-Yes, robots and construction machines and equipment. ABB and Atlas Copco were large customers of ours but it was mostly through electrical wholesalers like Ahlsell, Sonepar, Elektroskandia and Rexel, all international wholesalers.
+Yes, robots and construction machines and equipment. ABB and [[Atlas Copco]] were large customers of ours but it was mostly through electrical wholesalers like Ahlsell, Sonepar, Elektroskandia and Rexel, all international wholesalers.
 
 ### How were you different from your competitors?
 

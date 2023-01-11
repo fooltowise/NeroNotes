@@ -214,7 +214,7 @@ To connect dots, create dots! MIND MAPS You cannot solve what you cannot remembe
 
 Breakdown the complex problem into segments and try to solve the segments and reassemble it.
 
-#### Elements of a great case study
+#### Elements of a great [[case study]]
 
 1.  Clear explanation of the industry structure and company strategy
 2.  Sufficient data to assess how the company evolved

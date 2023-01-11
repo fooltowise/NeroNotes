@@ -6,7 +6,7 @@ Published on **July 12, 2021**
 
 We continued our work on [[Addtech]] with **[an interview with a Former Addtech Business Unit CEO](https://inpractise.com/articles/addtech-manda-strategy)** that has experience both selling an operating company to Addtech and acquiring and operating companies within the energy division at Addtech.
 
-In 2013, Addtech purchased Rutab AB, a Nordic cable component business, a company that is very typical of the 100’s Addtech has made over previous decades. In 2012, Rutab generated ~10m EUR revenue at 8-9% EBIT margins with only 40 employees. The company manufactures and sells machine cable glands to electrical wholesalers such as Ahlsell and Sonepar. These cables are used by industrial companies like ABB and Atlas Copco within large machining and automated technology. Rutab is the sole supplier of such cables and has a mini-monopoly on this small market.
+In 2013, Addtech purchased Rutab AB, a Nordic cable component business, a company that is very typical of the 100’s Addtech has made over previous decades. In 2012, Rutab generated ~10m EUR revenue at 8-9% EBIT margins with only 40 employees. The company manufactures and sells machine cable glands to electrical wholesalers such as Ahlsell and Sonepar. These cables are used by industrial companies like ABB and [[Atlas Copco]] within large machining and automated technology. Rutab is the sole supplier of such cables and has a mini-monopoly on this small market.
 
 Rutab is a perfect example of companies Addtech searches for: strong historical profitability, below 10m EUR sales, very few competitors, and a good management team.
 

@@ -4,7 +4,7 @@
 - [[Luxury Moat Typology]]
 - [[Outsourcer Moat Typology]]
 - [[Influencer Moat Typology]]
-- [[Serial Acquirers Moat Typologies]]
+- [[Serial Acquirer Moat Typologies]]
 - [[Platform Moat Typology]]
 
 

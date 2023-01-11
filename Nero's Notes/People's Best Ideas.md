@@ -1,14 +1,14 @@
-# Life Canvas
+# People's Best Ideas
 
 
 ## Principles
-- [[Lessons from Mohnish Pabrai | Mohnish Pabrai]]: Clone what works
-- [[Nick Sleep and Qais Zakaria | Nick Sleep]]: When something is worth doing, it's worth doing well.
+- [[Lessons from Mohnish Pabrai |Mohnish Pabrai]]: Clone what works
+- [[Nick Sleep and Qais Zakaria |Nick Sleep]]: When something is worth doing, it's worth doing well.
 - Daniel Gilbert: We are very bad at predicting what will make us happy. Two consequences:
 	-  It is much easier (and better) to remove unhappiness than to actively seek things that make us happy
 	- When something looks interesting/potentially fulfilling, contact someone who is already in that position to figure out how his day-to-day life looks like.
-- [[Jonny Wilkinson on High Performance | Jonny Wilkinson]]: 
-	- Be present at the present task and give it your all. Be fully engaged. See [[Characteristics of  Flow | Flow]].
+- [[Jonny Wilkinson on High Performance |Jonny Wilkinson]]: 
+	- Be present at the present task and give it your all. Be fully engaged. See [[Characteristics of  Flow |Flow]].
 	- Let go of your old identity. What you have been through does not define who you are.
 	- How you see yourself translates to what you can create in the world.
 	- There is nothing more powerful than passion, excitement and a willingness to learn.
@@ -29,4 +29,4 @@
 
 
 
-See also [[Principles for a good  life]], [[Quality of life]]
+See also [[Principles for a good  life]], [[Quality of life]], [[What am I trying to do]], 

@@ -50,6 +50,7 @@
 [[The 10th Man Investment Thesis on CSU]]
 [[Constellation Software's Culture]] by Roy Lipovetzky
 [[Junto on Constellation Software]]
+[[Practice Makes Perfect]] by [[Demesne Investments]]
 
 
 ## Interviews with Operators

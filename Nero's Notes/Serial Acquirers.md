@@ -1,5 +1,5 @@
 # Serial Acquirers
-See also [[Studying Serial Acquirers]]
+See also [[Studying Serial Acquirers]], [[A Taxonomy of Holdcos]]
 
 I focus on just a few business models, or frameworks, and try to understand how they work globally. This focus sometimes helps to uncover insights that may be difficult to derive from backward-looking line items on an income statement or balance sheet, but which may be critically important down the road.
 

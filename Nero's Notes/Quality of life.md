@@ -6,4 +6,4 @@ Where you live.
 What you do.
 Who you spend your time with.
 
-This is about having control, which you can only have after having built [[Deliberate Practice | career capital]].
+This is about having control, which you can only have after having built [[Deliberate Practice |career capital]].

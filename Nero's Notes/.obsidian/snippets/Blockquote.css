@@ -1,0 +1,32 @@
+
+
+blockquote:before {
+    content: "“";
+    font-family: Georgia;
+    font-size: 6rem;
+    margin: -0.15em 0rem 0 -1em;
+    position: absolute;
+    opacity: 1;
+    float: left;
+    line-height: 1;
+}
+
+blockquote {
+   text-indent: 2.5em;   
+}
+
+.markdown-rendered blockquote {  
+  font-style: italic;
+}
+
+
+.HyperMD-quote {
+	font-style: italic !important;	
+}
+
+
+.list-bullet::after{
+	/*border-radius: 0;*/
+	background-color: #000000;
+}
+

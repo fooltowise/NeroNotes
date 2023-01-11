@@ -7,6 +7,6 @@ Another form of broken competition is linked to [[Switching costs]]. This occurs
 
 The extent of the attraction depends on the competition for the sale of the upfront product. If the upfront market is highly competitive, then most of the back-end monopoly subsidizes the upfront purchase. Consider cell phone service providers, where front end competition led most to give cell phones to users for free, becoming a 100% user acquisition cost. 
 
-Contrast this with the compressor market.  In addition to excellent service margins, market leader Atlas Copco also achieves solid margins on original equipment pieces. The combination has allowed Atlas Copco to sustain high return on capital and strong operating margins for many years, despite the cyclicality of its end-markets.
+Contrast this with the compressor market.  In addition to excellent service margins, market leader [[Atlas Copco]] also achieves solid margins on original equipment pieces. The combination has allowed [[Atlas Copco]] to sustain high return on capital and strong operating margins for many years, despite the cyclicality of its end-markets.
 
 **The investor should always try to evaluate why an industry may develop along the cell phone model or the compressor model.**

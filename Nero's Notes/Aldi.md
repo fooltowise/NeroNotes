@@ -7,7 +7,7 @@
 
 
 
--[[Aldi - Bare Essentials]]
+- [[Aldi - Bare Essentials]]
 
 ## Consumer Retail:
 - [[25 years of Leadership in Consumer Retail]]

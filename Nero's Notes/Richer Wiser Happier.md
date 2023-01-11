@@ -1,6 +1,6 @@
 # Richer, Wiser, Happier
 
-by William Green
+by William Green 
 
 ## [[Mohnish Pabrai]]
 

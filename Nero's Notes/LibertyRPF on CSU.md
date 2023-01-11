@@ -369,7 +369,7 @@ They’re still hungry, still trying to improve their game! No complacency at CS
 
 When I saw that there was a new letter, the first one since 2017, it felt a bit like a mix of Xmas and a sighting of Halley’s Comet:
 
--   [[[Constellation Software]] Inc. 2021 President's Letter](https://www.csisoftware.com/docs/default-source/press-releases/letter-to-shareholders---february-15-2021.pdf)
+-   [Constellation Software Inc. 2021 President's Letter](https://www.csisoftware.com/docs/default-source/press-releases/letter-to-shareholders---february-15-2021.pdf)
     
 
 It’s not totally out of the blue because the past few AGMs already touched on these themes and showed that management was thinking about these things, but it’s still surprising to see this type of course-change in our world of incrementalism, half-measures, and people afraid to change their minds.

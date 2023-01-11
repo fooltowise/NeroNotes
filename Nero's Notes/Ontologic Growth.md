@@ -1,3 +1,4 @@
+# Ontologic Growth
 
 The [[Network Theory and Scale|scaling]] power law of metabolism explains why we stop growing past a certain size.
 

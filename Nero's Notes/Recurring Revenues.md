@@ -14,4 +14,4 @@ There are various models of recurring revenue:
 Recurring revenues often come with great economic benefits (see [[Economics effects of recurring revenues]]).
 
 
-Many companies enjoy some degree of recurring revenue and many managers strive to increase that component of overall operations, but a small amount of recurring revenue does not necessarily make a company great. Rather, for the pattern to warrant serious consideration as the signifier of quality, recurring revenues should be an overriding feature of the economics of the business - a trait we see in companies as seemingly diverse as Atlas Copco, Dassault Systems, Rolls Royce and KONE.
+Many companies enjoy some degree of recurring revenue and many managers strive to increase that component of overall operations, but a small amount of recurring revenue does not necessarily make a company great. Rather, for the pattern to warrant serious consideration as the signifier of quality, recurring revenues should be an overriding feature of the economics of the business - a trait we see in companies as seemingly diverse as [[Atlas Copco]], Dassault Systems, Rolls Royce and KONE.
