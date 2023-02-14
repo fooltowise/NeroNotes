@@ -12,7 +12,7 @@ There are many great write-ups by Scott Management [here](https://www.scottlp.co
 
 In December, we interviewed three former executives of [[Halma]] operating companies to explore a question that we believe is crucial for ‘platform-type’ roll-ups: **how is the company organised to scale acquisitions.**
 
-[[Halma]] started as an ‘accumulator’ serial acquirer. Operating companies were decentralised with CEOs running individual P&L’s reporting to Barber. This structure is similar to [[Constellation Software]] (CSU) in VMS or [[Addtech]] in B2B distribution where the parent company aims to add value by sharing best practices across opcos rather than centralising services to cut costs.
+[[Halma]] started as an ‘accumulator’ serial acquirer. Operating companies were decentralised with CEOs running individual P&L’s reporting to Barber. This structure is similar to [[Constellation Software]] (CSU) in VMS or [[Addtech]] in [[B2B distribution]] where the parent company aims to add value by sharing best practices across opcos rather than centralising services to cut costs.
 
 This strategy worked well until the early 2000s when [[Halma]]’s revenue and FCF hit a wall. The business didn’t grow for 4 years. In 2005, Andrew Williams became CEO, sold off underperforming businesses and moved into the medical equipment business. Prior to 1997, over 70% of [[Halma]]’s acquisitions were small, niche businesses within existing health and safety sectors. We would argue that Williams started [[Halma]]’s transition from an ‘accumulator’ to a ‘platform’ acquirer. In other words, from a [[Constellation Software]]-like operating model closer towards a Danaher-like operating model.
 

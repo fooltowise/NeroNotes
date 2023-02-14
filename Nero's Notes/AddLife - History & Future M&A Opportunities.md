@@ -6,7 +6,7 @@ _Disclaimer: This interview is for informational purposes only and should not be
 
 ### It would be helpful if you could outline your background.
 
-I have a medical background and have been working in the life science industry my whole professional career. I've occupied C-level positions for over 20 years. I was at Organon for many years, which is a Dutch international company. I was then at bioMérieux, a French company and one of the biggest in life sciences, where I was a division director, then the CEO for the Nordic countries. I joined Bergman & Beving Group at Addtech in Sweden and was the CEO for Addtech Life Science for many years. When I joined the group, it consisted of 140 companies split into four divisions, one of which was life science. They were listed as diagnostic but saw the company more as a portfolio, so they split the life science part of Addtech to create [[AddLife]] in 2016.
+I have a medical background and have been working in the life science industry my whole professional career. I've occupied C-level positions for over 20 years. I was at Organon for many years, which is a Dutch international company. I was then at bioMérieux, a French company and one of the biggest in life sciences, where I was a division director, then the CEO for the Nordic countries. I joined [[Bergman & Beving]] Group at Addtech in Sweden and was the CEO for Addtech Life Science for many years. When I joined the group, it consisted of 140 companies split into four divisions, one of which was life science. They were listed as diagnostic but saw the company more as a portfolio, so they split the life science part of Addtech to create [[AddLife]] in 2016.
 
 ### When did you join Addtech?
 
@@ -30,17 +30,17 @@ Exactly. Then we had critical mass and it was okay to do it. We had planned to a
 
 ### Yes.
 
-Bergman & Beving, the origin of [[AddLife]] and Addtech, was founded in 1906, by a German and a Swede who made acquisitions faster by having a decentralized organization. They started acquiring in the sixties and had 250 companies by 2000. They then split Bergman & Beving into three companies; Addtech, Lagercrantz and B&B Tools. We did the same at Addtech with the [[AddLife]] spin-off. That method allows for faster integration of companies compared to consolidation. Do you know Danaher?
+[[Bergman & Beving]], the origin of [[AddLife]] and Addtech, was founded in 1906, by a German and a Swede who made acquisitions faster by having a decentralized organization. They started acquiring in the sixties and had 250 companies by 2000. They then split [[Bergman & Beving]] into three companies; Addtech, [[Lagercrantz]] and B&B Tools. We did the same at Addtech with the [[AddLife]] spin-off. That method allows for faster integration of companies compared to consolidation. Do you know Danaher?
 
-### I'm familiar with Addtech and Bergman & Beving, who have shown they can do that successfully for decades.
+### I'm familiar with Addtech and [[Bergman & Beving]], who have shown they can do that successfully for decades.
 
-Many companies copied this model, such as Indutrade in Sweden and other companies abroad. It's a good way to get the best of being a small company with regards to personality, flexibility and speed, combined with financial muscle, networks and sustainability. Another success factor is they had a business school very early on. That's very important because you need glue to bind all the companies together. In addition to having the right leadership, you need to be a role model and walk the talk. Bergman & Beving focused on Nordic countries, whereas Addtech made acquisitions in Germany, BENELUX and the UK who have common values and business structures. That is also why we never entered the Iberian Peninsula, Italy or France.
+Many companies copied this model, such as [[Indutrade]] in Sweden and other companies abroad. It's a good way to get the best of being a small company with regards to personality, flexibility and speed, combined with financial muscle, networks and sustainability. Another success factor is they had a business school very early on. That's very important because you need glue to bind all the companies together. In addition to having the right leadership, you need to be a role model and walk the talk. [[Bergman & Beving]] focused on Nordic countries, whereas Addtech made acquisitions in Germany, BENELUX and the UK who have common values and business structures. That is also why we never entered the Iberian Peninsula, Italy or France.
 
 In bigger European countries, the companies [[AddLife]] or Addtech represented, operated independently because it's a bigger market. Having nine countries in the Nordics plus Baltics makes it difficult for a company to establish the business on their own. That's why it's attractive to cover a bigger region and easier to offer suppliers the critical mass of nine countries and nine languages. Biomedica gave us access to Central Europe which has many countries. The acquisition of the Italian company EuroClone was opportunistic because we already represented them in the Nordics.
 
 ### When you were there you thought about buying EuroClone?
 
-Yes, when Bergman & Beving made acquisition A, they always thought about the next one, which is very different to Thermo Fisher who grow by acquisitions. [[AddLife]] recently made some opportunistic acquisitions, such as the one in the UK, but that was a good move because it gave them access to a bigger market.
+Yes, when [[Bergman & Beving]] made acquisition A, they always thought about the next one, which is very different to Thermo Fisher who grow by acquisitions. [[AddLife]] recently made some opportunistic acquisitions, such as the one in the UK, but that was a good move because it gave them access to a bigger market.
 
 ### Returning to your story, you left just before the spin-off?
 

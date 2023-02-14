@@ -40,7 +40,7 @@ My job makes me happy and young. I am constantly learning.
 
 
 
-**Gustaf:** _Let us back up a bit. In 2006-2007 you found the Indutrade/[[Addtech]] model replicable enough but thought: “Hey, why are they so slow?” What happened next?_
+**Gustaf:** _Let us back up a bit. In 2006-2007 you found the [[Indutrade]]/[[Addtech]] model replicable enough but thought: “Hey, why are they so slow?” What happened next?_
 
 __**Johan:** Since we had no initial capital, Jonas and I started by persuading the owners of two small trading companies to start [[Teqnion]] together with us.
 

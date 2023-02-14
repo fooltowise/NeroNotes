@@ -1,11 +1,11 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "translucency": false,
   "enabledCssSnippets": [
     "RemoveTitle",
     "Blockquote"
   ],
-  "baseFontSize": 21,
+  "baseFontSize": 18,
   "cssTheme": "",
   "baseFontSizeAction": true,
   "interfaceFontFamily": "",

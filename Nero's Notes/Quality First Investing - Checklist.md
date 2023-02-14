@@ -1,4 +1,4 @@
-# Quality First Investing - Checklist
+al# Quality First Investing - Checklist
 See also [[Due Diligence - Investment Checklist]]
 
 

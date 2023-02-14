@@ -504,5 +504,12 @@
   "foldHeading": true,
   "communityPluginSortOrder": "download",
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 82
+  }
 }

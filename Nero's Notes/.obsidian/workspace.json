@@ -92,12 +92,38 @@
             }
           },
           {
-            "id": "88e044f0ff875f79",
+            "id": "6c7d82e6390ba4a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demesne Investments.md",
+                "file": "How many stocks should you own.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2a4cd851744aa53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bergman & Beving.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0136ca00b936b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bergman & Beving, Lagercrantz, Nordic B2B Distribution & M&A.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -105,51 +131,12 @@
             }
           },
           {
-            "id": "7b0e61c66bd0e5fe",
+            "id": "26ead0b3b44ce228",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Addlife.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "843932022a9d87a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Addlife.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fd00d8492f5c890",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions to ask to Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bf84be6353fa840",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of Serial Acquirers.md",
+                "file": "Characteristics of effective cultures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -157,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -186,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"control\"",
+                "query": "B2B",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Addlife.md",
+                "file": "How many stocks should you own.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Addlife.md",
+                "file": "How many stocks should you own.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Addlife.md"
+                "file": "How many stocks should you own.md"
               }
             }
           },
@@ -282,7 +269,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,17 +287,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "843932022a9d87a4",
+  "active": "6c7d82e6390ba4a5",
   "lastOpenFiles": [
-    "AddLife - History & Future M&A Opportunities.md",
-    "Addlife.md",
-    "Functional vs Unit Organisation.md",
-    "Demesne Investments.md",
-    "Questions to ask to Management.md",
+    "Characteristics of effective cultures.md",
+    "How many stocks should you own.md",
+    "Judges Analysis By Gorilla.md",
+    "OneWater Marine.md",
+    "Revisiting OneWater Marine.md",
+    "OneWater Marine Inc. -The Beauty of a Roll-up Strategy.md",
     "List of Serial Acquirers.md",
-    "A Taxonomy of Holdcos.md",
-    "26 years at Costco Canada.md",
-    "List of Decentralized Companies.md",
-    "Atlas Copco.md"
+    "CSU 2012 Letter to Shareholders.md",
+    "Constellation Software.md",
+    "CSU 2009 Letter to Shareholders.md"
   ]
 }

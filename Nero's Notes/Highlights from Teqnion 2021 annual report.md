@@ -116,7 +116,7 @@ Globally low interest rates are affecting companies like Teqnion. As interest ra
 
 ### Competitive situation and risks
 
-Teqnion's business is partially exposed to competition from companies with a similar strategy. Examples of similar companies with a sound acquisition strategy are Indutrade, [[Lifco]] and [[Lagercrantz]] Group. However, the competitive situation is very limited but naturally places high demands on Teqnion's organisation and management.
+Teqnion's business is partially exposed to competition from companies with a similar strategy. Examples of similar companies with a sound acquisition strategy are [[Indutrade]], [[Lifco]] and [[Lagercrantz]] Group. However, the competitive situation is very limited but naturally places high demands on Teqnion's organisation and management.
 
 Teqnion often acquires companies that have been in the lower range of what the company's larger competitors usually acquire. This type of acquisition involves both opportunities and risks. The opportunities arise from the fact that the companies often have a high growth potential and that there may be less competition for them when fewer players are interested. The risks are that the organisation of these smaller companies is not as robust as that of a larger company and that the product offering may be somewhat limited.
 

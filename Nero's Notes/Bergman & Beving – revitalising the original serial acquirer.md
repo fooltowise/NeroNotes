@@ -1,8 +1,8 @@
-# Bergman & Beving – revitalising the original serial acquirer
+# [[Bergman & Beving]] – revitalising the original serial acquirer
 
-**Gustaf:** _Hi Magnus, you are today Group CEO of Bergman & Beving \[the legendary serial acquirer spawner of Lagercrantz Group, Addtech, [[Addlife]], Momentum Group, & Alligo\]. What strategic journey did you make as Executive Vice President at Lagercrantz Group from 2007 to 2021?_
+**Gustaf:** _Hi Magnus, you are today Group CEO of [[Bergman & Beving]] \[the legendary serial acquirer spawner of [[Lagercrantz]] Group, Addtech, [[Addlife]], Momentum Group, & Alligo\]. What strategic journey did you make as Executive Vice President at [[Lagercrantz]] Group from 2007 to 2021?_
 
-**Magnus Söderlind:** When I joined Lagercrantz Group as EVP in 2007, Lagercrantz was mainly a group of companies focusing on electronic and telecom components distribution. It was obvious that even if you were world-class in those industries, reaching a double-digit profit margin would be very challenging.
+**Magnus Söderlind:** When I joined [[Lagercrantz]] Group as EVP in 2007, [[Lagercrantz]] was mainly a group of companies focusing on electronic and telecom components distribution. It was obvious that even if you were world-class in those industries, reaching a double-digit profit margin would be very challenging.
 
 As EVP, one of my responsibilities was M&A. We outlined a new acquisition strategy focusing on niche product companies with a proven track record of double-digit profit margins.
 
@@ -10,15 +10,15 @@ It was not easy initially to get everyone in the management team comfortable wit
 
 Luckily, the product companies we initially acquired were successful, and over time, the internal acceptance of acquiring product companies increased, accelerated by changes made in the management team.
 
-If you look into the growth of Lagercrantz over the last 15 years, it's very much acquisition-driven. When I joined, the profit margin was 4%. Today it's close to 17%, a level never heard of in the electronic and telecom components distribution industry.
+If you look into the growth of [[Lagercrantz]] over the last 15 years, it's very much acquisition-driven. When I joined, the profit margin was 4%. Today it's close to 17%, a level never heard of in the electronic and telecom components distribution industry.
 
-With the profit expansion, the valuation accelerated. Back in 2007, when I started, the market cap was SEK 800 million. Today it's SEK 17 billion, an increase of 21x or approximately 2000 per cent, representing a share price CAGR of 22%. That is the journey I foresee for Bergman & Beving (B&B).
+With the profit expansion, the valuation accelerated. Back in 2007, when I started, the market cap was SEK 800 million. Today it's SEK 17 billion, an increase of 21x or approximately 2000 per cent, representing a share price CAGR of 22%. That is the journey I foresee for [[Bergman & Beving]] (B&B).
 
 
 
-**Gustaf:** _What is Bergman & Beving today?_
+**Gustaf:** _What is [[Bergman & Beving]] today?_
 
-**Magnus:** When I joined B&B 1.5 years ago, the profit margin was roughly 2 percentage points higher than Lagercrantz’s when I started there. But even more important, the potential in B&B’s current companies (21 today) is much greater than the potential in Lagercrantz's portfolio in 2007.
+**Magnus:** When I joined B&B 1.5 years ago, the profit margin was roughly 2 percentage points higher than [[Lagercrantz]]’s when I started there. But even more important, the potential in B&B’s current companies (21 today) is much greater than the potential in [[Lagercrantz]]'s portfolio in 2007.
 
 I argue that we can reach a double-digit profit margin in our existing companies. We have started that journey focusing on the companies/product lines having healthy margins and running improvement projects tailored to each company.
 
@@ -32,9 +32,9 @@ In line with this, we have made two platform acquisitions during 2022. All in al
 
 
 
-**Gustaf:** _What lessons and changes do you bring to Bergman & Beving?_
+**Gustaf:** _What lessons and changes do you bring to [[Bergman & Beving]]?_
 
-**Magnus:** My ambition from day one has been combining the best of the two worlds. As B&B and Lagercrantz have much more in common than differences, it was pretty easy to get into B&B and be productive.
+**Magnus:** My ambition from day one has been combining the best of the two worlds. As B&B and [[Lagercrantz]] have much more in common than differences, it was pretty easy to get into B&B and be productive.
 
 But the fact I started at B&B hasn’t meant a revolution; it's more like an evolution. We have increased the level of decentralisation and now, for example, have fewer people at the head office (ten employees at the head office) than when I started.
 
@@ -46,7 +46,7 @@ To further fuel the ‘right type’ of growth, we have taken a company-by-compa
 
 We have also increased the focus on ROCE, not only focusing on profit growth, to ensure we do the right investment and activities in our current companies but also on generating cash flows to be able to increase acquisitions.
 
-For this, we use a B&B ROCE definition (EBITA/WC%) used for decades within Bergman & Beving. I have also brought my experience and network within M&A to vitalise our acquisition activities, and we now have a comprehensive acquisition pipeline of exciting prospects.
+For this, we use a B&B ROCE definition (EBITA/WC%) used for decades within [[Bergman & Beving]]. I have also brought my experience and network within M&A to vitalise our acquisition activities, and we now have a comprehensive acquisition pipeline of exciting prospects.
 
 
 
@@ -74,13 +74,13 @@ If you are on the other end of the EBITA/WC spectra, i.e. <25%, the company’s 
 
 **Magnus:** We source acquisition opportunities through structured processes and outreach activities. In add-on acquisitions to our current companies it's mostly outreach activities. The two last platform acquisitions we made were one by a structured process and one by our outreach activities.
 
-We only buy well-managed, profitable niche companies where we have identified opportunities to grow the business and profit, but making a valuation arbitrage is also part of our model. Our acquisitions valuation range is well below the Bergman & Beving stock valuation.
+We only buy well-managed, profitable niche companies where we have identified opportunities to grow the business and profit, but making a valuation arbitrage is also part of our model. Our acquisitions valuation range is well below the [[Bergman & Beving]] stock valuation.
 
 
 
-**Gustaf:** _How can investors and business owners get in contact with Bergman & Beving?_
+**Gustaf:** _How can investors and business owners get in contact with [[Bergman & Beving]]?_
 
-**Magnus:** If you like to know more about Bergman & Beving, you can visit our website: [https://www.bergmanbeving.com/en](https://www.bergmanbeving.com/en). You can also contact our IR contact: Peter Schön, at [Peter.Schon@bb.se](mailto:Peter.Schon@bb.se) or +46 703 398 999
+**Magnus:** If you like to know more about [[Bergman & Beving]], you can visit our website: [https://www.bergmanbeving.com/en](https://www.bergmanbeving.com/en). You can also contact our IR contact: Peter Schön, at [Peter.Schon@bb.se](mailto:Peter.Schon@bb.se) or +46 703 398 999
 
 _Disclaimer: This is not investment advice. Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice. Any reference to or omission of any reference to any company should not be construed as a recommendation to buy, sell or take any other action with respect to any security of any such company. The author may hold positions in securities discussed. Any forward looking-statement is subject to risks and uncertainties. Read further disclosure in the Terms of Service._
 

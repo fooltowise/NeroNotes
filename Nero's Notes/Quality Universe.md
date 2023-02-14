@@ -255,7 +255,7 @@ See also [[Best Businesses in the world to Study]], [[Great Businesses to Study]
 
 - [[Atlas Copco]]
 - Epiroc
-- Indutrade
+- [[Indutrade]]
 - Kone
 - Rational
 - Troax
