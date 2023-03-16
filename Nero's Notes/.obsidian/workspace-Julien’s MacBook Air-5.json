@@ -211,6 +211,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffc1da6985ace102",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 14
@@ -358,15 +366,15 @@
   },
   "active": "84d2d230685b3758",
   "lastOpenFiles": [
-    "Fairway Research on Terravest.md",
-    "Terravest.md",
-    "Terravest writeup - Value Investor Club April 2021.md",
-    "Gallup's CliftonStrengths 34.md",
     "Binary Trees.md",
     "Walmart.md",
     "A new note.md",
     "Made In America - Sam Walton.md",
     "Best Businesses in the world to Study.md",
-    "Corporate Culture Quadrant.md"
+    "Corporate Culture Quadrant.md",
+    "When Growth Stalls.md",
+    "The Home Depot.md",
+    "LVMH.md",
+    "Bergman & Beving, Luna, and Nordic Tools Distribution.md"
   ]
 }

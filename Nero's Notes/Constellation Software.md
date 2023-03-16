@@ -61,6 +61,7 @@
 [[Constellation Software, Jonas, & Portfolio Management]]
 [[Tegus Interview of Jamal Baksh]]
 [[Constellation Software - Competition, Hurdle Rates & Deal Flow]]
+[[Constellation Software Competition Risks]]
 
 
 ## Analyses by Liberty RPF

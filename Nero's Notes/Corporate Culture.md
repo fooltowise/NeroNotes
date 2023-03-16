@@ -21,3 +21,5 @@ In probing culture, we consult management, of course, bu we equally value input 
 [[Self Perpetuation of Corporate Culture]]
 [[Family Ownership]]
 [[Why options are usually a bad compensation scheme]]
+
+[[Corporate Culture Quadrant]]

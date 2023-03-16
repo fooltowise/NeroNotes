@@ -8,7 +8,104 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c488e4526713b38a",
+            "id": "61244ef38b9a13dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Definitive Guide to Deliberate Practice.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de900afbe94a3369",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Work.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e20b744a64403296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Richer Wiser Happier.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23cb265bd4225fce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What am I trying to do.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1a34b190e666a6c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How much do I get to live.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fdce34d8f3293586",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case Study.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6c7d82e6390ba4a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Growth Seeker.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2a4cd851744aa53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,57 +118,25 @@
             }
           },
           {
-            "id": "e20b744a64403296",
+            "id": "7496be732957dfe1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Richer Wiser Happier.md",
-                "mode": "source",
+                "file": "Constellation Software Competition Risks.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "23cb265bd4225fce",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What am I trying to do.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "eb451592d7ffec13",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Best Businesses in the world to Study.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "06fb69107c149fe7",
+            "id": "b0136ca00b936b78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gallup's CliftonStrengths 34.md",
+                "file": "Becoming an Independent Fund.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,107 +144,12 @@
             }
           },
           {
-            "id": "b35eee5762840e5b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Moat Typologies.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3295dd60e9d395f9",
+            "id": "09ebe7e7826a36d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bergman & Beving to Addtech, a best-in-class serial acquirer.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "864cda236a07ebca",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions to ask to Management.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4be303a1e1e70a1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sidecar Investing.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db70314d8f472331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Demesne Investments.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74fe79b9e8eb41e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bergman & Beving, Luna, and Nordic Tools Distribution.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3103dde082716cfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Best Businesses in the world to Study.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdd65fcf9c89dbe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Culture Quadrant.md",
+                "file": "Create a Fund.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -187,25 +157,12 @@
             }
           },
           {
-            "id": "6176a2b5a763f8d6",
+            "id": "5c3a29bef7baa213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Trees.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84d2d230685b3758",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terravest.md",
+                "file": "Strategies to grow your fund.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -213,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -242,7 +199,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "B2B",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -281,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terravest.md",
+                "file": "Strategies to grow your fund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terravest.md",
+                "file": "Strategies to grow your fund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terravest.md"
+                "file": "Strategies to grow your fund.md"
               }
             }
           },
@@ -334,7 +291,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -356,17 +313,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "84d2d230685b3758",
+  "active": "5c3a29bef7baa213",
   "lastOpenFiles": [
     "Fairway Research on Terravest.md",
-    "Terravest.md",
     "Terravest writeup - Value Investor Club April 2021.md",
-    "Gallup's CliftonStrengths 34.md",
-    "Binary Trees.md",
-    "Walmart.md",
-    "A new note.md",
-    "Made In America - Sam Walton.md",
-    "Best Businesses in the world to Study.md",
-    "Corporate Culture Quadrant.md"
+    "Terravest.md",
+    "Create a Fund.md",
+    "Strategies to grow your fund.md",
+    "Becoming an Independent Fund.md",
+    "Bergman & Beving, Lagercrantz, Nordic B2B Distribution & M&A.md",
+    "Corporate Culture.md",
+    "Corporate Culture Quadrant.md",
+    "Characteristics of effective cultures.md",
+    "Constellation Software Competition Risks.md",
+    "The Home Depot.md",
+    "Constellation Software.md",
+    "Bergman & Beving.md",
+    "Growth Seeker.md",
+    "Journal/2021-05-16.md",
+    "How many stocks should you own.md",
+    "Judges Analysis By Gorilla.md",
+    "OneWater Marine.md",
+    "Revisiting OneWater Marine.md",
+    "OneWater Marine Inc. -The Beauty of a Roll-up Strategy.md"
   ]
 }

@@ -1,6 +1,7 @@
 # Made in America - Sam Walton
 
 - You can't just keep doing what works one time, everything around you is changing. To succeed, stay out in front of change (see also [[Evolution - Adaptation and the Red Queen Effect]]).
+I want to link to [[A new note]]
 
 
 ## Key Takeaways
