@@ -52,7 +52,7 @@ My priorities are to find, buy and hold great investments.
 - What is a great business model? See [[Moat Typologies]]
 - What is an increasing competitive advantage?
 - What is great management?
-- What is great culture?  See [[Corporate Culture]]
+- What is great culture?  See [[Corporate Culture]] and [[Corporate Culture Quadrant]]
 	- In line with business strategy
 	- adaptive
 	- strength: everybody is on the same line

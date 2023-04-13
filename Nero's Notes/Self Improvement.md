@@ -13,6 +13,9 @@
 [[Choosing Important Problems]]
 
 
+[[Questions for Clarity about Quality of Life]]
+
+
 > If I have a goal for the next 10 years, how can I get there in 6 months? 
 -Peter Thiel
 

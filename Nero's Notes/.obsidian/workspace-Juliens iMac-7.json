@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of Serial Acquirers.md",
+                "file": "Diploma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,35 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "681c42a11eeb5d4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dino Polska.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "584b4c40bcaab0ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Former CEO at Biedronka.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -219,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Serial Acquirers.md",
+                "file": "The 12-week Year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Serial Acquirers.md",
+                "file": "The 12-week Year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of Serial Acquirers.md"
+                "file": "The 12-week Year.md"
               }
             }
           },
@@ -293,22 +267,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a66a509d1cd57540",
+  "active": "3e5531374afe5869",
   "lastOpenFiles": [
-    "Diploma.md",
-    "Former CEO at Biedronka.md",
-    "Dino Polska.md",
-    "People's Best Ideas.md",
-    "The 12-week Year.md",
-    "How do I interview a CEO.md",
     "How Do You Access MicroCap Management Teams.md",
+    "People's Best Ideas.md",
     "Quality of life.md",
     "Peter Bevelin about Wisdom.md",
     "Questions for Clarity about Quality of Life.md",
+    "The 12-week Year.md",
     "Fairway Research on SDI Group.md",
     "SDI Group.md",
     "Qu'est-ce qu'un bon business.md",
     "What am I trying to do.md",
+    "Diploma.md",
     "Röko.md",
     "Röko M&A Strategy, Transaction Structure, & Returns.md",
     "Diploma PLC and Value-added distribution.md",
@@ -320,6 +291,9 @@
     "Doing Scuttlebut.md",
     "Byrne Hobart's Checklist.md",
     "Checklists.md",
-    "Costco's Cultural DNA - Working with Jim Sinegal.md"
+    "Costco's Cultural DNA - Working with Jim Sinegal.md",
+    "Costco.md",
+    "Adyen - Pricing, Culture & Talent.md",
+    "Adyen.md"
   ]
 }

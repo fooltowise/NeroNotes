@@ -4,6 +4,7 @@
 - [[Adyen - Entering New Markets]]
 - [[Adyen - A merchant's perspective]] 
 - [[Adyen, Stripe, Checkout, & Payment Acquirers]]
+- [[Adyen - Pricing, Culture & Talent]]
 
 
 

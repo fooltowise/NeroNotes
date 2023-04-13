@@ -3,6 +3,8 @@
 - [[SVN Capital on Dino Polska]] 
 - [[Dino Polska - Serving Small-Town Poland]]
 - [[Dino Polska, Tesco, and Polish Food Retail]]
+- [[Former CEO at Biedronka]]
+- 
 
 
 

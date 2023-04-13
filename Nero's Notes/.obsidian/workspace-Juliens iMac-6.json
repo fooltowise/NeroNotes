@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions for Clarity about Quality of Life.md",
+                "file": "Low-touch marketing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,111 +47,20 @@
             }
           },
           {
-            "id": "fe267575afaa7a7b",
+            "id": "485674aa2b881cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What am I trying to do.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a66a509d1cd57540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of Serial Acquirers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "735845a5f11ae01a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDI Group.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7524ac6ceec64981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fairway Research on SDI Group.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e5531374afe5869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The 12-week Year.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67550d16fb0b19ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People's Best Ideas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "681c42a11eeb5d4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dino Polska.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "584b4c40bcaab0ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Former CEO at Biedronka.md",
-                "mode": "source",
+                "file": "How Atlassian built a $20 billion company with a unique sales model.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "notre",
+                "query": "fico",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457,
-    "collapsed": true
+    "width": 457
   },
   "right": {
     "id": "7fa4233b9d1c9536",
@@ -219,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Serial Acquirers.md",
+                "file": "How Atlassian built a $20 billion company with a unique sales model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Serial Acquirers.md",
+                "file": "How Atlassian built a $20 billion company with a unique sales model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of Serial Acquirers.md"
+                "file": "How Atlassian built a $20 billion company with a unique sales model.md"
               }
             }
           },
@@ -293,33 +201,29 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a66a509d1cd57540",
+  "active": "485674aa2b881cfb",
   "lastOpenFiles": [
-    "Diploma.md",
-    "Former CEO at Biedronka.md",
-    "Dino Polska.md",
-    "People's Best Ideas.md",
-    "The 12-week Year.md",
-    "How do I interview a CEO.md",
-    "How Do You Access MicroCap Management Teams.md",
-    "Quality of life.md",
-    "Peter Bevelin about Wisdom.md",
+    "Doing Scuttlebut.md",
+    "Untitled.md",
     "Questions for Clarity about Quality of Life.md",
-    "Fairway Research on SDI Group.md",
-    "SDI Group.md",
-    "Qu'est-ce qu'un bon business.md",
-    "What am I trying to do.md",
-    "Röko.md",
-    "Röko M&A Strategy, Transaction Structure, & Returns.md",
-    "Diploma PLC and Value-added distribution.md",
-    "Diploma - Specialized Distribution.md",
     "Low-touch marketing.md",
     "How Atlassian built a $20 billion company with a unique sales model.md",
-    "The art of interviewing management.md",
-    "Talking to management.md",
-    "Doing Scuttlebut.md",
     "Byrne Hobart's Checklist.md",
     "Checklists.md",
-    "Costco's Cultural DNA - Working with Jim Sinegal.md"
+    "Costco's Cultural DNA - Working with Jim Sinegal.md",
+    "Costco.md",
+    "Adyen - Pricing, Culture & Talent.md",
+    "Adyen.md",
+    "FICO and the Consumer Credit Bureaus - Part 1.md",
+    "FICO.md",
+    "Best Businesses in the world to Study.md",
+    "Weakest Link.md",
+    "Airline Business.md",
+    "Bad Business Patterns to avoid.md",
+    "MSCI.md",
+    "Moody's.md",
+    "Moody's and Standard & Poor's.md",
+    "Standard & Poor's.md",
+    "Factset, London Stock Exchange and Refinitiv.md"
   ]
 }

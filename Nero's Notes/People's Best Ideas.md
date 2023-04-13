@@ -2,6 +2,7 @@
 
 
 ## Principles
+
 - [[Lessons from Mohnish Pabrai |Mohnish Pabrai]]: Clone what works
 - [[Nick Sleep and Qais Zakaria |Nick Sleep]]: When something is worth doing, it's worth doing well.
 - Daniel Gilbert: We are very bad at predicting what will make us happy. Two consequences:
