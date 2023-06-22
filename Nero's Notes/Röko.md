@@ -3,5 +3,6 @@
 [[Thomas Billing on Rökö Genesis story]]
 [[The benefits of selling to Rökö]]
 [[Röko M&A Strategy, Transaction Structure, & Returns]]
+[[Röko - Building a Leading Serial Acquirer - Interview with Fredrik Karlsson]]
 
 

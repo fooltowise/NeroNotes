@@ -6,6 +6,7 @@
 - [[Influencer Moat Typology]]
 - [[Serial Acquirer Moat Typologies]]
 - [[Platform Moat Typology]]
+- [[Distributor Moat Typology]]
 
 
 

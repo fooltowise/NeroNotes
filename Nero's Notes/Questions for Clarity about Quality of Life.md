@@ -14,7 +14,12 @@
 - Is this project making me a better person?
 - Am I doing this for myself or because of someone?
 - Am I doing/not doing this out of fear?
-- What are you in love with? Is that what/who you want to be in live with?
+- What are you in love with? Is that what/who you want to be in love with?
 - Would my 15 year old self think I'm the coolest?
 
-See also [[The 12-week Year]]
+
+- **Am I choosing to be great?** Am I choosing to do the things I need to do to be great?
+
+> The very best don’t have to turn it on. **It’s always on.** They have to turn it off.
+
+See also [[The 12-week Year]], [[On Greatness]]

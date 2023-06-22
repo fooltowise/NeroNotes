@@ -4,7 +4,7 @@ blockquote:before {
     content: "“";
     font-family: Georgia;
     font-size: 6rem;
-    margin: -0.15em 0rem 0 -1em;
+    margin: -0.15em 0rem 0 -0.9em;
     position: absolute;
     opacity: 1;
     float: left;

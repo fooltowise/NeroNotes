@@ -24,7 +24,7 @@
 - [[CSAM Health]]
 - [[Indutrade]]
 - [[Danaher]]
-- [[Thermofisher Scientifics]]
+- [[Thermo Fisher]]
 - [[Halma]]
 - [[Diploma]]
 - [[Sdiptech]]

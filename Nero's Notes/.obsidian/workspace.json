@@ -10,92 +10,46 @@
           {
             "id": "d7870851d7eec872",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Costco.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5f4dfcd9a12bbbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Checklists.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "322f6e0e1677eee8",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Questions for Clarity about Quality of Life.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
             "id": "fe267575afaa7a7b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "What am I trying to do.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "a66a509d1cd57540",
+            "id": "39603efb6c6bc775",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of Serial Acquirers.md",
+                "file": "Build your vision.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "735845a5f11ae01a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDI Group.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7524ac6ceec64981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fairway Research on SDI Group.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -112,12 +66,25 @@
             }
           },
           {
-            "id": "67550d16fb0b19ee",
+            "id": "c31381cd77ba77a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People's Best Ideas.md",
+                "file": "On Greatness.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c74955b007c78608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary of Deliberate Practice.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,12 +92,25 @@
             }
           },
           {
-            "id": "681c42a11eeb5d4a",
+            "id": "501a2033484f9341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dino Polska.md",
+                "file": "Gallup's CliftonStrengths 34.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3c36d0eeab206e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robert Vinall.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,12 +118,51 @@
             }
           },
           {
-            "id": "584b4c40bcaab0ea",
+            "id": "092ba62b24d249c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Former CEO at Biedronka.md",
+                "file": "Best Businesses in the world to Study.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1845dbf0d1031b8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TerraVest.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f3f5e1a8d0270f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junto on Pricing Power.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4cdd8e00c2d5f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nutrition Mirek.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -151,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -219,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Serial Acquirers.md",
+                "file": "Nutrition Mirek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Serial Acquirers.md",
+                "file": "Nutrition Mirek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of Serial Acquirers.md"
+                "file": "Nutrition Mirek.md"
               }
             }
           },
@@ -293,33 +312,33 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a66a509d1cd57540",
+  "active": "c4cdd8e00c2d5f1a",
   "lastOpenFiles": [
-    "Diploma.md",
-    "Former CEO at Biedronka.md",
-    "Dino Polska.md",
-    "People's Best Ideas.md",
-    "The 12-week Year.md",
-    "How do I interview a CEO.md",
-    "How Do You Access MicroCap Management Teams.md",
-    "Quality of life.md",
-    "Peter Bevelin about Wisdom.md",
-    "Questions for Clarity about Quality of Life.md",
-    "Fairway Research on SDI Group.md",
-    "SDI Group.md",
-    "Qu'est-ce qu'un bon business.md",
+    "Bergman & Beving.md",
+    "Bergman & Beving - Spin-offs, Value Chain & New Management.md",
+    "Junto on Pricing Power.md",
+    "TerraVest.md",
+    "Best Businesses in the world to Study.md",
+    "Robert Vinall.md",
+    "Evolution Gaming.md",
+    "Nutrition Mirek.md",
+    "Fairway Research on Terravest.md",
+    "Terravest writeup - Value Investor Club April 2021.md",
+    "Scuttleblurb on Thermo Fisher.md",
+    "Pricing Power.md",
+    "The Man Who Knows What the World’s Richest People Want (and How To Get It).md",
+    "Evolution Gaming, NetEnt, & Online Gaming Regulation & Tax Outlook.md",
+    "Ezugi, Evolution Gaming, & LATAM Live Casino.md",
+    "Evolution Gaming - B2B Aggregators and Regulatory Outlook.md",
+    "Evolution Gaming vs Pragmatic Play.md",
+    "Evolution Gaming - US Competition.md",
+    "Evolution Gaming, Kambi, & US Gaming Regulation.md",
+    "Evolution Gaming Short Report.md",
+    "Summary of Deliberate Practice.md",
     "What am I trying to do.md",
-    "Röko.md",
-    "Röko M&A Strategy, Transaction Structure, & Returns.md",
-    "Diploma PLC and Value-added distribution.md",
-    "Diploma - Specialized Distribution.md",
-    "Low-touch marketing.md",
-    "How Atlassian built a $20 billion company with a unique sales model.md",
-    "The art of interviewing management.md",
-    "Talking to management.md",
-    "Doing Scuttlebut.md",
-    "Byrne Hobart's Checklist.md",
-    "Checklists.md",
-    "Costco's Cultural DNA - Working with Jim Sinegal.md"
+    "Questions for Clarity about Quality of Life.md",
+    "On Greatness.md",
+    "The 12-week Year.md",
+    "Build your vision.md"
   ]
 }

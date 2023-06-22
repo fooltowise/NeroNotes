@@ -1,0 +1,5 @@
+# Three kinds of [[Pricing Power]]
+
+1.  **Nominal vs Real Pricing Power:** A business that can increase prices at a rate that only offsets inflation is good, but not exceptional (if it can’t raise nominal prices at a level that meets the inflation rate, it’s a bad situation). Ideally what we’d like is a business that can raise prices in excess of inflation (real pricing power).
+2.  **Real pricing power actually indicates an inefficiently priced product or service**. In other words, just as stock prices occasionally get priced below fair value, sometimes a business’s products or services get priced below fair value to a customer. This undervalued product is a source of potential value as a business begins to price their product more efficiently (raise prices in real terms).
+3.  **Real pricing power is finite.** Just like a stock that reaches fair value and is no longer mispriced, at some point, a businesses’ ability to increase real prices without impacting unit volume comes to an end. This means that a long history of real price increases doesn’t necessarily indicate future real price increases.

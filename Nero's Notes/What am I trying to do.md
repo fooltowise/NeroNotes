@@ -46,7 +46,7 @@ My priorities are to find, buy and hold great investments.
 
 ## Am i doing [[Deliberate Practice]]?
 
-*We are what we repeatedly do. Excellence, then, is ont an act, but a habit.* Will Durant.
+*We are what we repeatedly do. Excellence, then, is not an act, but a habit.* Will Durant.
 
 ### Am I asking important questions?
 - What is a great business model? See [[Moat Typologies]]

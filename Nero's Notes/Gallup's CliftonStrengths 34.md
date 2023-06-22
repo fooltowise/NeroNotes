@@ -29,7 +29,7 @@ Think deeply. Think often.
 
 -   Set aside a few minutes every day to collect my thoughts. This reflection time will energize me, and my thinking will become sharper and more effective. 
 -   Get involved in big projects or initiatives in the early stages, before the action begins. I have the ability to follow a trail to see where it leads, and my insights enable projects to move forward intelligently and without backtracking.
--   Take time to write. Writing might be the best way to crystallize and integrate my thoughts. Make a list of my best ideas, and refer to it often. Revisiting my thoughts can give you valuable insights. -> **Journalling** 
+-   Take time to write. Writing might be the best way to crystallize and integrate my thoughts. Make a list of my best ideas, and refer to it often. Revisiting my thoughts can give you valuable insights. -> **Journaling** 
 -   Give people time to think through the thoughts and ideas I present. Remember that they have not spent as much time as I have pondering, so they might not grasp my message right away.
 -   **Deliberately build relationships with people I consider to be “big thinkers.” Their example will inspire me to focus my own thinking.**
 

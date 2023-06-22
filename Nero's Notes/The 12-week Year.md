@@ -5,6 +5,8 @@
 
 - When you think about a compelling vision, the neurons that fire in your brain are the same neurons that fire when you act on your vision. What that means is that you can literally train your brain to act on your vision just by thinking about it. The first step, though, is creating an inspiring vision and learning how to stay connected with it.
 
+[[Build your vision]]
+
 ## One week at a time
 
 > The greatest predictor of your future are your daily actions.

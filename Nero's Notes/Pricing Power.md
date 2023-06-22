@@ -7,3 +7,6 @@ Pricing power is a highly attractive feature: a company that can regularly raise
 
 Note that pricing power is rarely absolute, but occur in [[Shades of Gray in Pricing Power|shades of gray]].
 
+
+See also [[Three kinds of pricing power]] and [[Junto on Pricing Power]]
+
